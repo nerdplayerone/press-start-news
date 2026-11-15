@@ -1,1 +1,347 @@
-{ "generated_at": "2026-11-15T00:00:00.000Z", "version": 1, "cards": [] }
+{
+  "generated_at": "2026-11-15T08:18:30.003Z",
+  "version": 1,
+  "cards": [
+    {
+      "id": "61f78ec139b3",
+      "category": "release",
+      "tldr": "The Snackbar at the End of the World was revealed as a cartoon action-adventure set in magical 1960s Italy.",
+      "why_it_matters": "Players who like action games with a cooking loop can add it to their wishlist. Release details are not in this report, so timing and platforms remain unknown.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "The Snackbar at the End of the World",
+      "source": {
+        "outlet": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/forage-and-fight-for-ingredients-in-a-magical-1960s-italy-and-whip-up-some-tasty-meals-cooking-mama-style-in-the-snackbar-at-the-end-of-the-world",
+        "published_at": "2026-11-14T22:53:00.000Z"
+      },
+      "also_on": [],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5211590/425978540d641409856ecb075b70f8e4a5059ca1/header.jpg?t=1794325930",
+        "steam_appid": 5211590,
+        "steam_url": "https://store.steampowered.com/app/5211590/"
+      },
+      "created_at": "2026-11-15T08:17:21.548Z"
+    },
+    {
+      "id": "4f085cf01bbb",
+      "category": "release",
+      "tldr": "World of Warcraft: Forever will stop dungeon mobs giving experience if they are trivial for the party.",
+      "why_it_matters": "Players levelling with a higher-level friend will no longer gain quick experience from easy enemies, so expect slower levelling when boosted.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "World of Warcraft: Forever",
+      "source": {
+        "outlet": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-dungeon-mobs-no-longer-give-exp-if-theyre-trivial-for-anyone-in-the-party/",
+        "published_at": "2026-11-14T22:17:19.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-15T08:17:24.862Z"
+    },
+    {
+      "id": "2b50e1e804c9",
+      "category": "release",
+      "tldr": "Rasen has launched in early access as a PvP-focused game inspired by Dark Souls combat.",
+      "why_it_matters": "Souls fans wary of player-versus-player can also fight computer enemies, so it may suit cautious players. Watch for early access progress, as the input gives no price or platform details.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "Rasen",
+      "source": {
+        "outlet": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/rasen-out-in-early-access-now-is-a-pvp-focused-take-on-dark-souls-that-borrows-one-of-fighting-games-best-techy-tricks",
+        "published_at": "2026-11-14T21:31:00.000Z"
+      },
+      "also_on": [],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3967860/402d837a00acc9fba18b3acbfc2ea0e0e5e667b8/header.jpg?t=1794589030",
+        "steam_appid": 3967860,
+        "steam_url": "https://store.steampowered.com/app/3967860/"
+      },
+      "created_at": "2026-11-15T08:17:26.142Z"
+    },
+    {
+      "id": "350f232fc0d0",
+      "category": "industry",
+      "tldr": "Jackbox's CEO says the company gets many false positives when judging whether its party games are funny.",
+      "why_it_matters": "Players wanting a sense of Jackbox's quality bar may find this interesting, but the input gives no release or product details, so there is no clear action to take yet.",
+      "relevance": 2,
+      "confidence": "low",
+      "game_name": null,
+      "source": {
+        "outlet": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/is-the-game-funny-or-just-the-players-jackbox-ceo-says-they-get-a-lot-of-false-positives-with-a-staff-of-comedy-writers/",
+        "published_at": "2026-11-14T20:45:44.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-15T08:17:27.777Z"
+    },
+    {
+      "id": "7961c92b1e78",
+      "category": "release",
+      "tldr": "Rockstar's GTA 6 co-studio head says the game gives players more room to act empathetically than earlier entries.",
+      "why_it_matters": "If you dislike the series' violence, this suggests more options to play less cruelly, though the article gives no specifics on how those mechanisms work.",
+      "relevance": 4,
+      "confidence": "high",
+      "game_name": "Grand Theft Auto VI",
+      "source": {
+        "outlet": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/congratulations-to-people-who-feel-mean-shooting-random-npcs-because-gta-6-tries-to-provide-mechanisms-that-encourage-empathy",
+        "published_at": "2026-11-14T19:00:00.000Z"
+      },
+      "also_on": [
+        {
+          "outlet": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-soundtrack-leak-confirmed-accurate-with-new-songs-from-lana-del-rey-playboi-carti-and-keith-richards/"
+        }
+      ],
+      "image": null,
+      "created_at": "2026-11-15T08:17:29.812Z"
+    },
+    {
+      "id": "e3090568af38",
+      "category": "industry",
+      "tldr": "Dishonored 2 director Harvey Smith discusses balancing familiar immersive sim traditions with fresh surprises for fans.",
+      "why_it_matters": "No game, release date or platform is named, so there is nothing to wishlist or buy yet. Players interested in immersive sims can follow his work for future announcements.",
+      "relevance": 2,
+      "confidence": "low",
+      "game_name": null,
+      "source": {
+        "outlet": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/sim/dishonored-2-director-harvey-smith-wants-to-honour-sacred-imsim-texts-while-finding-news-ways-to-surprise-fans-thats-the-two-wolves-inside-me/",
+        "published_at": "2026-11-14T15:00:00.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-15T08:17:35.903Z"
+    },
+    {
+      "id": "4a855f062c03",
+      "category": "release",
+      "tldr": "Halo: Campaign Evolved will receive a free Firefight update, with more details promised at Halo Fest in December.",
+      "why_it_matters": "Firefight is a co-op survival mode, so players who own the remake gain new content at no cost. Details are still unknown until Halo Fest.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "Halo: Campaign Evolved",
+      "source": {
+        "outlet": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/halo/halo-campaign-evolved-is-getting-firefight-as-a-free-update-though-im-not-sure-itll-do-much-to-change-the-remakes-fortunes/",
+        "published_at": "2026-11-14T14:49:43.000Z"
+      },
+      "also_on": [],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2806050/30d8542d35d7919b34e5f5dbe955d04c3f99e6da/header.jpg?t=1786379031",
+        "steam_appid": 2806050,
+        "steam_url": "https://store.steampowered.com/app/2806050/"
+      },
+      "created_at": "2026-11-15T08:17:37.483Z"
+    },
+    {
+      "id": "30ba9526ee50",
+      "category": "hardware",
+      "tldr": "CRKD has launched the Atom Plus, a small gamepad with dual analog thumbsticks for portable play.",
+      "why_it_matters": "Players who want a compact controller with two thumbsticks can consider it, but reviewer notes that larger hands may find it cramped.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": null,
+      "source": {
+        "outlet": "The Verge",
+        "url": "https://www.theverge.com/tech/1013985/crkd-atom-plus-tmr-analog-thumbstick-controller-gamepad-switch-ios-android-hands-on",
+        "published_at": "2026-11-14T14:00:00.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-15T08:17:38.773Z"
+    },
+    {
+      "id": "ac11ba91e981",
+      "category": "industry",
+      "tldr": "Formula 1 has partnered with the gacha game Umamusume: Pretty Derby in a financial deal.",
+      "why_it_matters": "Players of Umamusume may see Formula 1 tie-in content, but the article gives no details on what that content includes or when it arrives.",
+      "relevance": 2,
+      "confidence": "low",
+      "game_name": "Umamusume: Pretty Derby",
+      "source": {
+        "outlet": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/sports/formula-1-just-found-a-bizarre-financial-supporter-in-horse-girl-gacha-umamusume-pretty-derby/",
+        "published_at": "2026-11-14T14:00:00.000Z"
+      },
+      "also_on": [],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3224770/d7ddfe8985d7be8db7a0195d5c482c4438ed929d/header.jpg?t=1773306345",
+        "steam_appid": 3224770,
+        "steam_url": "https://store.steampowered.com/app/3224770/"
+      },
+      "created_at": "2026-11-15T08:17:40.050Z"
+    },
+    {
+      "id": "19e563a267e1",
+      "category": "release",
+      "tldr": "Report: Ubisoft is reportedly developing a new Rainbow Six Vegas game, about 18 years after Vegas 2.",
+      "why_it_matters": "Nothing is confirmed yet, so there is no release date or platform to plan around. Worth watching for an official announcement before adding it to a wishlist.",
+      "relevance": 3,
+      "confidence": "low",
+      "game_name": "Rainbow Six Vegas",
+      "source": {
+        "outlet": "Eurogamer",
+        "url": "https://www.eurogamer.net/rainbow-six-vegas-new-game-ubisoft-spades-report",
+        "published_at": "2026-11-14T12:19:50.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-15T08:17:42.585Z"
+    },
+    {
+      "id": "29b2473243fb",
+      "category": "industry",
+      "tldr": "Indiana Jones and the Great Circle originally had a GTA-style wanted system, according to design director Jens Andersson.",
+      "why_it_matters": "The system was cut or changed during development, so players expecting it should not count on it. Gunplay penalties in the final game remain unclear from this report alone.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "Indiana Jones and the Great Circle",
+      "source": {
+        "outlet": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/action/indiana-jones-and-the-great-circle-once-had-a-grand-theft-auto-inspired-wanted-system-because-machinegames-was-afraid-players-would-kill-all-the-nazis-with-just-guns/",
+        "published_at": "2026-11-14T11:26:04.000Z"
+      },
+      "also_on": [],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2677660/151ae5a881f05ef630defef85d99b38146b7055c/header.jpg?t=1778168392",
+        "steam_appid": 2677660,
+        "steam_url": "https://store.steampowered.com/app/2677660/"
+      },
+      "created_at": "2026-11-15T08:17:44.142Z"
+    },
+    {
+      "id": "7e8cb50fb125",
+      "category": "release",
+      "tldr": "Netflix confirms Planeswalker, an animated Magic: The Gathering series, is coming in 2027.",
+      "why_it_matters": "Fans can add it to their watch list now. The sources give no further details on format, episode count or release month, so those remain unknown.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "Magic: The Gathering",
+      "source": {
+        "outlet": "Eurogamer",
+        "url": "https://www.eurogamer.net/magic-the-gathering-planeswalker-netflix-animated-series-2027",
+        "published_at": "2026-11-14T10:39:50.000Z"
+      },
+      "also_on": [
+        {
+          "outlet": "The Verge",
+          "url": "https://www.theverge.com/entertainment/1033909/magic-the-gathering-netflix-series"
+        },
+        {
+          "outlet": "PC Gamer",
+          "url": "https://www.pcgamer.com/movies-tv/planeswalker-netflixs-magic-the-gathering-animated-series-will-have-a-different-art-style-for-each-plane/"
+        }
+      ],
+      "image": null,
+      "created_at": "2026-11-15T08:17:48.107Z"
+    },
+    {
+      "id": "a752c0a74735",
+      "category": "release",
+      "tldr": "Team Meat announces Super Meat Boy Again+, a remaster of the original platformer with new levels and updated graphics.",
+      "why_it_matters": "Sources confirm a PC release but no date or price yet. Platformer fans can wishlist it, though the summaries are thin on details.",
+      "relevance": 4,
+      "confidence": "high",
+      "game_name": "Super Meat Boy Again+",
+      "source": {
+        "outlet": "Gematsu",
+        "url": "https://www.gematsu.com/2026/11/super-meat-boy-again-announced-for-pc",
+        "published_at": "2026-11-14T04:36:04.000Z"
+      },
+      "also_on": [
+        {
+          "outlet": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/from-2d-to-3d-and-back-to-2d-again-the-original-platforming-classic-super-meat-boy-returns-with-a-slick-remaster-complete-with-new-levels-and-too-many-old-saws"
+        }
+      ],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4269060/a473773b47c75db9c86509268bee908223ac565c/header.jpg?t=1794632244",
+        "steam_appid": 4269060,
+        "steam_url": "https://store.steampowered.com/app/4269060/"
+      },
+      "created_at": "2026-11-15T08:17:56.299Z"
+    },
+    {
+      "id": "24da3dd3811f",
+      "category": "release",
+      "tldr": "Girls und Panzer Hakunetsu! Mahjong Tag Battle Desu! has been announced for PlayStation 5 and Switch 2.",
+      "why_it_matters": "A mahjong game for PS5 and Switch 2 from MAGES. Release date and full details are not in this summary, so wait for more information before deciding.",
+      "relevance": 2,
+      "confidence": "low",
+      "game_name": "Girls und Panzer Hakunetsu! Mahjong Tag Battle Desu!",
+      "source": {
+        "outlet": "Gematsu",
+        "url": "https://www.gematsu.com/2026/11/girls-und-panzer-hakunetsu-mahjong-tag-battle-desu-announced-for-ps5-switch-2",
+        "published_at": "2026-11-14T01:57:41.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-15T08:17:57.970Z"
+    },
+    {
+      "id": "5bda421f0177",
+      "category": "industry",
+      "tldr": "Several games are still launching on Steam during GTA 6 release week, despite the big competing release.",
+      "why_it_matters": "Players wanting new releases have options that week, so there is no need to hold off gaming time. Specific titles and dates are not given in this summary.",
+      "relevance": 2,
+      "confidence": "low",
+      "game_name": null,
+      "source": {
+        "outlet": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/yes-some-brave-games-are-still-launching-on-steam-during-gta-6-launch-week/",
+        "published_at": "2026-11-13T22:28:10.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-15T08:17:59.294Z"
+    },
+    {
+      "id": "8096d0c63c29",
+      "category": "release",
+      "tldr": "The Blood of Dawnwalker gets a New Game Plus mode in its update next week.",
+      "why_it_matters": "If you missed content on your first playthrough, you can now replay with carried-over progress. Worth noting if you want a second run without starting from scratch.",
+      "relevance": 4,
+      "confidence": "high",
+      "game_name": "The Blood of Dawnwalker",
+      "source": {
+        "outlet": "Eurogamer",
+        "url": "https://www.eurogamer.net/blood-of-dawnwalker-new-game-plus",
+        "published_at": "2026-11-13T20:49:20.000Z"
+      },
+      "also_on": [
+        {
+          "outlet": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/missed-something-on-your-first-go-around-the-blood-of-dawnwalker-ive-got-good-news-as-next-weeks-update-adds-in-new-game-plus"
+        }
+      ],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751260/a7062f3b59d491c2678e3fd7ce2672858e480641/header.jpg?t=1794236865",
+        "steam_appid": 3751260,
+        "steam_url": "https://store.steampowered.com/app/3751260/"
+      },
+      "created_at": "2026-11-15T08:18:01.877Z"
+    },
+    {
+      "id": "85befe00ae20",
+      "category": "industry",
+      "tldr": "Pioner, a survival game in early access since late 2025, is shutting down less than a year after launch.",
+      "why_it_matters": "If you were considering Pioner, do not buy it now. The summary gives no detail on server end dates or refunds, so check the developer's announcement before any purchase.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "Pioner",
+      "source": {
+        "outlet": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/fps/a-survival-game-we-once-called-stalker-and-tarkovs-alien-baby-is-closing-down-less-than-a-year-after-launch/",
+        "published_at": "2026-11-13T20:37:35.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-15T08:18:03.003Z"
+    }
+  ]
+}

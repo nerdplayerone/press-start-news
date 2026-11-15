@@ -91,5 +91,79 @@
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1808500/41ee6c5c81a5797132879892586465b917acc563/header_alt_assets_9.jpg?t=1794215815",
       "url": "https://store.steampowered.com/app/1808500/"
     }
+  },
+  "snackbar at the end of the world": {
+    "at": "2026-11-15T08:18:06.001Z",
+    "match": {
+      "appid": 5211590,
+      "name": "The Snackbar at the End of the World",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5211590/425978540d641409856ecb075b70f8e4a5059ca1/header.jpg?t=1794325930",
+      "url": "https://store.steampowered.com/app/5211590/"
+    }
+  },
+  "world of warcraft forever": {
+    "at": "2026-11-15T08:18:07.488Z",
+    "match": null
+  },
+  "rasen": {
+    "at": "2026-11-15T08:18:10.508Z",
+    "match": {
+      "appid": 3967860,
+      "name": "Rasen",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3967860/402d837a00acc9fba18b3acbfc2ea0e0e5e667b8/header.jpg?t=1794589030",
+      "url": "https://store.steampowered.com/app/3967860/"
+    }
+  },
+  "halo campaign evolved": {
+    "at": "2026-11-15T08:18:13.473Z",
+    "match": {
+      "appid": 2806050,
+      "name": "Halo: Campaign Evolved",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2806050/30d8542d35d7919b34e5f5dbe955d04c3f99e6da/header.jpg?t=1786379031",
+      "url": "https://store.steampowered.com/app/2806050/"
+    }
+  },
+  "umamusume pretty derby": {
+    "at": "2026-11-15T08:18:16.482Z",
+    "match": {
+      "appid": 3224770,
+      "name": "Umamusume: Pretty Derby",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3224770/d7ddfe8985d7be8db7a0195d5c482c4438ed929d/header.jpg?t=1773306345",
+      "url": "https://store.steampowered.com/app/3224770/"
+    }
+  },
+  "rainbow six vegas": {
+    "at": "2026-11-15T08:18:18.019Z",
+    "match": null
+  },
+  "indiana jones and the great circle": {
+    "at": "2026-11-15T08:18:21.009Z",
+    "match": {
+      "appid": 2677660,
+      "name": "Indiana Jones and the Great Circle",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2677660/151ae5a881f05ef630defef85d99b38146b7055c/header.jpg?t=1778168392",
+      "url": "https://store.steampowered.com/app/2677660/"
+    }
+  },
+  "magic the gathering": {
+    "at": "2026-11-15T08:18:22.496Z",
+    "match": null
+  },
+  "super meat boy again": {
+    "at": "2026-11-15T08:18:25.487Z",
+    "match": {
+      "appid": 4269060,
+      "name": "Super Meat Boy Again+",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4269060/a473773b47c75db9c86509268bee908223ac565c/header.jpg?t=1794632244",
+      "url": "https://store.steampowered.com/app/4269060/"
+    }
+  },
+  "girls und panzer hakunetsu mahjong tag battle desu": {
+    "at": "2026-11-15T08:18:26.991Z",
+    "match": null
+  },
+  "pioner": {
+    "at": "2026-11-15T08:18:30.002Z",
+    "match": null
   }
 }
