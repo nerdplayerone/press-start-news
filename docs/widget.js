@@ -5,21 +5,27 @@
 (function () {
   'use strict';
 
-  /* ---- Brand colours: edit these to match the site ---- */
+  /* ---- Brand: DIGITAL DOPAMINE (near-black, white, electric yellow, cyan/magenta glitch accents) ---- */
   var THEMES = {
     dark: {
-      '--ps-bg': '#14161a', '--ps-card': '#1d2026', '--ps-border': '#2c3038',
-      '--ps-text': '#f2f3f5', '--ps-muted': '#b4b9c2', '--ps-link': '#7cc4ff',
-      '--ps-focus': '#ffd34d', '--ps-skeleton': '#2a2e36', '--ps-badge-bg': '#3a3220', '--ps-badge-text': '#ffd98a',
-      '--ps-release': '#4ade80', '--ps-hardware': '#60a5fa', '--ps-industry': '#f472b6'
+      '--ps-bg': '#1a1a1a', '--ps-card': '#222222', '--ps-border': '#333333', '--ps-hover': '#f5f500',
+      '--ps-text': '#ffffff', '--ps-muted': '#bdbdbd', '--ps-link': '#f5f500',
+      '--ps-focus': '#f5f500', '--ps-skeleton': '#2b2b2b', '--ps-badge-bg': '#f5f500', '--ps-badge-text': '#1a1a1a',
+      '--ps-btn-bg': '#ffffff', '--ps-btn-text': '#1a1a1a',
+      '--ps-release': '#f5f500', '--ps-hardware': '#3ee8ff', '--ps-industry': '#ff3ec8'
     },
     light: {
-      '--ps-bg': '#ffffff', '--ps-card': '#ffffff', '--ps-border': '#dfe2e7',
-      '--ps-text': '#16181d', '--ps-muted': '#4b5160', '--ps-link': '#0b5cad',
-      '--ps-focus': '#b45309', '--ps-skeleton': '#eceef1', '--ps-badge-bg': '#fdf0d5', '--ps-badge-text': '#7a4a00',
-      '--ps-release': '#15803d', '--ps-hardware': '#1d4ed8', '--ps-industry': '#be185d'
+      '--ps-bg': '#ffffff', '--ps-card': '#ffffff', '--ps-border': '#e7e7e7', '--ps-hover': '#1a1a1a',
+      '--ps-text': '#1a1a1a', '--ps-muted': '#4a4a4a', '--ps-link': '#1a1a1a',
+      '--ps-focus': '#1a1a1a', '--ps-skeleton': '#eeeeee', '--ps-badge-bg': '#1a1a1a', '--ps-badge-text': '#f5f500',
+      '--ps-btn-bg': '#1a1a1a', '--ps-btn-text': '#ffffff',
+      '--ps-release': '#c9c900', '--ps-hardware': '#0aa5bd', '--ps-industry': '#c4169a'
     }
   };
+  /* Body font: the site's Aktiv Grotesk. Display font (labels, button): the site's Lo-Res pixel font.
+     Both are already loaded by Squarespace; elsewhere the fallbacks are used. */
+  var BODY_FONT = '"aktiv-grotesk"';
+  var DISPLAY_FONT = '"lo-res-12-bold-alt-oakland"';
   var STEP = 12, MAX = 36;
   var SANS = 'system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif';
   var EMPTY = 'News is updating. Check back soon.';
@@ -49,7 +55,7 @@
     var f = getComputedStyle(host).fontFamily || '';
     var first = f.split(',')[0].replace(/["']/g, '').trim().toLowerCase();
     var serifish = /(^|\s)serif$/.test(f.trim().toLowerCase()) || /georgia|times|garamond|serif/.test(first) && !/sans/.test(first);
-    return f && !serifish ? f + ', ' + SANS : SANS;
+    return BODY_FONT + ', ' + (f && !serifish ? f + ', ' : '') + SANS;
   }
 
   var CSS = [
@@ -58,24 +64,27 @@
     '.grid{display:grid;gap:16px;grid-template-columns:1fr;margin:0;padding:0;list-style:none}',
     '@container (min-width:640px){.grid{grid-template-columns:repeat(2,1fr)}}',
     '@container (min-width:1024px){.grid{grid-template-columns:repeat(3,1fr)}}',
-    'article{background:var(--ps-card);border:1px solid var(--ps-border);border-radius:10px;overflow:hidden;display:flex;flex-direction:column;height:100%}',
+    'article{background:var(--ps-card);border:1px solid var(--ps-border);border-radius:6px;overflow:hidden;display:flex;flex-direction:column;height:100%;transition:border-color .15s,transform .15s}',
+    'article:hover{border-color:var(--ps-hover);transform:translateY(-2px)}',
+    '@media (prefers-reduced-motion:reduce){article,article:hover{transition:none;transform:none}}',
     '.img{display:block;width:100%;aspect-ratio:460/215;object-fit:cover;background:var(--ps-skeleton)}',
-    '.bar{height:4px}',
+    '.bar{height:6px}',
     '.release{background:var(--ps-release)}.hardware{background:var(--ps-hardware)}.industry{background:var(--ps-industry)}',
     '.body{padding:14px 16px 16px;display:flex;flex-direction:column;gap:8px;flex:1}',
-    '.meta{font-size:12px;color:var(--ps-muted);text-transform:uppercase;letter-spacing:.04em;display:flex;gap:8px;align-items:center;flex-wrap:wrap}',
-    '.badge{background:var(--ps-badge-bg);color:var(--ps-badge-text);border-radius:4px;padding:1px 6px;text-transform:none;letter-spacing:0;font-weight:600}',
+    '.meta{font-family:var(--ps-display);font-size:13px;color:var(--ps-muted);text-transform:uppercase;letter-spacing:.06em;display:flex;gap:8px;align-items:center;flex-wrap:wrap}',
+    '.cat-release{color:var(--ps-release)}.cat-hardware{color:var(--ps-hardware)}.cat-industry{color:var(--ps-industry)}',
+    '.badge{background:var(--ps-badge-bg);color:var(--ps-badge-text);border-radius:3px;padding:2px 6px}',
     'h3{margin:0;font-size:17px;line-height:1.3;font-weight:700}',
     '.why{margin:0;font-size:15px;color:var(--ps-muted)}',
     '.links{margin-top:auto;padding-top:4px;font-size:14px}',
-    'a{color:var(--ps-link);font-weight:600;text-decoration:none;border-radius:3px}',
-    'a:hover{text-decoration:underline}',
+    'a{color:var(--ps-link);font-weight:700;text-decoration:none;border-radius:3px}',
+    'a:hover{text-decoration:underline;text-underline-offset:3px}',
     'a:focus-visible,button:focus-visible{outline:3px solid var(--ps-focus);outline-offset:2px}',
-    '.also{margin-top:4px;font-size:12px;color:var(--ps-muted)}.also a{font-weight:500}',
-    '.more{display:block;margin:20px auto 0;font:inherit;font-weight:600;font-size:15px;color:var(--ps-text);background:var(--ps-card);border:1px solid var(--ps-border);border-radius:8px;padding:10px 22px;cursor:pointer}',
-    '.more:hover{border-color:var(--ps-muted)}',
-    '.msg{padding:24px 16px;text-align:center;color:var(--ps-muted);border:1px dashed var(--ps-border);border-radius:10px;margin:0}',
-    '.sk{height:240px;border-radius:10px;background:var(--ps-skeleton);animation:p 1.4s ease-in-out infinite}',
+    '.also{margin-top:4px;font-size:12px;color:var(--ps-muted)}.also a{font-weight:500;color:var(--ps-text)}',
+    '.more{display:block;margin:24px auto 0;font-family:var(--ps-display);font-size:15px;letter-spacing:.06em;text-transform:uppercase;color:var(--ps-btn-text);background:var(--ps-btn-bg);border:0;border-radius:4px;padding:12px 26px;cursor:pointer}',
+    '.more:hover{background:var(--ps-hover);color:var(--ps-badge-text)}',
+    '.msg{padding:24px 16px;text-align:center;color:var(--ps-muted);border:1px dashed var(--ps-border);border-radius:6px;margin:0}',
+    '.sk{height:240px;border-radius:6px;background:var(--ps-skeleton);animation:p 1.4s ease-in-out infinite}',
     '@keyframes p{50%{opacity:.55}}',
     '@media (prefers-reduced-motion:reduce){.sk{animation:none}}'
   ].join('');
@@ -99,7 +108,8 @@
     var body = el('div', 'body');
     var meta = el('div', 'meta');
     var cat = String(c.category || '');
-    meta.appendChild(el('span', '', cat.charAt(0).toUpperCase() + cat.slice(1) + ' · ' + ago(c.source.published_at)));
+    meta.appendChild(el('span', 'cat-' + cat, cat));
+    meta.appendChild(el('span', '', ago(c.source.published_at)));
     if (c.confidence === 'low') meta.appendChild(el('span', 'badge', 'Early report'));
     body.appendChild(meta);
     body.appendChild(el('h3', '', c.tldr));
@@ -133,7 +143,8 @@
     var root = host.attachShadow ? host.attachShadow({ mode: 'open' }) : host;
     var style = el('style');
     var vars = Object.keys(theme).map(function (k) { return k + ':' + theme[k]; }).join(';');
-    style.textContent = ':host{' + vars + ';--ps-font:' + pickFont(host) + '}' + CSS;
+    var font = pickFont(host);
+    style.textContent = ':host{' + vars + ';--ps-font:' + font + ';--ps-display:' + DISPLAY_FONT + ', ' + font + '}' + CSS;
     var wrap = el('section', 'ps');
     wrap.setAttribute('aria-label', 'Latest gaming news');
     root.appendChild(style);

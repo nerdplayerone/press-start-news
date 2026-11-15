@@ -25,7 +25,7 @@ fetch:
 ai:
   model: "claude-haiku-5-5"   # checked 2026-11-14
   max_calls_per_run: 25
-  relevance_threshold: 2
+  relevance_threshold: 3   # cards scoring below this are hidden (1-5, see src/prompt.txt)
 
 dedupe:
   jaccard: 0.6        # title word overlap needed to call two items the same story (spec rule)

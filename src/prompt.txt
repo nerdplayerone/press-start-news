@@ -21,9 +21,22 @@ Rules:
   No emoji. British English.
 - category: release | hardware | industry | out_of_scope.
   out_of_scope = deals, guides, esports results, opinion pieces,
-  reviews, quizzes, film or TV news without a game.
-- relevance: 1 to 5 for a PC and console player who likes action
-  games and hardware. 1 = noise, 5 = most players will want to know.
+  reviews, quizzes, and also:
+  - mobile games and gacha games, their events and banners
+  - business news: layoffs, earnings, acquisitions, executive
+    interviews, debates about AI in game development
+  - film, TV, anime, merch, toys, board and card games
+  - patch notes, balance changes and seasonal updates for MMOs and
+    live-service games (World of Warcraft, Fortnite and similar)
+- relevance: 1 to 5 for this reader, a PC and console player who
+  loves shooters (fast FPS, boomer shooters, retro-inspired shooters),
+  action games, overlooked and action indie games, and hardware such
+  as controllers, consoles, handhelds and PC parts. Big reveals,
+  release dates and launches from major studios matter too.
+  5 = a must-know for this reader (a new shooter or action game
+  revealed or dated, a notable controller or console).
+  3 = a solid story in those areas.
+  1 = barely touches those areas.
 - game_name: the exact name of the one game the story is about, or
   null if there is no single game.
 - confidence: low if the input text is too thin to be sure.
