@@ -1,0 +1,49 @@
+name: news
+
+on:
+  schedule:
+    - cron: "17 */3 * * *"   # minute 17, every 3 hours (UTC)
+  workflow_dispatch: {}       # manual run button (Actions tab > news > Run workflow)
+
+permissions:
+  contents: write
+
+concurrency:
+  group: news
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+
+      - run: npm ci
+
+      - run: npm test
+
+      - name: Make cards
+        id: news
+        run: node src/run.js
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+
+      - name: Commit if anything changed
+        if: always() && steps.news.outcome != 'skipped'
+        run: |
+          git add docs/cards.json state/
+          if git diff --cached --quiet; then
+            echo "No changes."
+            exit 0
+          fi
+          git config user.name "press-start-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "news: +${{ steps.news.outputs.added || 0 }} cards"
+          git pull --rebase --autostash
+          git push

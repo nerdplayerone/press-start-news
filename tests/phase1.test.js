@@ -59,14 +59,13 @@ describe('markSeen', () => {
 });
 
 describe('fetchFeed', () => {
-  it('sends User-Agent and conditional headers, reuses cache on 304', async () => {
+  it('sends User-Agent and conditional headers; 304 means nothing new and keeps the ETag', async () => {
     let sent;
     const fakeFetch = async (_url, opts) => { sent = opts.headers; return new Response(null, { status: 304 }); };
-    const r = await fetchFeed({ url: 'https://ex.com/feed' }, { userAgent: 'UA', fetchImpl: fakeFetch, cacheEntry: { etag: '"e1"', items: [{ title: 'cached' }] } });
+    const r = await fetchFeed({ url: 'https://ex.com/feed' }, { userAgent: 'UA', fetchImpl: fakeFetch, cacheEntry: { etag: '"e1"' } });
     expect(sent['User-Agent']).toBe('UA');
     expect(sent['If-None-Match']).toBe('"e1"');
-    expect(r.notModified).toBe(true);
-    expect(r.items[0].title).toBe('cached');
+    expect(r).toMatchObject({ notModified: true, items: [], cache: { etag: '"e1"' } });
   });
   it('throws on HTTP errors so the caller can log and continue', async () => {
     const fakeFetch = async () => new Response('nope', { status: 500 });

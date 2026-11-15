@@ -53,21 +53,22 @@ export function normaliseItem(raw, feed, { maxSummaryChars = 1500 } = {}) {
 
 /**
  * Fetch one feed with timeout, User-Agent and conditional headers.
- * cacheEntry: { etag, last_modified, items } from the previous run. On 304, cached raw items are reused.
+ * cacheEntry: { etag, last_modified } from the previous run. On 304 the feed is unchanged, so there is nothing new:
+ * returns no items. (Stories held back by the AI cap reappear as soon as the feed next changes.)
  */
 export async function fetchFeed(feed, { userAgent, timeoutMs = 15000, cacheEntry = {}, fetchImpl = fetch } = {}) {
   const headers = { 'User-Agent': userAgent, Accept: 'application/rss+xml, application/atom+xml, application/xml;q=0.9, */*;q=0.8' };
   if (cacheEntry.etag) headers['If-None-Match'] = cacheEntry.etag;
   if (cacheEntry.last_modified) headers['If-Modified-Since'] = cacheEntry.last_modified;
   const res = await fetchImpl(feed.url, { headers, signal: AbortSignal.timeout(timeoutMs), redirect: 'follow' });
-  if (res.status === 304 && cacheEntry.items) return { items: cacheEntry.items, notModified: true, cache: cacheEntry };
+  if (res.status === 304) return { items: [], notModified: true, cache: { etag: cacheEntry.etag, last_modified: cacheEntry.last_modified } };
   if (!res.ok) throw new Error(`HTTP ${res.status}`);
   const parsed = await parser.parseString(await res.text());
   const items = (parsed.items || []).map(({ title, link, guid, isoDate, pubDate, contentSnippet, summary }) => ({ title, link, guid, isoDate, pubDate, contentSnippet, summary }));
   return {
     items,
     notModified: false,
-    cache: { etag: res.headers.get('etag') || undefined, last_modified: res.headers.get('last-modified') || undefined, items },
+    cache: { etag: res.headers.get('etag') || undefined, last_modified: res.headers.get('last-modified') || undefined },
   };
 }
 

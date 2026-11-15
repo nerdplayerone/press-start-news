@@ -21,4 +21,6 @@ spec travels with the repo.
   - Still to do: paste the install snippet into a Squarespace Code block, then check the page on desktop and phone:
     `<div id="ps-news" data-limit="12" data-theme="dark"></div>`
     `<script src="https://nerdplayerone.github.io/press-start-news/widget.js" defer></script>`
-- [ ] Phase 5, automation
+- [~] Phase 5, automation: `src/run.js` (full pipeline), `src/publish.js` (merge, hide, same-game merge, trim, validate), `.github/workflows/news.yml`, README. Waiting on the `ANTHROPIC_API_KEY` repo secret, then a first manual run and 24 hours of scheduled runs to review.
+  - Extra dedupe pass after the AI step: cards with the same game and category within 24 h merge into one.
+  - Feed cache keeps only ETag/Last-Modified, so state commits stay small.

@@ -13,7 +13,8 @@
                     "dry-run":  "node src/dry-run.js",
                     "phase3-check":  "node src/phase3-check.js",
                     "sample":  "node src/make-sample.js",
-                    "preview":  "npx --yes http-server@14.1.1 docs -p 8080 -c-1"
+                    "preview":  "npx --yes http-server@14.1.1 docs -p 8080 -c-1",
+                    "start":  "node src/run.js"
                 },
     "dependencies":  {
                          "@anthropic-ai/sdk":  "^1.8.0",
