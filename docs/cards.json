@@ -1,7 +1,62 @@
 {
-  "generated_at": "2026-11-15T13:12:10.992Z",
+  "generated_at": "2026-11-15T15:55:11.894Z",
   "version": 1,
   "cards": [
+    {
+      "id": "46072c6da80c",
+      "category": "industry",
+      "tldr": "Blade Runner 2099 producers hint at a possible triple-A Blade Runner video game someday.",
+      "why_it_matters": "Nothing is announced and the producers suggest it is not coming soon, so there is no release date, platform or studio to watch yet.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": null,
+      "source": {
+        "outlet": "Eurogamer",
+        "url": "https://www.eurogamer.net/blade-runner-2099-triple-a-talks",
+        "published_at": "2026-11-15T14:43:00.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-15T15:55:04.617Z"
+    },
+    {
+      "id": "0125b7f26b02",
+      "category": "release",
+      "tldr": "Horu, an RTS inspired by Star Wars: Empire at War, promises huge space battles and planetary fights.",
+      "why_it_matters": "Expected to launch at the end of next year, so strategy fans can add it to their wishlist. Details on platforms and price are still unknown.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "Horu",
+      "source": {
+        "outlet": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/rts/this-rts-inspired-by-star-wars-empire-at-war-promises-colossal-space-encounters-and-planetary-battles-with-hundreds-of-thousands-of-units/",
+        "published_at": "2026-11-15T14:30:16.000Z"
+      },
+      "also_on": [],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1297450/f478f185f8d8bd4ca324cae4ae5bbca3948717e7/header.jpg?t=1794497150",
+        "steam_appid": 1297450,
+        "steam_url": "https://store.steampowered.com/app/1297450/"
+      },
+      "created_at": "2026-11-15T15:55:05.897Z"
+    },
+    {
+      "id": "e516df992423",
+      "category": "release",
+      "tldr": "Rumour: A 34-song tracklist for GTA 6's soundtrack album has reportedly leaked via a video.",
+      "why_it_matters": "The leak is unconfirmed and comes from an unverified video, so the official soundtrack listing is still unknown. Wait for Rockstar's confirmation before treating the tracklist as final.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "GTA 6",
+      "source": {
+        "outlet": "Eurogamer",
+        "url": "https://www.eurogamer.net/gta-6-tracklist-leak",
+        "published_at": "2026-11-15T14:03:50.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-15T15:55:08.864Z"
+    },
     {
       "id": "0e2869f061f0",
       "category": "release",
