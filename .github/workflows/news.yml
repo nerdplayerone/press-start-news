@@ -32,7 +32,7 @@ jobs:
         id: news
         run: node src/run.js
         env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.PRESS_START_NEWS }}   # repo secret holding the Anthropic API key
 
       - name: Commit if anything changed
         if: always() && steps.news.outcome != 'skipped'

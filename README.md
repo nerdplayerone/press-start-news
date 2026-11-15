@@ -11,7 +11,7 @@ Every card links to the original article.
 ## Setup (one time)
 
 1. **API key.** Repo **Settings > Secrets and variables > Actions > New repository secret**.
-   Name `ANTHROPIC_API_KEY`, value: your key from console.anthropic.com. It never goes in the code or logs.
+   Name `PRESS_START_NEWS`, value: your key from console.anthropic.com (the workflow passes it to the job as `ANTHROPIC_API_KEY`). It never goes in the code or logs.
 2. **Spend limit.** In the Anthropic Console, set a monthly limit on the key (a few pounds is plenty, see Costs).
 3. **First run.** **Actions > news > Run workflow**. After about 2 minutes, cards appear on the site.
 4. **Squarespace.** A Code block on the page holds:

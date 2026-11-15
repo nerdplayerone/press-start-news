@@ -14,7 +14,7 @@ const ROOT = resolve(fileURLToPath(import.meta.url), '../..');
 const P = (f) => resolve(ROOT, f);
 
 if (!process.env.ANTHROPIC_API_KEY && !process.env.ANTHROPIC_AUTH_TOKEN) {
-  console.error('ANTHROPIC_API_KEY is not set (GitHub: repo Settings > Secrets and variables > Actions).');
+  console.error('ANTHROPIC_API_KEY is not set (GitHub: repo secret PRESS_START_NEWS, under Settings > Secrets and variables > Actions).');
   process.exit(1);
 }
 
