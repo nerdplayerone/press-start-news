@@ -1,0 +1,60 @@
+﻿# PRESS START News Cards: settings. Change behaviour here, not in code.
+
+site_url: "https://example.com"   # TODO: your Squarespace site URL (goes in the User-Agent)
+
+feeds:
+  # priority: 1 is highest; sets the primary link when outlets share a story
+  - { outlet: "Xbox Wire",         url: "https://news.xbox.com/en-us/feed/",              priority: 1 }
+  - { outlet: "PlayStation Blog",  url: "https://blog.playstation.com/feed/",             priority: 1 }
+  - { outlet: "VGC",               url: "https://www.videogameschronicle.com/feed/",      priority: 2 }
+  - { outlet: "Eurogamer",         url: "https://www.eurogamer.net/feed",                 priority: 2 }
+  - { outlet: "GamesIndustry.biz", url: "https://www.gamesindustry.biz/feed",             priority: 2 }
+  - { outlet: "Gematsu",           url: "https://www.gematsu.com/feed",                   priority: 2 }
+  - { outlet: "PC Gamer",          url: "https://www.pcgamer.com/rss/",                   priority: 3 }
+  - { outlet: "Rock Paper Shotgun", url: "https://www.rockpapershotgun.com/feed",         priority: 3 }
+  - { outlet: "The Verge",         url: "https://www.theverge.com/rss/games/index.xml",   priority: 3 }
+
+schedule_note: "Every 3 hours at minute 17 UTC (see .github/workflows/news.yml)"
+
+fetch:
+  timeout_seconds: 15
+  max_summary_chars: 1500
+  max_age_hours: 48
+  full_page_fetch: false   # off by default: RSS title and summary only
+
+ai:
+  model: "claude-haiku-5-5"   # checked 2026-11-14
+  max_calls_per_run: 25
+  relevance_threshold: 2
+
+dedupe:
+  jaccard: 0.6        # title word overlap needed to call two items the same story (spec rule)
+  overlap: 0.6        # OR: share at least min_shared words making up this share of the shorter title
+  min_shared: 3
+  window_hours: 24
+
+steam:
+  min_similarity: 0.9
+  delay_seconds: 1.5
+  cache_days: 30
+
+archive:
+  max_days: 7
+  max_cards: 60
+
+language: "en-GB"
+
+# Case-insensitive. Plain words match whole words; entries with * match any text there.
+denylist:
+  - "deal"
+  - "deals"
+  - "% off"
+  - "sale"
+  - "discount"
+  - "coupon"
+  - "best * deals"
+  - "guide"
+  - "how to"
+  - "quiz"
+  - "wordle"
+  - "codes"

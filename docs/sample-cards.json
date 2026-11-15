@@ -1,0 +1,698 @@
+{
+  "generated_at": "2026-11-15T07:39:58.827Z",
+  "version": 1,
+  "sample": true,
+  "cards": [
+    {
+      "id": "33b201b9e42b",
+      "category": "release",
+      "tldr": "Thanks for 25 Years, XBOX Players — From Wolfenstein 3 and Halo Firefight to Classic XBOX Games on PC: Everything...",
+      "why_it_matters": "Sample card for the layout preview. The real card puts a short AI summary of why this matters to players here.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": null,
+      "source": {
+        "outlet": "Xbox Wire",
+        "url": "https://news.xbox.com/en-us/2026/11/12/xbox-25th-anniversary-news-recap/",
+        "published_at": "2026-11-13T01:00:00.000Z"
+      },
+      "also_on": [
+        {
+          "outlet": "Gematsu",
+          "url": "https://www.gematsu.com/2026/11/wolfenstein-3-announced"
+        },
+        {
+          "outlet": "Eurogamer",
+          "url": "https://www.eurogamer.net/wolfenstein-3-new-id-software-game-announced-xbox"
+        },
+        {
+          "outlet": "The Verge",
+          "url": "https://www.theverge.com/news/1032431/xbox-bethesda-wolfenstein-3"
+        }
+      ],
+      "image": null,
+      "created_at": "2026-11-15T07:39:46.567Z"
+    },
+    {
+      "id": "7e8cb50fb125",
+      "category": "hardware",
+      "tldr": "Magic: The Gathering animated series Planeswalker is coming to Netflix in 2027",
+      "why_it_matters": "Sample card for the layout preview. The real card puts a short AI summary of why this matters to players here.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": null,
+      "source": {
+        "outlet": "Eurogamer",
+        "url": "https://www.eurogamer.net/magic-the-gathering-planeswalker-netflix-animated-series-2027",
+        "published_at": "2026-11-14T10:39:50.000Z"
+      },
+      "also_on": [
+        {
+          "outlet": "The Verge",
+          "url": "https://www.theverge.com/entertainment/1033909/magic-the-gathering-netflix-series"
+        }
+      ],
+      "image": null,
+      "created_at": "2026-11-15T07:39:46.568Z"
+    },
+    {
+      "id": "a752c0a74735",
+      "category": "industry",
+      "tldr": "Super Meat Boy Again+ announced for PC",
+      "why_it_matters": "Sample card for the layout preview. The real card puts a short AI summary of why this matters to players here.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "Super Meat Boy",
+      "source": {
+        "outlet": "Gematsu",
+        "url": "https://www.gematsu.com/2026/11/super-meat-boy-again-announced-for-pc",
+        "published_at": "2026-11-14T04:36:04.000Z"
+      },
+      "also_on": [
+        {
+          "outlet": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/from-2d-to-3d-and-back-to-2d-again-the-original-platforming-classic-super-meat-boy-returns-with-a-slick-remaster-complete-with-new-levels-and-too-many-old-saws"
+        }
+      ],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40800/header.jpg?t=1700669950",
+        "steam_appid": 40800,
+        "steam_url": "https://store.steampowered.com/app/40800/"
+      },
+      "created_at": "2026-11-15T07:39:46.568Z"
+    },
+    {
+      "id": "8096d0c63c29",
+      "category": "release",
+      "tldr": "The Blood of Dawnwalker is getting a New Game Plus mode in next week's update",
+      "why_it_matters": "Sample card for the layout preview. The real card puts a short AI summary of why this matters to players here.",
+      "relevance": 3,
+      "confidence": "low",
+      "game_name": "The Blood of Dawnwalker",
+      "source": {
+        "outlet": "Eurogamer",
+        "url": "https://www.eurogamer.net/blood-of-dawnwalker-new-game-plus",
+        "published_at": "2026-11-13T20:49:20.000Z"
+      },
+      "also_on": [
+        {
+          "outlet": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/missed-something-on-your-first-go-around-the-blood-of-dawnwalker-ive-got-good-news-as-next-weeks-update-adds-in-new-game-plus"
+        }
+      ],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751260/a7062f3b59d491c2678e3fd7ce2672858e480641/header.jpg?t=1794236865",
+        "steam_appid": 3751260,
+        "steam_url": "https://store.steampowered.com/app/3751260/"
+      },
+      "created_at": "2026-11-15T07:39:48.241Z"
+    },
+    {
+      "id": "f1d7d9b94afa",
+      "category": "hardware",
+      "tldr": "Crimson Desert studio is implementing AI \"throughout our entire development pipeline,\" and expects DokeV to launch in 2028",
+      "why_it_matters": "Sample card for the layout preview. The real card puts a short AI summary of why this matters to players here.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "Crimson Desert",
+      "source": {
+        "outlet": "Eurogamer",
+        "url": "https://www.eurogamer.net/crimson-desert-ai-pipeline-dokev-2028",
+        "published_at": "2026-11-13T18:29:00.000Z"
+      },
+      "also_on": [
+        {
+          "outlet": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/ai/dont-like-ai-in-games-crimson-desert-studio-pearl-abyss-aint-care-its-expanding-ai-use-throughout-our-entire-development-pipeline/"
+        }
+      ],
+      "image": null,
+      "created_at": "2026-11-15T07:39:51.229Z"
+    },
+    {
+      "id": "25977809e8b7",
+      "category": "industry",
+      "tldr": "A new report reckons 40% of developers in the video games industry are using generative AI - but even more...",
+      "why_it_matters": "Sample card for the layout preview. The real card puts a short AI summary of why this matters to players here.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": null,
+      "source": {
+        "outlet": "Eurogamer",
+        "url": "https://www.eurogamer.net/gdc-report-40-percent-developers-generative-ai",
+        "published_at": "2026-11-13T15:34:20.000Z"
+      },
+      "also_on": [
+        {
+          "outlet": "PC Gamer",
+          "url": "https://www.pcgamer.com/software/ai/40-percent-of-game-developers-use-generative-ai-according-to-a-new-report-but-more-than-half-reckon-the-technology-has-a-negative-impact-on-the-games-industry/"
+        }
+      ],
+      "image": null,
+      "created_at": "2026-11-15T07:39:52.794Z"
+    },
+    {
+      "id": "e53dc37c1e03",
+      "category": "release",
+      "tldr": "Slay the Spire 2 gets its first new character since its massively successful launch in March as part of \"biggest\"...",
+      "why_it_matters": "Sample card for the layout preview. The real card puts a short AI summary of why this matters to players here.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "Slay the Spire 2",
+      "source": {
+        "outlet": "Eurogamer",
+        "url": "https://www.eurogamer.net/slay-the-spire-2-biggest-update-new-character-the-fool",
+        "published_at": "2026-11-13T15:02:10.000Z"
+      },
+      "also_on": [
+        {
+          "outlet": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/slay-the-spire-2s-biggest-beta-patch-yet-adds-its-first-new-early-access-and-foolish-character-two-game-modes-and-more-tweaks-than-you-can-shake-a-stick-at"
+        }
+      ],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2868840/b0958d387dc366211e0f353443710cfcf9fdb020/header.jpg?t=1787169309",
+        "steam_appid": 2868840,
+        "steam_url": "https://store.steampowered.com/app/2868840/"
+      },
+      "created_at": "2026-11-15T07:39:52.794Z"
+    },
+    {
+      "id": "d6106a4e4f15",
+      "category": "hardware",
+      "tldr": "QSSR arrives in Marvel’s Spider-Man 2, Control Resonant, The Finals, Arc Raiders, No Man’s Sky, and Hell Let Loose: Vietnam",
+      "why_it_matters": "Sample card for the layout preview. The real card puts a short AI summary of why this matters to players here.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "Arc Raiders",
+      "source": {
+        "outlet": "PlayStation Blog",
+        "url": "https://blog.playstation.com/2026/11/13/qssr-arrives-in-marvels-spider-man-2-control-resonant-the-finals-arc-raiders-and-hell-let-loose-vietnam/",
+        "published_at": "2026-11-13T14:00:16.000Z"
+      },
+      "also_on": [
+        {
+          "outlet": "Gematsu",
+          "url": "https://www.gematsu.com/2026/11/ps5-qssr-support-added-to-marvels-spider-man-2-control-resonant-arc-raiders-the-finals-no-mans-sky-and-hell-let-loose-vietnam"
+        }
+      ],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1808500/41ee6c5c81a5797132879892586465b917acc563/header_alt_assets_9.jpg?t=1794215815",
+        "steam_appid": 1808500,
+        "steam_url": "https://store.steampowered.com/app/1808500/"
+      },
+      "created_at": "2026-11-15T07:39:55.780Z"
+    },
+    {
+      "id": "1f1386850e95",
+      "category": "industry",
+      "tldr": "Guild Saga: Vanished Worlds brings tactical adventure to PS5 in May 2027",
+      "why_it_matters": "Sample card for the layout preview. The real card puts a short AI summary of why this matters to players here.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": null,
+      "source": {
+        "outlet": "PlayStation Blog",
+        "url": "https://blog.playstation.com/2026/11/13/guild-saga-vanished-worlds-brings-tactical-adventure-to-ps5-in-may-2027/",
+        "published_at": "2026-11-13T13:01:11.000Z"
+      },
+      "also_on": [
+        {
+          "outlet": "Gematsu",
+          "url": "https://www.gematsu.com/2026/11/strategy-rpg-guild-saga-vanished-worlds-coming-to-ps5-in-may-2027"
+        }
+      ],
+      "image": null,
+      "created_at": "2026-11-15T07:39:58.826Z"
+    },
+    {
+      "id": "0f847cad9746",
+      "category": "release",
+      "tldr": "MachineGames has finally officially confirmed that Wolfenstein 3 is in development",
+      "why_it_matters": "Sample card for the layout preview. The real card puts a short AI summary of why this matters to players here.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": null,
+      "source": {
+        "outlet": "VGC",
+        "url": "https://www.videogameschronicle.com/news/machinegames-has-finally-officially-confirmed-that-wolfenstein-3-is-in-development/",
+        "published_at": "2026-11-13T09:47:59.000Z"
+      },
+      "also_on": [
+        {
+          "outlet": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/fps/wolfenstein-3-is-in-production-at-machinegames/"
+        }
+      ],
+      "image": null,
+      "created_at": "2026-11-15T07:39:58.826Z"
+    },
+    {
+      "id": "10dacd1ac3a4",
+      "category": "hardware",
+      "tldr": "Id Software confirms it’s working on a new game after layoffs",
+      "why_it_matters": "Sample card for the layout preview. The real card puts a short AI summary of why this matters to players here.",
+      "relevance": 3,
+      "confidence": "low",
+      "game_name": null,
+      "source": {
+        "outlet": "VGC",
+        "url": "https://www.videogameschronicle.com/news/id-software-confirms-its-working-on-a-new-game-after-layoffs/",
+        "published_at": "2026-11-12T21:38:33.000Z"
+      },
+      "also_on": [
+        {
+          "outlet": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/wolfenstein-3-and-new-id-software-game-confirmed-as-xbox-boss-somehow-unrelatedly-shouts-about-one-person-soon-wieldling-capabilities-that-once-required-entire-nations"
+        }
+      ],
+      "image": null,
+      "created_at": "2026-11-15T07:39:58.826Z"
+    },
+    {
+      "id": "350f232fc0d0",
+      "category": "industry",
+      "tldr": "Is the game funny, or just the players? Jackbox CEO says they get 'a lot of false positives' with a...",
+      "why_it_matters": "Sample card for the layout preview. The real card puts a short AI summary of why this matters to players here.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": null,
+      "source": {
+        "outlet": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/is-the-game-funny-or-just-the-players-jackbox-ceo-says-they-get-a-lot-of-false-positives-with-a-staff-of-comedy-writers/",
+        "published_at": "2026-11-14T20:45:44.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-15T07:39:58.826Z"
+    },
+    {
+      "id": "7961c92b1e78",
+      "category": "release",
+      "tldr": "Congratulations to people who feel mean shooting random NPCs, because GTA 6 tries \"to provide mechanisms that encourage\" empathy",
+      "why_it_matters": "Sample card for the layout preview. The real card puts a short AI summary of why this matters to players here.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": null,
+      "source": {
+        "outlet": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/congratulations-to-people-who-feel-mean-shooting-random-npcs-because-gta-6-tries-to-provide-mechanisms-that-encourage-empathy",
+        "published_at": "2026-11-14T19:00:00.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-15T07:39:58.826Z"
+    },
+    {
+      "id": "c17aed04e81d",
+      "category": "hardware",
+      "tldr": "Do you like mob tagging in oldschool MMOs, or are you done with fighting for quest credit?",
+      "why_it_matters": "Sample card for the layout preview. The real card puts a short AI summary of why this matters to players here.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": null,
+      "source": {
+        "outlet": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/world-of-warcraft/do-you-like-mob-tagging-in-oldschool-mmos-or-are-you-done-with-fighting-for-quest-credit/",
+        "published_at": "2026-11-14T17:00:00.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-15T07:39:58.826Z"
+    },
+    {
+      "id": "23f6b0498994",
+      "category": "industry",
+      "tldr": "I summoned 1 blood demon, stitched 2 of my disciples together, and seduced 3 snails in this excellent cult simulator...",
+      "why_it_matters": "Sample card for the layout preview. The real card puts a short AI summary of why this matters to players here.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": null,
+      "source": {
+        "outlet": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/sim/i-summoned-1-blood-demon-stitched-2-of-my-disciples-together-and-seduced-3-snails-in-this-excellent-cult-simulator-in-the-spirit-of-dwarf-fortress/",
+        "published_at": "2026-11-14T16:00:00.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-15T07:39:58.826Z"
+    },
+    {
+      "id": "e3090568af38",
+      "category": "release",
+      "tldr": "Dishonored 2 director Harvey Smith wants to honour sacred imsim texts while finding news ways to surprise fans: \"That's the...",
+      "why_it_matters": "Sample card for the layout preview. The real card puts a short AI summary of why this matters to players here.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": null,
+      "source": {
+        "outlet": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/sim/dishonored-2-director-harvey-smith-wants-to-honour-sacred-imsim-texts-while-finding-news-ways-to-surprise-fans-thats-the-two-wolves-inside-me/",
+        "published_at": "2026-11-14T15:00:00.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-15T07:39:58.826Z"
+    },
+    {
+      "id": "4a855f062c03",
+      "category": "hardware",
+      "tldr": "Halo: Campaign Evolved is getting Firefight as a free update, though I'm not sure it'll do much to change the...",
+      "why_it_matters": "Sample card for the layout preview. The real card puts a short AI summary of why this matters to players here.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": null,
+      "source": {
+        "outlet": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/halo/halo-campaign-evolved-is-getting-firefight-as-a-free-update-though-im-not-sure-itll-do-much-to-change-the-remakes-fortunes/",
+        "published_at": "2026-11-14T14:49:43.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-15T07:39:58.826Z"
+    },
+    {
+      "id": "ac11ba91e981",
+      "category": "industry",
+      "tldr": "Formula 1 just found a bizarre financial supporter in horse girl gacha Umamusume: Pretty Derby",
+      "why_it_matters": "Sample card for the layout preview. The real card puts a short AI summary of why this matters to players here.",
+      "relevance": 3,
+      "confidence": "low",
+      "game_name": null,
+      "source": {
+        "outlet": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/sports/formula-1-just-found-a-bizarre-financial-supporter-in-horse-girl-gacha-umamusume-pretty-derby/",
+        "published_at": "2026-11-14T14:00:00.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-15T07:39:58.826Z"
+    },
+    {
+      "id": "30ba9526ee50",
+      "category": "release",
+      "tldr": "This tiny gamepad with dual analog thumbsticks pushes the limits of portable controllers",
+      "why_it_matters": "Sample card for the layout preview. The real card puts a short AI summary of why this matters to players here.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": null,
+      "source": {
+        "outlet": "The Verge",
+        "url": "https://www.theverge.com/tech/1013985/crkd-atom-plus-tmr-analog-thumbstick-controller-gamepad-switch-ios-android-hands-on",
+        "published_at": "2026-11-14T14:00:00.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-15T07:39:58.826Z"
+    },
+    {
+      "id": "19e563a267e1",
+      "category": "hardware",
+      "tldr": "Ubisoft is reportedly making a new Rainbow Six Vegas game, nearly two decades after Vegas 2",
+      "why_it_matters": "Sample card for the layout preview. The real card puts a short AI summary of why this matters to players here.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": null,
+      "source": {
+        "outlet": "Eurogamer",
+        "url": "https://www.eurogamer.net/rainbow-six-vegas-new-game-ubisoft-spades-report",
+        "published_at": "2026-11-14T12:19:50.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-15T07:39:58.826Z"
+    },
+    {
+      "id": "29b2473243fb",
+      "category": "industry",
+      "tldr": "Indiana Jones and the Great Circle once had a Grand Theft Auto inspired wanted system, because MachineGames was 'afraid' players...",
+      "why_it_matters": "Sample card for the layout preview. The real card puts a short AI summary of why this matters to players here.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": null,
+      "source": {
+        "outlet": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/action/indiana-jones-and-the-great-circle-once-had-a-grand-theft-auto-inspired-wanted-system-because-machinegames-was-afraid-players-would-kill-all-the-nazis-with-just-guns/",
+        "published_at": "2026-11-14T11:26:04.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-15T07:39:58.826Z"
+    },
+    {
+      "id": "8d173dd55840",
+      "category": "release",
+      "tldr": "Call of Duty Endowment marks Remembrance Day with veterans' Valor Pack push",
+      "why_it_matters": "Sample card for the layout preview. The real card puts a short AI summary of why this matters to players here.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": null,
+      "source": {
+        "outlet": "Eurogamer",
+        "url": "https://www.eurogamer.net/call-of-duty-endowment-valor-pack-remembrance-day-veterans",
+        "published_at": "2026-11-14T11:15:00.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-15T07:39:58.826Z"
+    },
+    {
+      "id": "caa5a78f0c62",
+      "category": "hardware",
+      "tldr": "Vice City was the GTA that established Rockstar's killer formula - and 24 years on, it's still one of the...",
+      "why_it_matters": "Sample card for the layout preview. The real card puts a short AI summary of why this matters to players here.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": null,
+      "source": {
+        "outlet": "Eurogamer",
+        "url": "https://www.eurogamer.net/gta-vice-city-retrospective",
+        "published_at": "2026-11-14T10:00:00.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-15T07:39:58.826Z"
+    },
+    {
+      "id": "4a31f61b02fc",
+      "category": "industry",
+      "tldr": "What we've been playing - \"Whether he means to or not, he serves sass all over town\"",
+      "why_it_matters": "Sample card for the layout preview. The real card puts a short AI summary of why this matters to players here.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": null,
+      "source": {
+        "outlet": "Eurogamer",
+        "url": "https://www.eurogamer.net/what-weve-been-playing-sass-all-over-town-link-ocarina",
+        "published_at": "2026-11-14T08:00:00.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-15T07:39:58.826Z"
+    },
+    {
+      "id": "e27aeb663812",
+      "category": "release",
+      "tldr": "What are we all playing this weekend?",
+      "why_it_matters": "Sample card for the layout preview. The real card puts a short AI summary of why this matters to players here.",
+      "relevance": 3,
+      "confidence": "low",
+      "game_name": null,
+      "source": {
+        "outlet": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-408",
+        "published_at": "2026-11-14T08:00:00.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-15T07:39:58.826Z"
+    },
+    {
+      "id": "24da3dd3811f",
+      "category": "hardware",
+      "tldr": "Girls und Panzer Hakunetsu! Mahjong Tag Battle Desu! announced for PS5, Switch 2",
+      "why_it_matters": "Sample card for the layout preview. The real card puts a short AI summary of why this matters to players here.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": null,
+      "source": {
+        "outlet": "Gematsu",
+        "url": "https://www.gematsu.com/2026/11/girls-und-panzer-hakunetsu-mahjong-tag-battle-desu-announced-for-ps5-switch-2",
+        "published_at": "2026-11-14T01:57:41.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-15T07:39:58.826Z"
+    },
+    {
+      "id": "5bda421f0177",
+      "category": "industry",
+      "tldr": "Yes, some brave games are still launching on Steam during GTA 6 week",
+      "why_it_matters": "Sample card for the layout preview. The real card puts a short AI summary of why this matters to players here.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": null,
+      "source": {
+        "outlet": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/yes-some-brave-games-are-still-launching-on-steam-during-gta-6-launch-week/",
+        "published_at": "2026-11-13T22:28:10.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-15T07:39:58.826Z"
+    },
+    {
+      "id": "85befe00ae20",
+      "category": "release",
+      "tldr": "A survival game we once called 'Stalker and Tarkov's alien baby' is closing down less than a year after launch",
+      "why_it_matters": "Sample card for the layout preview. The real card puts a short AI summary of why this matters to players here.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": null,
+      "source": {
+        "outlet": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/fps/a-survival-game-we-once-called-stalker-and-tarkovs-alien-baby-is-closing-down-less-than-a-year-after-launch/",
+        "published_at": "2026-11-13T20:37:35.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-15T07:39:58.826Z"
+    },
+    {
+      "id": "4a2f87d6768e",
+      "category": "hardware",
+      "tldr": "Microsoft ‘deeply’ apologizes for global service outage, says no AI or hackers are to blame",
+      "why_it_matters": "Sample card for the layout preview. The real card puts a short AI summary of why this matters to players here.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": null,
+      "source": {
+        "outlet": "PC Gamer",
+        "url": "https://www.pcgamer.com/software/microsoft-deeply-apologizes-for-global-service-outage-says-no-ai-or-hackers-are-to-blame/",
+        "published_at": "2026-11-13T19:54:20.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-15T07:39:58.826Z"
+    },
+    {
+      "id": "c97f3fa42e72",
+      "category": "industry",
+      "tldr": "Interest in The Legend of Zelda was \"getting smaller and smaller\" before Breath of the Wild, according to former Nintendo...",
+      "why_it_matters": "Sample card for the layout preview. The real card puts a short AI summary of why this matters to players here.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": null,
+      "source": {
+        "outlet": "Eurogamer",
+        "url": "https://www.eurogamer.net/legend-of-zelda-smaller-before-breath-of-the-wild",
+        "published_at": "2026-11-13T19:52:50.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-15T07:39:58.826Z"
+    },
+    {
+      "id": "e30060ff4951",
+      "category": "release",
+      "tldr": "New Grand Theft Auto 6 trailer is for a TV show that exists within Grand Theft Auto 6",
+      "why_it_matters": "Sample card for the layout preview. The real card puts a short AI summary of why this matters to players here.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": null,
+      "source": {
+        "outlet": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/new-grand-theft-auto-6-trailer-is-for-a-tv-show-that-exists-within-grand-theft-auto-6/",
+        "published_at": "2026-11-13T19:30:31.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-15T07:39:58.826Z"
+    },
+    {
+      "id": "1e95014b591a",
+      "category": "hardware",
+      "tldr": "Here’s how you can save on your GTA VI preorder ahead of launch",
+      "why_it_matters": "Sample card for the layout preview. The real card puts a short AI summary of why this matters to players here.",
+      "relevance": 3,
+      "confidence": "low",
+      "game_name": null,
+      "source": {
+        "outlet": "The Verge",
+        "url": "https://www.theverge.com/gadgets/1033046/playstation-xbox-gift-card-gta-vi-6-preorder-deal-sale",
+        "published_at": "2026-11-13T19:14:38.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-15T07:39:58.826Z"
+    },
+    {
+      "id": "3cf81f884294",
+      "category": "industry",
+      "tldr": "Fable: Deep Dive Into New Gameplay With Playground Games | Official XBOX Podcast",
+      "why_it_matters": "Sample card for the layout preview. The real card puts a short AI summary of why this matters to players here.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": null,
+      "source": {
+        "outlet": "Xbox Wire",
+        "url": "https://news.xbox.com/en-us/2026/11/13/fable-deep-dive-into-new-gameplay-with-playground-games-official-xbox-podcast/",
+        "published_at": "2026-11-13T19:13:42.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-15T07:39:58.826Z"
+    },
+    {
+      "id": "8b5d5510e409",
+      "category": "release",
+      "tldr": "Think you know videogame cats? Then name 17 of them",
+      "why_it_matters": "Sample card for the layout preview. The real card puts a short AI summary of why this matters to players here.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": null,
+      "source": {
+        "outlet": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/think-you-know-videogame-cats-then-name-17-of-them/",
+        "published_at": "2026-11-13T18:43:11.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-15T07:39:58.826Z"
+    },
+    {
+      "id": "b2a50ccc5a86",
+      "category": "hardware",
+      "tldr": "Vindictus: Defying Fate ‘Let the Righteous Judge’ cinematic trailer",
+      "why_it_matters": "Sample card for the layout preview. The real card puts a short AI summary of why this matters to players here.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": null,
+      "source": {
+        "outlet": "Gematsu",
+        "url": "https://www.gematsu.com/2026/11/vindictus-defying-fate-let-the-righteous-judge-cinematic-trailer",
+        "published_at": "2026-11-13T18:05:39.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-15T07:39:58.826Z"
+    },
+    {
+      "id": "90e004208ca0",
+      "category": "industry",
+      "tldr": "Sturmjager ‘Co-Op’ trailer",
+      "why_it_matters": "Sample card for the layout preview. The real card puts a short AI summary of why this matters to players here.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": null,
+      "source": {
+        "outlet": "Gematsu",
+        "url": "https://www.gematsu.com/2026/11/sturmjager-co-op-trailer",
+        "published_at": "2026-11-13T18:00:35.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-15T07:39:58.826Z"
+    }
+  ]
+}

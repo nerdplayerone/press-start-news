@@ -1,0 +1,27 @@
+﻿{
+    "name":  "press-start-news",
+    "version":  "0.1.0",
+    "private":  true,
+    "type":  "module",
+    "description":  "PRESS START News Cards: RSS to short AI cards for the Squarespace site",
+    "engines":  {
+                    "node":  "\u003e=22"
+                },
+    "scripts":  {
+                    "fetch":  "node src/fetch.js",
+                    "test":  "vitest run",
+                    "dry-run":  "node src/dry-run.js",
+                    "phase3-check":  "node src/phase3-check.js",
+                    "sample":  "node src/make-sample.js",
+                    "preview":  "npx --yes http-server@14.1.1 docs -p 8080 -c-1"
+                },
+    "dependencies":  {
+                         "@anthropic-ai/sdk":  "^1.8.0",
+                         "ajv":  "^8.20.0",
+                         "rss-parser":  "^3.13.0",
+                         "yaml":  "^2.6.0"
+                     },
+    "devDependencies":  {
+                            "vitest":  "^3.2.0"
+                        }
+}

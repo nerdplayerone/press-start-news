@@ -1,0 +1,95 @@
+{
+  "hades 2": {
+    "at": "2026-11-14T21:23:18.760Z",
+    "match": {
+      "appid": 1145350,
+      "name": "Hades II",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145350/91ac334a2c137d08968ccc0bc474a02579602100/header.jpg?t=1779901265",
+      "url": "https://store.steampowered.com/app/1145350/"
+    }
+  },
+  "elden ring": {
+    "at": "2026-11-14T21:23:21.683Z",
+    "match": {
+      "appid": 1245620,
+      "name": "ELDEN RING",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245620/header.jpg?t=1790290043",
+      "url": "https://store.steampowered.com/app/1245620/"
+    }
+  },
+  "cyberpunk 2077": {
+    "at": "2026-11-14T21:23:24.707Z",
+    "match": {
+      "appid": 1091500,
+      "name": "Cyberpunk 2077",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/48a93d6445a67520ea49833c93dae8f2e68fc540/header_alt_assets_9.jpg?t=1794474878",
+      "url": "https://store.steampowered.com/app/1091500/"
+    }
+  },
+  "baldur s gate 3": {
+    "at": "2026-11-14T21:23:27.707Z",
+    "match": {
+      "appid": 1086940,
+      "name": "Baldur's Gate 3",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/48a2fcbda8565bb45025e98fd8ebde8a7203f6a0/header.jpg?t=1777363040",
+      "url": "https://store.steampowered.com/app/1086940/"
+    }
+  },
+  "hollow knight silksong": {
+    "at": "2026-11-14T21:23:30.729Z",
+    "match": {
+      "appid": 1030300,
+      "name": "Hollow Knight: Silksong",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030300/7983574d464e6559ac7e24275727f73a8bcca1f3/header.jpg?t=1776125736",
+      "url": "https://store.steampowered.com/app/1030300/"
+    }
+  },
+  "hades 3": {
+    "at": "2026-11-14T21:23:32.240Z",
+    "match": null
+  },
+  "grand theft auto 6": {
+    "at": "2026-11-14T21:23:33.748Z",
+    "match": null
+  },
+  "super meat boy": {
+    "at": "2026-11-15T07:39:48.241Z",
+    "match": {
+      "appid": 40800,
+      "name": "Super Meat Boy",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40800/header.jpg?t=1700669950",
+      "url": "https://store.steampowered.com/app/40800/"
+    }
+  },
+  "blood of dawnwalker": {
+    "at": "2026-11-15T07:39:51.229Z",
+    "match": {
+      "appid": 3751260,
+      "name": "The Blood of Dawnwalker",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751260/a7062f3b59d491c2678e3fd7ce2672858e480641/header.jpg?t=1794236865",
+      "url": "https://store.steampowered.com/app/3751260/"
+    }
+  },
+  "crimson desert": {
+    "at": "2026-11-15T07:39:52.794Z",
+    "match": null
+  },
+  "slay the spire 2": {
+    "at": "2026-11-15T07:39:55.780Z",
+    "match": {
+      "appid": 2868840,
+      "name": "Slay the Spire 2",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2868840/b0958d387dc366211e0f353443710cfcf9fdb020/header.jpg?t=1787169309",
+      "url": "https://store.steampowered.com/app/2868840/"
+    }
+  },
+  "arc raiders": {
+    "at": "2026-11-15T07:39:58.825Z",
+    "match": {
+      "appid": 1808500,
+      "name": "ARC Raiders",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1808500/41ee6c5c81a5797132879892586465b917acc563/header_alt_assets_9.jpg?t=1794215815",
+      "url": "https://store.steampowered.com/app/1808500/"
+    }
+  }
+}

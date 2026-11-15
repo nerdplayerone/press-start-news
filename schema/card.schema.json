@@ -1,0 +1,55 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "PRESS START news card",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["id", "category", "tldr", "why_it_matters", "relevance", "confidence", "game_name", "source", "also_on", "image", "created_at"],
+  "properties": {
+    "id": { "type": "string", "pattern": "^[0-9a-f]{12}$" },
+    "category": { "enum": ["release", "hardware", "industry"] },
+    "tldr": { "type": "string", "minLength": 1, "maxWords": 20 },
+    "why_it_matters": { "type": "string", "minLength": 1, "maxWords": 30 },
+    "relevance": { "type": "integer", "minimum": 1, "maximum": 5 },
+    "confidence": { "enum": ["high", "low"] },
+    "game_name": { "type": ["string", "null"] },
+    "source": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["outlet", "url", "published_at"],
+      "properties": {
+        "outlet": { "type": "string", "minLength": 1 },
+        "url": { "type": "string", "pattern": "^https?://" },
+        "published_at": { "type": "string", "isoDate": true }
+      }
+    },
+    "also_on": {
+      "type": "array",
+      "maxItems": 3,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["outlet", "url"],
+        "properties": {
+          "outlet": { "type": "string", "minLength": 1 },
+          "url": { "type": "string", "pattern": "^https?://" }
+        }
+      }
+    },
+    "image": {
+      "oneOf": [
+        { "type": "null" },
+        {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["url", "steam_appid", "steam_url"],
+          "properties": {
+            "url": { "type": "string", "pattern": "^https://" },
+            "steam_appid": { "type": "integer" },
+            "steam_url": { "type": "string", "pattern": "^https://store\\.steampowered\\.com/" }
+          }
+        }
+      ]
+    },
+    "created_at": { "type": "string", "isoDate": true }
+  }
+}

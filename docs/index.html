@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>PRESS START News</title>
+  <meta name="description" content="Gaming news in under 10 seconds per story: what happened, and why you should care.">
+  <style>
+    :root { color-scheme: dark; --bg: #0f1114; --text: #f2f3f5; --muted: #b4b9c2; }
+    :root[data-theme="light"] { color-scheme: light; --bg: #f5f6f8; --text: #16181d; --muted: #4b5160; }
+    * { box-sizing: border-box; }
+    body { margin: 0; background: var(--bg); color: var(--text); font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; }
+    main { max-width: 1200px; margin: 0 auto; padding: 32px 16px 48px; }
+    header { display: flex; justify-content: space-between; align-items: end; gap: 16px; flex-wrap: wrap; margin-bottom: 24px; }
+    h1 { margin: 0; font-size: 28px; letter-spacing: .02em; }
+    p.tag { margin: 4px 0 0; color: var(--muted); }
+    .note { margin: 0 0 16px; padding: 10px 14px; border-radius: 8px; background: #3a3220; color: #ffd98a; font-size: 14px; }
+    button { font: inherit; font-size: 14px; color: var(--text); background: transparent; border: 1px solid var(--muted); border-radius: 6px; padding: 6px 12px; cursor: pointer; }
+    button:focus-visible { outline: 3px solid #ffd34d; outline-offset: 2px; }
+  </style>
+</head>
+<body>
+  <main>
+    <header>
+      <div>
+        <h1>PRESS START News</h1>
+        <p class="tag">What happened, and why should you care. Under 10 seconds a story.</p>
+      </div>
+      <button type="button" id="theme">Light theme</button>
+    </header>
+    <p class="note" id="sample-note" hidden>Preview with sample cards: real headlines, links and Steam art, placeholder text where the AI summary will go.</p>
+    <div id="ps-news" data-limit="12" data-theme="dark"></div>
+  </main>
+  <script>
+    (function () {
+      var q = new URLSearchParams(location.search);
+      var host = document.getElementById('ps-news');
+      var theme = q.get('theme') === 'light' ? 'light' : 'dark';
+      if (q.has('sample')) { host.setAttribute('data-src', 'sample-cards.json'); document.getElementById('sample-note').hidden = false; }
+      function apply(t) {
+        document.documentElement.setAttribute('data-theme', t);
+        host.setAttribute('data-theme', t);
+        document.getElementById('theme').textContent = t === 'dark' ? 'Light theme' : 'Dark theme';
+      }
+      apply(theme);
+      document.getElementById('theme').onclick = function () {
+        q.set('theme', theme === 'dark' ? 'light' : 'dark');
+        location.search = q.toString(); /* reload so the widget re-mounts with the new theme */
+      };
+    })();
+  </script>
+  <script src="widget.js" defer></script>
+</body>
+</html>
