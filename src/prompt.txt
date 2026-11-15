@@ -14,6 +14,9 @@ Rules:
   unknown.
 - If the story is a rumour, leak or report from unnamed sources, start
   the tldr with "Rumour:" or "Report:".
+- Write for the reader as plain news. Never mention "the input", "the
+  text", "the source", "this report" or "the article". Say "not yet
+  announced" or "still unknown", not "the input gives no details".
 - No hype words (huge, epic, insane, game-changer). No em dashes.
   No emoji. British English.
 - category: release | hardware | industry | out_of_scope.

@@ -35,17 +35,25 @@ describe('buildCards', () => {
 describe('mergeSameGame', () => {
   it('folds same-game, same-category cards within 24h into one, keeping the priority outlet', () => {
     const pri = { 'Xbox Wire': 1, VGC: 2, 'PC Gamer': 3 };
-    const g = (n, outlet, at) => card(n, { at, extra: { game_name: 'Wolfenstein 3', source: { outlet, url: `https://${n}.ex/`, published_at: at } } });
+    const g = (n, outlet, at, tldr) => card(n, { at, extra: { tldr, game_name: 'Wolfenstein 3', source: { outlet, url: `https://${n}.ex/`, published_at: at } } });
     const out = mergeSameGame([
-      g('a', 'PC Gamer', '2026-11-15T09:00:00.000Z'),
-      g('b', 'Xbox Wire', '2026-11-15T10:00:00.000Z'),
-      g('c', 'VGC', '2026-11-15T11:00:00.000Z'),
+      g('a', 'PC Gamer', '2026-11-15T09:00:00.000Z', 'MachineGames confirms Wolfenstein 3 is in production.'),
+      g('b', 'Xbox Wire', '2026-11-15T10:00:00.000Z', 'Xbox announced Wolfenstein 3, made by MachineGames.'),
+      g('c', 'VGC', '2026-11-15T11:00:00.000Z', 'Xbox confirms MachineGames is making Wolfenstein 3.'),
       card('d', { extra: { game_name: 'Hades II' } }),
     ], { priorityOf: (o) => pri[o] });
     expect(out).toHaveLength(2);
     const wolf = out.find((x) => x.game_name === 'Wolfenstein 3');
     expect(wolf.source.outlet).toBe('Xbox Wire');
     expect(wolf.also_on.map((x) => x.outlet)).toEqual(['VGC', 'PC Gamer']);
+  });
+  it('keeps two different stories about the same game apart (the live GTA 6 bug)', () => {
+    const out = mergeSameGame([
+      card('a', { extra: { game_name: 'Grand Theft Auto VI', tldr: "Rockstar's GTA 6 co-studio head says the game gives players more room to act empathetically than earlier entries." } }),
+      card('b', { extra: { game_name: 'Grand Theft Auto VI', tldr: 'Rockstar confirmed the leaked GTA 6 soundtrack is accurate, with new songs from Lana Del Rey and Keith Richards.' } }),
+    ]);
+    expect(out).toHaveLength(2);
+    expect(out.every((c) => c.also_on.length === 0)).toBe(true);
   });
   it('keeps same-game cards apart when they are days apart or a different category', () => {
     const out = mergeSameGame([
