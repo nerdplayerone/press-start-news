@@ -173,5 +173,32 @@
   "gta 6": {
     "at": "2026-11-15T10:00:54.760Z",
     "match": null
+  },
+  "dune awakening": {
+    "at": "2026-11-15T13:12:05.004Z",
+    "match": {
+      "appid": 1172710,
+      "name": "Dune: Awakening",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172710/da994ea756677c3d1d9a77accb8596a8661f4cad/header.jpg?t=1793636917",
+      "url": "https://store.steampowered.com/app/1172710/"
+    }
+  },
+  "chronicles medieval": {
+    "at": "2026-11-15T13:12:08.003Z",
+    "match": {
+      "appid": 2231020,
+      "name": "Chronicles: Medieval",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2231020/322a3e5e98ce955972508f8ae5a6eb569ee40742/header.jpg?t=1791486435",
+      "url": "https://store.steampowered.com/app/2231020/"
+    }
+  },
+  "penguin colony": {
+    "at": "2026-11-15T13:12:10.989Z",
+    "match": {
+      "appid": 3695930,
+      "name": "Penguin Colony",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3695930/635ab46535a91159e6e08bbbdb3b057f3e095e29/header.jpg?t=1793115787",
+      "url": "https://store.steampowered.com/app/3695930/"
+    }
   }
 }

@@ -1,7 +1,49 @@
 {
-  "generated_at": "2026-11-15T10:00:54.763Z",
+  "generated_at": "2026-11-15T13:12:10.992Z",
   "version": 1,
   "cards": [
+    {
+      "id": "0e2869f061f0",
+      "category": "release",
+      "tldr": "Dune: Awakening now has an offline mode that needs no internet connection at any point.",
+      "why_it_matters": "Players wanting to play without a connection can now do so, including creating and deleting single-player characters. Check the offline mode details before diving in.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "Dune: Awakening",
+      "source": {
+        "outlet": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/survival-crafting/former-survival-mmo-dune-awakening-can-now-be-played-without-requiring-an-internet-connection-at-any-point-as-its-much-requested-offline-mode-arrives/",
+        "published_at": "2026-11-15T12:33:46.000Z"
+      },
+      "also_on": [],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172710/da994ea756677c3d1d9a77accb8596a8661f4cad/header.jpg?t=1793636917",
+        "steam_appid": 1172710,
+        "steam_url": "https://store.steampowered.com/app/1172710/"
+      },
+      "created_at": "2026-11-15T13:11:47.286Z"
+    },
+    {
+      "id": "e6efcbee8c76",
+      "category": "industry",
+      "tldr": "Chronicles: Medieval's developer declared bankruptcy, but development will continue after a $5 million rescue from Coffee Stain.",
+      "why_it_matters": "Players who want the historical strategy game should expect it to continue, though it will be finished by a new studio. Release timing is still unknown.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "Chronicles: Medieval",
+      "source": {
+        "outlet": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/strategy/chronicles-medieval-developer-declared-bankruptcy-on-the-day-it-announced-it-was-in-trouble-but-development-will-continue-after-a-usd5-million-reprieve-from-coffee-stain/",
+        "published_at": "2026-11-15T11:27:41.000Z"
+      },
+      "also_on": [],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2231020/322a3e5e98ce955972508f8ae5a6eb569ee40742/header.jpg?t=1791486435",
+        "steam_appid": 2231020,
+        "steam_url": "https://store.steampowered.com/app/2231020/"
+      },
+      "created_at": "2026-11-15T13:11:48.465Z"
+    },
     {
       "id": "61f78ec139b3",
       "category": "release",
@@ -422,6 +464,44 @@
       "also_on": [],
       "image": null,
       "created_at": "2026-11-15T10:00:44.645Z"
+    },
+    {
+      "id": "249fd186c6d3",
+      "category": "release",
+      "tldr": "Origame Digital is making a trilogy of anti-fascist games that reworks H.P. Lovecraft, starting with Penguin Colony.",
+      "why_it_matters": "Penguin Colony is part of a planned trilogy, so it's worth noting as a title to watch. Release details are not covered here, so timing and platforms are still unknown.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "Penguin Colony",
+      "source": {
+        "outlet": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/how-origame-digital-are-channelling-and-defacing-lovecraft-over-a-trilogy-of-inherently-indigenous-anti-fascist-games",
+        "published_at": "2026-11-13T14:30:00.000Z"
+      },
+      "also_on": [],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3695930/635ab46535a91159e6e08bbbdb3b057f3e095e29/header.jpg?t=1793115787",
+        "steam_appid": 3695930,
+        "steam_url": "https://store.steampowered.com/app/3695930/"
+      },
+      "created_at": "2026-11-15T13:12:00.380Z"
+    },
+    {
+      "id": "d6106a4e4f15",
+      "category": "hardware",
+      "tldr": "QSSR, an AI-guided upscaling feature, is coming to several PlayStation 5 games including Marvel's Spider-Man 2.",
+      "why_it_matters": "If you own these games on PS5, expect sharper visuals through upscaling, with the wider effect on performance and image quality still to be seen.",
+      "relevance": 3,
+      "confidence": "low",
+      "game_name": null,
+      "source": {
+        "outlet": "PlayStation Blog",
+        "url": "https://blog.playstation.com/2026/11/13/qssr-arrives-in-marvels-spider-man-2-control-resonant-the-finals-arc-raiders-and-hell-let-loose-vietnam/",
+        "published_at": "2026-11-13T14:00:16.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-15T13:12:01.724Z"
     },
     {
       "id": "faea49b37bb6",
