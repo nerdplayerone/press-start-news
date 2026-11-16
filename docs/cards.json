@@ -1,7 +1,100 @@
 {
-  "generated_at": "2026-11-16T10:47:43.496Z",
+  "generated_at": "2026-11-16T15:24:21.987Z",
   "version": 1,
   "cards": [
+    {
+      "id": "0d4f7e02a7be",
+      "category": "release",
+      "tldr": "Machine Party is coming to PS5, Xbox Series and Switch on November 26.",
+      "why_it_matters": "A violent party game collection with a fixed release date, so players wanting a couch multiplayer title can add it to their wishlist. Further details are not yet known.",
+      "relevance": 3,
+      "confidence": "low",
+      "game_name": "Machine Party",
+      "source": {
+        "outlet": "Gematsu",
+        "url": "https://www.gematsu.com/2026/11/machine-party-coming-to-ps5-xbox-series-and-switch-on-november-26",
+        "published_at": "2026-11-16T15:07:18.000Z"
+      },
+      "also_on": [],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4108000/00ae7d0e0fd0ad72635bddb1dd80ee68cc94eed5/header.jpg?t=1793352925",
+        "steam_appid": 4108000,
+        "steam_url": "https://store.steampowered.com/app/4108000/"
+      },
+      "created_at": "2026-11-16T15:23:39.046Z"
+    },
+    {
+      "id": "12152b118a62",
+      "category": "industry",
+      "tldr": "Indiana Jones and the Great Circle's designer says avoiding a gun-focused design was very difficult for MachineGames.",
+      "why_it_matters": "Players wanting a shooter-style experience may find weapons deliberately slow and fragile, so expect more melee and stealth than gunplay.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "Indiana Jones and the Great Circle",
+      "source": {
+        "outlet": "VGC",
+        "url": "https://www.videogameschronicle.com/news/indiana-jones-and-the-great-circle-designer-says-it-was-very-tough-to-make-a-machinegames-title-that-didnt-focus-on-guns/",
+        "published_at": "2026-11-16T14:33:12.000Z"
+      },
+      "also_on": [],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2677660/151ae5a881f05ef630defef85d99b38146b7055c/header.jpg?t=1778168392",
+        "steam_appid": 2677660,
+        "steam_url": "https://store.steampowered.com/app/2677660/"
+      },
+      "created_at": "2026-11-16T15:23:46.925Z"
+    },
+    {
+      "id": "5dfb6f301cdb",
+      "category": "hardware",
+      "tldr": "Asus has released beta BIOS updates adding a memory training counter that shows PC boot progress.",
+      "why_it_matters": "Players with Asus boards who see long boots can check the new counter before assuming a hang. Beta firmware carries risk, so wait for a stable release if unsure.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": null,
+      "source": {
+        "outlet": "PC Gamer",
+        "url": "https://www.pcgamer.com/hardware/motherboards/new-asus-beta-bios-patches-now-include-a-fresh-amd-feature-to-stop-you-thinking-your-pcs-b0rked/",
+        "published_at": "2026-11-16T13:16:34.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-16T15:24:01.333Z"
+    },
+    {
+      "id": "354c6149a430",
+      "category": "industry",
+      "tldr": "Report: The Chronicles of Riddick: Escape from Butcher Bay was briefly cancelled by Vivendi without its developer Starbreeze being told.",
+      "why_it_matters": "Shows the game nearly died before release, so fans of the Xbox shooter have a story to follow. Nothing yet changes for players about availability or future releases.",
+      "relevance": 3,
+      "confidence": "low",
+      "game_name": "The Chronicles of Riddick: Escape from Butcher Bay",
+      "source": {
+        "outlet": "VGC",
+        "url": "https://www.videogameschronicle.com/news/xbox-gem-the-chronicles-of-riddick-escape-from-butcher-bay-was-briefly-cancelled-but-nobody-told-its-developer/",
+        "published_at": "2026-11-16T12:31:08.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-16T15:24:07.493Z"
+    },
+    {
+      "id": "1bc8c7131311",
+      "category": "hardware",
+      "tldr": "Microsoft says its next Xbox, Project Helix, is a console rather than a PC, able to play PC games.",
+      "why_it_matters": "Players gain a clearer picture of Helix's direction, with neural rendering and backward compatibility emphasised. Hardware specs, price and release date are still unknown, so wait before buying.",
+      "relevance": 4,
+      "confidence": "high",
+      "game_name": null,
+      "source": {
+        "outlet": "Eurogamer",
+        "url": "https://www.eurogamer.net/microsoft-project-helix-interview-details",
+        "published_at": "2026-11-16T12:08:40.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-16T15:24:10.191Z"
+    },
     {
       "id": "f351f484be4c",
       "category": "release",

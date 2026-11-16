@@ -253,5 +253,18 @@
   "project helix": {
     "at": "2026-11-16T10:47:43.493Z",
     "match": null
+  },
+  "machine party": {
+    "at": "2026-11-16T15:24:20.486Z",
+    "match": {
+      "appid": 4108000,
+      "name": "Machine Party",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4108000/00ae7d0e0fd0ad72635bddb1dd80ee68cc94eed5/header.jpg?t=1793352925",
+      "url": "https://store.steampowered.com/app/4108000/"
+    }
+  },
+  "chronicles of riddick escape from butcher bay": {
+    "at": "2026-11-16T15:24:21.984Z",
+    "match": null
   }
 }
