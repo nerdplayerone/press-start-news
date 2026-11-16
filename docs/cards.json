@@ -1,7 +1,62 @@
 {
-  "generated_at": "2026-11-16T09:01:54.534Z",
+  "generated_at": "2026-11-16T10:47:43.496Z",
   "version": 1,
   "cards": [
+    {
+      "id": "f351f484be4c",
+      "category": "release",
+      "tldr": "Minecraft Dungeons II: The Humblers Awaken is set to arrive on December 1.",
+      "why_it_matters": "A dated launch for a Minecraft spin-off action game. Players who enjoy co-op dungeon crawling can note the date, though platforms and pricing are not covered here.",
+      "relevance": 3,
+      "confidence": "low",
+      "game_name": "Minecraft Dungeons II: The Humblers Awaken",
+      "source": {
+        "outlet": "Xbox Wire",
+        "url": "https://news.xbox.com/en-us/2026/11/16/minecraft-dungeons-ii-the-humblers-awaken-arrives-on-december-1/",
+        "published_at": "2026-11-16T10:43:38.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-16T10:47:32.786Z"
+    },
+    {
+      "id": "5ac13cd68b66",
+      "category": "release",
+      "tldr": "CyberMP, a Cyberpunk 2077 multiplayer mod, has launched in open beta after years of closed testing.",
+      "why_it_matters": "Anyone curious about playing Cyberpunk 2077 with others can now try it, but expect bugs and crashes as development continues.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "Cyberpunk 2077",
+      "source": {
+        "outlet": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/weve-finally-reached-this-milestone-cyberpunk-2077-multiplayer-mod-cybermp-kicks-off-open-beta-after-around-six-years-preparing-for-cybermayhem",
+        "published_at": "2026-11-16T10:28:20.000Z"
+      },
+      "also_on": [],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/48a93d6445a67520ea49833c93dae8f2e68fc540/header_alt_assets_9.jpg?t=1794474878",
+        "steam_appid": 1091500,
+        "steam_url": "https://store.steampowered.com/app/1091500/"
+      },
+      "created_at": "2026-11-16T10:47:35.286Z"
+    },
+    {
+      "id": "0597a4a4703d",
+      "category": "hardware",
+      "tldr": "Xbox says Project Helix will be a console able to play PC games, not a PC playing console games.",
+      "why_it_matters": "Players wanting PC game access on a console may find Helix relevant. Details on price, release and which games it runs are still unknown, so wait for more information.",
+      "relevance": 4,
+      "confidence": "low",
+      "game_name": "Project Helix",
+      "source": {
+        "outlet": "VGC",
+        "url": "https://www.videogameschronicle.com/news/xbox-says-project-helix-is-a-console-that-can-play-pc-games-not-a-pc-that-can-play-console-games/",
+        "published_at": "2026-11-16T09:54:09.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-16T10:47:37.285Z"
+    },
     {
       "id": "c839d559338b",
       "category": "release",
