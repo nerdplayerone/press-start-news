@@ -218,5 +218,23 @@
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2769570/d2ffd7e15a91f3e5485601d3d876988ba3a859d7/header.jpg?t=1788984944",
       "url": "https://store.steampowered.com/app/2769570/"
     }
+  },
+  "netcode warriors": {
+    "at": "2026-11-16T01:41:55.689Z",
+    "match": {
+      "appid": 2823570,
+      "name": "Netcode Warriors",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2823570/header.jpg?t=1794778832",
+      "url": "https://store.steampowered.com/app/2823570/"
+    }
+  },
+  "rivals of aether 2": {
+    "at": "2026-11-16T01:41:58.735Z",
+    "match": {
+      "appid": 2217000,
+      "name": "Rivals of Aether II",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2217000/2b910bb921e54b7d84473618e3247d759de37541/header.jpg?t=1790763301",
+      "url": "https://store.steampowered.com/app/2217000/"
+    }
   }
 }

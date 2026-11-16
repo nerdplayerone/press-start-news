@@ -1,7 +1,49 @@
 {
-  "generated_at": "2026-11-15T21:53:52.137Z",
+  "generated_at": "2026-11-16T01:41:58.738Z",
   "version": 1,
   "cards": [
+    {
+      "id": "325ebedf144f",
+      "category": "release",
+      "tldr": "Netcode Warriors is coming to PlayStation 5 and PC via Steam, launching in 2027.",
+      "why_it_matters": "Players who want an anime-inspired arena fighter can add it to their wishlist now. Exact launch date and pricing are still unknown.",
+      "relevance": 3,
+      "confidence": "low",
+      "game_name": "Netcode Warriors",
+      "source": {
+        "outlet": "Gematsu",
+        "url": "https://www.gematsu.com/2026/11/netcode-warriors-adds-ps5-version-launches-in-2027",
+        "published_at": "2026-11-15T22:00:36.000Z"
+      },
+      "also_on": [],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2823570/header.jpg?t=1794778832",
+        "steam_appid": 2823570,
+        "steam_url": "https://store.steampowered.com/app/2823570/"
+      },
+      "created_at": "2026-11-16T01:41:48.301Z"
+    },
+    {
+      "id": "a2ade472a8bb",
+      "category": "release",
+      "tldr": "Rivals of Aether II will add Burnette, a new fighter, on December 1.",
+      "why_it_matters": "Fans of platform fighters get a new playable character on the date given. The summary is short, so details of her moveset are still unknown.",
+      "relevance": 3,
+      "confidence": "low",
+      "game_name": "Rivals of Aether II",
+      "source": {
+        "outlet": "Gematsu",
+        "url": "https://www.gematsu.com/2026/11/rivals-of-aether-ii-adds-burnette-on-december-1",
+        "published_at": "2026-11-15T21:00:31.000Z"
+      },
+      "also_on": [],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2217000/2b910bb921e54b7d84473618e3247d759de37541/header.jpg?t=1790763301",
+        "steam_appid": 2217000,
+        "steam_url": "https://store.steampowered.com/app/2217000/"
+      },
+      "created_at": "2026-11-16T01:41:52.957Z"
+    },
     {
       "id": "46072c6da80c",
       "category": "industry",
