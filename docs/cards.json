@@ -1,7 +1,24 @@
 {
-  "generated_at": "2026-11-16T01:41:58.738Z",
+  "generated_at": "2026-11-16T04:51:15.300Z",
   "version": 1,
   "cards": [
+    {
+      "id": "c839d559338b",
+      "category": "release",
+      "tldr": "A roundup of this week's Japanese game releases, headlined by Grand Theft Auto VI on PlayStation 5 and Xbox Series.",
+      "why_it_matters": "Grand Theft Auto VI is a major open-world release, so players who want it should check its platform and details. The summary gives no further specifics on the other titles.",
+      "relevance": 3,
+      "confidence": "low",
+      "game_name": "Grand Theft Auto VI",
+      "source": {
+        "outlet": "Gematsu",
+        "url": "https://www.gematsu.com/2026/11/this-weeks-japanese-game-releases-grand-theft-auto-vi-more",
+        "published_at": "2026-11-16T03:09:20.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-16T04:51:10.341Z"
+    },
     {
       "id": "325ebedf144f",
       "category": "release",
@@ -22,6 +39,27 @@
         "steam_url": "https://store.steampowered.com/app/2823570/"
       },
       "created_at": "2026-11-16T01:41:48.301Z"
+    },
+    {
+      "id": "81e0aa0b0c87",
+      "category": "release",
+      "tldr": "Capcom has revealed Cleanser Man, the winning boss from the Mega Man: Dual Override design contest.",
+      "why_it_matters": "Cleanser Man is a fan-designed boss joining Mega Man: Dual Override. The summary is cut off, so its role and any release details are still unknown.",
+      "relevance": 3,
+      "confidence": "low",
+      "game_name": "Mega Man: Dual Override",
+      "source": {
+        "outlet": "Gematsu",
+        "url": "https://www.gematsu.com/2026/11/mega-man-dual-override-boss-design-contest-winner-cleanser-man-revealed",
+        "published_at": "2026-11-15T21:30:39.000Z"
+      },
+      "also_on": [],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4223290/08af2430e76e5a61a26f5678348f5e1ace2c4b2b/header.jpg?t=1792127306",
+        "steam_appid": 4223290,
+        "steam_url": "https://store.steampowered.com/app/4223290/"
+      },
+      "created_at": "2026-11-16T04:51:12.028Z"
     },
     {
       "id": "a2ade472a8bb",
