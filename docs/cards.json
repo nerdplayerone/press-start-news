@@ -1,7 +1,66 @@
 {
-  "generated_at": "2026-11-16T15:24:21.987Z",
+  "generated_at": "2026-11-16T19:16:01.293Z",
   "version": 1,
   "cards": [
+    {
+      "id": "5901fd1fed78",
+      "category": "release",
+      "tldr": "SEGA has released a new trailer and screenshots for Crazy Taxi: World Tour, focusing on India.",
+      "why_it_matters": "Fans of the arcade driving series can check the new footage to judge the game's look. Full details on release timing and platforms are still unknown from this story.",
+      "relevance": 3,
+      "confidence": "low",
+      "game_name": "Crazy Taxi: World Tour",
+      "source": {
+        "outlet": "Gematsu",
+        "url": "https://www.gematsu.com/2026/11/crazy-taxi-world-tour-welcome-to-india-trailer-screenshots",
+        "published_at": "2026-11-16T18:12:16.000Z"
+      },
+      "also_on": [],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2924540/7ccfd3f4ac88238c6719e5e161d57b0524e18bce/header.jpg?t=1794366940",
+        "steam_appid": 2924540,
+        "steam_url": "https://store.steampowered.com/app/2924540/"
+      },
+      "created_at": "2026-11-16T19:15:11.978Z"
+    },
+    {
+      "id": "999d3f98d091",
+      "category": "industry",
+      "tldr": "A former developer says a medieval Call of Duty with knights and swords nearly happened.",
+      "why_it_matters": "Nothing has been announced, so there is no release to plan around. Players who want swords in a shooter should keep waiting and watch for official news.",
+      "relevance": 3,
+      "confidence": "low",
+      "game_name": "Call of Duty",
+      "source": {
+        "outlet": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/call-of-duty/we-almost-got-a-medieval-call-of-duty-with-knights-and-swords-if-its-a-war-story-sure-it-can-be-call-of-duty/",
+        "published_at": "2026-11-16T16:28:36.000Z"
+      },
+      "also_on": [],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1938090/23af6cf41e2d09620caa07700a4cb3288dbcbaa8/header.jpg?t=1794591176",
+        "steam_appid": 1938090,
+        "steam_url": "https://store.steampowered.com/app/1938090/"
+      },
+      "created_at": "2026-11-16T19:15:36.702Z"
+    },
+    {
+      "id": "a7e8b7e20876",
+      "category": "hardware",
+      "tldr": "Biostar has announced a tiny motherboard built on Intel's Panther Lake platform.",
+      "why_it_matters": "The chip inside has only four Xe3 graphics cores, so it is unlikely to suit a gaming mini PC. Wait for benchmarks before wishlisting it for shooters or action games.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": null,
+      "source": {
+        "outlet": "PC Gamer",
+        "url": "https://www.pcgamer.com/hardware/motherboards/biostar-announces-the-first-intel-panther-lake-motherboard-and-its-tiny-but-dont-get-your-hopes-up-for-cramming-it-into-a-mini-gaming-pc/",
+        "published_at": "2026-11-16T16:08:45.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-16T19:15:48.557Z"
+    },
     {
       "id": "0d4f7e02a7be",
       "category": "release",
