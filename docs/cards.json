@@ -1,7 +1,45 @@
 {
-  "generated_at": "2026-11-16T19:16:01.293Z",
+  "generated_at": "2026-11-16T22:02:43.742Z",
   "version": 1,
   "cards": [
+    {
+      "id": "d9a8016f9283",
+      "category": "release",
+      "tldr": "Rumour: GTA 6 may get an online multiplayer mode, though there is no official confirmation yet.",
+      "why_it_matters": "Nothing is confirmed, so there is no date or details to plan around yet. Wait for official announcements before changing purchase plans.",
+      "relevance": 3,
+      "confidence": "low",
+      "game_name": "GTA 6",
+      "source": {
+        "outlet": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-online-multiplayer/",
+        "published_at": "2026-11-16T20:57:03.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-16T22:02:24.627Z"
+    },
+    {
+      "id": "5b5b74f91e5e",
+      "category": "release",
+      "tldr": "Star Wars: Galactic Racer is getting split-screen multiplayer and a new mode in 2027.",
+      "why_it_matters": "Split-screen support makes the arcade podracer easier to play with friends on one couch. Check the platform list before buying, as details beyond the 2027 timing are still unknown.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "Star Wars: Galactic Racer",
+      "source": {
+        "outlet": "Eurogamer",
+        "url": "https://www.eurogamer.net/star-wars-galactic-racer-split-screen-multiplayer",
+        "published_at": "2026-11-16T19:38:20.000Z"
+      },
+      "also_on": [],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4078430/97215eb609882139ce6a28419116be23fcf5ac86/header.jpg?t=1791388584",
+        "steam_appid": 4078430,
+        "steam_url": "https://store.steampowered.com/app/4078430/"
+      },
+      "created_at": "2026-11-16T22:02:30.705Z"
+    },
     {
       "id": "5901fd1fed78",
       "category": "release",
@@ -153,6 +191,23 @@
       "also_on": [],
       "image": null,
       "created_at": "2026-11-16T15:24:10.191Z"
+    },
+    {
+      "id": "2d921cc6b906",
+      "category": "hardware",
+      "tldr": "A new SteamOS update improves support for Nvidia-powered PCs, making a switch to the operating system easier.",
+      "why_it_matters": "Players with Nvidia graphics cards considering SteamOS may find setup less of a hassle. Details on which games or features gain support are still unknown.",
+      "relevance": 3,
+      "confidence": "low",
+      "game_name": null,
+      "source": {
+        "outlet": "PC Gamer",
+        "url": "https://www.pcgamer.com/hardware/steam-machines/the-latest-steamos-update-improves-support-on-nvidia-powered-pcs-makes-swapping-your-rig-to-the-os-less-painful/",
+        "published_at": "2026-11-16T11:47:03.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-16T22:02:39.894Z"
     },
     {
       "id": "f351f484be4c",
