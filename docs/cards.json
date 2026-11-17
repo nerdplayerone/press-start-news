@@ -1,7 +1,24 @@
 {
-  "generated_at": "2026-11-17T01:30:07.411Z",
+  "generated_at": "2026-11-17T04:10:37.960Z",
   "version": 1,
   "cards": [
+    {
+      "id": "a64463e83be6",
+      "category": "release",
+      "tldr": "A Splatoon Raiders demo is now available on the Nintendo eShop.",
+      "why_it_matters": "Players curious about Splatoon Raiders can try it before buying. Details beyond the demo's availability are still unknown from this summary.",
+      "relevance": 3,
+      "confidence": "low",
+      "game_name": "Splatoon Raiders",
+      "source": {
+        "outlet": "Gematsu",
+        "url": "https://www.gematsu.com/2026/11/splatoon-raiders-demo-now-available",
+        "published_at": "2026-11-17T01:35:24.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-17T04:10:36.919Z"
+    },
     {
       "id": "834fa9ad8d3b",
       "category": "industry",
