@@ -1,7 +1,45 @@
 {
-  "generated_at": "2026-11-16T22:02:43.742Z",
+  "generated_at": "2026-11-17T01:30:07.411Z",
   "version": 1,
   "cards": [
+    {
+      "id": "834fa9ad8d3b",
+      "category": "industry",
+      "tldr": "Sensor Tower estimates Grand Theft Auto 6 pre-orders have topped $1.4 billion, mostly for the Ultimate Edition.",
+      "why_it_matters": "Strong pre-order figures suggest huge demand, but the Ultimate Edition skew means most buyers chose the pricier version. Any pricing or edition changes are still unknown.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "Grand Theft Auto 6",
+      "source": {
+        "outlet": "GamesIndustry.biz",
+        "url": "https://www.gamesindustry.biz/sensor-tower-gta-6-pre-orders-exceed-14bn-with-87-for-the-ultimate-edition",
+        "published_at": "2026-11-17T01:00:00.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-17T01:29:47.760Z"
+    },
+    {
+      "id": "80e1a5ccf0d2",
+      "category": "release",
+      "tldr": "High Roller Penny, a pachinko-inspired roguelike, is set to launch on January 12, 2027.",
+      "why_it_matters": "A roguelike with a pachinko twist, launching for PC. Worth adding to your wishlist if you enjoy unusual roguelikes. Platforms beyond PC are not confirmed in this summary.",
+      "relevance": 3,
+      "confidence": "low",
+      "game_name": "High Roller Penny",
+      "source": {
+        "outlet": "Gematsu",
+        "url": "https://www.gematsu.com/2026/11/high-roller-penny-launches-january-12-2027",
+        "published_at": "2026-11-16T23:27:21.000Z"
+      },
+      "also_on": [],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4944410/b5dafdf6adbfa33ee598c866b8f8afa28bec3250/header.jpg?t=1792733828",
+        "steam_appid": 4944410,
+        "steam_url": "https://store.steampowered.com/app/4944410/"
+      },
+      "created_at": "2026-11-17T01:29:51.237Z"
+    },
     {
       "id": "d9a8016f9283",
       "category": "release",
@@ -81,6 +119,27 @@
         "steam_url": "https://store.steampowered.com/app/1938090/"
       },
       "created_at": "2026-11-16T19:15:36.702Z"
+    },
+    {
+      "id": "e63593766a7a",
+      "category": "release",
+      "tldr": "Bad House, an auto-battler dungeon crawler, is set to launch on PC via Steam on January 11, 2027.",
+      "why_it_matters": "Players who enjoy auto-battlers or dungeon crawlers can add it to their wishlist. The summary is cut off, so details on price and content are still unknown.",
+      "relevance": 3,
+      "confidence": "low",
+      "game_name": "Bad House",
+      "source": {
+        "outlet": "Gematsu",
+        "url": "https://www.gematsu.com/2026/11/bad-house-launches-january-11-2027",
+        "published_at": "2026-11-16T16:09:38.000Z"
+      },
+      "also_on": [],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3557870/c90401aa5161b781abd2974924357c8cb8d91d3a/header.jpg?t=1794844880",
+        "steam_appid": 3557870,
+        "steam_url": "https://store.steampowered.com/app/3557870/"
+      },
+      "created_at": "2026-11-17T01:29:58.473Z"
     },
     {
       "id": "a7e8b7e20876",
