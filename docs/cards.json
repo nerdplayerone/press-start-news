@@ -1,7 +1,49 @@
 {
-  "generated_at": "2026-11-17T19:20:43.166Z",
+  "generated_at": "2026-11-17T22:09:10.470Z",
   "version": 1,
   "cards": [
+    {
+      "id": "348279b6a55e",
+      "category": "release",
+      "tldr": "Dead by Daylight developer Behaviour Interactive plans a big revamp update next year that adds user-generated content.",
+      "why_it_matters": "Players can expect a way to make their own content for the horror game in a future update. Details such as tools, release timing and platforms are still unknown.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "Dead by Daylight",
+      "source": {
+        "outlet": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/the-siren-call-of-user-generated-content-has-caught-dead-by-daylight-in-its-snare-as-behaviour-interactive-outline-a-big-revamp-update-slated-for-next-year",
+        "published_at": "2026-11-17T21:33:50.000Z"
+      },
+      "also_on": [],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/header.jpg?t=1793724618",
+        "steam_appid": 381210,
+        "steam_url": "https://store.steampowered.com/app/381210/"
+      },
+      "created_at": "2026-11-17T22:08:40.484Z"
+    },
+    {
+      "id": "3b6d25065852",
+      "category": "release",
+      "tldr": "Mondrayn is a grim pixel art JRPG with survival elements, where dying does not end the suffering.",
+      "why_it_matters": "A niche pick for players who enjoy bleak RPGs with survival mechanics. Release date, platforms and price are not yet in this coverage, so worth noting and checking later.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "Mondrayn",
+      "source": {
+        "outlet": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/mondrayn-is-a-putrid-crunchy-pixel-art-rpg-about-escaping-from-limbo-where-dying-doesnt-mean-the-end-of-your-suffering",
+        "published_at": "2026-11-17T19:57:20.000Z"
+      },
+      "also_on": [],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3780430/c3f420b7db9e97e6bb47ba1bc539ff9072886124/header.jpg?t=1794605839",
+        "steam_appid": 3780430,
+        "steam_url": "https://store.steampowered.com/app/3780430/"
+      },
+      "created_at": "2026-11-17T22:08:51.639Z"
+    },
     {
       "id": "9a75eeeb4570",
       "category": "release",
@@ -69,6 +111,49 @@
       ],
       "image": null,
       "created_at": "2026-11-17T19:20:11.870Z"
+    },
+    {
+      "id": "1317e184d5f2",
+      "category": "industry",
+      "tldr": "Take-Two has reportedly laid off a third of Firaxis staff, days before GTA 6 launches.",
+      "why_it_matters": "Firaxis makes Civilization and XCOM, so shooter and strategy fans should watch whether the next XCOM game is affected. Its status is still unknown.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": null,
+      "source": {
+        "outlet": "VGC",
+        "url": "https://www.videogameschronicle.com/news/take-two-lays-off-third-of-firaxis-staff/",
+        "published_at": "2026-11-17T17:00:25.000Z"
+      },
+      "also_on": [
+        {
+          "outlet": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/only-two-days-out-from-gta-6-its-publisher-take-two-lay-off-staff-at-xcom-and-civilization-developer-firaxis"
+        },
+        {
+          "outlet": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/civilization-dev-firaxis-reportedly-lays-off-a-third-of-its-staff-studio-head-departs/"
+        }
+      ],
+      "image": null,
+      "created_at": "2026-11-17T22:08:59.312Z"
+    },
+    {
+      "id": "e84ee590b342",
+      "category": "industry",
+      "tldr": "Xbox Game Pass adds several new titles, including The Outlast Trials and Sniper Ghost Warrior Contracts 2.",
+      "why_it_matters": "Shooter and horror fans get two relevant titles on Game Pass. Exact dates and platforms beyond those listed are still unknown, so check the full Xbox Wire post before planning.",
+      "relevance": 3,
+      "confidence": "low",
+      "game_name": null,
+      "source": {
+        "outlet": "Xbox Wire",
+        "url": "https://news.xbox.com/en-us/2026/11/17/xbox-game-pass-november-2026-wave-2/",
+        "published_at": "2026-11-17T17:00:00.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-17T22:09:00.302Z"
     },
     {
       "id": "0b34b7dc02eb",
@@ -150,6 +235,10 @@
         {
           "outlet": "PC Gamer",
           "url": "https://www.pcgamer.com/games/rpg/sci-fi-rpg-exodus-gets-even-more-mass-effect-like-with-its-female-lead-who-they-are-calling-femjun/"
+        },
+        {
+          "outlet": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/archetype-go-all-in-on-the-mass-effect-vibes-with-a-femjun-reveal-but-im-just-left-hoping-theyll-call-the-alternative-option-mascjun-to-balance-it-out"
         }
       ],
       "image": {
@@ -1080,82 +1169,6 @@
         "steam_url": "https://store.steampowered.com/app/2806050/"
       },
       "created_at": "2026-11-15T08:17:37.483Z"
-    },
-    {
-      "id": "30ba9526ee50",
-      "category": "hardware",
-      "tldr": "CRKD has launched the Atom Plus, a small gamepad with dual analog thumbsticks for portable play.",
-      "why_it_matters": "Players who want a compact controller with two thumbsticks can consider it, but reviewer notes that larger hands may find it cramped.",
-      "relevance": 3,
-      "confidence": "high",
-      "game_name": null,
-      "source": {
-        "outlet": "The Verge",
-        "url": "https://www.theverge.com/tech/1013985/crkd-atom-plus-tmr-analog-thumbstick-controller-gamepad-switch-ios-android-hands-on",
-        "published_at": "2026-11-14T14:00:00.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-15T08:17:38.773Z"
-    },
-    {
-      "id": "ac11ba91e981",
-      "category": "industry",
-      "tldr": "Formula 1 has partnered with the gacha game Umamusume: Pretty Derby in a financial deal.",
-      "why_it_matters": "Players of Umamusume may see Formula 1 tie-in content, but the article gives no details on what that content includes or when it arrives.",
-      "relevance": 2,
-      "confidence": "low",
-      "game_name": "Umamusume: Pretty Derby",
-      "source": {
-        "outlet": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/sports/formula-1-just-found-a-bizarre-financial-supporter-in-horse-girl-gacha-umamusume-pretty-derby/",
-        "published_at": "2026-11-14T14:00:00.000Z"
-      },
-      "also_on": [],
-      "image": {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3224770/d7ddfe8985d7be8db7a0195d5c482c4438ed929d/header.jpg?t=1773306345",
-        "steam_appid": 3224770,
-        "steam_url": "https://store.steampowered.com/app/3224770/"
-      },
-      "created_at": "2026-11-15T08:17:40.050Z"
-    },
-    {
-      "id": "19e563a267e1",
-      "category": "release",
-      "tldr": "Report: Ubisoft is reportedly developing a new Rainbow Six Vegas game, about 18 years after Vegas 2.",
-      "why_it_matters": "Nothing is confirmed yet, so there is no release date or platform to plan around. Worth watching for an official announcement before adding it to a wishlist.",
-      "relevance": 3,
-      "confidence": "low",
-      "game_name": "Rainbow Six Vegas",
-      "source": {
-        "outlet": "Eurogamer",
-        "url": "https://www.eurogamer.net/rainbow-six-vegas-new-game-ubisoft-spades-report",
-        "published_at": "2026-11-14T12:19:50.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-15T08:17:42.585Z"
-    },
-    {
-      "id": "29b2473243fb",
-      "category": "industry",
-      "tldr": "Indiana Jones and the Great Circle originally had a GTA-style wanted system, according to design director Jens Andersson.",
-      "why_it_matters": "The system was cut or changed during development, so players expecting it should not count on it. Gunplay penalties in the final game remain unclear from this report alone.",
-      "relevance": 3,
-      "confidence": "high",
-      "game_name": "Indiana Jones and the Great Circle",
-      "source": {
-        "outlet": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/action/indiana-jones-and-the-great-circle-once-had-a-grand-theft-auto-inspired-wanted-system-because-machinegames-was-afraid-players-would-kill-all-the-nazis-with-just-guns/",
-        "published_at": "2026-11-14T11:26:04.000Z"
-      },
-      "also_on": [],
-      "image": {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2677660/151ae5a881f05ef630defef85d99b38146b7055c/header.jpg?t=1778168392",
-        "steam_appid": 2677660,
-        "steam_url": "https://store.steampowered.com/app/2677660/"
-      },
-      "created_at": "2026-11-15T08:17:44.142Z"
     }
   ]
 }
