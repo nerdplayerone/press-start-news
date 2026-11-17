@@ -1,7 +1,75 @@
 {
-  "generated_at": "2026-11-17T16:13:35.624Z",
+  "generated_at": "2026-11-17T19:20:43.166Z",
   "version": 1,
   "cards": [
+    {
+      "id": "9a75eeeb4570",
+      "category": "release",
+      "tldr": "Spyro: A Realm Beyond has been teased ahead of a showing at The Game Awards 2026.",
+      "why_it_matters": "Publisher Activision and developer Toys for Bob will share more information, so players can watch for details. Platforms, release date and gameplay are still unknown.",
+      "relevance": 3,
+      "confidence": "low",
+      "game_name": "Spyro: A Realm Beyond",
+      "source": {
+        "outlet": "Gematsu",
+        "url": "https://www.gematsu.com/2026/11/spyro-a-realm-beyond-teased-for-the-game-awards-2026",
+        "published_at": "2026-11-17T18:38:26.000Z"
+      },
+      "also_on": [],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4245560/09b109726c8458478e4c2f36f3784a9a4c24edac/header.jpg?t=1781623703",
+        "steam_appid": 4245560,
+        "steam_url": "https://store.steampowered.com/app/4245560/"
+      },
+      "created_at": "2026-11-17T19:19:59.400Z"
+    },
+    {
+      "id": "74fbebf7c58f",
+      "category": "release",
+      "tldr": "Black Mesa, the Valve-sanctioned Half-Life remake, received a major update and a Steam Deck verified badge.",
+      "why_it_matters": "Shooter fans can now expect the remake to run well on Steam Deck, and the update adds cubemap reflections. Full details of the update are still unknown.",
+      "relevance": 4,
+      "confidence": "high",
+      "game_name": "Black Mesa",
+      "source": {
+        "outlet": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/fps/valve-sanctioned-half-life-remake-black-mesa-gets-a-mondo-update-and-a-steam-deck-verified-badge/",
+        "published_at": "2026-11-17T17:46:25.000Z"
+      },
+      "also_on": [],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/362890/d20df1f51d7569184d35367daaed267ec078a6a3/header_alt_assets_3.jpg?t=1794939413",
+        "steam_appid": 362890,
+        "steam_url": "https://store.steampowered.com/app/362890/"
+      },
+      "created_at": "2026-11-17T19:20:05.910Z"
+    },
+    {
+      "id": "0b61ac957012",
+      "category": "release",
+      "tldr": "Manni L. Perez has been confirmed as the actress voicing Lucia Caminos in GTA 6.",
+      "why_it_matters": "GTA 6 launches within days, so players can now put a face and voice to Lucia ahead of release. Those wanting spoilers-free play should avoid casting-focused coverage.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "Grand Theft Auto 6",
+      "source": {
+        "outlet": "VGC",
+        "url": "https://www.videogameschronicle.com/news/lucia-actor-confirmed-as-gta-6-sweeps-the-game-awards-nominations/",
+        "published_at": "2026-11-17T17:08:11.000Z"
+      },
+      "also_on": [
+        {
+          "outlet": "Eurogamer",
+          "url": "https://www.eurogamer.net/gta-6-lucia-actress-manni-l-perez-confirmed"
+        },
+        {
+          "outlet": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/events-conferences/we-got-8-game-awards-nominations-for-gta-6-before-gta-6/"
+        }
+      ],
+      "image": null,
+      "created_at": "2026-11-17T19:20:11.870Z"
+    },
     {
       "id": "0b34b7dc02eb",
       "category": "release",
@@ -78,7 +146,12 @@
         "url": "https://www.eurogamer.net/exodus-femjun-femshep-mass-effect-bioware-sci-fi-rpg",
         "published_at": "2026-11-17T15:30:00.000Z"
       },
-      "also_on": [],
+      "also_on": [
+        {
+          "outlet": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/sci-fi-rpg-exodus-gets-even-more-mass-effect-like-with-its-female-lead-who-they-are-calling-femjun/"
+        }
+      ],
       "image": {
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3230960/c7daff445142b7d24677b2e962bd84314da0b813/header.jpg?t=1792685162",
         "steam_appid": 3230960,
@@ -161,6 +234,23 @@
         "steam_url": "https://store.steampowered.com/app/3695350/"
       },
       "created_at": "2026-11-17T16:13:00.296Z"
+    },
+    {
+      "id": "ea8458eb03c3",
+      "category": "industry",
+      "tldr": "Zelda: Ocarina of Time on Switch 2 is the best-selling physical game in the US so far this year.",
+      "why_it_matters": "Strong retail sales point to a successful launch, but this news is mainly a sales milestone. Players already interested in the remake can treat it as confirmation of its popularity.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "The Legend of Zelda: Ocarina of Time",
+      "source": {
+        "outlet": "Eurogamer",
+        "url": "https://www.eurogamer.net/the-legend-of-zelda-ocarina-of-time-remake-physical-sales-us-1-million",
+        "published_at": "2026-11-17T14:20:30.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-17T19:20:27.212Z"
     },
     {
       "id": "10e7e1a71dc0",
@@ -1066,92 +1156,6 @@
         "steam_url": "https://store.steampowered.com/app/2677660/"
       },
       "created_at": "2026-11-15T08:17:44.142Z"
-    },
-    {
-      "id": "7e8cb50fb125",
-      "category": "release",
-      "tldr": "Netflix confirms Planeswalker, an animated Magic: The Gathering series, is coming in 2027.",
-      "why_it_matters": "Fans can add it to their watch list now. The sources give no further details on format, episode count or release month, so those remain unknown.",
-      "relevance": 3,
-      "confidence": "high",
-      "game_name": "Magic: The Gathering",
-      "source": {
-        "outlet": "Eurogamer",
-        "url": "https://www.eurogamer.net/magic-the-gathering-planeswalker-netflix-animated-series-2027",
-        "published_at": "2026-11-14T10:39:50.000Z"
-      },
-      "also_on": [
-        {
-          "outlet": "The Verge",
-          "url": "https://www.theverge.com/entertainment/1033909/magic-the-gathering-netflix-series"
-        },
-        {
-          "outlet": "PC Gamer",
-          "url": "https://www.pcgamer.com/movies-tv/planeswalker-netflixs-magic-the-gathering-animated-series-will-have-a-different-art-style-for-each-plane/"
-        }
-      ],
-      "image": null,
-      "created_at": "2026-11-15T08:17:48.107Z"
-    },
-    {
-      "id": "a752c0a74735",
-      "category": "release",
-      "tldr": "Team Meat announces Super Meat Boy Again+, a remaster of the original platformer with new levels and updated graphics.",
-      "why_it_matters": "Sources confirm a PC release but no date or price yet. Platformer fans can wishlist it, though the summaries are thin on details.",
-      "relevance": 4,
-      "confidence": "high",
-      "game_name": "Super Meat Boy Again+",
-      "source": {
-        "outlet": "Gematsu",
-        "url": "https://www.gematsu.com/2026/11/super-meat-boy-again-announced-for-pc",
-        "published_at": "2026-11-14T04:36:04.000Z"
-      },
-      "also_on": [
-        {
-          "outlet": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/from-2d-to-3d-and-back-to-2d-again-the-original-platforming-classic-super-meat-boy-returns-with-a-slick-remaster-complete-with-new-levels-and-too-many-old-saws"
-        }
-      ],
-      "image": {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4269060/a473773b47c75db9c86509268bee908223ac565c/header.jpg?t=1794632244",
-        "steam_appid": 4269060,
-        "steam_url": "https://store.steampowered.com/app/4269060/"
-      },
-      "created_at": "2026-11-15T08:17:56.299Z"
-    },
-    {
-      "id": "24da3dd3811f",
-      "category": "release",
-      "tldr": "Girls und Panzer Hakunetsu! Mahjong Tag Battle Desu! has been announced for PlayStation 5 and Switch 2.",
-      "why_it_matters": "A mahjong game for PS5 and Switch 2 from MAGES. Release date and full details are not in this summary, so wait for more information before deciding.",
-      "relevance": 2,
-      "confidence": "low",
-      "game_name": "Girls und Panzer Hakunetsu! Mahjong Tag Battle Desu!",
-      "source": {
-        "outlet": "Gematsu",
-        "url": "https://www.gematsu.com/2026/11/girls-und-panzer-hakunetsu-mahjong-tag-battle-desu-announced-for-ps5-switch-2",
-        "published_at": "2026-11-14T01:57:41.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-15T08:17:57.970Z"
-    },
-    {
-      "id": "5bda421f0177",
-      "category": "industry",
-      "tldr": "Several games are still launching on Steam during GTA 6 release week, despite the big competing release.",
-      "why_it_matters": "Players wanting new releases have options that week, so there is no need to hold off gaming time. Specific titles and dates are not given in this summary.",
-      "relevance": 2,
-      "confidence": "low",
-      "game_name": null,
-      "source": {
-        "outlet": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/yes-some-brave-games-are-still-launching-on-steam-during-gta-6-launch-week/",
-        "published_at": "2026-11-13T22:28:10.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-15T08:17:59.294Z"
     }
   ]
 }

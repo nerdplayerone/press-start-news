@@ -368,5 +368,27 @@
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3218570/03a5efdc08ce01b4067a4aed0f0601e5de22790b/header.jpg?t=1794829230",
       "url": "https://store.steampowered.com/app/3218570/"
     }
+  },
+  "spyro a realm beyond": {
+    "at": "2026-11-17T19:20:38.671Z",
+    "match": {
+      "appid": 4245560,
+      "name": "Spyro™: A Realm Beyond",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4245560/09b109726c8458478e4c2f36f3784a9a4c24edac/header.jpg?t=1781623703",
+      "url": "https://store.steampowered.com/app/4245560/"
+    }
+  },
+  "black mesa": {
+    "at": "2026-11-17T19:20:41.610Z",
+    "match": {
+      "appid": 362890,
+      "name": "Black Mesa",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/362890/d20df1f51d7569184d35367daaed267ec078a6a3/header_alt_assets_3.jpg?t=1794939413",
+      "url": "https://store.steampowered.com/app/362890/"
+    }
+  },
+  "legend of zelda ocarina of time": {
+    "at": "2026-11-17T19:20:43.161Z",
+    "match": null
   }
 }
