@@ -1,7 +1,75 @@
 {
-  "generated_at": "2026-11-18T16:17:28.726Z",
+  "generated_at": "2026-11-18T19:14:59.328Z",
   "version": 1,
   "cards": [
+    {
+      "id": "ceb4a9d2a8ed",
+      "category": "hardware",
+      "tldr": "Leaked images suggest Lenovo is preparing a cheaper handheld called the Legion Go Beam.",
+      "why_it_matters": "A lower-priced Legion Go could matter if you want a handheld PC without paying the high prices of current models. Price and release details are still unknown.",
+      "relevance": 4,
+      "confidence": "low",
+      "game_name": null,
+      "source": {
+        "outlet": "The Verge",
+        "url": "https://www.theverge.com/games/1036819/the-leaked-lenovo-legion-go-beam-could-be-the-affordable-handheld-we-need",
+        "published_at": "2026-11-18T19:11:50.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-18T19:14:24.810Z"
+    },
+    {
+      "id": "ead8a8ebe3f9",
+      "category": "release",
+      "tldr": "Grand Theft Auto 6 reportedly blocks cheats until the main story is finished, and locks progression once you use them.",
+      "why_it_matters": "Players who like cheats will have to wait for the campaign to end before using them. Details on how the progression lock works are still unknown.",
+      "relevance": 3,
+      "confidence": "low",
+      "game_name": "Grand Theft Auto 6",
+      "source": {
+        "outlet": "Eurogamer",
+        "url": "https://www.eurogamer.net/gta-6-no-cheats-until-completing-main-story",
+        "published_at": "2026-11-18T18:42:20.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-18T19:14:31.526Z"
+    },
+    {
+      "id": "b589444ab33c",
+      "category": "industry",
+      "tldr": "Rockstar says the PS5 Pro is not powerful enough to run GTA 6 at 40 or 60 frames per second.",
+      "why_it_matters": "Players on current consoles should not expect higher framerate modes for GTA 6 at launch. Whether later updates or newer hardware change this is still unknown.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "Grand Theft Auto VI",
+      "source": {
+        "outlet": "Eurogamer",
+        "url": "https://www.eurogamer.net/ps5-pro-not-powerful-enough-gta-6-60fps",
+        "published_at": "2026-11-18T18:17:50.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-18T19:14:40.424Z"
+    },
+    {
+      "id": "c3bdc81fa020",
+      "category": "release",
+      "tldr": "Some GTA 6 Ultimate Edition content is limited to the first chapter, with more unlocked through progression.",
+      "why_it_matters": "Ultimate Edition buyers may not get all bonus content straight away, so check what unlocks and how much effort it takes before paying extra.",
+      "relevance": 4,
+      "confidence": "high",
+      "game_name": "GTA 6",
+      "source": {
+        "outlet": "Eurogamer",
+        "url": "https://www.eurogamer.net/gta-6-ultimate-edition-unlock-details-temporary-content",
+        "published_at": "2026-11-18T17:42:30.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-18T19:14:51.968Z"
+    },
     {
       "id": "5075bf3a079b",
       "category": "release",
@@ -1083,82 +1151,6 @@
       "also_on": [],
       "image": null,
       "created_at": "2026-11-16T19:15:48.557Z"
-    },
-    {
-      "id": "0d4f7e02a7be",
-      "category": "release",
-      "tldr": "Machine Party is coming to PS5, Xbox Series and Switch on November 26.",
-      "why_it_matters": "A violent party game collection with a fixed release date, so players wanting a couch multiplayer title can add it to their wishlist. Further details are not yet known.",
-      "relevance": 3,
-      "confidence": "low",
-      "game_name": "Machine Party",
-      "source": {
-        "outlet": "Gematsu",
-        "url": "https://www.gematsu.com/2026/11/machine-party-coming-to-ps5-xbox-series-and-switch-on-november-26",
-        "published_at": "2026-11-16T15:07:18.000Z"
-      },
-      "also_on": [],
-      "image": {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4108000/00ae7d0e0fd0ad72635bddb1dd80ee68cc94eed5/header.jpg?t=1793352925",
-        "steam_appid": 4108000,
-        "steam_url": "https://store.steampowered.com/app/4108000/"
-      },
-      "created_at": "2026-11-16T15:23:39.046Z"
-    },
-    {
-      "id": "12152b118a62",
-      "category": "industry",
-      "tldr": "Indiana Jones and the Great Circle's designer says avoiding a gun-focused design was very difficult for MachineGames.",
-      "why_it_matters": "Players wanting a shooter-style experience may find weapons deliberately slow and fragile, so expect more melee and stealth than gunplay.",
-      "relevance": 3,
-      "confidence": "high",
-      "game_name": "Indiana Jones and the Great Circle",
-      "source": {
-        "outlet": "VGC",
-        "url": "https://www.videogameschronicle.com/news/indiana-jones-and-the-great-circle-designer-says-it-was-very-tough-to-make-a-machinegames-title-that-didnt-focus-on-guns/",
-        "published_at": "2026-11-16T14:33:12.000Z"
-      },
-      "also_on": [],
-      "image": {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2677660/151ae5a881f05ef630defef85d99b38146b7055c/header.jpg?t=1778168392",
-        "steam_appid": 2677660,
-        "steam_url": "https://store.steampowered.com/app/2677660/"
-      },
-      "created_at": "2026-11-16T15:23:46.925Z"
-    },
-    {
-      "id": "5dfb6f301cdb",
-      "category": "hardware",
-      "tldr": "Asus has released beta BIOS updates adding a memory training counter that shows PC boot progress.",
-      "why_it_matters": "Players with Asus boards who see long boots can check the new counter before assuming a hang. Beta firmware carries risk, so wait for a stable release if unsure.",
-      "relevance": 3,
-      "confidence": "high",
-      "game_name": null,
-      "source": {
-        "outlet": "PC Gamer",
-        "url": "https://www.pcgamer.com/hardware/motherboards/new-asus-beta-bios-patches-now-include-a-fresh-amd-feature-to-stop-you-thinking-your-pcs-b0rked/",
-        "published_at": "2026-11-16T13:16:34.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-16T15:24:01.333Z"
-    },
-    {
-      "id": "354c6149a430",
-      "category": "industry",
-      "tldr": "Report: The Chronicles of Riddick: Escape from Butcher Bay was briefly cancelled by Vivendi without its developer Starbreeze being told.",
-      "why_it_matters": "Shows the game nearly died before release, so fans of the Xbox shooter have a story to follow. Nothing yet changes for players about availability or future releases.",
-      "relevance": 3,
-      "confidence": "low",
-      "game_name": "The Chronicles of Riddick: Escape from Butcher Bay",
-      "source": {
-        "outlet": "VGC",
-        "url": "https://www.videogameschronicle.com/news/xbox-gem-the-chronicles-of-riddick-escape-from-butcher-bay-was-briefly-cancelled-but-nobody-told-its-developer/",
-        "published_at": "2026-11-16T12:31:08.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-16T15:24:07.493Z"
     }
   ]
 }
