@@ -1,7 +1,186 @@
 {
-  "generated_at": "2026-11-18T10:22:06.813Z",
+  "generated_at": "2026-11-18T13:31:37.549Z",
   "version": 1,
   "cards": [
+    {
+      "id": "ca79b32b05a9",
+      "category": "industry",
+      "tldr": "AMD says it loves gamers, weeks after calling itself a datacenter-first company.",
+      "why_it_matters": "Gaming hardware may get less focus from AMD as datacenter takes priority. Players wanting new GPUs or CPUs should watch for launch details before buying.",
+      "relevance": 3,
+      "confidence": "low",
+      "game_name": null,
+      "source": {
+        "outlet": "PC Gamer",
+        "url": "https://www.pcgamer.com/hardware/graphics-cards/amd-says-it-loves-gamers-only-weeks-after-proclaiming-it-is-a-datacenter-first-company/",
+        "published_at": "2026-11-18T12:57:35.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-18T13:30:58.119Z"
+    },
+    {
+      "id": "2b420be98801",
+      "category": "release",
+      "tldr": "GTA 6 launches on consoles this week at 30 FPS, and Rockstar confirmed no 60fps mode is coming to consoles.",
+      "why_it_matters": "If you want 60fps, PC is the only route still possible, but there is no official PC port announcement yet, so a PC release date is still unknown.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "Grand Theft Auto VI",
+      "source": {
+        "outlet": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/pc-remains-gta-6s-last-hope-for-60fps-smoothness-as-rockstar-confirm-such-an-option-isnt-coming-to-even-the-swankiest-consoles",
+        "published_at": "2026-11-18T12:06:00.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-18T13:31:04.233Z"
+    },
+    {
+      "id": "2404323c18e0",
+      "category": "release",
+      "tldr": "Rockstar's GTA 6 has not yet confirmed a first-person mode, despite questions from players.",
+      "why_it_matters": "Players wanting first-person play should wait for official confirmation before planning around it. The summary gives no further detail, so the answer is still unknown.",
+      "relevance": 3,
+      "confidence": "low",
+      "game_name": "Grand Theft Auto VI",
+      "source": {
+        "outlet": "VGC",
+        "url": "https://www.videogameschronicle.com/guide/gta-6-first-person-mode-explained-does-gta-6-have-a-first-person-mode/",
+        "published_at": "2026-11-18T11:57:56.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-18T13:31:06.627Z"
+    },
+    {
+      "id": "9e6791d29c38",
+      "category": "release",
+      "tldr": "Slay the Spire 2 is estimated to have sold 7.9 million copies since its March Steam Early Access launch.",
+      "why_it_matters": "Players of roguelike deckbuilders may want to watch its progress. The article gives no word on a full release, other platforms or price, so those remain unknown.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "Slay the Spire 2",
+      "source": {
+        "outlet": "Eurogamer",
+        "url": "https://www.eurogamer.net/slay-the-spire-2-8-million-sales-steam-estimates",
+        "published_at": "2026-11-18T11:33:00.000Z"
+      },
+      "also_on": [],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2868840/b0958d387dc366211e0f353443710cfcf9fdb020/header.jpg?t=1787169309",
+        "steam_appid": 2868840,
+        "steam_url": "https://store.steampowered.com/app/2868840/"
+      },
+      "created_at": "2026-11-18T13:31:10.243Z"
+    },
+    {
+      "id": "e5a3490a59de",
+      "category": "release",
+      "tldr": "GTA 6 has a criminal profile system that tracks the player's behaviour in the game.",
+      "why_it_matters": "Players who favour a lawful or chaotic playstyle may want to learn how the profile affects them. Details on its in-game effects are still unknown from this summary.",
+      "relevance": 3,
+      "confidence": "low",
+      "game_name": "GTA 6",
+      "source": {
+        "outlet": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-criminal-profile-honor-system-explained/",
+        "published_at": "2026-11-18T11:06:01.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-18T13:31:15.116Z"
+    },
+    {
+      "id": "f18b24da6d00",
+      "category": "release",
+      "tldr": "Reviews of Grand Theft Auto 6 have appeared, with The Verge saying it lives up to its hype.",
+      "why_it_matters": "Players wanting a verdict on the game can read the early reviews, though the full impression of the game is still unknown from these summaries.",
+      "relevance": 4,
+      "confidence": "high",
+      "game_name": "Grand Theft Auto 6",
+      "source": {
+        "outlet": "Eurogamer",
+        "url": "https://www.eurogamer.net/grand-theft-auto-6-review",
+        "published_at": "2026-11-18T11:00:00.000Z"
+      },
+      "also_on": [
+        {
+          "outlet": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/grand-theft-auto-6-complete-walkthrough-hub/"
+        },
+        {
+          "outlet": "The Verge",
+          "url": "https://www.theverge.com/games/1035801/grand-theft-auto-6-review"
+        }
+      ],
+      "image": null,
+      "created_at": "2026-11-18T13:31:16.348Z"
+    },
+    {
+      "id": "7c20006ee57d",
+      "category": "release",
+      "tldr": "PC Gamer has published a hands-on impression of GTA 6 after roughly 100 hours with the game.",
+      "why_it_matters": "GTA 6 is currently console-only, so PC players should note the reviewer's view that the PC version will be better. Wishlist it and wait for a confirmed PC release date.",
+      "relevance": 4,
+      "confidence": "low",
+      "game_name": "GTA 6",
+      "source": {
+        "outlet": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/100-hours-with-gta-6-a-sprawling-adventure-that-will-be-so-much-better-on-pc/",
+        "published_at": "2026-11-18T11:00:00.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-18T13:31:18.702Z"
+    },
+    {
+      "id": "d04699c673d6",
+      "category": "release",
+      "tldr": "Grand Theft Auto VI stars two thieves who fall in love, adding a romantic storyline to the open-world crime series.",
+      "why_it_matters": "Players who enjoy action and chaos can expect heists alongside a relationship subplot, with the game aimed at both audiences. Release details are not covered in this story.",
+      "relevance": 4,
+      "confidence": "high",
+      "game_name": "Grand Theft Auto VI",
+      "source": {
+        "outlet": "The Verge",
+        "url": "https://www.theverge.com/entertainment/1035806/grand-theft-auto-6-rob-nelson-interview",
+        "published_at": "2026-11-18T11:00:00.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-18T13:31:21.103Z"
+    },
+    {
+      "id": "2fc98ac10da5",
+      "category": "release",
+      "tldr": "Grand Theft Auto VI launches on PS5 and Xbox Series X/S on November 19th, with reviews now out.",
+      "why_it_matters": "Launch is imminent on PS5 and Xbox Series X/S, and reviews are praising it. Check the review roundups before deciding whether to buy or wait.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "Grand Theft Auto VI",
+      "source": {
+        "outlet": "Eurogamer",
+        "url": "https://www.eurogamer.net/new-zealand-tourist-board-gives-nod-grand-theft-auto-timezone-trick",
+        "published_at": "2026-11-18T10:36:40.000Z"
+      },
+      "also_on": [
+        {
+          "outlet": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/grand-theft-auto-6-cheats-explained-are-cheats-in-gta-6/"
+        },
+        {
+          "outlet": "The Verge",
+          "url": "https://www.theverge.com/entertainment/1035847/grand-theft-auto-6-launch-review-news"
+        },
+        {
+          "outlet": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-review-roundup-rockstars-magnum-opus-a-great-love-story-and-a-new-bar-for-open-worlds/"
+        }
+      ],
+      "image": null,
+      "created_at": "2026-11-18T13:31:24.786Z"
+    },
     {
       "id": "73637466527b",
       "category": "hardware",
@@ -35,6 +214,23 @@
       "also_on": [],
       "image": null,
       "created_at": "2026-11-18T10:21:54.866Z"
+    },
+    {
+      "id": "a5b03a2ce7ac",
+      "category": "release",
+      "tldr": "Arcade Archives 2 TX-1 V.8 launches on November 19 for PlayStation 5, Xbox Series and Switch 2.",
+      "why_it_matters": "A retro arcade shmup collection release for current consoles. Worth a look if you enjoy classic vertical shooters, though the summary gives no further details yet.",
+      "relevance": 3,
+      "confidence": "low",
+      "game_name": "Arcade Archives 2 TX-1 V.8",
+      "source": {
+        "outlet": "Gematsu",
+        "url": "https://www.gematsu.com/2026/11/arcade-archives-tx-1-v-8-launches-november-19",
+        "published_at": "2026-11-18T08:15:30.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-18T13:31:30.122Z"
     },
     {
       "id": "eda476a303dc",
@@ -975,200 +1171,6 @@
         "steam_url": "https://store.steampowered.com/app/4223290/"
       },
       "created_at": "2026-11-16T04:51:12.028Z"
-    },
-    {
-      "id": "a2ade472a8bb",
-      "category": "release",
-      "tldr": "Rivals of Aether II will add Burnette, a new fighter, on December 1.",
-      "why_it_matters": "Fans of platform fighters get a new playable character on the date given. The summary is short, so details of her moveset are still unknown.",
-      "relevance": 3,
-      "confidence": "low",
-      "game_name": "Rivals of Aether II",
-      "source": {
-        "outlet": "Gematsu",
-        "url": "https://www.gematsu.com/2026/11/rivals-of-aether-ii-adds-burnette-on-december-1",
-        "published_at": "2026-11-15T21:00:31.000Z"
-      },
-      "also_on": [],
-      "image": {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2217000/2b910bb921e54b7d84473618e3247d759de37541/header.jpg?t=1790763301",
-        "steam_appid": 2217000,
-        "steam_url": "https://store.steampowered.com/app/2217000/"
-      },
-      "created_at": "2026-11-16T01:41:52.957Z"
-    },
-    {
-      "id": "46072c6da80c",
-      "category": "industry",
-      "tldr": "Blade Runner 2099 producers hint at a possible triple-A Blade Runner video game someday.",
-      "why_it_matters": "Nothing is announced and the producers suggest it is not coming soon, so there is no release date, platform or studio to watch yet.",
-      "relevance": 3,
-      "confidence": "high",
-      "game_name": null,
-      "source": {
-        "outlet": "Eurogamer",
-        "url": "https://www.eurogamer.net/blade-runner-2099-triple-a-talks",
-        "published_at": "2026-11-15T14:43:00.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-15T15:55:04.617Z"
-    },
-    {
-      "id": "0125b7f26b02",
-      "category": "release",
-      "tldr": "Horu, an RTS inspired by Star Wars: Empire at War, promises huge space battles and planetary fights.",
-      "why_it_matters": "Expected to launch at the end of next year, so strategy fans can add it to their wishlist. Details on platforms and price are still unknown.",
-      "relevance": 3,
-      "confidence": "high",
-      "game_name": "Horu",
-      "source": {
-        "outlet": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/rts/this-rts-inspired-by-star-wars-empire-at-war-promises-colossal-space-encounters-and-planetary-battles-with-hundreds-of-thousands-of-units/",
-        "published_at": "2026-11-15T14:30:16.000Z"
-      },
-      "also_on": [],
-      "image": {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1297450/f478f185f8d8bd4ca324cae4ae5bbca3948717e7/header.jpg?t=1794497150",
-        "steam_appid": 1297450,
-        "steam_url": "https://store.steampowered.com/app/1297450/"
-      },
-      "created_at": "2026-11-15T15:55:05.897Z"
-    },
-    {
-      "id": "e516df992423",
-      "category": "release",
-      "tldr": "Rumour: A 34-song tracklist for GTA 6's soundtrack album has reportedly leaked via a video.",
-      "why_it_matters": "The leak is unconfirmed and comes from an unverified video, so the official soundtrack listing is still unknown. Wait for Rockstar's confirmation before treating the tracklist as final.",
-      "relevance": 3,
-      "confidence": "high",
-      "game_name": "GTA 6",
-      "source": {
-        "outlet": "Eurogamer",
-        "url": "https://www.eurogamer.net/gta-6-tracklist-leak",
-        "published_at": "2026-11-15T14:03:50.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-15T15:55:08.864Z"
-    },
-    {
-      "id": "0e2869f061f0",
-      "category": "release",
-      "tldr": "Dune: Awakening now has an offline mode that needs no internet connection at any point.",
-      "why_it_matters": "Players wanting to play without a connection can now do so, including creating and deleting single-player characters. Check the offline mode details before diving in.",
-      "relevance": 3,
-      "confidence": "high",
-      "game_name": "Dune: Awakening",
-      "source": {
-        "outlet": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/survival-crafting/former-survival-mmo-dune-awakening-can-now-be-played-without-requiring-an-internet-connection-at-any-point-as-its-much-requested-offline-mode-arrives/",
-        "published_at": "2026-11-15T12:33:46.000Z"
-      },
-      "also_on": [],
-      "image": {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172710/da994ea756677c3d1d9a77accb8596a8661f4cad/header.jpg?t=1793636917",
-        "steam_appid": 1172710,
-        "steam_url": "https://store.steampowered.com/app/1172710/"
-      },
-      "created_at": "2026-11-15T13:11:47.286Z"
-    },
-    {
-      "id": "e6efcbee8c76",
-      "category": "industry",
-      "tldr": "Chronicles: Medieval's developer declared bankruptcy, but development will continue after a $5 million rescue from Coffee Stain.",
-      "why_it_matters": "Players who want the historical strategy game should expect it to continue, though it will be finished by a new studio. Release timing is still unknown.",
-      "relevance": 3,
-      "confidence": "high",
-      "game_name": "Chronicles: Medieval",
-      "source": {
-        "outlet": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/strategy/chronicles-medieval-developer-declared-bankruptcy-on-the-day-it-announced-it-was-in-trouble-but-development-will-continue-after-a-usd5-million-reprieve-from-coffee-stain/",
-        "published_at": "2026-11-15T11:27:41.000Z"
-      },
-      "also_on": [],
-      "image": {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2231020/322a3e5e98ce955972508f8ae5a6eb569ee40742/header.jpg?t=1791486435",
-        "steam_appid": 2231020,
-        "steam_url": "https://store.steampowered.com/app/2231020/"
-      },
-      "created_at": "2026-11-15T13:11:48.465Z"
-    },
-    {
-      "id": "61f78ec139b3",
-      "category": "release",
-      "tldr": "The Snackbar at the End of the World was revealed as a cartoon action-adventure set in magical 1960s Italy.",
-      "why_it_matters": "Players who like action games with a cooking loop can add it to their wishlist. Release details are not in this report, so timing and platforms remain unknown.",
-      "relevance": 3,
-      "confidence": "high",
-      "game_name": "The Snackbar at the End of the World",
-      "source": {
-        "outlet": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/forage-and-fight-for-ingredients-in-a-magical-1960s-italy-and-whip-up-some-tasty-meals-cooking-mama-style-in-the-snackbar-at-the-end-of-the-world",
-        "published_at": "2026-11-14T22:53:00.000Z"
-      },
-      "also_on": [],
-      "image": {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5211590/425978540d641409856ecb075b70f8e4a5059ca1/header.jpg?t=1794325930",
-        "steam_appid": 5211590,
-        "steam_url": "https://store.steampowered.com/app/5211590/"
-      },
-      "created_at": "2026-11-15T08:17:21.548Z"
-    },
-    {
-      "id": "4f085cf01bbb",
-      "category": "release",
-      "tldr": "World of Warcraft: Forever will stop dungeon mobs giving experience if they are trivial for the party.",
-      "why_it_matters": "Players levelling with a higher-level friend will no longer gain quick experience from easy enemies, so expect slower levelling when boosted.",
-      "relevance": 3,
-      "confidence": "high",
-      "game_name": "World of Warcraft: Forever",
-      "source": {
-        "outlet": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-dungeon-mobs-no-longer-give-exp-if-theyre-trivial-for-anyone-in-the-party/",
-        "published_at": "2026-11-14T22:17:19.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-15T08:17:24.862Z"
-    },
-    {
-      "id": "2b50e1e804c9",
-      "category": "release",
-      "tldr": "Rasen has launched in early access as a PvP-focused game inspired by Dark Souls combat.",
-      "why_it_matters": "Souls fans wary of player-versus-player can also fight computer enemies, so it may suit cautious players. Watch for early access progress, as the input gives no price or platform details.",
-      "relevance": 3,
-      "confidence": "high",
-      "game_name": "Rasen",
-      "source": {
-        "outlet": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/rasen-out-in-early-access-now-is-a-pvp-focused-take-on-dark-souls-that-borrows-one-of-fighting-games-best-techy-tricks",
-        "published_at": "2026-11-14T21:31:00.000Z"
-      },
-      "also_on": [],
-      "image": {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3967860/402d837a00acc9fba18b3acbfc2ea0e0e5e667b8/header.jpg?t=1794589030",
-        "steam_appid": 3967860,
-        "steam_url": "https://store.steampowered.com/app/3967860/"
-      },
-      "created_at": "2026-11-15T08:17:26.142Z"
-    },
-    {
-      "id": "350f232fc0d0",
-      "category": "industry",
-      "tldr": "Jackbox's CEO says the company gets many false positives when judging whether its party games are funny.",
-      "why_it_matters": "Players wanting a sense of Jackbox's quality bar may find this interesting, but the input gives no release or product details, so there is no clear action to take yet.",
-      "relevance": 2,
-      "confidence": "low",
-      "game_name": null,
-      "source": {
-        "outlet": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/is-the-game-funny-or-just-the-players-jackbox-ceo-says-they-get-a-lot-of-false-positives-with-a-staff-of-comedy-writers/",
-        "published_at": "2026-11-14T20:45:44.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-15T08:17:27.777Z"
     }
   ]
 }
