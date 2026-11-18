@@ -1,7 +1,143 @@
 {
-  "generated_at": "2026-11-18T13:31:37.549Z",
+  "generated_at": "2026-11-18T16:17:28.726Z",
   "version": 1,
   "cards": [
+    {
+      "id": "5075bf3a079b",
+      "category": "release",
+      "tldr": "Grand Theft Auto VI launches tomorrow, 19 November, following criminal duo Jason and Lucia across Leonida.",
+      "why_it_matters": "A major open-world release on PlayStation, so players who want it should pre-load or clear time now. Its shooting and action content suits fans of action games.",
+      "relevance": 5,
+      "confidence": "high",
+      "game_name": "Grand Theft Auto VI",
+      "source": {
+        "outlet": "PlayStation Blog",
+        "url": "https://blog.playstation.com/2026/11/18/grand-theft-auto-vi-launches-tomorrow-november-19/",
+        "published_at": "2026-11-18T16:00:23.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-18T16:16:59.105Z"
+    },
+    {
+      "id": "36e571bc5c12",
+      "category": "hardware",
+      "tldr": "8BitDo has released a Bluetooth gamepad that closely follows the GameCube controller's design, available for preorder now.",
+      "why_it_matters": "Players wanting a GameCube-style pad on modern systems now have a cheaper option, at $49.99, than Nintendo's official wireless version. Shipping is expected on December 10th.",
+      "relevance": 4,
+      "confidence": "high",
+      "game_name": null,
+      "source": {
+        "outlet": "The Verge",
+        "url": "https://www.theverge.com/tech/1036578/8bitdo-gb-bluetooth-gamepad-wireless-controller-nintendo-gamecube-wavebird",
+        "published_at": "2026-11-18T16:00:00.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-18T16:17:00.185Z"
+    },
+    {
+      "id": "81e6cad1385f",
+      "category": "release",
+      "tldr": "Rockstar co-founder Sam Houser issued a rare statement as GTA 6 launched, praising its critical reception.",
+      "why_it_matters": "GTA 6 is now out, so players can judge the reviews for themselves. The statement gives no details on the game's content, platforms or price.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "GTA 6",
+      "source": {
+        "outlet": "GamesIndustry.biz",
+        "url": "https://www.gamesindustry.biz/sam-houser-with-gta-6-rockstar-tried-to-create-an-experience-that-will-exceed-your-expectations-while-showing-what-this-medium-is-capable-of",
+        "published_at": "2026-11-18T15:56:30.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-18T16:17:01.684Z"
+    },
+    {
+      "id": "a03617ec2c96",
+      "category": "release",
+      "tldr": "Rockstar reportedly says the PS5 Pro cannot run GTA 6 at 60 FPS.",
+      "why_it_matters": "Players wanting a smooth 60 FPS version on PS5 Pro should not expect one. Whether a later update could change this is still unknown.",
+      "relevance": 4,
+      "confidence": "low",
+      "game_name": "GTA 6",
+      "source": {
+        "outlet": "VGC",
+        "url": "https://www.videogameschronicle.com/news/rockstar-says-ps5-pro-cant-handle-gta-6-at-60-fps/",
+        "published_at": "2026-11-18T15:54:33.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-18T16:17:03.735Z"
+    },
+    {
+      "id": "779926ed1836",
+      "category": "release",
+      "tldr": "GTA 6 has reportedly set records for critical response and streaming audiences before its wider release.",
+      "why_it_matters": "Its strong early reception suggests a major action release to keep on your radar, though exact platforms and full release timing are still unknown from this story.",
+      "relevance": 4,
+      "confidence": "low",
+      "game_name": "GTA 6",
+      "source": {
+        "outlet": "GamesIndustry.biz",
+        "url": "https://www.gamesindustry.biz/gta-6-arrives-to-record-review-scores-and-streaming-audiences",
+        "published_at": "2026-11-18T15:24:20.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-18T16:17:06.663Z"
+    },
+    {
+      "id": "0163fb24c937",
+      "category": "release",
+      "tldr": "A reviewer says GTA 6 looks gorgeous and runs at a stable 30 fps on PS5 Pro.",
+      "why_it_matters": "Suggests the game may perform well on older hardware, but PC performance is still unknown. Wait for official PC specs and benchmarks before deciding.",
+      "relevance": 3,
+      "confidence": "low",
+      "game_name": "GTA 6",
+      "source": {
+        "outlet": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-looks-gorgeous-and-seeing-it-run-at-a-stable-30-fps-on-ageing-ps5-pro-hardware-makes-me-hopeful-for-pc-performance/",
+        "published_at": "2026-11-18T15:22:01.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-18T16:17:07.756Z"
+    },
+    {
+      "id": "9b91943f6f85",
+      "category": "release",
+      "tldr": "Report: GTA 6 reportedly struggles to hold 30 FPS on the base PS5 at all times.",
+      "why_it_matters": "The PS5 Pro reportedly keeps 30 FPS, so base PS5 owners may face dips. Check official performance details before deciding which console to buy.",
+      "relevance": 3,
+      "confidence": "low",
+      "game_name": "GTA 6",
+      "source": {
+        "outlet": "VGC",
+        "url": "https://www.videogameschronicle.com/news/gta-6-base-ps5-performance-analysis-shows-struggle-to-maintain-30-fps-at-all-times/",
+        "published_at": "2026-11-18T15:02:46.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-18T16:17:12.918Z"
+    },
+    {
+      "id": "4cd20ef599f4",
+      "category": "release",
+      "tldr": "Grand Theft Auto 6 has received universal critical acclaim after its long-awaited launch.",
+      "why_it_matters": "Reviews are strongly positive, so it is worth a closer look if you enjoy open-world action games. Check the reviews and your platform's price before buying.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "Grand Theft Auto 6",
+      "source": {
+        "outlet": "GamesIndustry.biz",
+        "url": "https://www.gamesindustry.biz/grand-theft-auto-6-critical-consensus",
+        "published_at": "2026-11-18T14:38:20.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-18T16:17:17.045Z"
+    },
     {
       "id": "ca79b32b05a9",
       "category": "industry",
@@ -1023,154 +1159,6 @@
       "also_on": [],
       "image": null,
       "created_at": "2026-11-16T15:24:07.493Z"
-    },
-    {
-      "id": "1bc8c7131311",
-      "category": "hardware",
-      "tldr": "Microsoft says its next Xbox, Project Helix, is a console rather than a PC, able to play PC games.",
-      "why_it_matters": "Players gain a clearer picture of Helix's direction, with neural rendering and backward compatibility emphasised. Hardware specs, price and release date are still unknown, so wait before buying.",
-      "relevance": 4,
-      "confidence": "high",
-      "game_name": null,
-      "source": {
-        "outlet": "Eurogamer",
-        "url": "https://www.eurogamer.net/microsoft-project-helix-interview-details",
-        "published_at": "2026-11-16T12:08:40.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-16T15:24:10.191Z"
-    },
-    {
-      "id": "2d921cc6b906",
-      "category": "hardware",
-      "tldr": "A new SteamOS update improves support for Nvidia-powered PCs, making a switch to the operating system easier.",
-      "why_it_matters": "Players with Nvidia graphics cards considering SteamOS may find setup less of a hassle. Details on which games or features gain support are still unknown.",
-      "relevance": 3,
-      "confidence": "low",
-      "game_name": null,
-      "source": {
-        "outlet": "PC Gamer",
-        "url": "https://www.pcgamer.com/hardware/steam-machines/the-latest-steamos-update-improves-support-on-nvidia-powered-pcs-makes-swapping-your-rig-to-the-os-less-painful/",
-        "published_at": "2026-11-16T11:47:03.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-16T22:02:39.894Z"
-    },
-    {
-      "id": "f351f484be4c",
-      "category": "release",
-      "tldr": "Minecraft Dungeons II: The Humblers Awaken is set to arrive on December 1.",
-      "why_it_matters": "A dated launch for a Minecraft spin-off action game. Players who enjoy co-op dungeon crawling can note the date, though platforms and pricing are not covered here.",
-      "relevance": 3,
-      "confidence": "low",
-      "game_name": "Minecraft Dungeons II: The Humblers Awaken",
-      "source": {
-        "outlet": "Xbox Wire",
-        "url": "https://news.xbox.com/en-us/2026/11/16/minecraft-dungeons-ii-the-humblers-awaken-arrives-on-december-1/",
-        "published_at": "2026-11-16T10:43:38.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-16T10:47:32.786Z"
-    },
-    {
-      "id": "5ac13cd68b66",
-      "category": "release",
-      "tldr": "CyberMP, a Cyberpunk 2077 multiplayer mod, has launched in open beta after years of closed testing.",
-      "why_it_matters": "Anyone curious about playing Cyberpunk 2077 with others can now try it, but expect bugs and crashes as development continues.",
-      "relevance": 3,
-      "confidence": "high",
-      "game_name": "Cyberpunk 2077",
-      "source": {
-        "outlet": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/weve-finally-reached-this-milestone-cyberpunk-2077-multiplayer-mod-cybermp-kicks-off-open-beta-after-around-six-years-preparing-for-cybermayhem",
-        "published_at": "2026-11-16T10:28:20.000Z"
-      },
-      "also_on": [],
-      "image": {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/48a93d6445a67520ea49833c93dae8f2e68fc540/header_alt_assets_9.jpg?t=1794474878",
-        "steam_appid": 1091500,
-        "steam_url": "https://store.steampowered.com/app/1091500/"
-      },
-      "created_at": "2026-11-16T10:47:35.286Z"
-    },
-    {
-      "id": "0597a4a4703d",
-      "category": "hardware",
-      "tldr": "Xbox says Project Helix will be a console able to play PC games, not a PC playing console games.",
-      "why_it_matters": "Players wanting PC game access on a console may find Helix relevant. Details on price, release and which games it runs are still unknown, so wait for more information.",
-      "relevance": 4,
-      "confidence": "low",
-      "game_name": "Project Helix",
-      "source": {
-        "outlet": "VGC",
-        "url": "https://www.videogameschronicle.com/news/xbox-says-project-helix-is-a-console-that-can-play-pc-games-not-a-pc-that-can-play-console-games/",
-        "published_at": "2026-11-16T09:54:09.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-16T10:47:37.285Z"
-    },
-    {
-      "id": "c839d559338b",
-      "category": "release",
-      "tldr": "A roundup of this week's Japanese game releases, headlined by Grand Theft Auto VI on PlayStation 5 and Xbox Series.",
-      "why_it_matters": "Grand Theft Auto VI is a major open-world release, so players who want it should check its platform and details. The summary gives no further specifics on the other titles.",
-      "relevance": 3,
-      "confidence": "low",
-      "game_name": "Grand Theft Auto VI",
-      "source": {
-        "outlet": "Gematsu",
-        "url": "https://www.gematsu.com/2026/11/this-weeks-japanese-game-releases-grand-theft-auto-vi-more",
-        "published_at": "2026-11-16T03:09:20.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-16T04:51:10.341Z"
-    },
-    {
-      "id": "325ebedf144f",
-      "category": "release",
-      "tldr": "Netcode Warriors is coming to PlayStation 5 and PC via Steam, launching in 2027.",
-      "why_it_matters": "Players who want an anime-inspired arena fighter can add it to their wishlist now. Exact launch date and pricing are still unknown.",
-      "relevance": 3,
-      "confidence": "low",
-      "game_name": "Netcode Warriors",
-      "source": {
-        "outlet": "Gematsu",
-        "url": "https://www.gematsu.com/2026/11/netcode-warriors-adds-ps5-version-launches-in-2027",
-        "published_at": "2026-11-15T22:00:36.000Z"
-      },
-      "also_on": [],
-      "image": {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2823570/header.jpg?t=1794778832",
-        "steam_appid": 2823570,
-        "steam_url": "https://store.steampowered.com/app/2823570/"
-      },
-      "created_at": "2026-11-16T01:41:48.301Z"
-    },
-    {
-      "id": "81e0aa0b0c87",
-      "category": "release",
-      "tldr": "Capcom has revealed Cleanser Man, the winning boss from the Mega Man: Dual Override design contest.",
-      "why_it_matters": "Cleanser Man is a fan-designed boss joining Mega Man: Dual Override. The summary is cut off, so its role and any release details are still unknown.",
-      "relevance": 3,
-      "confidence": "low",
-      "game_name": "Mega Man: Dual Override",
-      "source": {
-        "outlet": "Gematsu",
-        "url": "https://www.gematsu.com/2026/11/mega-man-dual-override-boss-design-contest-winner-cleanser-man-revealed",
-        "published_at": "2026-11-15T21:30:39.000Z"
-      },
-      "also_on": [],
-      "image": {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4223290/08af2430e76e5a61a26f5678348f5e1ace2c4b2b/header.jpg?t=1792127306",
-        "steam_appid": 4223290,
-        "steam_url": "https://store.steampowered.com/app/4223290/"
-      },
-      "created_at": "2026-11-16T04:51:12.028Z"
     }
   ]
 }
