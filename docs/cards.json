@@ -1,7 +1,41 @@
 {
-  "generated_at": "2026-11-18T07:35:50.124Z",
+  "generated_at": "2026-11-18T10:22:06.813Z",
   "version": 1,
   "cards": [
+    {
+      "id": "73637466527b",
+      "category": "hardware",
+      "tldr": "PS5 has received its third system software update in a month, a 1.2GB download.",
+      "why_it_matters": "Players should install the 1.2GB firmware update before Grand Theft Auto 6 launches, as it is needed before the game can be played.",
+      "relevance": 3,
+      "confidence": "low",
+      "game_name": "Grand Theft Auto 6",
+      "source": {
+        "outlet": "VGC",
+        "url": "https://www.videogameschronicle.com/news/ps5-gets-its-third-system-software-update-in-a-month-right-before-grand-theft-auto-6-is-released/",
+        "published_at": "2026-11-18T10:06:30.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-18T10:21:50.146Z"
+    },
+    {
+      "id": "5b65ccb2d95d",
+      "category": "industry",
+      "tldr": "Grand Theft Auto 6 leads The Game Awards 2026 with eight nominations, including Game of the Year.",
+      "why_it_matters": "Shows the game is critically recognised before launch, but the summary gives no release date or platforms, so players should watch for official details.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "Grand Theft Auto 6",
+      "source": {
+        "outlet": "GamesIndustry.biz",
+        "url": "https://www.gamesindustry.biz/gta-6-leads-the-game-awards-2026-with-eight-nominations",
+        "published_at": "2026-11-18T09:12:10.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-18T10:21:54.866Z"
+    },
     {
       "id": "eda476a303dc",
       "category": "release",
@@ -1135,40 +1169,6 @@
       "also_on": [],
       "image": null,
       "created_at": "2026-11-15T08:17:27.777Z"
-    },
-    {
-      "id": "7961c92b1e78",
-      "category": "release",
-      "tldr": "Rockstar's GTA 6 co-studio head says the game gives players more room to act empathetically than earlier entries.",
-      "why_it_matters": "If you dislike the series' violence, this suggests more options to play less cruelly, though the article gives no specifics on how those mechanisms work.",
-      "relevance": 4,
-      "confidence": "high",
-      "game_name": "Grand Theft Auto VI",
-      "source": {
-        "outlet": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/congratulations-to-people-who-feel-mean-shooting-random-npcs-because-gta-6-tries-to-provide-mechanisms-that-encourage-empathy",
-        "published_at": "2026-11-14T19:00:00.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-15T08:17:29.812Z"
-    },
-    {
-      "id": "e3090568af38",
-      "category": "industry",
-      "tldr": "Dishonored 2 director Harvey Smith discusses balancing familiar immersive sim traditions with fresh surprises for fans.",
-      "why_it_matters": "No game, release date or platform is named, so there is nothing to wishlist or buy yet. Players interested in immersive sims can follow his work for future announcements.",
-      "relevance": 2,
-      "confidence": "low",
-      "game_name": null,
-      "source": {
-        "outlet": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/sim/dishonored-2-director-harvey-smith-wants-to-honour-sacred-imsim-texts-while-finding-news-ways-to-surprise-fans-thats-the-two-wolves-inside-me/",
-        "published_at": "2026-11-14T15:00:00.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-15T08:17:35.903Z"
     }
   ]
 }
