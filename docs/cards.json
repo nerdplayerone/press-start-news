@@ -1,7 +1,58 @@
 {
-  "generated_at": "2026-11-18T19:14:59.328Z",
+  "generated_at": "2026-11-18T22:05:55.975Z",
   "version": 1,
   "cards": [
+    {
+      "id": "4c35ce0574cc",
+      "category": "industry",
+      "tldr": "Rockstar reportedly says the PS5 Pro is not powerful enough to run GTA 6 at 60 fps.",
+      "why_it_matters": "Players wanting smooth 60 fps GTA 6 on PS5 Pro may need to lower expectations or consider a PC. Performance details beyond this claim are still unknown.",
+      "relevance": 3,
+      "confidence": "low",
+      "game_name": "GTA 6",
+      "source": {
+        "outlet": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/rockstar-says-a-ps5-pro-is-simply-not-powerful-enough-for-60-fps-gta-6-as-i-crack-a-smile-at-my-5090/",
+        "published_at": "2026-11-18T21:51:35.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-18T22:05:22.542Z"
+    },
+    {
+      "id": "cc8c27a78f1d",
+      "category": "release",
+      "tldr": "Players claim a 2021 remaster may have contained the first real look at GTA 6.",
+      "why_it_matters": "Still unknown whether this is confirmed or just fan speculation, so there is no practical action yet. Wait for Rockstar or verified footage before treating it as news.",
+      "relevance": 3,
+      "confidence": "low",
+      "game_name": "GTA 6",
+      "source": {
+        "outlet": "VGC",
+        "url": "https://www.videogameschronicle.com/news/gta-6-players-discover-our-real-first-look-at-the-game-was-likely-hidden-in-a-2021-remaster/",
+        "published_at": "2026-11-18T19:30:32.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-18T22:05:34.114Z"
+    },
+    {
+      "id": "9fa8c9a10cd8",
+      "category": "release",
+      "tldr": "Report: GTA 6 will reportedly change how players steal cars, adding slim jims, key cloners and tracking devices.",
+      "why_it_matters": "Car theft in GTA 6 may work quite differently from earlier entries, so it is worth watching for details. Specifics on how these tools work are still unknown.",
+      "relevance": 3,
+      "confidence": "low",
+      "game_name": "GTA 6",
+      "source": {
+        "outlet": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-how-to-steal-cars/",
+        "published_at": "2026-11-18T19:22:44.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-18T22:05:35.287Z"
+    },
     {
       "id": "ceb4a9d2a8ed",
       "category": "hardware",
@@ -69,6 +120,23 @@
       "also_on": [],
       "image": null,
       "created_at": "2026-11-18T19:14:51.968Z"
+    },
+    {
+      "id": "c026862f2d9b",
+      "category": "hardware",
+      "tldr": "Wooting admits a fault was found with its Large Knob, delaying the product until next year.",
+      "why_it_matters": "If you were planning to buy the Wooting Large Knob, expect to wait until next year. The summary gives no details on the fault itself or what it affects.",
+      "relevance": 3,
+      "confidence": "low",
+      "game_name": null,
+      "source": {
+        "outlet": "PC Gamer",
+        "url": "https://www.pcgamer.com/hardware/gaming-keyboards/wooting-admits-we-found-an-issue-with-the-large-knob/",
+        "published_at": "2026-11-18T17:09:27.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-18T22:05:45.514Z"
     },
     {
       "id": "5075bf3a079b",
@@ -205,6 +273,28 @@
       "also_on": [],
       "image": null,
       "created_at": "2026-11-18T16:17:17.045Z"
+    },
+    {
+      "id": "a99a938255b7",
+      "category": "release",
+      "tldr": "GTA 6 does not let players replay story missions once completed, though multiple save files are available.",
+      "why_it_matters": "Players who like revisiting missions should plan saves carefully, as progress through the story cannot be rolled back to replay a mission.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "Grand Theft Auto VI",
+      "source": {
+        "outlet": "Eurogamer",
+        "url": "https://www.eurogamer.net/gta-6-multiple-save-files-replay-missions",
+        "published_at": "2026-11-18T14:24:00.000Z"
+      },
+      "also_on": [
+        {
+          "outlet": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/gta-6-swamped-mission-walkthrough/"
+        }
+      ],
+      "image": null,
+      "created_at": "2026-11-18T22:05:48.861Z"
     },
     {
       "id": "ca79b32b05a9",
@@ -401,6 +491,23 @@
       "also_on": [],
       "image": null,
       "created_at": "2026-11-18T10:21:50.146Z"
+    },
+    {
+      "id": "37f70d8d05e2",
+      "category": "release",
+      "tldr": "Console Archives The Firemen 2: Pete & Danny launches on November 19 for PlayStation 5 and Switch.",
+      "why_it_matters": "A retro-style arcade action title is arriving next day. Shooter and action fans wanting a quick, old-school fix can add it to their list now.",
+      "relevance": 3,
+      "confidence": "low",
+      "game_name": "Console Archives The Firemen 2: Pete & Danny",
+      "source": {
+        "outlet": "Gematsu",
+        "url": "https://www.gematsu.com/2026/11/console-archives-the-firemen-2-pete-danny-launches-november-19",
+        "published_at": "2026-11-18T10:05:35.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-18T22:05:49.962Z"
     },
     {
       "id": "5b65ccb2d95d",
@@ -1024,133 +1131,6 @@
         "steam_url": "https://store.steampowered.com/app/4944410/"
       },
       "created_at": "2026-11-17T01:29:51.237Z"
-    },
-    {
-      "id": "d9a8016f9283",
-      "category": "release",
-      "tldr": "Rumour: GTA 6 may get an online multiplayer mode, though there is no official confirmation yet.",
-      "why_it_matters": "Nothing is confirmed, so there is no date or details to plan around yet. Wait for official announcements before changing purchase plans.",
-      "relevance": 3,
-      "confidence": "low",
-      "game_name": "GTA 6",
-      "source": {
-        "outlet": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-online-multiplayer/",
-        "published_at": "2026-11-16T20:57:03.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-16T22:02:24.627Z"
-    },
-    {
-      "id": "5b5b74f91e5e",
-      "category": "release",
-      "tldr": "Star Wars: Galactic Racer is getting split-screen multiplayer and a new mode in 2027.",
-      "why_it_matters": "Split-screen support makes the arcade podracer easier to play with friends on one couch. Check the platform list before buying, as details beyond the 2027 timing are still unknown.",
-      "relevance": 3,
-      "confidence": "high",
-      "game_name": "Star Wars: Galactic Racer",
-      "source": {
-        "outlet": "Eurogamer",
-        "url": "https://www.eurogamer.net/star-wars-galactic-racer-split-screen-multiplayer",
-        "published_at": "2026-11-16T19:38:20.000Z"
-      },
-      "also_on": [
-        {
-          "outlet": "VGC",
-          "url": "https://www.videogameschronicle.com/news/star-wars-galactic-racer-is-getting-split-screen-multiplayer-and-a-new-free-play-mode/"
-        },
-        {
-          "outlet": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/star-wars-galactic-racer-will-get-local-split-screen-multiplayer-in-early-2027-with-new-free-play-mode-finally-letting-racers-yell-at-one-another-in-a-tangible-space"
-        }
-      ],
-      "image": {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4078430/97215eb609882139ce6a28419116be23fcf5ac86/header.jpg?t=1791388584",
-        "steam_appid": 4078430,
-        "steam_url": "https://store.steampowered.com/app/4078430/"
-      },
-      "created_at": "2026-11-16T22:02:30.705Z"
-    },
-    {
-      "id": "5901fd1fed78",
-      "category": "release",
-      "tldr": "SEGA has released a new trailer and screenshots for Crazy Taxi: World Tour, focusing on India.",
-      "why_it_matters": "Fans of the arcade driving series can check the new footage to judge the game's look. Full details on release timing and platforms are still unknown from this story.",
-      "relevance": 3,
-      "confidence": "low",
-      "game_name": "Crazy Taxi: World Tour",
-      "source": {
-        "outlet": "Gematsu",
-        "url": "https://www.gematsu.com/2026/11/crazy-taxi-world-tour-welcome-to-india-trailer-screenshots",
-        "published_at": "2026-11-16T18:12:16.000Z"
-      },
-      "also_on": [],
-      "image": {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2924540/7ccfd3f4ac88238c6719e5e161d57b0524e18bce/header.jpg?t=1794366940",
-        "steam_appid": 2924540,
-        "steam_url": "https://store.steampowered.com/app/2924540/"
-      },
-      "created_at": "2026-11-16T19:15:11.978Z"
-    },
-    {
-      "id": "999d3f98d091",
-      "category": "industry",
-      "tldr": "A former developer says a medieval Call of Duty with knights and swords nearly happened.",
-      "why_it_matters": "Nothing has been announced, so there is no release to plan around. Players who want swords in a shooter should keep waiting and watch for official news.",
-      "relevance": 3,
-      "confidence": "low",
-      "game_name": "Call of Duty",
-      "source": {
-        "outlet": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/call-of-duty/we-almost-got-a-medieval-call-of-duty-with-knights-and-swords-if-its-a-war-story-sure-it-can-be-call-of-duty/",
-        "published_at": "2026-11-16T16:28:36.000Z"
-      },
-      "also_on": [],
-      "image": {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1938090/23af6cf41e2d09620caa07700a4cb3288dbcbaa8/header.jpg?t=1794591176",
-        "steam_appid": 1938090,
-        "steam_url": "https://store.steampowered.com/app/1938090/"
-      },
-      "created_at": "2026-11-16T19:15:36.702Z"
-    },
-    {
-      "id": "e63593766a7a",
-      "category": "release",
-      "tldr": "Bad House, an auto-battler dungeon crawler, is set to launch on PC via Steam on January 11, 2027.",
-      "why_it_matters": "Players who enjoy auto-battlers or dungeon crawlers can add it to their wishlist. The summary is cut off, so details on price and content are still unknown.",
-      "relevance": 3,
-      "confidence": "low",
-      "game_name": "Bad House",
-      "source": {
-        "outlet": "Gematsu",
-        "url": "https://www.gematsu.com/2026/11/bad-house-launches-january-11-2027",
-        "published_at": "2026-11-16T16:09:38.000Z"
-      },
-      "also_on": [],
-      "image": {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3557870/c90401aa5161b781abd2974924357c8cb8d91d3a/header.jpg?t=1794844880",
-        "steam_appid": 3557870,
-        "steam_url": "https://store.steampowered.com/app/3557870/"
-      },
-      "created_at": "2026-11-17T01:29:58.473Z"
-    },
-    {
-      "id": "a7e8b7e20876",
-      "category": "hardware",
-      "tldr": "Biostar has announced a tiny motherboard built on Intel's Panther Lake platform.",
-      "why_it_matters": "The chip inside has only four Xe3 graphics cores, so it is unlikely to suit a gaming mini PC. Wait for benchmarks before wishlisting it for shooters or action games.",
-      "relevance": 3,
-      "confidence": "high",
-      "game_name": null,
-      "source": {
-        "outlet": "PC Gamer",
-        "url": "https://www.pcgamer.com/hardware/motherboards/biostar-announces-the-first-intel-panther-lake-motherboard-and-its-tiny-but-dont-get-your-hopes-up-for-cramming-it-into-a-mini-gaming-pc/",
-        "published_at": "2026-11-16T16:08:45.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-16T19:15:48.557Z"
     }
   ]
 }
