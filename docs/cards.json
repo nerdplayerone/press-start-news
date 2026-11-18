@@ -1,7 +1,28 @@
 {
-  "generated_at": "2026-11-18T01:35:17.927Z",
+  "generated_at": "2026-11-18T04:12:53.820Z",
   "version": 1,
   "cards": [
+    {
+      "id": "eda476a303dc",
+      "category": "release",
+      "tldr": "Darktide's new Sister Novitiate class arrives with a holy hand grenade and a crossbow that pins enemies to walls.",
+      "why_it_matters": "Shooter fans who like inventive weapons may want to check out the new class. Beyond the crossbow and grenade, the summary gives no further detail on how the class plays.",
+      "relevance": 3,
+      "confidence": "low",
+      "game_name": "Warhammer 40,000: Darktide",
+      "source": {
+        "outlet": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/fps/darktides-new-sister-novitiate-class-gets-a-holy-hand-grenade-and-a-crossbow-that-can-pin-enemies-to-walls/",
+        "published_at": "2026-11-18T03:53:54.000Z"
+      },
+      "also_on": [],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1361210/f07ebcb73a34112ac61c54608b1f1ded7e45eb8a/header.jpg?t=1794566003",
+        "steam_appid": 1361210,
+        "steam_url": "https://store.steampowered.com/app/1361210/"
+      },
+      "created_at": "2026-11-18T04:12:36.970Z"
+    },
     {
       "id": "348279b6a55e",
       "category": "release",
@@ -1148,27 +1169,6 @@
       "also_on": [],
       "image": null,
       "created_at": "2026-11-15T08:17:35.903Z"
-    },
-    {
-      "id": "4a855f062c03",
-      "category": "release",
-      "tldr": "Halo: Campaign Evolved will receive a free Firefight update, with more details promised at Halo Fest in December.",
-      "why_it_matters": "Firefight is a co-op survival mode, so players who own the remake gain new content at no cost. Details are still unknown until Halo Fest.",
-      "relevance": 3,
-      "confidence": "high",
-      "game_name": "Halo: Campaign Evolved",
-      "source": {
-        "outlet": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/halo/halo-campaign-evolved-is-getting-firefight-as-a-free-update-though-im-not-sure-itll-do-much-to-change-the-remakes-fortunes/",
-        "published_at": "2026-11-14T14:49:43.000Z"
-      },
-      "also_on": [],
-      "image": {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2806050/30d8542d35d7919b34e5f5dbe955d04c3f99e6da/header.jpg?t=1786379031",
-        "steam_appid": 2806050,
-        "steam_url": "https://store.steampowered.com/app/2806050/"
-      },
-      "created_at": "2026-11-15T08:17:37.483Z"
     }
   ]
 }
