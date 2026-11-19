@@ -1,7 +1,130 @@
 {
-  "generated_at": "2026-11-19T10:22:37.234Z",
+  "generated_at": "2026-11-19T13:35:29.029Z",
   "version": 1,
   "cards": [
+    {
+      "id": "de39f40d89f8",
+      "category": "release",
+      "tldr": "Grand Theft Auto VI features a smartphone that exists inside the game world, not just as a menu.",
+      "why_it_matters": "Players can expect phone messages and app notifications to be part of the in-game experience. Full details on how the phone works are not yet clear from this piece.",
+      "relevance": 3,
+      "confidence": "low",
+      "game_name": "Grand Theft Auto VI",
+      "source": {
+        "outlet": "The Verge",
+        "url": "https://www.theverge.com/entertainment/1037106/grand-theft-auto-6-smartphone",
+        "published_at": "2026-11-19T13:30:00.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-19T13:34:44.625Z"
+    },
+    {
+      "id": "674a3a0fe266",
+      "category": "hardware",
+      "tldr": "Rocksteady's GTA 6 advice: turn on HGiG on your HDR TV for the best picture.",
+      "why_it_matters": "If you play GTA 6 on an HDR TV, enabling HGiG mode should give a more accurate picture. Nothing else about the game is covered here.",
+      "relevance": 3,
+      "confidence": "low",
+      "game_name": "GTA 6",
+      "source": {
+        "outlet": "VGC",
+        "url": "https://www.videogameschronicle.com/news/gta-6-psa-hgig-hdr-tv-grand-theft-auto/",
+        "published_at": "2026-11-19T13:24:22.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-19T13:34:48.229Z"
+    },
+    {
+      "id": "cf76fb21e71a",
+      "category": "release",
+      "tldr": "Rockstar says it will not include a Disney World parody in GTA 6, citing an obvious reason.",
+      "why_it_matters": "Players wanting a theme park parody should not expect one in GTA 6. The producer said building it would take a lot of work, so the omission looks deliberate.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "GTA 6",
+      "source": {
+        "outlet": "VGC",
+        "url": "https://www.videogameschronicle.com/news/rockstar-says-theres-no-disney-world-in-gta-6-for-an-obvious-reason/",
+        "published_at": "2026-11-19T13:20:27.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-19T13:34:51.818Z"
+    },
+    {
+      "id": "5a0c6806c721",
+      "category": "hardware",
+      "tldr": "OLED monitor shipments have doubled compared with last year, according to reported figures.",
+      "why_it_matters": "Shows OLED panels are gaining ground fast, so gamers weighing a monitor upgrade may find more OLED choice and options. Specific models and prices are still unknown.",
+      "relevance": 3,
+      "confidence": "low",
+      "game_name": null,
+      "source": {
+        "outlet": "PC Gamer",
+        "url": "https://www.pcgamer.com/hardware/gaming-monitors/oled-monitor-shipments-have-doubled-from-last-year-and-all-i-can-say-is-its-well-deserved/",
+        "published_at": "2026-11-19T13:19:30.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-19T13:34:52.920Z"
+    },
+    {
+      "id": "1307b302fdbc",
+      "category": "hardware",
+      "tldr": "Rock Paper Shotgun argues that gamers should buy OLED monitors despite higher cost and burn-in worries.",
+      "why_it_matters": "If you are shopping for a gaming monitor, OLED is worth considering, though burn-in risk and price remain the main trade-offs to weigh.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": null,
+      "source": {
+        "outlet": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/theyre-more-complicated-and-more-expensive-than-lcd-screens-but-your-next-gaming-monitor-should-still-be-an-oled",
+        "published_at": "2026-11-19T13:00:00.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-19T13:34:57.642Z"
+    },
+    {
+      "id": "8011ccba9195",
+      "category": "release",
+      "tldr": "A new hour-long stream shows campaign play in Total War: Warhammer 40,000, including fleet management without ship battles.",
+      "why_it_matters": "Players wanting a feel for the strategy game's campaign can watch the footage. Unknown from this report is release timing or platforms.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "Total War: Warhammer 40,000",
+      "source": {
+        "outlet": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/hour-long-total-war-warhammer-40000-campaign-stream-shows-off-ship-battle-less-fleet-management-makes-clear-how-not-ideal-getting-space-marine-armies-killed-is",
+        "published_at": "2026-11-19T12:22:20.000Z"
+      },
+      "also_on": [],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4199910/fcb5b083b8f42f5dde4480aefa0294420ddf6b19/header.jpg?t=1784712557",
+        "steam_appid": 4199910,
+        "steam_url": "https://store.steampowered.com/app/4199910/"
+      },
+      "created_at": "2026-11-19T13:35:05.225Z"
+    },
+    {
+      "id": "bd1eb06f8052",
+      "category": "hardware",
+      "tldr": "Report: DDR6 memory modules are set to be almost half the size of DDR5 with nearly double the top speed.",
+      "why_it_matters": "Smaller, faster memory points to future PC builds with more performance per slot, though no release timing or prices are confirmed yet. Worth watching, not buying for now.",
+      "relevance": 3,
+      "confidence": "low",
+      "game_name": null,
+      "source": {
+        "outlet": "PC Gamer",
+        "url": "https://www.pcgamer.com/hardware/memory/ddr6-memory-modules-to-be-almost-half-the-size-of-ddr5-and-almost-double-the-max-speed/",
+        "published_at": "2026-11-19T11:52:57.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-19T13:35:11.231Z"
+    },
     {
       "id": "0aa7af57756a",
       "category": "release",
@@ -52,6 +175,23 @@
       "also_on": [],
       "image": null,
       "created_at": "2026-11-19T10:22:20.835Z"
+    },
+    {
+      "id": "8bf24a55f9bd",
+      "category": "release",
+      "tldr": "Grand Theft Auto 6 has launched, and players are sharing favourite moments online.",
+      "why_it_matters": "Players are praising slapstick violence, animal fatalities and the in-game social media. Fans wanting to avoid spoilers may want to steer clear of highlight clips for now.",
+      "relevance": 5,
+      "confidence": "high",
+      "game_name": "Grand Theft Auto 6",
+      "source": {
+        "outlet": "Eurogamer",
+        "url": "https://www.eurogamer.net/grand-theft-auto-6-players-love-crime-social-media-animals",
+        "published_at": "2026-11-19T09:38:50.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-19T13:35:22.890Z"
     },
     {
       "id": "5e44643d7969",
@@ -987,163 +1127,6 @@
         "steam_url": "https://store.steampowered.com/app/1150760/"
       },
       "created_at": "2026-11-17T16:12:48.997Z"
-    },
-    {
-      "id": "06cef2a20704",
-      "category": "release",
-      "tldr": "Exodus, a sci-fi RPG, has revealed a female version of its lead character Jun, nicknamed FemJun.",
-      "why_it_matters": "Players who enjoy sci-fi RPGs can note the female lead option, which is still unknown in detail. Nothing here changes release plans or platforms yet.",
-      "relevance": 3,
-      "confidence": "high",
-      "game_name": "Exodus",
-      "source": {
-        "outlet": "Eurogamer",
-        "url": "https://www.eurogamer.net/exodus-femjun-femshep-mass-effect-bioware-sci-fi-rpg",
-        "published_at": "2026-11-17T15:30:00.000Z"
-      },
-      "also_on": [
-        {
-          "outlet": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/rpg/sci-fi-rpg-exodus-gets-even-more-mass-effect-like-with-its-female-lead-who-they-are-calling-femjun/"
-        },
-        {
-          "outlet": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/archetype-go-all-in-on-the-mass-effect-vibes-with-a-femjun-reveal-but-im-just-left-hoping-theyll-call-the-alternative-option-mascjun-to-balance-it-out"
-        }
-      ],
-      "image": {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3230960/c7daff445142b7d24677b2e962bd84314da0b813/header.jpg?t=1792685162",
-        "steam_appid": 3230960,
-        "steam_url": "https://store.steampowered.com/app/3230960/"
-      },
-      "created_at": "2026-11-17T16:12:50.576Z"
-    },
-    {
-      "id": "873468494c64",
-      "category": "hardware",
-      "tldr": "Report: TCL CSOT's new OLED panels may be cheaper, with high refresh rates and easier burn-in compensation.",
-      "why_it_matters": "Cheaper OLED monitors with high refresh rates could suit shooter players, but prices, release dates and availability are still unknown. Watch for launch details before buying.",
-      "relevance": 3,
-      "confidence": "low",
-      "game_name": null,
-      "source": {
-        "outlet": "PC Gamer",
-        "url": "https://www.pcgamer.com/hardware/gaming-monitors/tcl-csots-new-oled-panels-might-not-only-be-cheaper-but-also-have-high-refresh-rates-and-hassle-free-pixel-burn-in-compensation/",
-        "published_at": "2026-11-17T15:22:45.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-17T16:12:52.268Z"
-    },
-    {
-      "id": "6de12a21d5f9",
-      "category": "industry",
-      "tldr": "Metacritic briefly let users post reviews for GTA 6, then removed the fake ones.",
-      "why_it_matters": "The game is not yet released, so these user scores were never meaningful. Ignore any Metacritic user score for GTA 6 until real reviews appear.",
-      "relevance": 3,
-      "confidence": "high",
-      "game_name": "GTA 6",
-      "source": {
-        "outlet": "VGC",
-        "url": "https://www.videogameschronicle.com/news/metacritic-has-already-had-to-remove-fake-gta-6-user-reviews/",
-        "published_at": "2026-11-17T15:03:04.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-17T16:12:55.249Z"
-    },
-    {
-      "id": "e9947cac6489",
-      "category": "release",
-      "tldr": "Tanuki: Pon's Summer, Denkiworks' debut, released last week between the Ocarina of Time remake and GTA 6.",
-      "why_it_matters": "A small debut launched into a crowded window, so it may be worth a look if you want something lower-key. The article does not give platforms or price here.",
-      "relevance": 3,
-      "confidence": "high",
-      "game_name": "Tanuki: Pon's Summer",
-      "source": {
-        "outlet": "GamesIndustry.biz",
-        "url": "https://www.gamesindustry.biz/tanuki-pons-summer-is-hoping-to-be-a-lovely-little-underdog-between-ocarina-of-time-and-gta-6",
-        "published_at": "2026-11-17T15:01:00.000Z"
-      },
-      "also_on": [],
-      "image": {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3218570/03a5efdc08ce01b4067a4aed0f0601e5de22790b/header.jpg?t=1794829230",
-        "steam_appid": 3218570,
-        "steam_url": "https://store.steampowered.com/app/3218570/"
-      },
-      "created_at": "2026-11-17T16:12:56.880Z"
-    },
-    {
-      "id": "f943c73a97d4",
-      "category": "release",
-      "tldr": "Hounded, a dog adventure starring a Border Collie named Duke, is confirmed for PS5 in 2027.",
-      "why_it_matters": "A PS5 release window is set for 2027, so it is one to add to a wishlist now. Other details are still unknown from this announcement.",
-      "relevance": 3,
-      "confidence": "high",
-      "game_name": "Hounded",
-      "source": {
-        "outlet": "PlayStation Blog",
-        "url": "https://blog.playstation.com/2026/11/17/introducing-hounded-crafting-the-dog-adventure-coming-to-ps5-in-2027/",
-        "published_at": "2026-11-17T15:00:56.000Z"
-      },
-      "also_on": [],
-      "image": {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3695350/1f57abb136b9dd34776cee83e2b278318a39376f/header.jpg?t=1792575062",
-        "steam_appid": 3695350,
-        "steam_url": "https://store.steampowered.com/app/3695350/"
-      },
-      "created_at": "2026-11-17T16:13:00.296Z"
-    },
-    {
-      "id": "ea8458eb03c3",
-      "category": "industry",
-      "tldr": "Zelda: Ocarina of Time on Switch 2 is the best-selling physical game in the US so far this year.",
-      "why_it_matters": "Strong retail sales point to a successful launch, but this news is mainly a sales milestone. Players already interested in the remake can treat it as confirmation of its popularity.",
-      "relevance": 3,
-      "confidence": "high",
-      "game_name": "The Legend of Zelda: Ocarina of Time",
-      "source": {
-        "outlet": "Eurogamer",
-        "url": "https://www.eurogamer.net/the-legend-of-zelda-ocarina-of-time-remake-physical-sales-us-1-million",
-        "published_at": "2026-11-17T14:20:30.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-17T19:20:27.212Z"
-    },
-    {
-      "id": "10e7e1a71dc0",
-      "category": "release",
-      "tldr": "Ultimate Edition of GTA 6 has been detailed, with its extras compared against the Standard Edition.",
-      "why_it_matters": "Players weighing which GTA 6 edition to buy can compare the included extras and pre-order bonuses. Exact prices and platforms are not in this report, so check before pre-ordering.",
-      "relevance": 3,
-      "confidence": "low",
-      "game_name": "GTA 6",
-      "source": {
-        "outlet": "VGC",
-        "url": "https://www.videogameschronicle.com/guide/gta-6-ultimate-edition-vs-standard-edition-all-ultimate-edition-pre-order-benefits/",
-        "published_at": "2026-11-17T11:49:56.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-17T13:29:09.688Z"
-    },
-    {
-      "id": "f8c3fc3a6c24",
-      "category": "hardware",
-      "tldr": "Xbox says Project Helix is designed as a console first, not a PC that can also play console games.",
-      "why_it_matters": "For players weighing hardware, this clarifies the intent behind Project Helix, but the input gives no details on its launch, price or specs, so these remain unknown.",
-      "relevance": 3,
-      "confidence": "high",
-      "game_name": null,
-      "source": {
-        "outlet": "GamesIndustry.biz",
-        "url": "https://www.gamesindustry.biz/xboxs-project-helix-is-not-a-pc-that-can-also-play-console-games",
-        "published_at": "2026-11-17T11:44:00.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-17T16:13:13.379Z"
     }
   ]
 }
