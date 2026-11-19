@@ -1,7 +1,182 @@
 {
-  "generated_at": "2026-11-19T13:35:29.029Z",
+  "generated_at": "2026-11-19T16:19:05.099Z",
   "version": 1,
   "cards": [
+    {
+      "id": "9c7ce0ea9f17",
+      "category": "hardware",
+      "tldr": "Report: First images of a Lenovo Legion Go Beam have reportedly leaked, showing a lime green colour scheme.",
+      "why_it_matters": "Leaked images suggest a new handheld is coming, but no specs, price or release date are known yet. Wait for official details before deciding.",
+      "relevance": 4,
+      "confidence": "low",
+      "game_name": null,
+      "source": {
+        "outlet": "PC Gamer",
+        "url": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/the-first-image-of-the-lenovo-legion-go-beam-has-seemingly-leaked-and-its-got-a-love-it-or-hate-it-colour-palette/",
+        "published_at": "2026-11-19T15:36:38.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-19T16:18:35.569Z"
+    },
+    {
+      "id": "68e9bd2d2208",
+      "category": "industry",
+      "tldr": "Ubisoft has laid off 166 staff at its Montreal and Quebec City studios.",
+      "why_it_matters": "Ubisoft says the cuts align resources with current production priorities. Which projects are affected is still unknown, so watch for delays or cancellations to upcoming Ubisoft games.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": null,
+      "source": {
+        "outlet": "GamesIndustry.biz",
+        "url": "https://www.gamesindustry.biz/ubisoft-lays-off-166-staff-in-montreal-and-quebec-studios",
+        "published_at": "2026-11-19T15:15:00.000Z"
+      },
+      "also_on": [
+        {
+          "outlet": "VGC",
+          "url": "https://www.videogameschronicle.com/news/ubisoft-is-laying-off-166-staff-in-its-montreal-and-quebec-city-offices/"
+        },
+        {
+          "outlet": "Gematsu",
+          "url": "https://www.gematsu.com/2026/11/ubisoft-lays-off-166-staff-at-montreal-and-quebec-studios"
+        },
+        {
+          "outlet": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/ubisoft-lay-off-166-more-staff-this-time-at-their-montreal-and-quebec-city-studios-while-mumbling-about-current-production-priorities-and-business-needs"
+        }
+      ],
+      "image": null,
+      "created_at": "2026-11-19T16:18:39.065Z"
+    },
+    {
+      "id": "aa560b28e1df",
+      "category": "release",
+      "tldr": "Actors who voice Jason and Lucia have confirmed they appear in Grand Theft Auto 6.",
+      "why_it_matters": "Confirms two main characters are in the game, but no release details are given. Worth watching for the official launch date and platforms.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "Grand Theft Auto 6",
+      "source": {
+        "outlet": "VGC",
+        "url": "https://www.videogameschronicle.com/news/see-yall-in-leonida-jasons-actor-finally-confirms-hes-in-gta-6/",
+        "published_at": "2026-11-19T14:56:48.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-19T16:18:45.586Z"
+    },
+    {
+      "id": "926ca9232c12",
+      "category": "industry",
+      "tldr": "007 First Light won Game of the Year at the 2026 TIGA Awards, with Dovetail Games taking four awards.",
+      "why_it_matters": "A shooter-adjacent action title earning top honours is a useful signal, but no release platform or date is given here, so the practical effect for players is still unknown.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "007 First Light",
+      "source": {
+        "outlet": "GamesIndustry.biz",
+        "url": "https://www.gamesindustry.biz/007-first-light-wins-goty-at-2026-tiga-awards-dovetail-games-takes-home-four-accolades-including-best-publisher",
+        "published_at": "2026-11-19T14:55:30.000Z"
+      },
+      "also_on": [],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3768760/be65391533f072e79699be70ef2d47b7b2ac57ee/header_alt_assets_5.jpg?t=1795019577",
+        "steam_appid": 3768760,
+        "steam_url": "https://store.steampowered.com/app/3768760/"
+      },
+      "created_at": "2026-11-19T16:18:46.653Z"
+    },
+    {
+      "id": "eb7188a71c38",
+      "category": "release",
+      "tldr": "GTA 6 has no official easy mode, but two settings can be changed to make the game less difficult.",
+      "why_it_matters": "If you find the game too hard, you can lower the difficulty through settings without an official easy mode, though exact options are not detailed here.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "GTA 6",
+      "source": {
+        "outlet": "Eurogamer",
+        "url": "https://www.eurogamer.net/gta-6-easy-mode-accessibility-options",
+        "published_at": "2026-11-19T14:42:20.000Z"
+      },
+      "also_on": [
+        {
+          "outlet": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/gta-6-easy-mode-does-gta-6-have-difficulty-options/"
+        }
+      ],
+      "image": null,
+      "created_at": "2026-11-19T16:18:47.732Z"
+    },
+    {
+      "id": "6d2c0929fed8",
+      "category": "hardware",
+      "tldr": "Analogue 3D firmware 1.6.0 adds Wi-Fi support, letting the console update itself without a memory card.",
+      "why_it_matters": "Owners can now install future updates wirelessly, supporting 2.4GHz, 5GHz, mixed and hidden networks. Console hardware and firmware fans should note the convenience, though this is not a game release.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": null,
+      "source": {
+        "outlet": "The Verge",
+        "url": "https://www.theverge.com/tech/1037552/analogue-3d-nintendo-64-console-wi-fi-activated-automatic-updates",
+        "published_at": "2026-11-19T14:32:33.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-19T16:18:48.805Z"
+    },
+    {
+      "id": "3dae98970e33",
+      "category": "release",
+      "tldr": "Grand Theft Auto VI has launched, according to an Xbox Wire post.",
+      "why_it_matters": "Players wanting to play it can now get it on Xbox. The summary gives no details on platforms, price or edition, so check the store before buying.",
+      "relevance": 5,
+      "confidence": "low",
+      "game_name": "Grand Theft Auto VI",
+      "source": {
+        "outlet": "Xbox Wire",
+        "url": "https://news.xbox.com/en-us/2026/11/19/grand-theft-auto-vi-is-out-now/",
+        "published_at": "2026-11-19T14:00:00.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-19T16:18:53.247Z"
+    },
+    {
+      "id": "9a6290528a9d",
+      "category": "release",
+      "tldr": "GTA VI has launched on PlayStation 5 and Xbox Series X/S, while the PC version remains unannounced.",
+      "why_it_matters": "PC players have no release date yet, so there is nothing to wishlist or pre-order. Watch for an official PC announcement before planning a purchase.",
+      "relevance": 4,
+      "confidence": "high",
+      "game_name": "Grand Theft Auto VI",
+      "source": {
+        "outlet": "The Verge",
+        "url": "https://www.theverge.com/games/1036550/grand-theft-auto-6-gta-vi-pc-version-fomo",
+        "published_at": "2026-11-19T14:00:00.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-19T16:18:56.564Z"
+    },
+    {
+      "id": "c61e86cc9a39",
+      "category": "release",
+      "tldr": "Rockstar has reportedly kept cheating options with Mandy or strippers out of GTA 6's Jason and Lucia storyline.",
+      "why_it_matters": "Players wanting romance-based side options should not expect them in GTA 6, as Rockstar considers them out of step with the couple's story. Details remain limited.",
+      "relevance": 3,
+      "confidence": "low",
+      "game_name": "GTA 6",
+      "source": {
+        "outlet": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/you-cant-cheat-on-lucia-in-gta-6-with-mandy-or-strippers-because-rockstar-doesnt-believe-thats-complementary-to-the-feeling-and-motivations-of-jason-and-lucias-story/",
+        "published_at": "2026-11-19T13:44:38.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-19T16:18:58.732Z"
+    },
     {
       "id": "de39f40d89f8",
       "category": "release",
@@ -932,201 +1107,6 @@
         "steam_url": "https://store.steampowered.com/app/381210/"
       },
       "created_at": "2026-11-17T22:08:40.484Z"
-    },
-    {
-      "id": "3b6d25065852",
-      "category": "release",
-      "tldr": "Mondrayn is a grim pixel art JRPG with survival elements, where dying does not end the suffering.",
-      "why_it_matters": "A niche pick for players who enjoy bleak RPGs with survival mechanics. Release date, platforms and price are not yet in this coverage, so worth noting and checking later.",
-      "relevance": 3,
-      "confidence": "high",
-      "game_name": "Mondrayn",
-      "source": {
-        "outlet": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/mondrayn-is-a-putrid-crunchy-pixel-art-rpg-about-escaping-from-limbo-where-dying-doesnt-mean-the-end-of-your-suffering",
-        "published_at": "2026-11-17T19:57:20.000Z"
-      },
-      "also_on": [],
-      "image": {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3780430/c3f420b7db9e97e6bb47ba1bc539ff9072886124/header.jpg?t=1794605839",
-        "steam_appid": 3780430,
-        "steam_url": "https://store.steampowered.com/app/3780430/"
-      },
-      "created_at": "2026-11-17T22:08:51.639Z"
-    },
-    {
-      "id": "9a75eeeb4570",
-      "category": "release",
-      "tldr": "Spyro: A Realm Beyond has been teased ahead of a showing at The Game Awards 2026.",
-      "why_it_matters": "Publisher Activision and developer Toys for Bob will share more information, so players can watch for details. Platforms, release date and gameplay are still unknown.",
-      "relevance": 3,
-      "confidence": "low",
-      "game_name": "Spyro: A Realm Beyond",
-      "source": {
-        "outlet": "Gematsu",
-        "url": "https://www.gematsu.com/2026/11/spyro-a-realm-beyond-teased-for-the-game-awards-2026",
-        "published_at": "2026-11-17T18:38:26.000Z"
-      },
-      "also_on": [],
-      "image": {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4245560/09b109726c8458478e4c2f36f3784a9a4c24edac/header.jpg?t=1781623703",
-        "steam_appid": 4245560,
-        "steam_url": "https://store.steampowered.com/app/4245560/"
-      },
-      "created_at": "2026-11-17T19:19:59.400Z"
-    },
-    {
-      "id": "74fbebf7c58f",
-      "category": "release",
-      "tldr": "Black Mesa, the Valve-sanctioned Half-Life remake, received a major update and a Steam Deck verified badge.",
-      "why_it_matters": "Shooter fans can now expect the remake to run well on Steam Deck, and the update adds cubemap reflections. Full details of the update are still unknown.",
-      "relevance": 4,
-      "confidence": "high",
-      "game_name": "Black Mesa",
-      "source": {
-        "outlet": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/fps/valve-sanctioned-half-life-remake-black-mesa-gets-a-mondo-update-and-a-steam-deck-verified-badge/",
-        "published_at": "2026-11-17T17:46:25.000Z"
-      },
-      "also_on": [],
-      "image": {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/362890/d20df1f51d7569184d35367daaed267ec078a6a3/header_alt_assets_3.jpg?t=1794939413",
-        "steam_appid": 362890,
-        "steam_url": "https://store.steampowered.com/app/362890/"
-      },
-      "created_at": "2026-11-17T19:20:05.910Z"
-    },
-    {
-      "id": "0b61ac957012",
-      "category": "release",
-      "tldr": "Manni L. Perez has been confirmed as the actress voicing Lucia Caminos in GTA 6.",
-      "why_it_matters": "GTA 6 launches within days, so players can now put a face and voice to Lucia ahead of release. Those wanting spoilers-free play should avoid casting-focused coverage.",
-      "relevance": 3,
-      "confidence": "high",
-      "game_name": "Grand Theft Auto 6",
-      "source": {
-        "outlet": "VGC",
-        "url": "https://www.videogameschronicle.com/news/lucia-actor-confirmed-as-gta-6-sweeps-the-game-awards-nominations/",
-        "published_at": "2026-11-17T17:08:11.000Z"
-      },
-      "also_on": [
-        {
-          "outlet": "Eurogamer",
-          "url": "https://www.eurogamer.net/gta-6-lucia-actress-manni-l-perez-confirmed"
-        },
-        {
-          "outlet": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/events-conferences/we-got-8-game-awards-nominations-for-gta-6-before-gta-6/"
-        }
-      ],
-      "image": null,
-      "created_at": "2026-11-17T19:20:11.870Z"
-    },
-    {
-      "id": "1317e184d5f2",
-      "category": "industry",
-      "tldr": "Take-Two has reportedly laid off a third of Firaxis staff, days before GTA 6 launches.",
-      "why_it_matters": "Firaxis makes Civilization and XCOM, so shooter and strategy fans should watch whether the next XCOM game is affected. Its status is still unknown.",
-      "relevance": 3,
-      "confidence": "high",
-      "game_name": null,
-      "source": {
-        "outlet": "VGC",
-        "url": "https://www.videogameschronicle.com/news/take-two-lays-off-third-of-firaxis-staff/",
-        "published_at": "2026-11-17T17:00:25.000Z"
-      },
-      "also_on": [
-        {
-          "outlet": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/only-two-days-out-from-gta-6-its-publisher-take-two-lay-off-staff-at-xcom-and-civilization-developer-firaxis"
-        },
-        {
-          "outlet": "PC Gamer",
-          "url": "https://www.pcgamer.com/gaming-industry/civilization-dev-firaxis-reportedly-lays-off-a-third-of-its-staff-studio-head-departs/"
-        }
-      ],
-      "image": null,
-      "created_at": "2026-11-17T22:08:59.312Z"
-    },
-    {
-      "id": "e84ee590b342",
-      "category": "industry",
-      "tldr": "Xbox Game Pass adds several new titles, including The Outlast Trials and Sniper Ghost Warrior Contracts 2.",
-      "why_it_matters": "Shooter and horror fans get two relevant titles on Game Pass. Exact dates and platforms beyond those listed are still unknown, so check the full Xbox Wire post before planning.",
-      "relevance": 3,
-      "confidence": "low",
-      "game_name": null,
-      "source": {
-        "outlet": "Xbox Wire",
-        "url": "https://news.xbox.com/en-us/2026/11/17/xbox-game-pass-november-2026-wave-2/",
-        "published_at": "2026-11-17T17:00:00.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-17T22:09:00.302Z"
-    },
-    {
-      "id": "0b34b7dc02eb",
-      "category": "release",
-      "tldr": "EXODUS has a new featurette revealing the Female Jun character and a Scrappy Salvager.",
-      "why_it_matters": "A new featurette shows more of the sci-fi action RPG's characters, but release details are not in this summary, so wishlist and wait-or-buy decisions must wait for more information.",
-      "relevance": 3,
-      "confidence": "low",
-      "game_name": "EXODUS",
-      "source": {
-        "outlet": "Gematsu",
-        "url": "https://www.gematsu.com/2026/11/exodus-female-jun-reveal-scrappy-salvager-featurette",
-        "published_at": "2026-11-17T15:54:27.000Z"
-      },
-      "also_on": [],
-      "image": {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3230960/c7daff445142b7d24677b2e962bd84314da0b813/header.jpg?t=1792685162",
-        "steam_appid": 3230960,
-        "steam_url": "https://store.steampowered.com/app/3230960/"
-      },
-      "created_at": "2026-11-17T16:12:40.842Z"
-    },
-    {
-      "id": "9e29a8d3c24f",
-      "category": "release",
-      "tldr": "Hounded, a third-person story-driven adventure, is coming to PlayStation 5 alongside its previously announced PC release.",
-      "why_it_matters": "PS5 players now have a platform for this adventure game, so it is worth adding to your wishlist. Launch date and other details are still unknown from this report.",
-      "relevance": 3,
-      "confidence": "low",
-      "game_name": "Hounded",
-      "source": {
-        "outlet": "Gematsu",
-        "url": "https://www.gematsu.com/2026/11/hounded-adds-ps5-version",
-        "published_at": "2026-11-17T15:48:33.000Z"
-      },
-      "also_on": [],
-      "image": {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3695350/1f57abb136b9dd34776cee83e2b278318a39376f/header.jpg?t=1792575062",
-        "steam_appid": 3695350,
-        "steam_url": "https://store.steampowered.com/app/3695350/"
-      },
-      "created_at": "2026-11-17T16:12:47.323Z"
-    },
-    {
-      "id": "86d9dce9ab34",
-      "category": "release",
-      "tldr": "Former Dishonored designer Julien Eveillé has joined the team behind Victorian horror game Gloomwood.",
-      "why_it_matters": "A new level and new weapons are due this year, so Gloomwood is worth adding to your wishlist if you enjoy stealth-leaning horror shooters with a Thief-like feel.",
-      "relevance": 4,
-      "confidence": "high",
-      "game_name": "Gloomwood",
-      "source": {
-        "outlet": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/former-dishonored-designer-joins-the-team-on-new-bloods-victorian-immersive-sim-gloomwood-with-a-new-level-and-new-weapons-coming-this-year",
-        "published_at": "2026-11-17T15:32:10.000Z"
-      },
-      "also_on": [],
-      "image": {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1150760/7a2817598e2e5882de17299ce013638a2b35a3f9/header.jpg?t=1794873426",
-        "steam_appid": 1150760,
-        "steam_url": "https://store.steampowered.com/app/1150760/"
-      },
-      "created_at": "2026-11-17T16:12:48.997Z"
     }
   ]
 }
