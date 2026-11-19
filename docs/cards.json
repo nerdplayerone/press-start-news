@@ -1,7 +1,80 @@
 {
-  "generated_at": "2026-11-19T07:39:02.213Z",
+  "generated_at": "2026-11-19T10:22:37.234Z",
   "version": 1,
   "cards": [
+    {
+      "id": "0aa7af57756a",
+      "category": "release",
+      "tldr": "A GTA 6 report says players can loot police cruisers for free guns and body armour.",
+      "why_it_matters": "Useful for planning loadouts in GTA 6 without spending money, though the detail is thin and details like exact weapons are still unknown.",
+      "relevance": 3,
+      "confidence": "low",
+      "game_name": "GTA 6",
+      "source": {
+        "outlet": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-free-guns-cop-cars/",
+        "published_at": "2026-11-19T10:11:46.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-19T10:22:13.980Z"
+    },
+    {
+      "id": "a8445608961f",
+      "category": "release",
+      "tldr": "GTA 6 players will rarely need to refuel cars, with garages offering a bigger reason to visit.",
+      "why_it_matters": "Fuel is a minor concern in GTA 6, so players can plan trips around garages instead. Further details on what garages offer are still unknown.",
+      "relevance": 3,
+      "confidence": "low",
+      "game_name": "GTA 6",
+      "source": {
+        "outlet": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-refuel-repair-cars/",
+        "published_at": "2026-11-19T10:11:36.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-19T10:22:17.689Z"
+    },
+    {
+      "id": "6b393247c989",
+      "category": "hardware",
+      "tldr": "The Xbox Series S version of GTA 6 appears to be the first to use AMD's FSR 4.1 upscaling.",
+      "why_it_matters": "FSR 4.1 is coming to Xbox Series X/S consoles, so Series S owners may see sharper image quality in GTA 6. Performance results are still unknown.",
+      "relevance": 3,
+      "confidence": "low",
+      "game_name": "Grand Theft Auto VI",
+      "source": {
+        "outlet": "VGC",
+        "url": "https://www.videogameschronicle.com/news/the-xbox-series-s-version-of-gta-6-is-seemingly-the-first-to-use-amds-fsr-4-1-upscaling/",
+        "published_at": "2026-11-19T10:08:25.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-19T10:22:20.835Z"
+    },
+    {
+      "id": "5e44643d7969",
+      "category": "release",
+      "tldr": "Grand Theft Auto 6 is now available to play worldwide, with a launch day live blog covering its arrival.",
+      "why_it_matters": "A major open-world release has landed, so players wanting to jump in can now start playing. The sources give no details on platforms or price, so check those before buying.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "Grand Theft Auto 6",
+      "source": {
+        "outlet": "Eurogamer",
+        "url": "https://www.eurogamer.net/gta-6-grand-theft-auto-6-launch-day-live-blog",
+        "published_at": "2026-11-19T09:05:00.000Z"
+      },
+      "also_on": [
+        {
+          "outlet": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/gta-6-all-radio-stations-genres-grand-theft-auto/"
+        }
+      ],
+      "image": null,
+      "created_at": "2026-11-19T10:22:27.966Z"
+    },
     {
       "id": "736a72bb0235",
       "category": "release",
@@ -1071,74 +1144,6 @@
       "also_on": [],
       "image": null,
       "created_at": "2026-11-17T16:13:13.379Z"
-    },
-    {
-      "id": "96d7cc385961",
-      "category": "hardware",
-      "tldr": "A modder has added Steam Controller tracking for the Steam Frame before Valve has released official support.",
-      "why_it_matters": "Players wanting controller tracking on the Steam Frame now have an unofficial option. Official Valve support is still unknown, so the modder says they will maintain it until then.",
-      "relevance": 3,
-      "confidence": "high",
-      "game_name": null,
-      "source": {
-        "outlet": "PC Gamer",
-        "url": "https://www.pcgamer.com/hardware/vr-hardware/modder-beats-valve-to-the-punch-adding-steam-controller-tracking-for-the-steam-frame/",
-        "published_at": "2026-11-17T11:30:45.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-17T13:29:20.350Z"
-    },
-    {
-      "id": "b2bfd0a9a9d4",
-      "category": "release",
-      "tldr": "GTA 6 will unlock on a rolling launch, so players in different time zones get access at different times.",
-      "why_it_matters": "Players in later time zones will get access after the first wave, so check your local unlock time before planning a launch-day session. Specific times are not covered here.",
-      "relevance": 4,
-      "confidence": "low",
-      "game_name": "Grand Theft Auto 6",
-      "source": {
-        "outlet": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-release-time-date/",
-        "published_at": "2026-11-17T11:00:00.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-17T13:29:28.061Z"
-    },
-    {
-      "id": "24251ca2529b",
-      "category": "hardware",
-      "tldr": "Sony has released another PlayStation 5 firmware update ahead of Grand Theft Auto 6.",
-      "why_it_matters": "Players with a PS5 should install the update before GTA 6 arrives. Details of what the update changes are not in the source, so the exact benefits are still unknown.",
-      "relevance": 3,
-      "confidence": "low",
-      "game_name": "Grand Theft Auto 6",
-      "source": {
-        "outlet": "Eurogamer",
-        "url": "https://www.eurogamer.net/ps5-firmware-update-gta-6",
-        "published_at": "2026-11-17T10:51:50.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-17T13:29:31.298Z"
-    },
-    {
-      "id": "df732b97c0f7",
-      "category": "release",
-      "tldr": "A free demo for Splatoon Raiders is now available on Switch 2.",
-      "why_it_matters": "Players can try the single-player Splatoon spin-off before buying it. Worth a look if you are unsure whether it suits you.",
-      "relevance": 3,
-      "confidence": "high",
-      "game_name": "Splatoon Raiders",
-      "source": {
-        "outlet": "VGC",
-        "url": "https://www.videogameschronicle.com/news/a-free-demo-for-splatoon-raiders-is-now-available-on-switch-2/",
-        "published_at": "2026-11-17T10:35:33.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-17T13:29:32.619Z"
     }
   ]
 }
