@@ -425,5 +425,32 @@
   "console archives the firemen 2 pete and danny": {
     "at": "2026-11-18T22:05:55.967Z",
     "match": null
+  },
+  "burning sword death sun": {
+    "at": "2026-11-19T01:31:00.745Z",
+    "match": {
+      "appid": 2561460,
+      "name": "Burning Sword: Death Sun",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2561460/4c636b98f8dc1efce23d147a818bcb779d89b743/header.jpg?t=1795044533",
+      "url": "https://store.steampowered.com/app/2561460/"
+    }
+  },
+  "first zombie": {
+    "at": "2026-11-19T01:31:03.730Z",
+    "match": {
+      "appid": 5099420,
+      "name": "THE FIRST ZOMBIE",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5099420/4776521c87ef3eda8cd0e6e7c6a0cc2a6b79a513/header.jpg?t=1795051464",
+      "url": "https://store.steampowered.com/app/5099420/"
+    }
+  },
+  "homura hime": {
+    "at": "2026-11-19T01:31:06.882Z",
+    "match": {
+      "appid": 1820000,
+      "name": "Homura Hime",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1820000/9d60f6fb747e235e59bf4f8399adf6a8f55d8f12/header.jpg?t=1781518262",
+      "url": "https://store.steampowered.com/app/1820000/"
+    }
   }
 }

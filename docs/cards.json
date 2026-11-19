@@ -1,7 +1,49 @@
 {
-  "generated_at": "2026-11-18T22:05:55.975Z",
+  "generated_at": "2026-11-19T01:31:06.888Z",
   "version": 1,
   "cards": [
+    {
+      "id": "1d0b273d85ff",
+      "category": "release",
+      "tldr": "Burning Sword: Death Sun, a wuxia hack-and-slash action game, is now available in Early Access.",
+      "why_it_matters": "Action fans wanting a martial-arts slasher can try it now, though the input gives no details on platforms, price or full release timing, so those remain unknown.",
+      "relevance": 4,
+      "confidence": "low",
+      "game_name": "Burning Sword: Death Sun",
+      "source": {
+        "outlet": "Gematsu",
+        "url": "https://www.gematsu.com/2026/11/burning-sword-death-sun-now-available-in-early-access",
+        "published_at": "2026-11-18T23:00:14.000Z"
+      },
+      "also_on": [],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2561460/4c636b98f8dc1efce23d147a818bcb779d89b743/header.jpg?t=1795044533",
+        "steam_appid": 2561460,
+        "steam_url": "https://store.steampowered.com/app/2561460/"
+      },
+      "created_at": "2026-11-19T01:30:35.423Z"
+    },
+    {
+      "id": "566080c9ac0e",
+      "category": "release",
+      "tldr": "The First Zombie, a reverse zombie game, has a launch date of December 16.",
+      "why_it_matters": "Players who enjoy unusual takes on the zombie genre can note the December 16 date. The summary gives no platforms or price, so those details are still unknown.",
+      "relevance": 3,
+      "confidence": "low",
+      "game_name": "The First Zombie",
+      "source": {
+        "outlet": "Gematsu",
+        "url": "https://www.gematsu.com/2026/11/the-first-zombie-launches-december-16",
+        "published_at": "2026-11-18T22:32:03.000Z"
+      },
+      "also_on": [],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5099420/4776521c87ef3eda8cd0e6e7c6a0cc2a6b79a513/header.jpg?t=1795051464",
+        "steam_appid": 5099420,
+        "steam_url": "https://store.steampowered.com/app/5099420/"
+      },
+      "created_at": "2026-11-19T01:30:45.044Z"
+    },
     {
       "id": "4c35ce0574cc",
       "category": "industry",
@@ -18,6 +60,27 @@
       "also_on": [],
       "image": null,
       "created_at": "2026-11-18T22:05:22.542Z"
+    },
+    {
+      "id": "c71988c1751f",
+      "category": "release",
+      "tldr": "Homura Hime, a 3D bullet hell action game, is coming to PS5 in 2027.",
+      "why_it_matters": "Shooter and action fans can add it to their wishlist now. Details beyond the 2027 PS5 release are still unknown, so there is little to act on yet.",
+      "relevance": 3,
+      "confidence": "low",
+      "game_name": "Homura Hime",
+      "source": {
+        "outlet": "Gematsu",
+        "url": "https://www.gematsu.com/2026/11/homura-hime-coming-to-ps5-in-2027",
+        "published_at": "2026-11-18T20:05:22.000Z"
+      },
+      "also_on": [],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1820000/9d60f6fb747e235e59bf4f8399adf6a8f55d8f12/header.jpg?t=1781518262",
+        "steam_appid": 1820000,
+        "steam_url": "https://store.steampowered.com/app/1820000/"
+      },
+      "created_at": "2026-11-19T01:30:52.716Z"
     },
     {
       "id": "cc8c27a78f1d",
@@ -1076,61 +1139,6 @@
       "also_on": [],
       "image": null,
       "created_at": "2026-11-17T07:37:53.762Z"
-    },
-    {
-      "id": "a64463e83be6",
-      "category": "release",
-      "tldr": "A Splatoon Raiders demo is now available on the Nintendo eShop.",
-      "why_it_matters": "Players curious about Splatoon Raiders can try it before buying. Details beyond the demo's availability are still unknown from this summary.",
-      "relevance": 3,
-      "confidence": "low",
-      "game_name": "Splatoon Raiders",
-      "source": {
-        "outlet": "Gematsu",
-        "url": "https://www.gematsu.com/2026/11/splatoon-raiders-demo-now-available",
-        "published_at": "2026-11-17T01:35:24.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-17T04:10:36.919Z"
-    },
-    {
-      "id": "834fa9ad8d3b",
-      "category": "industry",
-      "tldr": "Sensor Tower estimates Grand Theft Auto 6 pre-orders have topped $1.4 billion, mostly for the Ultimate Edition.",
-      "why_it_matters": "Strong pre-order figures suggest huge demand, but the Ultimate Edition skew means most buyers chose the pricier version. Any pricing or edition changes are still unknown.",
-      "relevance": 3,
-      "confidence": "high",
-      "game_name": "Grand Theft Auto 6",
-      "source": {
-        "outlet": "GamesIndustry.biz",
-        "url": "https://www.gamesindustry.biz/sensor-tower-gta-6-pre-orders-exceed-14bn-with-87-for-the-ultimate-edition",
-        "published_at": "2026-11-17T01:00:00.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-17T01:29:47.760Z"
-    },
-    {
-      "id": "80e1a5ccf0d2",
-      "category": "release",
-      "tldr": "High Roller Penny, a pachinko-inspired roguelike, is set to launch on January 12, 2027.",
-      "why_it_matters": "A roguelike with a pachinko twist, launching for PC. Worth adding to your wishlist if you enjoy unusual roguelikes. Platforms beyond PC are not confirmed in this summary.",
-      "relevance": 3,
-      "confidence": "low",
-      "game_name": "High Roller Penny",
-      "source": {
-        "outlet": "Gematsu",
-        "url": "https://www.gematsu.com/2026/11/high-roller-penny-launches-january-12-2027",
-        "published_at": "2026-11-16T23:27:21.000Z"
-      },
-      "also_on": [],
-      "image": {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4944410/b5dafdf6adbfa33ee598c866b8f8afa28bec3250/header.jpg?t=1792733828",
-        "steam_appid": 4944410,
-        "steam_url": "https://store.steampowered.com/app/4944410/"
-      },
-      "created_at": "2026-11-17T01:29:51.237Z"
     }
   ]
 }
