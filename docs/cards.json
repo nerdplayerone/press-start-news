@@ -1,7 +1,45 @@
 {
-  "generated_at": "2026-11-19T01:31:06.888Z",
+  "generated_at": "2026-11-19T04:15:03.574Z",
   "version": 1,
   "cards": [
+    {
+      "id": "bd9c66e5d72a",
+      "category": "release",
+      "tldr": "Over an hour of new Total War: Warhammer 40,000 campaign footage has been shown, covering gear customisation and fleet mechanics.",
+      "why_it_matters": "Fans of strategy and Warhammer 40,000 can expect more detail on gear and fleets, though release timing and platforms are still unknown.",
+      "relevance": 3,
+      "confidence": "low",
+      "game_name": "Total War: Warhammer 40,000",
+      "source": {
+        "outlet": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/strategy/over-an-hour-of-new-total-war-warhammer-40-000-campaign-footage-shows-gear-customization-fleet-mechanics-and-emphasizes-space-marines-are-not-always-trusted-and-hard-to-replace/",
+        "published_at": "2026-11-19T03:09:13.000Z"
+      },
+      "also_on": [],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4199910/fcb5b083b8f42f5dde4480aefa0294420ddf6b19/header.jpg?t=1784712557",
+        "steam_appid": 4199910,
+        "steam_url": "https://store.steampowered.com/app/4199910/"
+      },
+      "created_at": "2026-11-19T04:14:49.091Z"
+    },
+    {
+      "id": "f83f41ba0e9a",
+      "category": "release",
+      "tldr": "The Detective Is Already Dead has a 2027 launch date set for Japan, according to Gematsu.",
+      "why_it_matters": "Players wanting this mystery adventure should note the Japan-only 2027 timing; details on wider regional release remain unknown.",
+      "relevance": 3,
+      "confidence": "low",
+      "game_name": "The Detective Is Already Dead",
+      "source": {
+        "outlet": "Gematsu",
+        "url": "https://www.gematsu.com/2026/11/the-detective-is-already-dead-game-launches-in-2027-in-japan",
+        "published_at": "2026-11-19T03:00:09.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-19T04:14:51.781Z"
+    },
     {
       "id": "1d0b273d85ff",
       "category": "release",
@@ -1101,44 +1139,6 @@
       "also_on": [],
       "image": null,
       "created_at": "2026-11-17T10:22:46.793Z"
-    },
-    {
-      "id": "221c07845c56",
-      "category": "release",
-      "tldr": "HARMA's Early Access roadmap has been announced by publisher Astrolabe Games and developer INDIRECT SHINE.",
-      "why_it_matters": "Players interested in the roguelike can now see planned Early Access milestones. Full details of the roadmap are still unknown from this summary, so check the official plan before deciding.",
-      "relevance": 3,
-      "confidence": "low",
-      "game_name": "HARMA",
-      "source": {
-        "outlet": "Gematsu",
-        "url": "https://www.gematsu.com/2026/11/harma-early-access-roadmap-announced",
-        "published_at": "2026-11-17T02:00:16.000Z"
-      },
-      "also_on": [],
-      "image": {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483700/16ef2cf7570d03f263f6df2b2e3ea01c199a0566/header.jpg?t=1794882613",
-        "steam_appid": 2483700,
-        "steam_url": "https://store.steampowered.com/app/2483700/"
-      },
-      "created_at": "2026-11-17T07:37:52.649Z"
-    },
-    {
-      "id": "d50e43b672c7",
-      "category": "release",
-      "tldr": "Splatoon 3 receives its version 12.0.0 update on November 17.",
-      "why_it_matters": "Players should expect the update to arrive on November 17; the summary gives no details on what it changes, so check patch notes before deciding whether to jump back in.",
-      "relevance": 3,
-      "confidence": "low",
-      "game_name": "Splatoon 3",
-      "source": {
-        "outlet": "Gematsu",
-        "url": "https://www.gematsu.com/2026/11/splatoon-3-version-12-0-0-update-launches-november-17",
-        "published_at": "2026-11-17T01:44:31.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-17T07:37:53.762Z"
     }
   ]
 }
