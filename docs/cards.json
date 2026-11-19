@@ -1,7 +1,168 @@
 {
-  "generated_at": "2026-11-19T16:19:05.099Z",
+  "generated_at": "2026-11-19T19:17:27.413Z",
   "version": 1,
   "cards": [
+    {
+      "id": "22659a2cc434",
+      "category": "release",
+      "tldr": "Report: GTA 6 cheats reportedly take dozens of hours to unlock and remain heavily restricted.",
+      "why_it_matters": "Players wanting cheat freedom may have to wait for the PC version, though its cheat support is not yet confirmed. Watch for official details before planning around it.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "Grand Theft Auto 6",
+      "source": {
+        "outlet": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/im-counting-the-minutes-until-the-pc-version-fixes-the-weirdly-restrictive-cheats-in-gta-6/",
+        "published_at": "2026-11-19T18:35:22.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-19T19:16:44.817Z"
+    },
+    {
+      "id": "73b4590fa213",
+      "category": "industry",
+      "tldr": "Ubisoft confirms 166 job cuts at its Montréal and Québec City studios, behind Assassin's Creed and Far Cry.",
+      "why_it_matters": "Layoffs at the studios making Assassin's Creed and Far Cry may affect future release timing, though the input does not say which projects are impacted.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": null,
+      "source": {
+        "outlet": "Eurogamer",
+        "url": "https://www.eurogamer.net/ubisoft-layoffs-166-assassins-creed-far-cry-montreal-quebec",
+        "published_at": "2026-11-19T17:43:50.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-19T19:16:54.304Z"
+    },
+    {
+      "id": "5fcf0e7099fa",
+      "category": "release",
+      "tldr": "Derelikt, a retro space station horror shooter, has released and is more fun to shoot in than scary.",
+      "why_it_matters": "A PS1-styled FPS with Alien: Resurrection influences, it suits players who love retro shooters, though horror fans may find it less frightening than hoped.",
+      "relevance": 4,
+      "confidence": "high",
+      "game_name": "Derelikt",
+      "source": {
+        "outlet": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/space-station-horror-fps-derelikt-is-a-lively-retro-throwback-to-alien-resurrection-though-its-better-at-shooting-than-scaring",
+        "published_at": "2026-11-19T17:36:40.000Z"
+      },
+      "also_on": [],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3810510/45f23f4a1143f49de0962289003d6b269fa970bd/header.jpg?t=1794855109",
+        "steam_appid": 3810510,
+        "steam_url": "https://store.steampowered.com/app/3810510/"
+      },
+      "created_at": "2026-11-19T19:16:59.341Z"
+    },
+    {
+      "id": "87542ab8ea68",
+      "category": "release",
+      "tldr": "PC Gamer staff say they are not bothered by GTA 6 running at 30 fps.",
+      "why_it_matters": "Players who prioritise frame rate may want to check PC performance options. The article warns the PC version could also be capped at 30 fps, which is still unconfirmed.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "GTA 6",
+      "source": {
+        "outlet": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/even-our-bunch-of-diehard-pc-gamers-arent-that-bothered-by-30-fps-in-gta-6/",
+        "published_at": "2026-11-19T17:22:43.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-19T19:17:01.640Z"
+    },
+    {
+      "id": "e0380a3d951d",
+      "category": "release",
+      "tldr": "Keepsake County, a midwestern stealth game about burgling farmhouses, has launched with a 2000s Cartoon Network style.",
+      "why_it_matters": "If you enjoy stealth and quirky heists, this is now available to play rather than a future wishlist item. The summary gives no details on platforms or price.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "Keepsake County",
+      "source": {
+        "outlet": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/ignore-that-other-game-about-crime-thats-out-and-burgle-some-ugly-farmhouses-in-keepsake-county-a-midwestern-stealth-game-with-a-2000s-cartoon-network-vibe",
+        "published_at": "2026-11-19T17:05:40.000Z"
+      },
+      "also_on": [],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1162860/533a896c1950936d829bf7e6287882ce5c8c9667/header.jpg?t=1795102291",
+        "steam_appid": 1162860,
+        "steam_url": "https://store.steampowered.com/app/1162860/"
+      },
+      "created_at": "2026-11-19T19:17:05.008Z"
+    },
+    {
+      "id": "7306fbf035b0",
+      "category": "hardware",
+      "tldr": "Corsair's Sabre V3 Pro PureVector Ergo mouse has been reviewed by PC Gamer.",
+      "why_it_matters": "A review of a gaming mouse with machine learning sensitivity adjustment. Shooter players wanting aim help may find it worth a look, though the summary gives no verdict.",
+      "relevance": 4,
+      "confidence": "low",
+      "game_name": null,
+      "source": {
+        "outlet": "PC Gamer",
+        "url": "https://www.pcgamer.com/hardware/gaming-mice/corsair-sabre-v3-pro-purevector-ergo-review/",
+        "published_at": "2026-11-19T17:02:10.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-19T19:17:06.063Z"
+    },
+    {
+      "id": "f19ff25794e9",
+      "category": "release",
+      "tldr": "Report: Vicki, a prominent side character in GTA 6 Chapter 2, is the subject of a romance question.",
+      "why_it_matters": "The article raises whether Vicki can be romanced but the details given are thin, so the answer is still unknown. Players wanting relationship content may wish to wait for confirmation.",
+      "relevance": 3,
+      "confidence": "low",
+      "game_name": "GTA 6",
+      "source": {
+        "outlet": "VGC",
+        "url": "https://www.videogameschronicle.com/guide/gta-6-vicki-can-you-romance-vicki-in-gta-6/",
+        "published_at": "2026-11-19T17:00:28.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-19T19:17:08.324Z"
+    },
+    {
+      "id": "5d76edcdf256",
+      "category": "release",
+      "tldr": "Report: GTA 6 is censored in Japan, with violence and nudity toned down, including a shower scene.",
+      "why_it_matters": "Players in Japan will get a modified version, so anyone buying an import should check how much differs. Details beyond the headline are still unknown.",
+      "relevance": 3,
+      "confidence": "low",
+      "game_name": "GTA 6",
+      "source": {
+        "outlet": "VGC",
+        "url": "https://www.videogameschronicle.com/news/japan-censors-gta-6s-violence-and-nudity-including-jason-in-the-shower/",
+        "published_at": "2026-11-19T16:32:45.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-19T19:17:13.871Z"
+    },
+    {
+      "id": "7d21ad32a2bd",
+      "category": "release",
+      "tldr": "Rockstar has posted GTA 6's full map online, so players can view the whole layout without exploring it.",
+      "why_it_matters": "Useful if you want to plan routes or see the world's layout before playing. Nothing here says anything about release timing or platforms.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "GTA 6",
+      "source": {
+        "outlet": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/rockstar-has-finally-posted-gta-6s-full-map-online-thank-goodness-because-clearing-the-entire-thing-in-game-takes-ages/",
+        "published_at": "2026-11-19T16:19:58.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-19T19:17:14.939Z"
+    },
     {
       "id": "9c7ce0ea9f17",
       "category": "hardware",
@@ -933,180 +1094,6 @@
       ],
       "image": null,
       "created_at": "2026-11-18T13:31:16.348Z"
-    },
-    {
-      "id": "7c20006ee57d",
-      "category": "release",
-      "tldr": "PC Gamer has published a hands-on impression of GTA 6 after roughly 100 hours with the game.",
-      "why_it_matters": "GTA 6 is currently console-only, so PC players should note the reviewer's view that the PC version will be better. Wishlist it and wait for a confirmed PC release date.",
-      "relevance": 4,
-      "confidence": "low",
-      "game_name": "GTA 6",
-      "source": {
-        "outlet": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/grand-theft-auto/100-hours-with-gta-6-a-sprawling-adventure-that-will-be-so-much-better-on-pc/",
-        "published_at": "2026-11-18T11:00:00.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-18T13:31:18.702Z"
-    },
-    {
-      "id": "d04699c673d6",
-      "category": "release",
-      "tldr": "Grand Theft Auto VI stars two thieves who fall in love, adding a romantic storyline to the open-world crime series.",
-      "why_it_matters": "Players who enjoy action and chaos can expect heists alongside a relationship subplot, with the game aimed at both audiences. Release details are not covered in this story.",
-      "relevance": 4,
-      "confidence": "high",
-      "game_name": "Grand Theft Auto VI",
-      "source": {
-        "outlet": "The Verge",
-        "url": "https://www.theverge.com/entertainment/1035806/grand-theft-auto-6-rob-nelson-interview",
-        "published_at": "2026-11-18T11:00:00.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-18T13:31:21.103Z"
-    },
-    {
-      "id": "2fc98ac10da5",
-      "category": "release",
-      "tldr": "Grand Theft Auto VI launches on PS5 and Xbox Series X/S on November 19th, with reviews now out.",
-      "why_it_matters": "Launch is imminent on PS5 and Xbox Series X/S, and reviews are praising it. Check the review roundups before deciding whether to buy or wait.",
-      "relevance": 3,
-      "confidence": "high",
-      "game_name": "Grand Theft Auto VI",
-      "source": {
-        "outlet": "Eurogamer",
-        "url": "https://www.eurogamer.net/new-zealand-tourist-board-gives-nod-grand-theft-auto-timezone-trick",
-        "published_at": "2026-11-18T10:36:40.000Z"
-      },
-      "also_on": [
-        {
-          "outlet": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/grand-theft-auto-6-cheats-explained-are-cheats-in-gta-6/"
-        },
-        {
-          "outlet": "The Verge",
-          "url": "https://www.theverge.com/entertainment/1035847/grand-theft-auto-6-launch-review-news"
-        },
-        {
-          "outlet": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-review-roundup-rockstars-magnum-opus-a-great-love-story-and-a-new-bar-for-open-worlds/"
-        }
-      ],
-      "image": null,
-      "created_at": "2026-11-18T13:31:24.786Z"
-    },
-    {
-      "id": "73637466527b",
-      "category": "hardware",
-      "tldr": "PS5 has received its third system software update in a month, a 1.2GB download.",
-      "why_it_matters": "Players should install the 1.2GB firmware update before Grand Theft Auto 6 launches, as it is needed before the game can be played.",
-      "relevance": 3,
-      "confidence": "low",
-      "game_name": "Grand Theft Auto 6",
-      "source": {
-        "outlet": "VGC",
-        "url": "https://www.videogameschronicle.com/news/ps5-gets-its-third-system-software-update-in-a-month-right-before-grand-theft-auto-6-is-released/",
-        "published_at": "2026-11-18T10:06:30.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-18T10:21:50.146Z"
-    },
-    {
-      "id": "37f70d8d05e2",
-      "category": "release",
-      "tldr": "Console Archives The Firemen 2: Pete & Danny launches on November 19 for PlayStation 5 and Switch.",
-      "why_it_matters": "A retro-style arcade action title is arriving next day. Shooter and action fans wanting a quick, old-school fix can add it to their list now.",
-      "relevance": 3,
-      "confidence": "low",
-      "game_name": "Console Archives The Firemen 2: Pete & Danny",
-      "source": {
-        "outlet": "Gematsu",
-        "url": "https://www.gematsu.com/2026/11/console-archives-the-firemen-2-pete-danny-launches-november-19",
-        "published_at": "2026-11-18T10:05:35.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-18T22:05:49.962Z"
-    },
-    {
-      "id": "5b65ccb2d95d",
-      "category": "industry",
-      "tldr": "Grand Theft Auto 6 leads The Game Awards 2026 with eight nominations, including Game of the Year.",
-      "why_it_matters": "Shows the game is critically recognised before launch, but the summary gives no release date or platforms, so players should watch for official details.",
-      "relevance": 3,
-      "confidence": "high",
-      "game_name": "Grand Theft Auto 6",
-      "source": {
-        "outlet": "GamesIndustry.biz",
-        "url": "https://www.gamesindustry.biz/gta-6-leads-the-game-awards-2026-with-eight-nominations",
-        "published_at": "2026-11-18T09:12:10.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-18T10:21:54.866Z"
-    },
-    {
-      "id": "a5b03a2ce7ac",
-      "category": "release",
-      "tldr": "Arcade Archives 2 TX-1 V.8 launches on November 19 for PlayStation 5, Xbox Series and Switch 2.",
-      "why_it_matters": "A retro arcade shmup collection release for current consoles. Worth a look if you enjoy classic vertical shooters, though the summary gives no further details yet.",
-      "relevance": 3,
-      "confidence": "low",
-      "game_name": "Arcade Archives 2 TX-1 V.8",
-      "source": {
-        "outlet": "Gematsu",
-        "url": "https://www.gematsu.com/2026/11/arcade-archives-tx-1-v-8-launches-november-19",
-        "published_at": "2026-11-18T08:15:30.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-18T13:31:30.122Z"
-    },
-    {
-      "id": "eda476a303dc",
-      "category": "release",
-      "tldr": "Darktide's new Sister Novitiate class arrives with a holy hand grenade and a crossbow that pins enemies to walls.",
-      "why_it_matters": "Shooter fans who like inventive weapons may want to check out the new class. Beyond the crossbow and grenade, the summary gives no further detail on how the class plays.",
-      "relevance": 3,
-      "confidence": "low",
-      "game_name": "Warhammer 40,000: Darktide",
-      "source": {
-        "outlet": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/fps/darktides-new-sister-novitiate-class-gets-a-holy-hand-grenade-and-a-crossbow-that-can-pin-enemies-to-walls/",
-        "published_at": "2026-11-18T03:53:54.000Z"
-      },
-      "also_on": [],
-      "image": {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1361210/f07ebcb73a34112ac61c54608b1f1ded7e45eb8a/header.jpg?t=1794566003",
-        "steam_appid": 1361210,
-        "steam_url": "https://store.steampowered.com/app/1361210/"
-      },
-      "created_at": "2026-11-18T04:12:36.970Z"
-    },
-    {
-      "id": "348279b6a55e",
-      "category": "release",
-      "tldr": "Dead by Daylight developer Behaviour Interactive plans a big revamp update next year that adds user-generated content.",
-      "why_it_matters": "Players can expect a way to make their own content for the horror game in a future update. Details such as tools, release timing and platforms are still unknown.",
-      "relevance": 3,
-      "confidence": "high",
-      "game_name": "Dead by Daylight",
-      "source": {
-        "outlet": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/the-siren-call-of-user-generated-content-has-caught-dead-by-daylight-in-its-snare-as-behaviour-interactive-outline-a-big-revamp-update-slated-for-next-year",
-        "published_at": "2026-11-17T21:33:50.000Z"
-      },
-      "also_on": [],
-      "image": {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/header.jpg?t=1793724618",
-        "steam_appid": 381210,
-        "steam_url": "https://store.steampowered.com/app/381210/"
-      },
-      "created_at": "2026-11-17T22:08:40.484Z"
     }
   ]
 }
