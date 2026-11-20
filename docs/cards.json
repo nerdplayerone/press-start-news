@@ -1,7 +1,96 @@
 {
-  "generated_at": "2026-11-20T10:22:45.600Z",
+  "generated_at": "2026-11-20T13:30:46.188Z",
   "version": 1,
   "cards": [
+    {
+      "id": "9dc6197f66f1",
+      "category": "hardware",
+      "tldr": "OpenAI says it redesigned an AMD GPU, and AMD plans to use some of those changes in future products.",
+      "why_it_matters": "Possible performance gains for future AMD graphics cards, but no products, dates or figures are confirmed yet. Worth watching, not yet worth acting on.",
+      "relevance": 3,
+      "confidence": "low",
+      "game_name": null,
+      "source": {
+        "outlet": "PC Gamer",
+        "url": "https://www.pcgamer.com/hardware/openai-says-it-redesigned-an-amd-gpu-and-amd-is-using-some-of-those-tweaks-for-use-in-future-products/",
+        "published_at": "2026-11-20T12:40:28.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-20T13:30:12.242Z"
+    },
+    {
+      "id": "fc31bfa44930",
+      "category": "release",
+      "tldr": "The actress who plays Mandy in GTA 6 has publicly revealed herself and invited players to look for her.",
+      "why_it_matters": "A cast reveal for a major open-world game, but no release date or gameplay detail is given here, so there is nothing to act on yet.",
+      "relevance": 3,
+      "confidence": "low",
+      "game_name": "GTA 6",
+      "source": {
+        "outlet": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/the-actress-who-plays-mandy-in-gta-6-has-revealed-herself-if-you-play-the-game-let-me-know-if-you-find-me/",
+        "published_at": "2026-11-20T12:26:52.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-20T13:30:16.835Z"
+    },
+    {
+      "id": "6ca7087720cd",
+      "category": "release",
+      "tldr": "Total War: Warhammer 40,000 will split its campaign into mini-campaigns, one for each star system you visit.",
+      "why_it_matters": "Each star system gets its own stories and objectives, so the campaign may feel more varied. Still unknown is how long each mini-campaign runs and when the game will release.",
+      "relevance": 4,
+      "confidence": "high",
+      "game_name": "Total War: Warhammer 40,000",
+      "source": {
+        "outlet": "Eurogamer",
+        "url": "https://www.eurogamer.net/total-war-warhammer-40000-campaign-space-marines",
+        "published_at": "2026-11-20T12:12:10.000Z"
+      },
+      "also_on": [],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4199910/fcb5b083b8f42f5dde4480aefa0294420ddf6b19/header.jpg?t=1784712557",
+        "steam_appid": 4199910,
+        "steam_url": "https://store.steampowered.com/app/4199910/"
+      },
+      "created_at": "2026-11-20T13:30:18.041Z"
+    },
+    {
+      "id": "f5ea4ffd7c70",
+      "category": "industry",
+      "tldr": "Report: GTA 6 is estimated to have sold nearly 25 million copies on its first day.",
+      "why_it_matters": "Sales estimates are not official figures, so treat the numbers cautiously. For players, it signals strong demand but says nothing yet about platforms, price or how the game plays.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "Grand Theft Auto 6",
+      "source": {
+        "outlet": "Eurogamer",
+        "url": "https://www.eurogamer.net/gta-6-sales-estimate-rockstar-grand-theft-auto",
+        "published_at": "2026-11-20T11:40:30.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-20T13:30:26.856Z"
+    },
+    {
+      "id": "26136a99ae78",
+      "category": "hardware",
+      "tldr": "Report: PC gamers say recent Nvidia drivers cause tens of gigabytes per hour of unnecessary SSD writes.",
+      "why_it_matters": "Players with SSDs may want to revert to driver 621.01 until a fix is confirmed. A registry workaround exists, but the affected driver package is still available to download.",
+      "relevance": 3,
+      "confidence": "low",
+      "game_name": null,
+      "source": {
+        "outlet": "PC Gamer",
+        "url": "https://www.pcgamer.com/hardware/graphics-cards/pc-gamers-notice-nvidias-drivers-hammering-their-ssds-with-tens-of-gb-hr-of-unnecessary-writes-revert-to-621-01-asap/",
+        "published_at": "2026-11-20T11:05:10.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-20T13:30:33.059Z"
+    },
     {
       "id": "949692c6801d",
       "category": "industry",
@@ -996,114 +1085,25 @@
       "created_at": "2026-11-18T19:14:24.810Z"
     },
     {
-      "id": "ead8a8ebe3f9",
+      "id": "e2d10bdd4f35",
       "category": "release",
-      "tldr": "Grand Theft Auto 6 reportedly blocks cheats until the main story is finished, and locks progression once you use them.",
-      "why_it_matters": "Players who like cheats will have to wait for the campaign to end before using them. Details on how the progression lock works are still unknown.",
-      "relevance": 3,
-      "confidence": "low",
-      "game_name": "Grand Theft Auto 6",
-      "source": {
-        "outlet": "Eurogamer",
-        "url": "https://www.eurogamer.net/gta-6-no-cheats-until-completing-main-story",
-        "published_at": "2026-11-18T18:42:20.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-18T19:14:31.526Z"
-    },
-    {
-      "id": "b589444ab33c",
-      "category": "industry",
-      "tldr": "Rockstar says the PS5 Pro is not powerful enough to run GTA 6 at 40 or 60 frames per second.",
-      "why_it_matters": "Players on current consoles should not expect higher framerate modes for GTA 6 at launch. Whether later updates or newer hardware change this is still unknown.",
+      "tldr": "Devolver Digital is releasing Volvy's Adventure: Reslimed on the same day as GTA 6, and offering a free copy.",
+      "why_it_matters": "Players can win a free copy of this platformer by proving they have deleted GTA 6 from their hard drive. Worth a look if you enjoy indie platformers.",
       "relevance": 3,
       "confidence": "high",
-      "game_name": "Grand Theft Auto VI",
+      "game_name": "Volvy's Adventure: Reslimed",
       "source": {
         "outlet": "Eurogamer",
-        "url": "https://www.eurogamer.net/ps5-pro-not-powerful-enough-gta-6-60fps",
-        "published_at": "2026-11-18T18:17:50.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-18T19:14:40.424Z"
-    },
-    {
-      "id": "c3bdc81fa020",
-      "category": "release",
-      "tldr": "Some GTA 6 Ultimate Edition content is limited to the first chapter, with more unlocked through progression.",
-      "why_it_matters": "Ultimate Edition buyers may not get all bonus content straight away, so check what unlocks and how much effort it takes before paying extra.",
-      "relevance": 4,
-      "confidence": "high",
-      "game_name": "GTA 6",
-      "source": {
-        "outlet": "Eurogamer",
-        "url": "https://www.eurogamer.net/gta-6-ultimate-edition-unlock-details-temporary-content",
-        "published_at": "2026-11-18T17:42:30.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-18T19:14:51.968Z"
-    },
-    {
-      "id": "40b5b18c05d1",
-      "category": "release",
-      "tldr": "Korridor, a vertical shooter inspired by mobile game YouTube ads, has a demo playable now.",
-      "why_it_matters": "A playable demo means players can judge the game for themselves. Those who enjoy quick arcade shooters may want to try it, though the full release details are still unknown.",
-      "relevance": 3,
-      "confidence": "high",
-      "game_name": "Korridor",
-      "source": {
-        "outlet": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/korridor-turns-those-youtube-ads-for-vertical-mobile-shooters-into-a-new-deeply-strategic-genre-and-i-cant-decide-if-its-lying",
-        "published_at": "2026-11-18T17:10:00.000Z"
+        "url": "https://www.eurogamer.net/delete-gta-6-free-game-devolver-digital",
+        "published_at": "2026-11-18T19:08:20.000Z"
       },
       "also_on": [],
       "image": {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3739580/6d6fea5275ce8f5455c72b50aa44581147329ec5/header.jpg?t=1795097898",
-        "steam_appid": 3739580,
-        "steam_url": "https://store.steampowered.com/app/3739580/"
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4523120/bd01ad0f41f47272b6f1459de015d2494b24a422/header.jpg?t=1795112316",
+        "steam_appid": 4523120,
+        "steam_url": "https://store.steampowered.com/app/4523120/"
       },
-      "created_at": "2026-11-20T10:22:34.935Z"
-    },
-    {
-      "id": "c026862f2d9b",
-      "category": "hardware",
-      "tldr": "Wooting admits a fault was found with its Large Knob, delaying the product until next year.",
-      "why_it_matters": "If you were planning to buy the Wooting Large Knob, expect to wait until next year. The summary gives no details on the fault itself or what it affects.",
-      "relevance": 3,
-      "confidence": "low",
-      "game_name": null,
-      "source": {
-        "outlet": "PC Gamer",
-        "url": "https://www.pcgamer.com/hardware/gaming-keyboards/wooting-admits-we-found-an-issue-with-the-large-knob/",
-        "published_at": "2026-11-18T17:09:27.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-18T22:05:45.514Z"
-    },
-    {
-      "id": "d3edbd5d82fc",
-      "category": "release",
-      "tldr": "Crusader Kings 3 received a free Florin update alongside its new expansion, Silk and Silver, focused on merchant republics.",
-      "why_it_matters": "Players who enjoy the strategy game can expect a large free update mainly overhauling economics, plus the Silk and Silver expansion. Check the patch notes if you already play.",
-      "relevance": 3,
-      "confidence": "high",
-      "game_name": "Crusader Kings 3",
-      "source": {
-        "outlet": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/abducting-your-own-lover-no-longer-gives-you-opinion-of-yourself-declare-the-notes-for-crusader-kings-3s-free-florin-update-released-alongside-silk-and-silver",
-        "published_at": "2026-11-18T16:40:00.000Z"
-      },
-      "also_on": [],
-      "image": {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1158310/9d06a62089bd4747589431ac1c8bc3112841d528/header_alt_assets_12.jpg?t=1795167672",
-        "steam_appid": 1158310,
-        "steam_url": "https://store.steampowered.com/app/1158310/"
-      },
-      "created_at": "2026-11-20T10:22:36.088Z"
+      "created_at": "2026-11-20T13:30:43.540Z"
     }
   ]
 }
