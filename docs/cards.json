@@ -1,7 +1,62 @@
 {
-  "generated_at": "2026-11-20T13:30:46.188Z",
+  "generated_at": "2026-11-20T16:13:33.361Z",
   "version": 1,
   "cards": [
+    {
+      "id": "9b9df8216280",
+      "category": "hardware",
+      "tldr": "Report: Nvidia's latest GeForce driver, 621.24, appears to write unnecessary data to PC SSDs.",
+      "why_it_matters": "Players with SSDs may want to watch for a fix or consider reverting to an earlier driver until Nvidia responds. The scale of the issue is still unknown.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": null,
+      "source": {
+        "outlet": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/nvidias-latest-graphics-card-driver-appears-to-be-unnecessarily-writing-to-pc-ssds-something-thats-dumb-annoying-and-definitely-warrants-reverting",
+        "published_at": "2026-11-20T16:04:10.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-20T16:12:55.884Z"
+    },
+    {
+      "id": "f54418d5d572",
+      "category": "release",
+      "tldr": "Players are already performing high-flying stunts in GTA 6, days after its release.",
+      "why_it_matters": "Stunt footage is a sign of what the open world allows, though the summary gives no details on mechanics or how players are achieving the tricks.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "Grand Theft Auto 6",
+      "source": {
+        "outlet": "Eurogamer",
+        "url": "https://www.eurogamer.net/gta-6-plane-vehicle-stunts-impressive",
+        "published_at": "2026-11-20T15:59:00.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-20T16:12:57.022Z"
+    },
+    {
+      "id": "f56463c7bc33",
+      "category": "release",
+      "tldr": "Temtem: Swarm is set to launch on Switch on January 21, 2027.",
+      "why_it_matters": "Players with a Switch can now note the date and decide whether to add this roguelike action game to their list. Further details beyond the launch date are still unknown.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "Temtem: Swarm",
+      "source": {
+        "outlet": "Gematsu",
+        "url": "https://www.gematsu.com/2026/11/temtem-swarm-for-switch-launches-january-21-2027",
+        "published_at": "2026-11-20T13:00:17.000Z"
+      },
+      "also_on": [],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2510960/9eed19ba2e454b3a0a00dde88966dcd2e5decc04/header.jpg?t=1793694699",
+        "steam_appid": 2510960,
+        "steam_url": "https://store.steampowered.com/app/2510960/"
+      },
+      "created_at": "2026-11-20T16:13:19.225Z"
+    },
     {
       "id": "9dc6197f66f1",
       "category": "hardware",
@@ -75,6 +130,23 @@
       "created_at": "2026-11-20T13:30:26.856Z"
     },
     {
+      "id": "a4f53899d509",
+      "category": "hardware",
+      "tldr": "Report: AMD's next-generation Zen 6 desktop CPUs may be delayed to the second half of 2027.",
+      "why_it_matters": "PC builders planning an AMD upgrade should wait, since the delay is unconfirmed and the cause is reportedly a switch to TSMC N2X. Official timing is still unknown.",
+      "relevance": 3,
+      "confidence": "low",
+      "game_name": null,
+      "source": {
+        "outlet": "PC Gamer",
+        "url": "https://www.pcgamer.com/hardware/processors/amds-next-gen-zen-6-desktop-cpus-are-rumoured-to-be-delayed-may-be-pushed-back-to-second-half-of-2027/",
+        "published_at": "2026-11-20T11:08:26.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-20T16:13:27.427Z"
+    },
+    {
       "id": "26136a99ae78",
       "category": "hardware",
       "tldr": "Report: PC gamers say recent Nvidia drivers cause tens of gigabytes per hour of unnecessary SSD writes.",
@@ -90,6 +162,23 @@
       "also_on": [],
       "image": null,
       "created_at": "2026-11-20T13:30:33.059Z"
+    },
+    {
+      "id": "ec5b622bd574",
+      "category": "hardware",
+      "tldr": "Valve has paused new orders for the 2TB Steam Machine due to supply constraints.",
+      "why_it_matters": "Players who already reserved a 2TB model will still get purchase invites, but new buyers cannot order it until further notice. The 512GB model is no longer on a waitlist.",
+      "relevance": 4,
+      "confidence": "high",
+      "game_name": null,
+      "source": {
+        "outlet": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/valve-are-pausing-steam-machine-2tb-orders-over-supply-constraints-though-the-512gb-model-is-free-of-its-waitlist",
+        "published_at": "2026-11-20T10:05:00.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-20T16:13:28.404Z"
     },
     {
       "id": "949692c6801d",
@@ -1011,99 +1100,6 @@
       "also_on": [],
       "image": null,
       "created_at": "2026-11-18T22:05:22.542Z"
-    },
-    {
-      "id": "c71988c1751f",
-      "category": "release",
-      "tldr": "Homura Hime, a 3D bullet hell action game, is coming to PS5 in 2027.",
-      "why_it_matters": "Shooter and action fans can add it to their wishlist now. Details beyond the 2027 PS5 release are still unknown, so there is little to act on yet.",
-      "relevance": 3,
-      "confidence": "low",
-      "game_name": "Homura Hime",
-      "source": {
-        "outlet": "Gematsu",
-        "url": "https://www.gematsu.com/2026/11/homura-hime-coming-to-ps5-in-2027",
-        "published_at": "2026-11-18T20:05:22.000Z"
-      },
-      "also_on": [],
-      "image": {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1820000/9d60f6fb747e235e59bf4f8399adf6a8f55d8f12/header.jpg?t=1781518262",
-        "steam_appid": 1820000,
-        "steam_url": "https://store.steampowered.com/app/1820000/"
-      },
-      "created_at": "2026-11-19T01:30:52.716Z"
-    },
-    {
-      "id": "cc8c27a78f1d",
-      "category": "release",
-      "tldr": "Players claim a 2021 remaster may have contained the first real look at GTA 6.",
-      "why_it_matters": "Still unknown whether this is confirmed or just fan speculation, so there is no practical action yet. Wait for Rockstar or verified footage before treating it as news.",
-      "relevance": 3,
-      "confidence": "low",
-      "game_name": "GTA 6",
-      "source": {
-        "outlet": "VGC",
-        "url": "https://www.videogameschronicle.com/news/gta-6-players-discover-our-real-first-look-at-the-game-was-likely-hidden-in-a-2021-remaster/",
-        "published_at": "2026-11-18T19:30:32.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-18T22:05:34.114Z"
-    },
-    {
-      "id": "9fa8c9a10cd8",
-      "category": "release",
-      "tldr": "Report: GTA 6 will reportedly change how players steal cars, adding slim jims, key cloners and tracking devices.",
-      "why_it_matters": "Car theft in GTA 6 may work quite differently from earlier entries, so it is worth watching for details. Specifics on how these tools work are still unknown.",
-      "relevance": 3,
-      "confidence": "low",
-      "game_name": "GTA 6",
-      "source": {
-        "outlet": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-how-to-steal-cars/",
-        "published_at": "2026-11-18T19:22:44.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-18T22:05:35.287Z"
-    },
-    {
-      "id": "ceb4a9d2a8ed",
-      "category": "hardware",
-      "tldr": "Leaked images suggest Lenovo is preparing a cheaper handheld called the Legion Go Beam.",
-      "why_it_matters": "A lower-priced Legion Go could matter if you want a handheld PC without paying the high prices of current models. Price and release details are still unknown.",
-      "relevance": 4,
-      "confidence": "low",
-      "game_name": null,
-      "source": {
-        "outlet": "The Verge",
-        "url": "https://www.theverge.com/games/1036819/the-leaked-lenovo-legion-go-beam-could-be-the-affordable-handheld-we-need",
-        "published_at": "2026-11-18T19:11:50.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-18T19:14:24.810Z"
-    },
-    {
-      "id": "e2d10bdd4f35",
-      "category": "release",
-      "tldr": "Devolver Digital is releasing Volvy's Adventure: Reslimed on the same day as GTA 6, and offering a free copy.",
-      "why_it_matters": "Players can win a free copy of this platformer by proving they have deleted GTA 6 from their hard drive. Worth a look if you enjoy indie platformers.",
-      "relevance": 3,
-      "confidence": "high",
-      "game_name": "Volvy's Adventure: Reslimed",
-      "source": {
-        "outlet": "Eurogamer",
-        "url": "https://www.eurogamer.net/delete-gta-6-free-game-devolver-digital",
-        "published_at": "2026-11-18T19:08:20.000Z"
-      },
-      "also_on": [],
-      "image": {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4523120/bd01ad0f41f47272b6f1459de015d2494b24a422/header.jpg?t=1795112316",
-        "steam_appid": 4523120,
-        "steam_url": "https://store.steampowered.com/app/4523120/"
-      },
-      "created_at": "2026-11-20T13:30:43.540Z"
     }
   ]
 }
