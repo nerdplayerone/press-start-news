@@ -518,5 +518,18 @@
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1799840/1a209734951f53b019ec9fa03f835def14f2a968/header.jpg?t=1795036041",
       "url": "https://store.steampowered.com/app/1799840/"
     }
+  },
+  "caladrius 2 dark element": {
+    "at": "2026-11-20T04:10:57.018Z",
+    "match": null
+  },
+  "professor layton and the new world of steam": {
+    "at": "2026-11-20T04:11:00.039Z",
+    "match": {
+      "appid": 3384600,
+      "name": "Professor Layton and the New World of Steam",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3384600/7ca8815e48a947c0b2890a56fb115f03d1cf02c9/header.jpg?t=1794478966",
+      "url": "https://store.steampowered.com/app/3384600/"
+    }
   }
 }

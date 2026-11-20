@@ -1,7 +1,24 @@
 {
-  "generated_at": "2026-11-20T01:26:58.217Z",
+  "generated_at": "2026-11-20T04:11:00.043Z",
   "version": 1,
   "cards": [
+    {
+      "id": "4c9d14814810",
+      "category": "release",
+      "tldr": "Caladrius 2 and Dark Element have been delayed to January 27, 2027.",
+      "why_it_matters": "Shmup fans should adjust their release plans, as the shoot 'em up sequel now lands in late January 2027. Details beyond the delay are still unknown.",
+      "relevance": 4,
+      "confidence": "low",
+      "game_name": "Caladrius 2/Dark Element",
+      "source": {
+        "outlet": "Gematsu",
+        "url": "https://www.gematsu.com/2026/11/caladrius-2-dark-element-delayed-to-january-27-2027",
+        "published_at": "2026-11-20T01:36:03.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-20T04:10:53.579Z"
+    },
     {
       "id": "5be49a54c822",
       "category": "industry",
@@ -336,6 +353,27 @@
       ],
       "image": null,
       "created_at": "2026-11-19T16:18:39.065Z"
+    },
+    {
+      "id": "943d6aa43511",
+      "category": "release",
+      "tldr": "Professor Layton and the New World of Steam digital pre-orders are now open on Switch 2 and Switch.",
+      "why_it_matters": "Story and gameplay details have been shared, so fans can read up before buying. The summary gives no price or release date, so waiting for those is sensible.",
+      "relevance": 3,
+      "confidence": "low",
+      "game_name": "Professor Layton and the New World of Steam",
+      "source": {
+        "outlet": "Gematsu",
+        "url": "https://www.gematsu.com/2026/11/professor-layton-and-the-new-world-of-steam-digital-pre-orders-now-available-for-switch-2-and-switch-story-and-gameplay-detailed",
+        "published_at": "2026-11-19T15:12:37.000Z"
+      },
+      "also_on": [],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3384600/7ca8815e48a947c0b2890a56fb115f03d1cf02c9/header.jpg?t=1794478966",
+        "steam_appid": 3384600,
+        "steam_url": "https://store.steampowered.com/app/3384600/"
+      },
+      "created_at": "2026-11-20T04:10:54.872Z"
     },
     {
       "id": "aa560b28e1df",
@@ -1054,40 +1092,6 @@
       "also_on": [],
       "image": null,
       "created_at": "2026-11-18T16:17:03.735Z"
-    },
-    {
-      "id": "779926ed1836",
-      "category": "release",
-      "tldr": "GTA 6 has reportedly set records for critical response and streaming audiences before its wider release.",
-      "why_it_matters": "Its strong early reception suggests a major action release to keep on your radar, though exact platforms and full release timing are still unknown from this story.",
-      "relevance": 4,
-      "confidence": "low",
-      "game_name": "GTA 6",
-      "source": {
-        "outlet": "GamesIndustry.biz",
-        "url": "https://www.gamesindustry.biz/gta-6-arrives-to-record-review-scores-and-streaming-audiences",
-        "published_at": "2026-11-18T15:24:20.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-18T16:17:06.663Z"
-    },
-    {
-      "id": "0163fb24c937",
-      "category": "release",
-      "tldr": "A reviewer says GTA 6 looks gorgeous and runs at a stable 30 fps on PS5 Pro.",
-      "why_it_matters": "Suggests the game may perform well on older hardware, but PC performance is still unknown. Wait for official PC specs and benchmarks before deciding.",
-      "relevance": 3,
-      "confidence": "low",
-      "game_name": "GTA 6",
-      "source": {
-        "outlet": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-looks-gorgeous-and-seeing-it-run-at-a-stable-30-fps-on-ageing-ps5-pro-hardware-makes-me-hopeful-for-pc-performance/",
-        "published_at": "2026-11-18T15:22:01.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-18T16:17:07.756Z"
     }
   ]
 }
