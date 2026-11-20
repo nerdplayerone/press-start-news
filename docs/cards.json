@@ -1,7 +1,45 @@
 {
-  "generated_at": "2026-11-20T16:13:33.361Z",
+  "generated_at": "2026-11-20T19:19:19.233Z",
   "version": 1,
   "cards": [
+    {
+      "id": "0d8d32a131be",
+      "category": "release",
+      "tldr": "A demo for the ghost photography survival horror game echograph is now available on PC.",
+      "why_it_matters": "Players who like survival horror can try the game before buying. Details beyond the demo, such as full release timing and price, are not covered here.",
+      "relevance": 3,
+      "confidence": "low",
+      "game_name": "echograph",
+      "source": {
+        "outlet": "Gematsu",
+        "url": "https://www.gematsu.com/2026/11/echograph-demo-now-available",
+        "published_at": "2026-11-20T19:00:17.000Z"
+      },
+      "also_on": [],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3460960/54dacbc86ef3307c1260e9ecd11bfbdf76bcc8ff/header.jpg?t=1795200336",
+        "steam_appid": 3460960,
+        "steam_url": "https://store.steampowered.com/app/3460960/"
+      },
+      "created_at": "2026-11-20T19:18:54.152Z"
+    },
+    {
+      "id": "2fbf22dd7519",
+      "category": "release",
+      "tldr": "A GTA 6 feature lets players wear a mask to stay anonymous during robberies.",
+      "why_it_matters": "Players who enjoy stealthy or criminal playstyles may find the mask useful. Details on how it works and where to get it are still unknown.",
+      "relevance": 3,
+      "confidence": "low",
+      "game_name": "Grand Theft Auto 6",
+      "source": {
+        "outlet": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-mask-location/",
+        "published_at": "2026-11-20T16:22:53.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-20T19:19:07.453Z"
+    },
     {
       "id": "9b9df8216280",
       "category": "hardware",
@@ -1062,44 +1100,6 @@
         "steam_url": "https://store.steampowered.com/app/2561460/"
       },
       "created_at": "2026-11-19T01:30:35.423Z"
-    },
-    {
-      "id": "566080c9ac0e",
-      "category": "release",
-      "tldr": "The First Zombie, a reverse zombie game, has a launch date of December 16.",
-      "why_it_matters": "Players who enjoy unusual takes on the zombie genre can note the December 16 date. The summary gives no platforms or price, so those details are still unknown.",
-      "relevance": 3,
-      "confidence": "low",
-      "game_name": "The First Zombie",
-      "source": {
-        "outlet": "Gematsu",
-        "url": "https://www.gematsu.com/2026/11/the-first-zombie-launches-december-16",
-        "published_at": "2026-11-18T22:32:03.000Z"
-      },
-      "also_on": [],
-      "image": {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5099420/4776521c87ef3eda8cd0e6e7c6a0cc2a6b79a513/header.jpg?t=1795051464",
-        "steam_appid": 5099420,
-        "steam_url": "https://store.steampowered.com/app/5099420/"
-      },
-      "created_at": "2026-11-19T01:30:45.044Z"
-    },
-    {
-      "id": "4c35ce0574cc",
-      "category": "industry",
-      "tldr": "Rockstar reportedly says the PS5 Pro is not powerful enough to run GTA 6 at 60 fps.",
-      "why_it_matters": "Players wanting smooth 60 fps GTA 6 on PS5 Pro may need to lower expectations or consider a PC. Performance details beyond this claim are still unknown.",
-      "relevance": 3,
-      "confidence": "low",
-      "game_name": "GTA 6",
-      "source": {
-        "outlet": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/grand-theft-auto/rockstar-says-a-ps5-pro-is-simply-not-powerful-enough-for-60-fps-gta-6-as-i-crack-a-smile-at-my-5090/",
-        "published_at": "2026-11-18T21:51:35.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-18T22:05:22.542Z"
     }
   ]
 }
