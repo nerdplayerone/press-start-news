@@ -531,5 +531,23 @@
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3384600/7ca8815e48a947c0b2890a56fb115f03d1cf02c9/header.jpg?t=1794478966",
       "url": "https://store.steampowered.com/app/3384600/"
     }
+  },
+  "korridor": {
+    "at": "2026-11-20T10:22:42.596Z",
+    "match": {
+      "appid": 3739580,
+      "name": "KORRIDOR",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3739580/6d6fea5275ce8f5455c72b50aa44581147329ec5/header.jpg?t=1795097898",
+      "url": "https://store.steampowered.com/app/3739580/"
+    }
+  },
+  "crusader kings 3": {
+    "at": "2026-11-20T10:22:45.592Z",
+    "match": {
+      "appid": 1158310,
+      "name": "Crusader Kings III",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1158310/9d06a62089bd4747589431ac1c8bc3112841d528/header_alt_assets_12.jpg?t=1795167672",
+      "url": "https://store.steampowered.com/app/1158310/"
+    }
   }
 }

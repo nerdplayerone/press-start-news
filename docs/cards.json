@@ -1,7 +1,24 @@
 {
-  "generated_at": "2026-11-20T07:36:50.696Z",
+  "generated_at": "2026-11-20T10:22:45.600Z",
   "version": 1,
   "cards": [
+    {
+      "id": "949692c6801d",
+      "category": "industry",
+      "tldr": "Report: GTA 6 reportedly sold around 25 million copies and earned $2.36 billion on its first day.",
+      "why_it_matters": "Sales estimates only, so the figures are unconfirmed. For players it signals huge demand, but it does not change when or where you can buy the game.",
+      "relevance": 3,
+      "confidence": "low",
+      "game_name": "GTA 6",
+      "source": {
+        "outlet": "VGC",
+        "url": "https://www.videogameschronicle.com/news/gta-6-sold-around-25-million-copies-and-made-2-36-billion-in-its-first-day-estimates-suggest/",
+        "published_at": "2026-11-20T09:42:03.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-20T10:22:26.522Z"
+    },
     {
       "id": "4c9d14814810",
       "category": "release",
@@ -489,6 +506,27 @@
       "also_on": [],
       "image": null,
       "created_at": "2026-11-19T16:18:53.247Z"
+    },
+    {
+      "id": "675e502b35cc",
+      "category": "industry",
+      "tldr": "Call of Duty: Modern Warfare 4 topped US sales charts for October 2026, according to Circana.",
+      "why_it_matters": "Shows the shooter sold strongest in its launch month, extending a 19-year run for Call of Duty. No price, platform or content details are given here.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "Call of Duty: Modern Warfare 4",
+      "source": {
+        "outlet": "GamesIndustry.biz",
+        "url": "https://www.gamesindustry.biz/call-of-duty-modern-warfare-4-debuts-as-top-selling-game-in-us-for-october-2026",
+        "published_at": "2026-11-19T14:00:00.000Z"
+      },
+      "also_on": [],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4435490/0c492be3204835d71e8b454b6eb1817f8ff68c0d/header.jpg?t=1794873974",
+        "steam_appid": 4435490,
+        "steam_url": "https://store.steampowered.com/app/4435490/"
+      },
+      "created_at": "2026-11-20T10:22:31.351Z"
     },
     {
       "id": "9a6290528a9d",
@@ -1009,6 +1047,27 @@
       "created_at": "2026-11-18T19:14:51.968Z"
     },
     {
+      "id": "40b5b18c05d1",
+      "category": "release",
+      "tldr": "Korridor, a vertical shooter inspired by mobile game YouTube ads, has a demo playable now.",
+      "why_it_matters": "A playable demo means players can judge the game for themselves. Those who enjoy quick arcade shooters may want to try it, though the full release details are still unknown.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "Korridor",
+      "source": {
+        "outlet": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/korridor-turns-those-youtube-ads-for-vertical-mobile-shooters-into-a-new-deeply-strategic-genre-and-i-cant-decide-if-its-lying",
+        "published_at": "2026-11-18T17:10:00.000Z"
+      },
+      "also_on": [],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3739580/6d6fea5275ce8f5455c72b50aa44581147329ec5/header.jpg?t=1795097898",
+        "steam_appid": 3739580,
+        "steam_url": "https://store.steampowered.com/app/3739580/"
+      },
+      "created_at": "2026-11-20T10:22:34.935Z"
+    },
+    {
       "id": "c026862f2d9b",
       "category": "hardware",
       "tldr": "Wooting admits a fault was found with its Large Knob, delaying the product until next year.",
@@ -1026,72 +1085,25 @@
       "created_at": "2026-11-18T22:05:45.514Z"
     },
     {
-      "id": "5075bf3a079b",
+      "id": "d3edbd5d82fc",
       "category": "release",
-      "tldr": "Grand Theft Auto VI launches tomorrow, 19 November, following criminal duo Jason and Lucia across Leonida.",
-      "why_it_matters": "A major open-world release on PlayStation, so players who want it should pre-load or clear time now. Its shooting and action content suits fans of action games.",
-      "relevance": 5,
-      "confidence": "high",
-      "game_name": "Grand Theft Auto VI",
-      "source": {
-        "outlet": "PlayStation Blog",
-        "url": "https://blog.playstation.com/2026/11/18/grand-theft-auto-vi-launches-tomorrow-november-19/",
-        "published_at": "2026-11-18T16:00:23.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-18T16:16:59.105Z"
-    },
-    {
-      "id": "36e571bc5c12",
-      "category": "hardware",
-      "tldr": "8BitDo has released a Bluetooth gamepad that closely follows the GameCube controller's design, available for preorder now.",
-      "why_it_matters": "Players wanting a GameCube-style pad on modern systems now have a cheaper option, at $49.99, than Nintendo's official wireless version. Shipping is expected on December 10th.",
-      "relevance": 4,
-      "confidence": "high",
-      "game_name": null,
-      "source": {
-        "outlet": "The Verge",
-        "url": "https://www.theverge.com/tech/1036578/8bitdo-gb-bluetooth-gamepad-wireless-controller-nintendo-gamecube-wavebird",
-        "published_at": "2026-11-18T16:00:00.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-18T16:17:00.185Z"
-    },
-    {
-      "id": "81e6cad1385f",
-      "category": "release",
-      "tldr": "Rockstar co-founder Sam Houser issued a rare statement as GTA 6 launched, praising its critical reception.",
-      "why_it_matters": "GTA 6 is now out, so players can judge the reviews for themselves. The statement gives no details on the game's content, platforms or price.",
+      "tldr": "Crusader Kings 3 received a free Florin update alongside its new expansion, Silk and Silver, focused on merchant republics.",
+      "why_it_matters": "Players who enjoy the strategy game can expect a large free update mainly overhauling economics, plus the Silk and Silver expansion. Check the patch notes if you already play.",
       "relevance": 3,
       "confidence": "high",
-      "game_name": "GTA 6",
+      "game_name": "Crusader Kings 3",
       "source": {
-        "outlet": "GamesIndustry.biz",
-        "url": "https://www.gamesindustry.biz/sam-houser-with-gta-6-rockstar-tried-to-create-an-experience-that-will-exceed-your-expectations-while-showing-what-this-medium-is-capable-of",
-        "published_at": "2026-11-18T15:56:30.000Z"
+        "outlet": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/abducting-your-own-lover-no-longer-gives-you-opinion-of-yourself-declare-the-notes-for-crusader-kings-3s-free-florin-update-released-alongside-silk-and-silver",
+        "published_at": "2026-11-18T16:40:00.000Z"
       },
       "also_on": [],
-      "image": null,
-      "created_at": "2026-11-18T16:17:01.684Z"
-    },
-    {
-      "id": "a03617ec2c96",
-      "category": "release",
-      "tldr": "Rockstar reportedly says the PS5 Pro cannot run GTA 6 at 60 FPS.",
-      "why_it_matters": "Players wanting a smooth 60 FPS version on PS5 Pro should not expect one. Whether a later update could change this is still unknown.",
-      "relevance": 4,
-      "confidence": "low",
-      "game_name": "GTA 6",
-      "source": {
-        "outlet": "VGC",
-        "url": "https://www.videogameschronicle.com/news/rockstar-says-ps5-pro-cant-handle-gta-6-at-60-fps/",
-        "published_at": "2026-11-18T15:54:33.000Z"
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1158310/9d06a62089bd4747589431ac1c8bc3112841d528/header_alt_assets_12.jpg?t=1795167672",
+        "steam_appid": 1158310,
+        "steam_url": "https://store.steampowered.com/app/1158310/"
       },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-18T16:17:03.735Z"
+      "created_at": "2026-11-20T10:22:36.088Z"
     }
   ]
 }
