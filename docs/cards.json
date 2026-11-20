@@ -1,7 +1,121 @@
 {
-  "generated_at": "2026-11-20T19:19:19.233Z",
+  "generated_at": "2026-11-20T22:04:16.767Z",
   "version": 1,
   "cards": [
+    {
+      "id": "2c50fa5bb233",
+      "category": "release",
+      "tldr": "Rockstar has confirmed the full voice cast for Grand Theft Auto 6, with every actor now listed.",
+      "why_it_matters": "Players wanting to know who voices the characters can now check the official list. The input gives no release date or platforms, so those remain unknown.",
+      "relevance": 4,
+      "confidence": "low",
+      "game_name": "Grand Theft Auto 6",
+      "source": {
+        "outlet": "VGC",
+        "url": "https://www.videogameschronicle.com/guide/gta-6-full-cast-confirmed-every-actor-in-grand-theft-auto-6/",
+        "published_at": "2026-11-20T21:24:43.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-20T22:03:41.616Z"
+    },
+    {
+      "id": "459d3197000d",
+      "category": "release",
+      "tldr": "BrokenLore: MIKI-CHAN is getting a Switch 2 version alongside its earlier platforms.",
+      "why_it_matters": "A first-person psychological horror fan on Switch 2 now has a dedicated way to play it. Exact launch timing and other details are still unknown from this report.",
+      "relevance": 3,
+      "confidence": "low",
+      "game_name": "BrokenLore: MIKI-CHAN",
+      "source": {
+        "outlet": "Gematsu",
+        "url": "https://www.gematsu.com/2026/11/brokenlore-miki-chan-adds-switch-2-version",
+        "published_at": "2026-11-20T21:01:33.000Z"
+      },
+      "also_on": [],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3975870/ac480c5d947974d2a9027539ab601722c17f794a/header.jpg?t=1795061584",
+        "steam_appid": 3975870,
+        "steam_url": "https://store.steampowered.com/app/3975870/"
+      },
+      "created_at": "2026-11-20T22:03:46.025Z"
+    },
+    {
+      "id": "474da6a69c72",
+      "category": "release",
+      "tldr": "PSYCHO DEAD, a third-person survival horror game, has a launch date of April 15, 2027.",
+      "why_it_matters": "Horror fans can add it to their wishlist now. The summary cuts off before the full platform list, so check the store page for PC and console details.",
+      "relevance": 3,
+      "confidence": "low",
+      "game_name": "PSYCHO DEAD",
+      "source": {
+        "outlet": "Gematsu",
+        "url": "https://www.gematsu.com/2026/11/psycho-dead-launches-april-15-2027",
+        "published_at": "2026-11-20T20:36:46.000Z"
+      },
+      "also_on": [],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3018390/4b11250ffea36ed6ca8a99bec99bd6dc3a3ec617/header.jpg?t=1795207613",
+        "steam_appid": 3018390,
+        "steam_url": "https://store.steampowered.com/app/3018390/"
+      },
+      "created_at": "2026-11-20T22:03:48.133Z"
+    },
+    {
+      "id": "1860541504a1",
+      "category": "industry",
+      "tldr": "GTA 6 reportedly earned $3.79 billion in one day, a record for any entertainment launch.",
+      "why_it_matters": "Strong sales signal a big, widely played game, but this is a business milestone rather than news about gameplay. Nothing here affects what to buy or wait for.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "GTA 6",
+      "source": {
+        "outlet": "VGC",
+        "url": "https://www.videogameschronicle.com/news/gta-6-earns-3-79-billion-in-one-day-as-the-biggest-entertainment-launch-in-history/",
+        "published_at": "2026-11-20T19:41:21.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-20T22:03:52.515Z"
+    },
+    {
+      "id": "4b3f595fab30",
+      "category": "industry",
+      "tldr": "Rockstar says GTA VI earned $3.79 billion on its first day of sales and sold 32.5 million pre-orders.",
+      "why_it_matters": "The game is already out, so the practical question is whether to buy now. The report gives no details on platforms, price or performance, which remain unknown.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "Grand Theft Auto VI",
+      "source": {
+        "outlet": "The Verge",
+        "url": "https://www.theverge.com/games/1036279/gta-vi-sales",
+        "published_at": "2026-11-20T19:35:06.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-20T22:03:54.964Z"
+    },
+    {
+      "id": "5945b2ca6b61",
+      "category": "release",
+      "tldr": "Baptiste, a psychological horror game, has been delayed to March 25, 2027.",
+      "why_it_matters": "Players waiting for Baptiste should note the new March 2027 date. The summary gives no details on platforms or reasons for the delay, which remain unknown.",
+      "relevance": 3,
+      "confidence": "low",
+      "game_name": "Baptiste",
+      "source": {
+        "outlet": "Gematsu",
+        "url": "https://www.gematsu.com/2026/11/baptiste-delayed-to-march-25-2027",
+        "published_at": "2026-11-20T19:09:11.000Z"
+      },
+      "also_on": [],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2922250/dbced3c7630d648df0b2d41501bdff4a7509196b/header.jpg?t=1794327638",
+        "steam_appid": 2922250,
+        "steam_url": "https://store.steampowered.com/app/2922250/"
+      },
+      "created_at": "2026-11-20T22:03:58.058Z"
+    },
     {
       "id": "0d8d32a131be",
       "category": "release",
@@ -985,121 +1099,6 @@
       "also_on": [],
       "image": null,
       "created_at": "2026-11-19T13:35:22.890Z"
-    },
-    {
-      "id": "5e44643d7969",
-      "category": "release",
-      "tldr": "Grand Theft Auto 6 is now available to play worldwide, with a launch day live blog covering its arrival.",
-      "why_it_matters": "A major open-world release has landed, so players wanting to jump in can now start playing. The sources give no details on platforms or price, so check those before buying.",
-      "relevance": 3,
-      "confidence": "high",
-      "game_name": "Grand Theft Auto 6",
-      "source": {
-        "outlet": "Eurogamer",
-        "url": "https://www.eurogamer.net/gta-6-grand-theft-auto-6-launch-day-live-blog",
-        "published_at": "2026-11-19T09:05:00.000Z"
-      },
-      "also_on": [
-        {
-          "outlet": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/gta-6-all-radio-stations-genres-grand-theft-auto/"
-        }
-      ],
-      "image": null,
-      "created_at": "2026-11-19T10:22:27.966Z"
-    },
-    {
-      "id": "736a72bb0235",
-      "category": "release",
-      "tldr": "Ao Oni: The Horror of Blueberry Onsen Plus and Ao Oni 2 are coming to PS5 on December 17.",
-      "why_it_matters": "Horror RPG fans on PS5 have a date to note. The summary gives no further details on features or price, so wait for more information before deciding.",
-      "relevance": 3,
-      "confidence": "low",
-      "game_name": "Ao Oni: The Horror of Blueberry Onsen Plus",
-      "source": {
-        "outlet": "Gematsu",
-        "url": "https://www.gematsu.com/2026/11/ao-oni-the-horror-of-blueberry-onsen-plus-and-ao-oni-2-coming-to-ps5-on-december-17",
-        "published_at": "2026-11-19T05:27:06.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-19T07:38:53.018Z"
-    },
-    {
-      "id": "eba652dbba98",
-      "category": "release",
-      "tldr": "Girls' Frontline: The Lunasia Covenant has a 2027 launch, according to Gematsu.",
-      "why_it_matters": "This is a third-person shooter with a PvE focus, announced in May. Watch for more details on platforms and mechanics before deciding whether it fits your shooter wishlist.",
-      "relevance": 3,
-      "confidence": "low",
-      "game_name": "Girls' Frontline: The Lunasia Covenant",
-      "source": {
-        "outlet": "Gematsu",
-        "url": "https://www.gematsu.com/2026/11/girls-frontline-the-lunasia-covenant-launches-in-2027",
-        "published_at": "2026-11-19T05:15:51.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-19T07:38:55.199Z"
-    },
-    {
-      "id": "bd9c66e5d72a",
-      "category": "release",
-      "tldr": "Over an hour of new Total War: Warhammer 40,000 campaign footage has been shown, covering gear customisation and fleet mechanics.",
-      "why_it_matters": "Fans of strategy and Warhammer 40,000 can expect more detail on gear and fleets, though release timing and platforms are still unknown.",
-      "relevance": 3,
-      "confidence": "low",
-      "game_name": "Total War: Warhammer 40,000",
-      "source": {
-        "outlet": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/strategy/over-an-hour-of-new-total-war-warhammer-40-000-campaign-footage-shows-gear-customization-fleet-mechanics-and-emphasizes-space-marines-are-not-always-trusted-and-hard-to-replace/",
-        "published_at": "2026-11-19T03:09:13.000Z"
-      },
-      "also_on": [],
-      "image": {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4199910/fcb5b083b8f42f5dde4480aefa0294420ddf6b19/header.jpg?t=1784712557",
-        "steam_appid": 4199910,
-        "steam_url": "https://store.steampowered.com/app/4199910/"
-      },
-      "created_at": "2026-11-19T04:14:49.091Z"
-    },
-    {
-      "id": "f83f41ba0e9a",
-      "category": "release",
-      "tldr": "The Detective Is Already Dead has a 2027 launch date set for Japan, according to Gematsu.",
-      "why_it_matters": "Players wanting this mystery adventure should note the Japan-only 2027 timing; details on wider regional release remain unknown.",
-      "relevance": 3,
-      "confidence": "low",
-      "game_name": "The Detective Is Already Dead",
-      "source": {
-        "outlet": "Gematsu",
-        "url": "https://www.gematsu.com/2026/11/the-detective-is-already-dead-game-launches-in-2027-in-japan",
-        "published_at": "2026-11-19T03:00:09.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-19T04:14:51.781Z"
-    },
-    {
-      "id": "1d0b273d85ff",
-      "category": "release",
-      "tldr": "Burning Sword: Death Sun, a wuxia hack-and-slash action game, is now available in Early Access.",
-      "why_it_matters": "Action fans wanting a martial-arts slasher can try it now, though the input gives no details on platforms, price or full release timing, so those remain unknown.",
-      "relevance": 4,
-      "confidence": "low",
-      "game_name": "Burning Sword: Death Sun",
-      "source": {
-        "outlet": "Gematsu",
-        "url": "https://www.gematsu.com/2026/11/burning-sword-death-sun-now-available-in-early-access",
-        "published_at": "2026-11-18T23:00:14.000Z"
-      },
-      "also_on": [],
-      "image": {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2561460/4c636b98f8dc1efce23d147a818bcb779d89b743/header.jpg?t=1795044533",
-        "steam_appid": 2561460,
-        "steam_url": "https://store.steampowered.com/app/2561460/"
-      },
-      "created_at": "2026-11-19T01:30:35.423Z"
     }
   ]
 }

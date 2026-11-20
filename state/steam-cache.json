@@ -576,5 +576,32 @@
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3460960/54dacbc86ef3307c1260e9ecd11bfbdf76bcc8ff/header.jpg?t=1795200336",
       "url": "https://store.steampowered.com/app/3460960/"
     }
+  },
+  "brokenlore miki chan": {
+    "at": "2026-11-20T22:04:10.788Z",
+    "match": {
+      "appid": 3975870,
+      "name": "BrokenLore: MIKI-CHAN",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3975870/ac480c5d947974d2a9027539ab601722c17f794a/header.jpg?t=1795061584",
+      "url": "https://store.steampowered.com/app/3975870/"
+    }
+  },
+  "psycho dead": {
+    "at": "2026-11-20T22:04:13.796Z",
+    "match": {
+      "appid": 3018390,
+      "name": "PSYCHO DEAD",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3018390/4b11250ffea36ed6ca8a99bec99bd6dc3a3ec617/header.jpg?t=1795207613",
+      "url": "https://store.steampowered.com/app/3018390/"
+    }
+  },
+  "baptiste": {
+    "at": "2026-11-20T22:04:16.759Z",
+    "match": {
+      "appid": 2922250,
+      "name": "Baptiste",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2922250/dbced3c7630d648df0b2d41501bdff4a7509196b/header.jpg?t=1794327638",
+      "url": "https://store.steampowered.com/app/2922250/"
+    }
   }
 }
