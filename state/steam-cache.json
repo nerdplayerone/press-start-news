@@ -509,5 +509,14 @@
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4435490/0c492be3204835d71e8b454b6eb1817f8ff68c0d/header.jpg?t=1794873974",
       "url": "https://store.steampowered.com/app/4435490/"
     }
+  },
+  "queen s domain": {
+    "at": "2026-11-20T01:26:58.213Z",
+    "match": {
+      "appid": 1799840,
+      "name": "Queen's Domain",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1799840/1a209734951f53b019ec9fa03f835def14f2a968/header.jpg?t=1795036041",
+      "url": "https://store.steampowered.com/app/1799840/"
+    }
   }
 }

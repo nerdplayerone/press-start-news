@@ -1,7 +1,79 @@
 {
-  "generated_at": "2026-11-19T22:05:13.781Z",
+  "generated_at": "2026-11-20T01:26:58.217Z",
   "version": 1,
   "cards": [
+    {
+      "id": "5be49a54c822",
+      "category": "industry",
+      "tldr": "Report: Cyberleek has posted what it claims is a near-complete GTA 6 Xbox build online.",
+      "why_it_matters": "The file is reportedly around 200 GB, but its authenticity is unconfirmed, so no official release details are known yet. Wait for Rockstar to confirm before acting on it.",
+      "relevance": 3,
+      "confidence": "low",
+      "game_name": "GTA 6",
+      "source": {
+        "outlet": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/cyberleek-drops-what-they-claim-is-a-near-complete-gta-6-xbox-build-online/",
+        "published_at": "2026-11-19T23:17:00.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-20T01:26:33.322Z"
+    },
+    {
+      "id": "069f4833f0d2",
+      "category": "hardware",
+      "tldr": "A PC Gamer writer praises how GTA 6 uses the PS5 controller's adaptive triggers while driving.",
+      "why_it_matters": "Shows the DualSense feedback in GTA 6 is a standout, a useful signal for controller-focused players. Beyond that, the input does not say what else the feature covers.",
+      "relevance": 3,
+      "confidence": "low",
+      "game_name": "GTA 6",
+      "source": {
+        "outlet": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-has-the-best-use-of-the-ps5-controller-ive-ever-seen/",
+        "published_at": "2026-11-19T22:28:33.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-20T01:26:40.993Z"
+    },
+    {
+      "id": "ecf21b5456c9",
+      "category": "release",
+      "tldr": "Queen's Domain offers tools that eventually help players find its hidden collectibles, easing collectathon completionism.",
+      "why_it_matters": "Players who dislike hunting every collectible can relax, as the game later provides aids for locating hidden treasures. Worth knowing if you plan to chase full completion.",
+      "relevance": 3,
+      "confidence": "low",
+      "game_name": "Queen's Domain",
+      "source": {
+        "outlet": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/rpg/dont-stress-about-collectathon-completionism-in-queens-domain-it-eventually-gives-you-tools-to-help-find-hidden-treasures/",
+        "published_at": "2026-11-19T22:20:56.000Z"
+      },
+      "also_on": [],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1799840/1a209734951f53b019ec9fa03f835def14f2a968/header.jpg?t=1795036041",
+        "steam_appid": 1799840,
+        "steam_url": "https://store.steampowered.com/app/1799840/"
+      },
+      "created_at": "2026-11-20T01:26:42.478Z"
+    },
+    {
+      "id": "b3890e3c9b6e",
+      "category": "hardware",
+      "tldr": "Valve may raise Steam Machine prices again, citing memory and storage costs, and has closed its waitlist.",
+      "why_it_matters": "Players wanting a Steam Machine may need to buy soon, as the 2TB model looks especially constrained and final pricing and stock are still unknown.",
+      "relevance": 4,
+      "confidence": "high",
+      "game_name": null,
+      "source": {
+        "outlet": "PC Gamer",
+        "url": "https://www.pcgamer.com/hardware/steam-machines/valve-may-raise-steam-machine-prices-yet-again-memory-and-storage-costs-continue-to-increase-at-unprecedented-levels/",
+        "published_at": "2026-11-19T21:10:22.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-20T01:26:44.139Z"
+    },
     {
       "id": "579463838a59",
       "category": "hardware",
@@ -1016,79 +1088,6 @@
       "also_on": [],
       "image": null,
       "created_at": "2026-11-18T16:17:07.756Z"
-    },
-    {
-      "id": "9b91943f6f85",
-      "category": "release",
-      "tldr": "Report: GTA 6 reportedly struggles to hold 30 FPS on the base PS5 at all times.",
-      "why_it_matters": "The PS5 Pro reportedly keeps 30 FPS, so base PS5 owners may face dips. Check official performance details before deciding which console to buy.",
-      "relevance": 3,
-      "confidence": "low",
-      "game_name": "GTA 6",
-      "source": {
-        "outlet": "VGC",
-        "url": "https://www.videogameschronicle.com/news/gta-6-base-ps5-performance-analysis-shows-struggle-to-maintain-30-fps-at-all-times/",
-        "published_at": "2026-11-18T15:02:46.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-18T16:17:12.918Z"
-    },
-    {
-      "id": "4cd20ef599f4",
-      "category": "release",
-      "tldr": "Grand Theft Auto 6 has received universal critical acclaim after its long-awaited launch.",
-      "why_it_matters": "Reviews are strongly positive, so it is worth a closer look if you enjoy open-world action games. Check the reviews and your platform's price before buying.",
-      "relevance": 3,
-      "confidence": "high",
-      "game_name": "Grand Theft Auto 6",
-      "source": {
-        "outlet": "GamesIndustry.biz",
-        "url": "https://www.gamesindustry.biz/grand-theft-auto-6-critical-consensus",
-        "published_at": "2026-11-18T14:38:20.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-18T16:17:17.045Z"
-    },
-    {
-      "id": "a99a938255b7",
-      "category": "release",
-      "tldr": "GTA 6 does not let players replay story missions once completed, though multiple save files are available.",
-      "why_it_matters": "Players who like revisiting missions should plan saves carefully, as progress through the story cannot be rolled back to replay a mission.",
-      "relevance": 3,
-      "confidence": "high",
-      "game_name": "Grand Theft Auto VI",
-      "source": {
-        "outlet": "Eurogamer",
-        "url": "https://www.eurogamer.net/gta-6-multiple-save-files-replay-missions",
-        "published_at": "2026-11-18T14:24:00.000Z"
-      },
-      "also_on": [
-        {
-          "outlet": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/gta-6-swamped-mission-walkthrough/"
-        }
-      ],
-      "image": null,
-      "created_at": "2026-11-18T22:05:48.861Z"
-    },
-    {
-      "id": "ca79b32b05a9",
-      "category": "industry",
-      "tldr": "AMD says it loves gamers, weeks after calling itself a datacenter-first company.",
-      "why_it_matters": "Gaming hardware may get less focus from AMD as datacenter takes priority. Players wanting new GPUs or CPUs should watch for launch details before buying.",
-      "relevance": 3,
-      "confidence": "low",
-      "game_name": null,
-      "source": {
-        "outlet": "PC Gamer",
-        "url": "https://www.pcgamer.com/hardware/graphics-cards/amd-says-it-loves-gamers-only-weeks-after-proclaiming-it-is-a-datacenter-first-company/",
-        "published_at": "2026-11-18T12:57:35.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-18T13:30:58.119Z"
     }
   ]
 }
