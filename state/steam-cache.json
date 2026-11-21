@@ -639,5 +639,32 @@
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/c227a2855aba60f3657bc0c3a46515b8c41fb2b6/header.jpg?t=1794312564",
       "url": "https://store.steampowered.com/app/739630/"
     }
+  },
+  "eldritch empathy": {
+    "at": "2026-11-21T19:05:03.237Z",
+    "match": {
+      "appid": 2073150,
+      "name": "Eldritch Empathy",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073150/1a593548911d029371665423acbd636bd3bb9c08/header.jpg?t=1795210029",
+      "url": "https://store.steampowered.com/app/2073150/"
+    }
+  },
+  "nioh 3": {
+    "at": "2026-11-21T19:05:06.167Z",
+    "match": {
+      "appid": 3681010,
+      "name": "Nioh 3",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3681010/a21264e9fd476dcb2901c2432b598107d024c5a8/header.jpg?t=1772090941",
+      "url": "https://store.steampowered.com/app/3681010/"
+    }
+  },
+  "darkest dungeon 2": {
+    "at": "2026-11-21T19:05:09.151Z",
+    "match": {
+      "appid": 1940340,
+      "name": "Darkest Dungeon® II",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1940340/header.jpg?t=1759351183",
+      "url": "https://store.steampowered.com/app/1940340/"
+    }
   }
 }

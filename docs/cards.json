@@ -1,7 +1,91 @@
 {
-  "generated_at": "2026-11-21T15:59:37.415Z",
+  "generated_at": "2026-11-21T19:05:09.156Z",
   "version": 1,
   "cards": [
+    {
+      "id": "8440636f8b65",
+      "category": "release",
+      "tldr": "Eldritch Empathy is a puzzle roguelite where you diagnose cosmic horror creatures and purify their emotions.",
+      "why_it_matters": "It is a Papers Please-style game with a cosmic horror twist, worth wishlisting if you enjoy puzzle roguelites. Release details are not yet clear from this coverage.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "Eldritch Empathy",
+      "source": {
+        "outlet": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/eldritch-empathy-is-a-papers-please-esque-roguelite-about-diagnosing-cosmic-horror-creatures-and-trying-not-to-lose-your-marbles-as-you-do",
+        "published_at": "2026-11-21T18:57:00.000Z"
+      },
+      "also_on": [],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073150/1a593548911d029371665423acbd636bd3bb9c08/header.jpg?t=1795210029",
+        "steam_appid": 2073150,
+        "steam_url": "https://store.steampowered.com/app/2073150/"
+      },
+      "created_at": "2026-11-21T19:04:43.841Z"
+    },
+    {
+      "id": "344122f1a48b",
+      "category": "release",
+      "tldr": "Toby Fox is keeping Deltarune's ending from his own development team until enough of the game is built.",
+      "why_it_matters": "Players can expect Deltarune's story to stay under wraps, so the finale is still unknown and worth watching for rather than spoiled by leaks.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "Deltarune",
+      "source": {
+        "outlet": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/everyone-agrees-its-more-fun-this-way-toby-fox-wont-tell-his-team-how-deltarune-ends-until-theyve-built-enough-of-it",
+        "published_at": "2026-11-21T17:54:00.000Z"
+      },
+      "also_on": [],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1671210/7ccda5b1631d2e60cc756a3271e845dbb9168821/header.jpg?t=1782314340",
+        "steam_appid": 1671210,
+        "steam_url": "https://store.steampowered.com/app/1671210/"
+      },
+      "created_at": "2026-11-21T19:04:46.937Z"
+    },
+    {
+      "id": "9fe385eae61d",
+      "category": "release",
+      "tldr": "Report: An unannounced Nioh 3 Complete Edition has received a rating from Korea's GRAC.",
+      "why_it_matters": "A rating suggests a Complete Edition release is being prepared, but no platforms, dates or contents are confirmed yet. Worth watching if you plan to pick up Nioh 3.",
+      "relevance": 3,
+      "confidence": "low",
+      "game_name": "Nioh 3",
+      "source": {
+        "outlet": "Eurogamer",
+        "url": "https://www.eurogamer.net/nioh-3-complete-edition-rated-korea",
+        "published_at": "2026-11-21T17:19:50.000Z"
+      },
+      "also_on": [],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3681010/a21264e9fd476dcb2901c2432b598107d024c5a8/header.jpg?t=1772090941",
+        "steam_appid": 3681010,
+        "steam_url": "https://store.steampowered.com/app/3681010/"
+      },
+      "created_at": "2026-11-21T19:04:50.204Z"
+    },
+    {
+      "id": "b0b9c615c151",
+      "category": "release",
+      "tldr": "Darkest Dungeon 2 is getting its next DLC, a short combat-focused gauntlet, shown in a new trailer.",
+      "why_it_matters": "Fans of tough tactical combat can look out for it, though its release date and platforms are not yet clear from this report.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "Darkest Dungeon 2",
+      "source": {
+        "outlet": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/darkest-dungeon-2s-next-bit-of-dlc-is-a-short-run-combat-focused-gauntlet-where-you-must-do-everything-in-your-power-to-please-the-audience",
+        "published_at": "2026-11-21T16:53:00.000Z"
+      },
+      "also_on": [],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1940340/header.jpg?t=1759351183",
+        "steam_appid": 1940340,
+        "steam_url": "https://store.steampowered.com/app/1940340/"
+      },
+      "created_at": "2026-11-21T19:04:55.373Z"
+    },
     {
       "id": "5f4037c695c2",
       "category": "release",
@@ -1043,74 +1127,6 @@
       "also_on": [],
       "image": null,
       "created_at": "2026-11-19T13:34:44.625Z"
-    },
-    {
-      "id": "674a3a0fe266",
-      "category": "hardware",
-      "tldr": "Rocksteady's GTA 6 advice: turn on HGiG on your HDR TV for the best picture.",
-      "why_it_matters": "If you play GTA 6 on an HDR TV, enabling HGiG mode should give a more accurate picture. Nothing else about the game is covered here.",
-      "relevance": 3,
-      "confidence": "low",
-      "game_name": "GTA 6",
-      "source": {
-        "outlet": "VGC",
-        "url": "https://www.videogameschronicle.com/news/gta-6-psa-hgig-hdr-tv-grand-theft-auto/",
-        "published_at": "2026-11-19T13:24:22.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-19T13:34:48.229Z"
-    },
-    {
-      "id": "cf76fb21e71a",
-      "category": "release",
-      "tldr": "Rockstar says it will not include a Disney World parody in GTA 6, citing an obvious reason.",
-      "why_it_matters": "Players wanting a theme park parody should not expect one in GTA 6. The producer said building it would take a lot of work, so the omission looks deliberate.",
-      "relevance": 3,
-      "confidence": "high",
-      "game_name": "GTA 6",
-      "source": {
-        "outlet": "VGC",
-        "url": "https://www.videogameschronicle.com/news/rockstar-says-theres-no-disney-world-in-gta-6-for-an-obvious-reason/",
-        "published_at": "2026-11-19T13:20:27.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-19T13:34:51.818Z"
-    },
-    {
-      "id": "5a0c6806c721",
-      "category": "hardware",
-      "tldr": "OLED monitor shipments have doubled compared with last year, according to reported figures.",
-      "why_it_matters": "Shows OLED panels are gaining ground fast, so gamers weighing a monitor upgrade may find more OLED choice and options. Specific models and prices are still unknown.",
-      "relevance": 3,
-      "confidence": "low",
-      "game_name": null,
-      "source": {
-        "outlet": "PC Gamer",
-        "url": "https://www.pcgamer.com/hardware/gaming-monitors/oled-monitor-shipments-have-doubled-from-last-year-and-all-i-can-say-is-its-well-deserved/",
-        "published_at": "2026-11-19T13:19:30.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-19T13:34:52.920Z"
-    },
-    {
-      "id": "1307b302fdbc",
-      "category": "hardware",
-      "tldr": "Rock Paper Shotgun argues that gamers should buy OLED monitors despite higher cost and burn-in worries.",
-      "why_it_matters": "If you are shopping for a gaming monitor, OLED is worth considering, though burn-in risk and price remain the main trade-offs to weigh.",
-      "relevance": 3,
-      "confidence": "high",
-      "game_name": null,
-      "source": {
-        "outlet": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/theyre-more-complicated-and-more-expensive-than-lcd-screens-but-your-next-gaming-monitor-should-still-be-an-oled",
-        "published_at": "2026-11-19T13:00:00.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-19T13:34:57.642Z"
     }
   ]
 }
