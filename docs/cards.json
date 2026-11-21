@@ -1,7 +1,45 @@
 {
-  "generated_at": "2026-11-21T13:16:12.450Z",
+  "generated_at": "2026-11-21T15:59:37.415Z",
   "version": 1,
   "cards": [
+    {
+      "id": "5f4037c695c2",
+      "category": "release",
+      "tldr": "Phasmophobia's Resonance update arrives on 24th November with a new ghost-hunting tool and more voice commands.",
+      "why_it_matters": "Expect a new piece of kit and extra voice commands, plus a move to the Unity 6 engine. Worth a look if you play co-op ghost hunts.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "Phasmophobia",
+      "source": {
+        "outlet": "Eurogamer",
+        "url": "https://www.eurogamer.net/phasmophobia-resonance-update-release-date-dowsing-rods-unity-6",
+        "published_at": "2026-11-21T15:56:10.000Z"
+      },
+      "also_on": [],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/c227a2855aba60f3657bc0c3a46515b8c41fb2b6/header.jpg?t=1794312564",
+        "steam_appid": 739630,
+        "steam_url": "https://store.steampowered.com/app/739630/"
+      },
+      "created_at": "2026-11-21T15:59:22.486Z"
+    },
+    {
+      "id": "f57d84b1215b",
+      "category": "industry",
+      "tldr": "Grand Theft Auto 6 has a 99 critic Metascore, while its Metacritic user score is being hit by review bombing.",
+      "why_it_matters": "Critics rate it very highly, but the user score is being dragged down by review bombing, so judge the game yourself rather than by the aggregate.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "Grand Theft Auto 6",
+      "source": {
+        "outlet": "Eurogamer",
+        "url": "https://www.eurogamer.net/gta-6-review-bombed-metacritic-user-score",
+        "published_at": "2026-11-21T14:19:40.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-21T15:59:30.326Z"
+    },
     {
       "id": "19df03ba2106",
       "category": "release",
@@ -1073,44 +1111,6 @@
       "also_on": [],
       "image": null,
       "created_at": "2026-11-19T13:34:57.642Z"
-    },
-    {
-      "id": "8011ccba9195",
-      "category": "release",
-      "tldr": "A new hour-long stream shows campaign play in Total War: Warhammer 40,000, including fleet management without ship battles.",
-      "why_it_matters": "Players wanting a feel for the strategy game's campaign can watch the footage. Unknown from this report is release timing or platforms.",
-      "relevance": 3,
-      "confidence": "high",
-      "game_name": "Total War: Warhammer 40,000",
-      "source": {
-        "outlet": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/hour-long-total-war-warhammer-40000-campaign-stream-shows-off-ship-battle-less-fleet-management-makes-clear-how-not-ideal-getting-space-marine-armies-killed-is",
-        "published_at": "2026-11-19T12:22:20.000Z"
-      },
-      "also_on": [],
-      "image": {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4199910/fcb5b083b8f42f5dde4480aefa0294420ddf6b19/header.jpg?t=1784712557",
-        "steam_appid": 4199910,
-        "steam_url": "https://store.steampowered.com/app/4199910/"
-      },
-      "created_at": "2026-11-19T13:35:05.225Z"
-    },
-    {
-      "id": "bd1eb06f8052",
-      "category": "hardware",
-      "tldr": "Report: DDR6 memory modules are set to be almost half the size of DDR5 with nearly double the top speed.",
-      "why_it_matters": "Smaller, faster memory points to future PC builds with more performance per slot, though no release timing or prices are confirmed yet. Worth watching, not buying for now.",
-      "relevance": 3,
-      "confidence": "low",
-      "game_name": null,
-      "source": {
-        "outlet": "PC Gamer",
-        "url": "https://www.pcgamer.com/hardware/memory/ddr6-memory-modules-to-be-almost-half-the-size-of-ddr5-and-almost-double-the-max-speed/",
-        "published_at": "2026-11-19T11:52:57.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-19T13:35:11.231Z"
     }
   ]
 }
