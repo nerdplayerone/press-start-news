@@ -603,5 +603,23 @@
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2922250/dbced3c7630d648df0b2d41501bdff4a7509196b/header.jpg?t=1794327638",
       "url": "https://store.steampowered.com/app/2922250/"
     }
+  },
+  "maniac": {
+    "at": "2026-11-21T10:02:41.580Z",
+    "match": {
+      "appid": 1482380,
+      "name": "Maniac",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1482380/header.jpg?t=1773224707",
+      "url": "https://store.steampowered.com/app/1482380/"
+    }
+  },
+  "persona 6": {
+    "at": "2026-11-21T10:02:44.512Z",
+    "match": {
+      "appid": 2649560,
+      "name": "Persona 6",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2649560/96402e10ba89cccb7906eecd235d7d812f8f9eb0/header.jpg?t=1781799583",
+      "url": "https://store.steampowered.com/app/2649560/"
+    }
   }
 }

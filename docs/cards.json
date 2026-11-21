@@ -1,7 +1,28 @@
 {
-  "generated_at": "2026-11-21T07:28:47.680Z",
+  "generated_at": "2026-11-21T10:02:44.517Z",
   "version": 1,
   "cards": [
+    {
+      "id": "d1dc6f43e5e2",
+      "category": "release",
+      "tldr": "Maniac is a top-down roguelite shooter blending Vampire Survivors-style action with Grand Theft Auto 2 chaos.",
+      "why_it_matters": "A PC and console shooter fan may enjoy this overlooked game. Its quality is praised, though this article gives no new release or price details.",
+      "relevance": 4,
+      "confidence": "high",
+      "game_name": "Maniac",
+      "source": {
+        "outlet": "Eurogamer",
+        "url": "https://www.eurogamer.net/grand-theft-auto-6-vampire-survivors-maniac-interview",
+        "published_at": "2026-11-21T10:00:00.000Z"
+      },
+      "also_on": [],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1482380/header.jpg?t=1773224707",
+        "steam_appid": 1482380,
+        "steam_url": "https://store.steampowered.com/app/1482380/"
+      },
+      "created_at": "2026-11-21T10:02:32.246Z"
+    },
     {
       "id": "f570f1758eb2",
       "category": "release",
@@ -111,6 +132,27 @@
       "also_on": [],
       "image": null,
       "created_at": "2026-11-20T22:03:54.964Z"
+    },
+    {
+      "id": "ba5d475eda3b",
+      "category": "industry",
+      "tldr": "Atlus says future Persona games will be made faster than Persona 6 and Persona 5 were.",
+      "why_it_matters": "Persona 6 is still in development, so no release date is set. Players wanting new Persona games sooner can expect shorter gaps, but no specific timing has been given yet.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "Persona 6",
+      "source": {
+        "outlet": "Eurogamer",
+        "url": "https://www.eurogamer.net/persona-6-games-come-quicker-atlus",
+        "published_at": "2026-11-20T19:23:00.000Z"
+      },
+      "also_on": [],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2649560/96402e10ba89cccb7906eecd235d7d812f8f9eb0/header.jpg?t=1781799583",
+        "steam_appid": 2649560,
+        "steam_url": "https://store.steampowered.com/app/2649560/"
+      },
+      "created_at": "2026-11-21T10:02:37.254Z"
     },
     {
       "id": "5945b2ca6b61",
@@ -1065,40 +1107,6 @@
       "also_on": [],
       "image": null,
       "created_at": "2026-11-19T10:22:13.980Z"
-    },
-    {
-      "id": "a8445608961f",
-      "category": "release",
-      "tldr": "GTA 6 players will rarely need to refuel cars, with garages offering a bigger reason to visit.",
-      "why_it_matters": "Fuel is a minor concern in GTA 6, so players can plan trips around garages instead. Further details on what garages offer are still unknown.",
-      "relevance": 3,
-      "confidence": "low",
-      "game_name": "GTA 6",
-      "source": {
-        "outlet": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-refuel-repair-cars/",
-        "published_at": "2026-11-19T10:11:36.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-19T10:22:17.689Z"
-    },
-    {
-      "id": "6b393247c989",
-      "category": "hardware",
-      "tldr": "The Xbox Series S version of GTA 6 appears to be the first to use AMD's FSR 4.1 upscaling.",
-      "why_it_matters": "FSR 4.1 is coming to Xbox Series X/S consoles, so Series S owners may see sharper image quality in GTA 6. Performance results are still unknown.",
-      "relevance": 3,
-      "confidence": "low",
-      "game_name": "Grand Theft Auto VI",
-      "source": {
-        "outlet": "VGC",
-        "url": "https://www.videogameschronicle.com/news/the-xbox-series-s-version-of-gta-6-is-seemingly-the-first-to-use-amds-fsr-4-1-upscaling/",
-        "published_at": "2026-11-19T10:08:25.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-19T10:22:20.835Z"
     }
   ]
 }
