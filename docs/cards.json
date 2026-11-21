@@ -1,7 +1,24 @@
 {
-  "generated_at": "2026-11-20T22:04:16.767Z",
+  "generated_at": "2026-11-21T01:30:18.368Z",
   "version": 1,
   "cards": [
+    {
+      "id": "f570f1758eb2",
+      "category": "release",
+      "tldr": "Article covers what is known so far about a possible PC version of Grand Theft Auto 6.",
+      "why_it_matters": "No confirmed PC release date or platform details are given, so the PC version is still unknown. Wait for official announcements before planning a purchase.",
+      "relevance": 4,
+      "confidence": "low",
+      "game_name": "Grand Theft Auto 6",
+      "source": {
+        "outlet": "VGC",
+        "url": "https://www.videogameschronicle.com/guide/gta-6-pc-version/",
+        "published_at": "2026-11-20T22:27:36.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-21T01:30:14.811Z"
+    },
     {
       "id": "2c50fa5bb233",
       "category": "release",
@@ -1082,23 +1099,6 @@
       "also_on": [],
       "image": null,
       "created_at": "2026-11-19T10:22:20.835Z"
-    },
-    {
-      "id": "8bf24a55f9bd",
-      "category": "release",
-      "tldr": "Grand Theft Auto 6 has launched, and players are sharing favourite moments online.",
-      "why_it_matters": "Players are praising slapstick violence, animal fatalities and the in-game social media. Fans wanting to avoid spoilers may want to steer clear of highlight clips for now.",
-      "relevance": 5,
-      "confidence": "high",
-      "game_name": "Grand Theft Auto 6",
-      "source": {
-        "outlet": "Eurogamer",
-        "url": "https://www.eurogamer.net/grand-theft-auto-6-players-love-crime-social-media-animals",
-        "published_at": "2026-11-19T09:38:50.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-19T13:35:22.890Z"
     }
   ]
 }
