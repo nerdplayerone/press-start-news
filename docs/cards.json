@@ -1,7 +1,24 @@
 {
-  "generated_at": "2026-11-22T10:01:30.602Z",
+  "generated_at": "2026-11-22T13:14:50.489Z",
   "version": 1,
   "cards": [
+    {
+      "id": "0523320b3c70",
+      "category": "release",
+      "tldr": "Rockstar says GTA 6 protagonist Jason was shaped by Steve McQueen and research into Army veterans.",
+      "why_it_matters": "Little gameplay detail is given here, so the story mainly shows Rockstar aims for grounded characters. Nothing yet changes what to wishlist or wait for.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "Grand Theft Auto 6",
+      "source": {
+        "outlet": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/jasons-stoic-character-in-grand-theft-auto-6-was-inspired-by-steve-mcqueen-and-research-into-army-veterans-these-guys-typically-arent-running-their-mouths/",
+        "published_at": "2026-11-22T10:54:09.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-22T13:14:49.155Z"
+    },
     {
       "id": "633111901b34",
       "category": "release",
@@ -1110,23 +1127,6 @@
       "also_on": [],
       "image": null,
       "created_at": "2026-11-19T16:18:56.564Z"
-    },
-    {
-      "id": "c61e86cc9a39",
-      "category": "release",
-      "tldr": "Rockstar has reportedly kept cheating options with Mandy or strippers out of GTA 6's Jason and Lucia storyline.",
-      "why_it_matters": "Players wanting romance-based side options should not expect them in GTA 6, as Rockstar considers them out of step with the couple's story. Details remain limited.",
-      "relevance": 3,
-      "confidence": "low",
-      "game_name": "GTA 6",
-      "source": {
-        "outlet": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/grand-theft-auto/you-cant-cheat-on-lucia-in-gta-6-with-mandy-or-strippers-because-rockstar-doesnt-believe-thats-complementary-to-the-feeling-and-motivations-of-jason-and-lucias-story/",
-        "published_at": "2026-11-19T13:44:38.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-19T16:18:58.732Z"
     }
   ]
 }
