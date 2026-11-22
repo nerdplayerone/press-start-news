@@ -1,7 +1,58 @@
 {
-  "generated_at": "2026-11-22T15:59:21.772Z",
+  "generated_at": "2026-11-22T19:06:53.291Z",
   "version": 1,
   "cards": [
+    {
+      "id": "265c68ec3a4c",
+      "category": "industry",
+      "tldr": "Report: The Binding of Isaac: Repentance Plus has removed AI-generated music after players found it in one section.",
+      "why_it_matters": "Players who bought Repentance Plus should expect the AI-made tracks to be gone from the game. Steam review bombing followed, so check current reviews before buying.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "The Binding of Isaac: Repentance Plus",
+      "source": {
+        "outlet": "The Verge",
+        "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+        "published_at": "2026-11-22T17:25:20.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-22T19:06:40.627Z"
+    },
+    {
+      "id": "e85de3d0f62f",
+      "category": "industry",
+      "tldr": "A former Rockstar environment artist praises GTA 6's visuals but says Red Dead 2 had better rivers.",
+      "why_it_matters": "This is one artist's personal opinion, not news about release dates or features. Players wanting GTA 6 details can skip it, though it hints at strong world art.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "Grand Theft Auto 6",
+      "source": {
+        "outlet": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/former-rockstar-environment-artist-breaks-silence-gta-6-is-generally-stunning-but-red-dead-2-might-have-had-better-rivers/",
+        "published_at": "2026-11-22T16:55:10.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-22T19:06:47.165Z"
+    },
+    {
+      "id": "5163dce1e2da",
+      "category": "release",
+      "tldr": "A '90s-inspired horror game is praised for its post-apocalyptic world, which can be explored from a campervan.",
+      "why_it_matters": "Fans of retro-styled horror may want to look into it. The summary gives no release date or platforms, so those details are still unknown.",
+      "relevance": 3,
+      "confidence": "low",
+      "game_name": null,
+      "source": {
+        "outlet": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/horror/this-90s-inspired-horror-game-has-one-of-the-coolest-post-apocalyptic-worlds-ive-ever-seen/",
+        "published_at": "2026-11-22T16:00:00.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-22T19:06:51.683Z"
+    },
     {
       "id": "4782459313af",
       "category": "hardware",
@@ -1063,66 +1114,6 @@
         "steam_url": "https://store.steampowered.com/app/3768760/"
       },
       "created_at": "2026-11-19T16:18:46.653Z"
-    },
-    {
-      "id": "eb7188a71c38",
-      "category": "release",
-      "tldr": "GTA 6 has no official easy mode, but two settings can be changed to make the game less difficult.",
-      "why_it_matters": "If you find the game too hard, you can lower the difficulty through settings without an official easy mode, though exact options are not detailed here.",
-      "relevance": 3,
-      "confidence": "high",
-      "game_name": "GTA 6",
-      "source": {
-        "outlet": "Eurogamer",
-        "url": "https://www.eurogamer.net/gta-6-easy-mode-accessibility-options",
-        "published_at": "2026-11-19T14:42:20.000Z"
-      },
-      "also_on": [
-        {
-          "outlet": "VGC",
-          "url": "https://www.videogameschronicle.com/guide/gta-6-easy-mode-does-gta-6-have-difficulty-options/"
-        }
-      ],
-      "image": null,
-      "created_at": "2026-11-19T16:18:47.732Z"
-    },
-    {
-      "id": "6d2c0929fed8",
-      "category": "hardware",
-      "tldr": "Analogue 3D firmware 1.6.0 adds Wi-Fi support, letting the console update itself without a memory card.",
-      "why_it_matters": "Owners can now install future updates wirelessly, supporting 2.4GHz, 5GHz, mixed and hidden networks. Console hardware and firmware fans should note the convenience, though this is not a game release.",
-      "relevance": 3,
-      "confidence": "high",
-      "game_name": null,
-      "source": {
-        "outlet": "The Verge",
-        "url": "https://www.theverge.com/tech/1037552/analogue-3d-nintendo-64-console-wi-fi-activated-automatic-updates",
-        "published_at": "2026-11-19T14:32:33.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-19T16:18:48.805Z"
-    },
-    {
-      "id": "2486e1da18b4",
-      "category": "industry",
-      "tldr": "Call of Duty: Modern Warfare 4 was the best-selling game in the US in October, across digital and retail.",
-      "why_it_matters": "Shooter fans can expect it to dominate sales charts, though the article notes its critical reception was muted, so reviews are worth checking before buying.",
-      "relevance": 3,
-      "confidence": "high",
-      "game_name": "Call of Duty: Modern Warfare 4",
-      "source": {
-        "outlet": "Eurogamer",
-        "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-october-top-seller",
-        "published_at": "2026-11-19T14:01:40.000Z"
-      },
-      "also_on": [],
-      "image": {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4435490/0c492be3204835d71e8b454b6eb1817f8ff68c0d/header.jpg?t=1794873974",
-        "steam_appid": 4435490,
-        "steam_url": "https://store.steampowered.com/app/4435490/"
-      },
-      "created_at": "2026-11-19T22:05:07.319Z"
     }
   ]
 }
