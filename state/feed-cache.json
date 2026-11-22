@@ -1,7 +1,4 @@
 {
-  "https://www.eurogamer.net/feed": {
-    "last_modified": "Sun, 22 Nov 2026 16:11:00 GMT"
-  },
   "https://blog.playstation.com/feed/": {
     "etag": "\"bae233c7fd78ed8872d0be441fc204e0\"",
     "last_modified": "Fri, 20 Nov 2026 18:28:38 GMT"
@@ -10,14 +7,16 @@
     "etag": "W/\"26c1a05c4f60c9c9de43a135f609c3f8\"",
     "last_modified": "Fri, 20 Nov 2026 15:00:00 GMT"
   },
-  "https://www.videogameschronicle.com/feed/": {
-    "etag": "\"6b033cfc-8ab\"",
-    "last_modified": "Sun, 22 Nov 2026 19:05:32 GMT"
-  },
   "https://www.gamesindustry.biz/feed": {
     "last_modified": "Fri, 20 Nov 2026 20:24:00 GMT"
   },
-  "https://www.pcgamer.com/rss/": {},
+  "https://www.videogameschronicle.com/feed/": {
+    "etag": "\"6b0364d4-8bb\"",
+    "last_modified": "Sun, 22 Nov 2026 21:55:32 GMT"
+  },
+  "https://www.eurogamer.net/feed": {
+    "last_modified": "Sun, 22 Nov 2026 16:11:00 GMT"
+  },
   "https://www.gematsu.com/feed": {
     "etag": "\"6b0267bf-1231\"",
     "last_modified": "Sun, 22 Nov 2026 03:55:43 GMT"
@@ -25,7 +24,8 @@
   "https://www.rockpapershotgun.com/feed": {
     "last_modified": "Sun, 22 Nov 2026 11:00:00 GMT"
   },
+  "https://www.pcgamer.com/rss/": {},
   "https://www.theverge.com/rss/games/index.xml": {
-    "etag": "W/\"fefd917e55d0865ea98da90c35113939\""
+    "etag": "W/\"5dfdb255152a4373753539a9bc16a5f7\""
   }
 }
