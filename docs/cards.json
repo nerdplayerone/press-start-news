@@ -1,7 +1,24 @@
 {
-  "generated_at": "2026-11-22T21:57:56.509Z",
+  "generated_at": "2026-11-23T01:32:50.682Z",
   "version": 1,
   "cards": [
+    {
+      "id": "043272ed72f9",
+      "category": "hardware",
+      "tldr": "Nvidia has released a driver hotfix for a bug that was hammering SSDs, but it reportedly fails to fix it.",
+      "why_it_matters": "Players with Nvidia GPUs may still see excess SSD wear from the driver bug. Hold off on the update and watch for a verified fix before relying on it.",
+      "relevance": 3,
+      "confidence": "low",
+      "game_name": null,
+      "source": {
+        "outlet": "PC Gamer",
+        "url": "https://www.pcgamer.com/hardware/graphics-cards/nvidia-released-a-hotfix-for-its-driver-hammering-your-ssd-but-it-doesnt-actually-work/",
+        "published_at": "2026-11-22T22:31:50.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-23T01:32:47.441Z"
+    },
     {
       "id": "265c68ec3a4c",
       "category": "industry",
@@ -1093,27 +1110,6 @@
       "also_on": [],
       "image": null,
       "created_at": "2026-11-19T16:18:45.586Z"
-    },
-    {
-      "id": "926ca9232c12",
-      "category": "industry",
-      "tldr": "007 First Light won Game of the Year at the 2026 TIGA Awards, with Dovetail Games taking four awards.",
-      "why_it_matters": "A shooter-adjacent action title earning top honours is a useful signal, but no release platform or date is given here, so the practical effect for players is still unknown.",
-      "relevance": 3,
-      "confidence": "high",
-      "game_name": "007 First Light",
-      "source": {
-        "outlet": "GamesIndustry.biz",
-        "url": "https://www.gamesindustry.biz/007-first-light-wins-goty-at-2026-tiga-awards-dovetail-games-takes-home-four-accolades-including-best-publisher",
-        "published_at": "2026-11-19T14:55:30.000Z"
-      },
-      "also_on": [],
-      "image": {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3768760/be65391533f072e79699be70ef2d47b7b2ac57ee/header_alt_assets_5.jpg?t=1795019577",
-        "steam_appid": 3768760,
-        "steam_url": "https://store.steampowered.com/app/3768760/"
-      },
-      "created_at": "2026-11-19T16:18:46.653Z"
     }
   ]
 }
