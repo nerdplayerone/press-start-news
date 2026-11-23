@@ -1,7 +1,79 @@
 {
-  "generated_at": "2026-11-23T19:18:50.396Z",
+  "generated_at": "2026-11-23T22:07:22.184Z",
   "version": 1,
   "cards": [
+    {
+      "id": "633686dd04b4",
+      "category": "industry",
+      "tldr": "Nicalis has removed AI-generated music from The Binding of Isaac: Repentance+ after players objected.",
+      "why_it_matters": "Players who bought Repentance+ may find the soundtrack changed again. Those wary of AI-made content can check the latest update before deciding whether to buy or keep playing.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "The Binding of Isaac: Repentance+",
+      "source": {
+        "outlet": "GamesIndustry.biz",
+        "url": "https://www.gamesindustry.biz/nicalis-removes-ai-generated-music-from-the-binding-of-isaac-repentance-after-player-backlash",
+        "published_at": "2026-11-23T20:56:00.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-23T22:06:51.644Z"
+    },
+    {
+      "id": "8963c168b194",
+      "category": "release",
+      "tldr": "Toby Fox says Deltarune Chapter 6 is playable from start to finish, while the final part has only just begun.",
+      "why_it_matters": "Chapter 6 is close to complete, so players can expect progress soon. Chapter 7 is still early in development, so no release timing is clear yet.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "Deltarune",
+      "source": {
+        "outlet": "Eurogamer",
+        "url": "https://www.eurogamer.net/deltarune-chapter-6-playable-toby-fox",
+        "published_at": "2026-11-23T20:04:50.000Z"
+      },
+      "also_on": [],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1671210/7ccda5b1631d2e60cc756a3271e845dbb9168821/header.jpg?t=1782314340",
+        "steam_appid": 1671210,
+        "steam_url": "https://store.steampowered.com/app/1671210/"
+      },
+      "created_at": "2026-11-23T22:06:59.258Z"
+    },
+    {
+      "id": "6ca667ea05df",
+      "category": "release",
+      "tldr": "Rockstar has patched GTA 6's weather system after players reported it was broken.",
+      "why_it_matters": "Players who noticed odd weather in GTA 6 can expect the fix to be in the latest patch. Details of what changed are still unknown.",
+      "relevance": 3,
+      "confidence": "low",
+      "game_name": "GTA 6",
+      "source": {
+        "outlet": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-players-swore-the-weather-system-was-broken-and-the-latest-patch-has-confirmed-those-suspicions/",
+        "published_at": "2026-11-23T19:54:16.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-23T22:07:00.487Z"
+    },
+    {
+      "id": "b282138ac307",
+      "category": "industry",
+      "tldr": "A new Activision job listing calls Banjo-Kazooie one of its iconic franchises, hinting at a possible return.",
+      "why_it_matters": "Nothing is confirmed yet, so no release date, platform or details are known. Worth watching for an official announcement before getting excited.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "Banjo-Kazooie",
+      "source": {
+        "outlet": "Eurogamer",
+        "url": "https://www.eurogamer.net/activision-banjo-kazooie-iconic-gaming-franchise",
+        "published_at": "2026-11-23T19:22:30.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-23T22:07:07.486Z"
+    },
     {
       "id": "9c7207371e91",
       "category": "release",
@@ -1025,78 +1097,6 @@
       "also_on": [],
       "image": null,
       "created_at": "2026-11-20T01:26:40.993Z"
-    },
-    {
-      "id": "ecf21b5456c9",
-      "category": "release",
-      "tldr": "Queen's Domain offers tools that eventually help players find its hidden collectibles, easing collectathon completionism.",
-      "why_it_matters": "Players who dislike hunting every collectible can relax, as the game later provides aids for locating hidden treasures. Worth knowing if you plan to chase full completion.",
-      "relevance": 3,
-      "confidence": "low",
-      "game_name": "Queen's Domain",
-      "source": {
-        "outlet": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/rpg/dont-stress-about-collectathon-completionism-in-queens-domain-it-eventually-gives-you-tools-to-help-find-hidden-treasures/",
-        "published_at": "2026-11-19T22:20:56.000Z"
-      },
-      "also_on": [],
-      "image": {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1799840/1a209734951f53b019ec9fa03f835def14f2a968/header.jpg?t=1795036041",
-        "steam_appid": 1799840,
-        "steam_url": "https://store.steampowered.com/app/1799840/"
-      },
-      "created_at": "2026-11-20T01:26:42.478Z"
-    },
-    {
-      "id": "b3890e3c9b6e",
-      "category": "hardware",
-      "tldr": "Valve may raise Steam Machine prices again, citing memory and storage costs, and has closed its waitlist.",
-      "why_it_matters": "Players wanting a Steam Machine may need to buy soon, as the 2TB model looks especially constrained and final pricing and stock are still unknown.",
-      "relevance": 4,
-      "confidence": "high",
-      "game_name": null,
-      "source": {
-        "outlet": "PC Gamer",
-        "url": "https://www.pcgamer.com/hardware/steam-machines/valve-may-raise-steam-machine-prices-yet-again-memory-and-storage-costs-continue-to-increase-at-unprecedented-levels/",
-        "published_at": "2026-11-19T21:10:22.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-20T01:26:44.139Z"
-    },
-    {
-      "id": "579463838a59",
-      "category": "hardware",
-      "tldr": "Valve now lets buyers purchase the 512GB Steam Machine directly, without joining a waitlist first.",
-      "why_it_matters": "If you want a Steam Machine, you can order one now rather than waiting, though Valve has hinted at possible future supply problems linked to memory shortages.",
-      "relevance": 4,
-      "confidence": "high",
-      "game_name": null,
-      "source": {
-        "outlet": "The Verge",
-        "url": "https://www.theverge.com/games/1038010/valve-steam-machine-waitlist-supply",
-        "published_at": "2026-11-19T19:33:22.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-19T22:04:58.417Z"
-    },
-    {
-      "id": "22659a2cc434",
-      "category": "release",
-      "tldr": "Report: GTA 6 cheats reportedly take dozens of hours to unlock and remain heavily restricted.",
-      "why_it_matters": "Players wanting cheat freedom may have to wait for the PC version, though its cheat support is not yet confirmed. Watch for official details before planning around it.",
-      "relevance": 3,
-      "confidence": "high",
-      "game_name": "Grand Theft Auto 6",
-      "source": {
-        "outlet": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/grand-theft-auto/im-counting-the-minutes-until-the-pc-version-fixes-the-weirdly-restrictive-cheats-in-gta-6/",
-        "published_at": "2026-11-19T18:35:22.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-19T19:16:44.817Z"
     }
   ]
 }
