@@ -1,7 +1,66 @@
 {
-  "generated_at": "2026-11-23T16:22:47.095Z",
+  "generated_at": "2026-11-23T19:18:50.396Z",
   "version": 1,
   "cards": [
+    {
+      "id": "9c7207371e91",
+      "category": "release",
+      "tldr": "SNEG has released a new version of Soldiers at War, a 28-year-old WW2 turn-based tactics game.",
+      "why_it_matters": "Fans of XCOM-style tactics can now run the old game on modern PCs. Players wanting a retro strategy title should consider it, though pricing and platform details are still unknown.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "Soldiers at War",
+      "source": {
+        "outlet": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/28-years-later-grizzled-xcom-style-ww2-tactics-game-soldiers-at-war-gets-a-fresh-tour-of-duty-on-modern-pcs",
+        "published_at": "2026-11-23T18:10:20.000Z"
+      },
+      "also_on": [],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4834810/fc415a44a3c01a19d318bd5dfe24c0d0f2d5d31a/header.jpg?t=1795182902",
+        "steam_appid": 4834810,
+        "steam_url": "https://store.steampowered.com/app/4834810/"
+      },
+      "created_at": "2026-11-23T19:18:19.494Z"
+    },
+    {
+      "id": "6e408a0fee0e",
+      "category": "release",
+      "tldr": "Rise of Furax, a hand-drawn first-person turn-based RPG set on an island, has been revealed by Rap2h.",
+      "why_it_matters": "A teaser video is out, but release details aren't in the story, so players who like retro-style dungeon crawlers can keep an eye out for more information.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "Rise of Furax",
+      "source": {
+        "outlet": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/might-and-magic-meets-er-paper-in-sunny-new-rpg-rise-of-furax-a-turn-based-island-tale-that-is-entirely-drawn-by-hand",
+        "published_at": "2026-11-23T17:30:00.000Z"
+      },
+      "also_on": [],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5563790/d99abad6b85f14cf41abd3b6d88d7fb75a3f239b/header.jpg?t=1795343754",
+        "steam_appid": 5563790,
+        "steam_url": "https://store.steampowered.com/app/5563790/"
+      },
+      "created_at": "2026-11-23T19:18:32.706Z"
+    },
+    {
+      "id": "c40f8eb35d99",
+      "category": "release",
+      "tldr": "A new Dawn of War 4 trailer appears to tease a fan-favourite character for the first post-launch DLC.",
+      "why_it_matters": "Dawn of War 4 releases in December, so the character tease is worth noting for RTS fans. The character's name and DLC details are still unknown.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "Dawn of War 4",
+      "source": {
+        "outlet": "Eurogamer",
+        "url": "https://www.eurogamer.net/dawn-of-war-4-trailer-vashtorr-chaos-tease",
+        "published_at": "2026-11-23T17:06:40.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-23T19:18:34.001Z"
+    },
     {
       "id": "f818d2bd1e18",
       "category": "release",
@@ -1038,61 +1097,6 @@
       "also_on": [],
       "image": null,
       "created_at": "2026-11-19T19:16:44.817Z"
-    },
-    {
-      "id": "a6b6658494e8",
-      "category": "release",
-      "tldr": "Twelve new mods for Baldur's Gate 3 are now available on console, adding spells and a new difficulty mode.",
-      "why_it_matters": "Console players of Baldur's Gate 3 can now try extra spells and a different difficulty level, if they want to change how the game plays.",
-      "relevance": 3,
-      "confidence": "low",
-      "game_name": "Baldur's Gate 3",
-      "source": {
-        "outlet": "VGC",
-        "url": "https://www.videogameschronicle.com/news/new-baldurs-gate-3-console-mods-include-spells-and-another-difficulty-mode/",
-        "published_at": "2026-11-19T18:09:18.000Z"
-      },
-      "also_on": [],
-      "image": {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/48a2fcbda8565bb45025e98fd8ebde8a7203f6a0/header.jpg?t=1777363040",
-        "steam_appid": 1086940,
-        "steam_url": "https://store.steampowered.com/app/1086940/"
-      },
-      "created_at": "2026-11-19T22:05:00.159Z"
-    },
-    {
-      "id": "73b4590fa213",
-      "category": "industry",
-      "tldr": "Ubisoft confirms 166 job cuts at its Montréal and Québec City studios, behind Assassin's Creed and Far Cry.",
-      "why_it_matters": "Layoffs at the studios making Assassin's Creed and Far Cry may affect future release timing, though the input does not say which projects are impacted.",
-      "relevance": 3,
-      "confidence": "high",
-      "game_name": null,
-      "source": {
-        "outlet": "Eurogamer",
-        "url": "https://www.eurogamer.net/ubisoft-layoffs-166-assassins-creed-far-cry-montreal-quebec",
-        "published_at": "2026-11-19T17:43:50.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-19T19:16:54.304Z"
-    },
-    {
-      "id": "e683d07a4012",
-      "category": "release",
-      "tldr": "Report: PC Gamer says GTA 6's current version is the weakest one players will experience.",
-      "why_it_matters": "Players can expect later improvements to PC performance, Online, patches and graphics settings, plus next-gen console versions. Worth waiting before judging the game's technical state.",
-      "relevance": 3,
-      "confidence": "low",
-      "game_name": "Grand Theft Auto VI",
-      "source": {
-        "outlet": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/grand-theft-auto/this-is-technically-the-worst-version-of-gta-6-that-well-ever-play/",
-        "published_at": "2026-11-19T17:40:19.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-19T22:05:01.038Z"
     }
   ]
 }

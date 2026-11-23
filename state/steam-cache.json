@@ -700,5 +700,27 @@
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3031890/a029b6e6662f5d541831f39316d66d1b174bb36a/header.jpg?t=1795338530",
       "url": "https://store.steampowered.com/app/3031890/"
     }
+  },
+  "soldiers at war": {
+    "at": "2026-11-23T19:18:45.961Z",
+    "match": {
+      "appid": 4834810,
+      "name": "Soldiers at War",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4834810/fc415a44a3c01a19d318bd5dfe24c0d0f2d5d31a/header.jpg?t=1795182902",
+      "url": "https://store.steampowered.com/app/4834810/"
+    }
+  },
+  "rise of furax": {
+    "at": "2026-11-23T19:18:48.854Z",
+    "match": {
+      "appid": 5563790,
+      "name": "Rise of Furax",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5563790/d99abad6b85f14cf41abd3b6d88d7fb75a3f239b/header.jpg?t=1795343754",
+      "url": "https://store.steampowered.com/app/5563790/"
+    }
+  },
+  "dawn of war 4": {
+    "at": "2026-11-23T19:18:50.388Z",
+    "match": null
   }
 }
