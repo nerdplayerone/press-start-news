@@ -1,7 +1,134 @@
 {
-  "generated_at": "2026-11-23T10:29:02.716Z",
+  "generated_at": "2026-11-23T13:40:07.897Z",
   "version": 1,
   "cards": [
+    {
+      "id": "e8df055e7ed4",
+      "category": "release",
+      "tldr": "Nightdive's Thief remaster will make the notorious Thieves Guild mission less frustrating through clearer environmental textures and other adjustments.",
+      "why_it_matters": "If you bounced off the Thieves Guild level in Thief Gold, the remaster may be worth a second try. Details of the changes are still limited.",
+      "relevance": 4,
+      "confidence": "high",
+      "game_name": "Thief: The Dark Project Remastered",
+      "source": {
+        "outlet": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/nightdives-thief-remaster-will-make-the-most-infamous-thief-gold-level-a-little-less-maddening-by-just-kind-of-pointing-the-player-in-the-right-direction",
+        "published_at": "2026-11-23T13:30:00.000Z"
+      },
+      "also_on": [],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4200960/20321014a4a5a0b71c8c70648eb37eef249466b1/header.jpg?t=1794581617",
+        "steam_appid": 4200960,
+        "steam_url": "https://store.steampowered.com/app/4200960/"
+      },
+      "created_at": "2026-11-23T13:39:27.106Z"
+    },
+    {
+      "id": "025483ef981e",
+      "category": "industry",
+      "tldr": "Developers of Sega's cult classic Rez look back on its 25th anniversary and its story.",
+      "why_it_matters": "The retrospective also reveals why a sequel was cancelled, so fans should not expect a follow-up. Details on the cancellation are not included in this summary.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "Rez",
+      "source": {
+        "outlet": "VGC",
+        "url": "https://www.videogameschronicle.com/features/the-story-of-rez-25-years-on/",
+        "published_at": "2026-11-23T13:04:33.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-23T13:39:32.322Z"
+    },
+    {
+      "id": "4fd3f8713799",
+      "category": "hardware",
+      "tldr": "Samsung's Odyssey G6 G60H, a 27-inch monitor with a 1,100Hz refresh rate, launches next month at $899.99.",
+      "why_it_matters": "Only reaches 1,100Hz at 1080p; 1440p drops to 600Hz. Real-world benefit at these rates is debated, so check reviews before buying.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": null,
+      "source": {
+        "outlet": "The Verge",
+        "url": "https://www.theverge.com/games/1039838/samsungs-odyssey-g6-1100hz-gaming-monitor",
+        "published_at": "2026-11-23T13:00:00.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-23T13:39:33.590Z"
+    },
+    {
+      "id": "614556e16df9",
+      "category": "hardware",
+      "tldr": "Nvidia has released a hotfix for a GeForce driver that caused excessive SSD writes.",
+      "why_it_matters": "If your SSD is writing heavily after driver updates, rolling back to driver 621.01 may still be safer than the hotfix. Check your drive's write activity before deciding.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": null,
+      "source": {
+        "outlet": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/nvidia-release-hotfix-for-latest-graphics-card-driver-battering-ssds-with-excessive-writes-but-it-looks-like-reverting-may-still-be-the-better-option",
+        "published_at": "2026-11-23T12:59:50.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-23T13:39:35.707Z"
+    },
+    {
+      "id": "762af648b467",
+      "category": "release",
+      "tldr": "Nicalis removed AI-generated music from a Binding of Isaac Repentance+ update after players criticised it.",
+      "why_it_matters": "If you play Repentance+, the free GTA-parody daily run no longer has the disputed soundtrack. Nothing else in the story suggests a further change to watch for.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "The Binding of Isaac: Repentance+",
+      "source": {
+        "outlet": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/undisclosed-ai-generated-music-pulled-from-the-binding-of-isaac-repentance-update-as-attempt-to-get-satirical-on-gta-6-launch-day-goes-awry",
+        "published_at": "2026-11-23T11:45:10.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-23T13:39:45.405Z"
+    },
+    {
+      "id": "002a986d600a",
+      "category": "release",
+      "tldr": "Rockstar has not included darts in GTA 6, a game that previous GTA entries featured.",
+      "why_it_matters": "Players who enjoyed darts in earlier GTA games should not expect it in GTA 6, though the reasons given are still unclear from this report.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "GTA 6",
+      "source": {
+        "outlet": "Eurogamer",
+        "url": "https://www.eurogamer.net/grand-theft-auto-6-no-darts-didnt-have-resources",
+        "published_at": "2026-11-23T09:50:30.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-23T13:39:55.960Z"
+    },
+    {
+      "id": "94b6b51722ef",
+      "category": "release",
+      "tldr": "Acts of Blood for PC has been delayed to spring 2027.",
+      "why_it_matters": "Players wanting this action game should adjust their expectations and wishlist it, as the launch has slipped to a later date.",
+      "relevance": 4,
+      "confidence": "low",
+      "game_name": "Acts of Blood",
+      "source": {
+        "outlet": "Gematsu",
+        "url": "https://www.gematsu.com/2026/11/acts-of-blood-for-pc-delayed-to-spring-2027",
+        "published_at": "2026-11-23T09:00:12.000Z"
+      },
+      "also_on": [],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3031890/a029b6e6662f5d541831f39316d66d1b174bb36a/header.jpg?t=1795338530",
+        "steam_appid": 3031890,
+        "steam_url": "https://store.steampowered.com/app/3031890/"
+      },
+      "created_at": "2026-11-23T13:40:00.549Z"
+    },
     {
       "id": "043272ed72f9",
       "category": "hardware",
@@ -974,142 +1101,6 @@
       "also_on": [],
       "image": null,
       "created_at": "2026-11-19T19:17:06.063Z"
-    },
-    {
-      "id": "f19ff25794e9",
-      "category": "release",
-      "tldr": "Report: Vicki, a prominent side character in GTA 6 Chapter 2, is the subject of a romance question.",
-      "why_it_matters": "The article raises whether Vicki can be romanced but the details given are thin, so the answer is still unknown. Players wanting relationship content may wish to wait for confirmation.",
-      "relevance": 3,
-      "confidence": "low",
-      "game_name": "GTA 6",
-      "source": {
-        "outlet": "VGC",
-        "url": "https://www.videogameschronicle.com/guide/gta-6-vicki-can-you-romance-vicki-in-gta-6/",
-        "published_at": "2026-11-19T17:00:28.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-19T19:17:08.324Z"
-    },
-    {
-      "id": "5d76edcdf256",
-      "category": "release",
-      "tldr": "Report: GTA 6 is censored in Japan, with violence and nudity toned down, including a shower scene.",
-      "why_it_matters": "Players in Japan will get a modified version, so anyone buying an import should check how much differs. Details beyond the headline are still unknown.",
-      "relevance": 3,
-      "confidence": "low",
-      "game_name": "GTA 6",
-      "source": {
-        "outlet": "VGC",
-        "url": "https://www.videogameschronicle.com/news/japan-censors-gta-6s-violence-and-nudity-including-jason-in-the-shower/",
-        "published_at": "2026-11-19T16:32:45.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-19T19:17:13.871Z"
-    },
-    {
-      "id": "7d21ad32a2bd",
-      "category": "release",
-      "tldr": "Rockstar has posted GTA 6's full map online, so players can view the whole layout without exploring it.",
-      "why_it_matters": "Useful if you want to plan routes or see the world's layout before playing. Nothing here says anything about release timing or platforms.",
-      "relevance": 3,
-      "confidence": "high",
-      "game_name": "GTA 6",
-      "source": {
-        "outlet": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/grand-theft-auto/rockstar-has-finally-posted-gta-6s-full-map-online-thank-goodness-because-clearing-the-entire-thing-in-game-takes-ages/",
-        "published_at": "2026-11-19T16:19:58.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-19T19:17:14.939Z"
-    },
-    {
-      "id": "9c7ce0ea9f17",
-      "category": "hardware",
-      "tldr": "Report: First images of a Lenovo Legion Go Beam have reportedly leaked, showing a lime green colour scheme.",
-      "why_it_matters": "Leaked images suggest a new handheld is coming, but no specs, price or release date are known yet. Wait for official details before deciding.",
-      "relevance": 4,
-      "confidence": "low",
-      "game_name": null,
-      "source": {
-        "outlet": "PC Gamer",
-        "url": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/the-first-image-of-the-lenovo-legion-go-beam-has-seemingly-leaked-and-its-got-a-love-it-or-hate-it-colour-palette/",
-        "published_at": "2026-11-19T15:36:38.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-19T16:18:35.569Z"
-    },
-    {
-      "id": "68e9bd2d2208",
-      "category": "industry",
-      "tldr": "Ubisoft has laid off 166 staff at its Montreal and Quebec City studios.",
-      "why_it_matters": "Ubisoft says the cuts align resources with current production priorities. Which projects are affected is still unknown, so watch for delays or cancellations to upcoming Ubisoft games.",
-      "relevance": 3,
-      "confidence": "high",
-      "game_name": null,
-      "source": {
-        "outlet": "GamesIndustry.biz",
-        "url": "https://www.gamesindustry.biz/ubisoft-lays-off-166-staff-in-montreal-and-quebec-studios",
-        "published_at": "2026-11-19T15:15:00.000Z"
-      },
-      "also_on": [
-        {
-          "outlet": "VGC",
-          "url": "https://www.videogameschronicle.com/news/ubisoft-is-laying-off-166-staff-in-its-montreal-and-quebec-city-offices/"
-        },
-        {
-          "outlet": "Gematsu",
-          "url": "https://www.gematsu.com/2026/11/ubisoft-lays-off-166-staff-at-montreal-and-quebec-studios"
-        },
-        {
-          "outlet": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/ubisoft-lay-off-166-more-staff-this-time-at-their-montreal-and-quebec-city-studios-while-mumbling-about-current-production-priorities-and-business-needs"
-        }
-      ],
-      "image": null,
-      "created_at": "2026-11-19T16:18:39.065Z"
-    },
-    {
-      "id": "943d6aa43511",
-      "category": "release",
-      "tldr": "Professor Layton and the New World of Steam digital pre-orders are now open on Switch 2 and Switch.",
-      "why_it_matters": "Story and gameplay details have been shared, so fans can read up before buying. The summary gives no price or release date, so waiting for those is sensible.",
-      "relevance": 3,
-      "confidence": "low",
-      "game_name": "Professor Layton and the New World of Steam",
-      "source": {
-        "outlet": "Gematsu",
-        "url": "https://www.gematsu.com/2026/11/professor-layton-and-the-new-world-of-steam-digital-pre-orders-now-available-for-switch-2-and-switch-story-and-gameplay-detailed",
-        "published_at": "2026-11-19T15:12:37.000Z"
-      },
-      "also_on": [],
-      "image": {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3384600/7ca8815e48a947c0b2890a56fb115f03d1cf02c9/header.jpg?t=1794478966",
-        "steam_appid": 3384600,
-        "steam_url": "https://store.steampowered.com/app/3384600/"
-      },
-      "created_at": "2026-11-20T04:10:54.872Z"
-    },
-    {
-      "id": "aa560b28e1df",
-      "category": "release",
-      "tldr": "Actors who voice Jason and Lucia have confirmed they appear in Grand Theft Auto 6.",
-      "why_it_matters": "Confirms two main characters are in the game, but no release details are given. Worth watching for the official launch date and platforms.",
-      "relevance": 3,
-      "confidence": "high",
-      "game_name": "Grand Theft Auto 6",
-      "source": {
-        "outlet": "VGC",
-        "url": "https://www.videogameschronicle.com/news/see-yall-in-leonida-jasons-actor-finally-confirms-hes-in-gta-6/",
-        "published_at": "2026-11-19T14:56:48.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-19T16:18:45.586Z"
     }
   ]
 }
