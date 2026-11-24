@@ -1,7 +1,100 @@
 {
-  "generated_at": "2026-11-24T19:18:34.572Z",
+  "generated_at": "2026-11-24T22:13:15.896Z",
   "version": 1,
   "cards": [
+    {
+      "id": "dfb6bf49812b",
+      "category": "hardware",
+      "tldr": "Nvidia has released a patch that fixes an SSD-hammering bug that its previous hotfix failed to resolve.",
+      "why_it_matters": "Players with Nvidia hardware who saw heavy SSD write activity should install the new patch. The input does not say which systems or drivers are affected.",
+      "relevance": 3,
+      "confidence": "low",
+      "game_name": null,
+      "source": {
+        "outlet": "PC Gamer",
+        "url": "https://www.pcgamer.com/hardware/graphics-cards/nvidia-patch-finally-eradicates-the-ssd-hammering-bug-its-last-hotfix-didnt-actually-fix/",
+        "published_at": "2026-11-24T22:04:28.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-24T22:12:44.754Z"
+    },
+    {
+      "id": "87c10c7c9a54",
+      "category": "industry",
+      "tldr": "Analysis suggests GTA 6 drops frames more often on PS5 than on Xbox Series X.",
+      "why_it_matters": "PS5 players may see more framerate dips than Xbox Series X owners, so compare performance footage before choosing a platform. Official performance details are still unknown.",
+      "relevance": 3,
+      "confidence": "low",
+      "game_name": "GTA 6",
+      "source": {
+        "outlet": "VGC",
+        "url": "https://www.videogameschronicle.com/news/gta-6-has-more-framerate-drops-on-ps5-than-xbox-series-x-according-to-analysis/",
+        "published_at": "2026-11-24T21:51:37.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-24T22:12:47.744Z"
+    },
+    {
+      "id": "625682549845",
+      "category": "release",
+      "tldr": "Fans have released OpenZ, an open source 3D remake of the 1996 Bitmap Brothers RTS game Z.",
+      "why_it_matters": "Players who loved the original robotic strategy game can try a free, fan-made 3D version. It is unofficial and not a commercial release.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "Z",
+      "source": {
+        "outlet": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/bitmap-brothers-iconic-robotic-rts-game-z-is-unofficially-back-thanks-to-an-open-source-3d-remake",
+        "published_at": "2026-11-24T21:34:40.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-24T22:12:55.703Z"
+    },
+    {
+      "id": "981ebfe52d2d",
+      "category": "release",
+      "tldr": "Marathon has a new runner shell, a jet-propelled robot samurai, according to PC Gamer.",
+      "why_it_matters": "The shell is a new playable character option for Marathon, a shooter, though the input gives no release date, price or other details, so more is still unknown.",
+      "relevance": 3,
+      "confidence": "low",
+      "game_name": "Marathon",
+      "source": {
+        "outlet": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/fps/marathons-new-runner-shell-is-a-jet-propelled-robot-samurai-who-wants-to-hurt-you/",
+        "published_at": "2026-11-24T21:26:03.000Z"
+      },
+      "also_on": [],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3065800/c3093fec19fed6eb0750a87261c53743a5757827/header.jpg?t=1795213517",
+        "steam_appid": 3065800,
+        "steam_url": "https://store.steampowered.com/app/3065800/"
+      },
+      "created_at": "2026-11-24T22:12:58.119Z"
+    },
+    {
+      "id": "d02cab844ee1",
+      "category": "release",
+      "tldr": "Lords of the Fallen 2 has been delayed to April 2027, with an exact release date due next month.",
+      "why_it_matters": "Action fans wanting this sequel will need to wait until April 2027, so keep an eye out next month for the precise launch date.",
+      "relevance": 4,
+      "confidence": "high",
+      "game_name": "Lords of the Fallen 2",
+      "source": {
+        "outlet": "Eurogamer",
+        "url": "https://www.eurogamer.net/lords-of-the-fallen-2-delayed-april-2027",
+        "published_at": "2026-11-24T20:30:00.000Z"
+      },
+      "also_on": [],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4767480/a34e3c4d4088e71c7d2cdc5445dc950abd2521db/header.jpg?t=1794917531",
+        "steam_appid": 4767480,
+        "steam_url": "https://store.steampowered.com/app/4767480/"
+      },
+      "created_at": "2026-11-24T22:13:01.333Z"
+    },
     {
       "id": "7860e177d790",
       "category": "release",
@@ -1031,103 +1124,6 @@
       "also_on": [],
       "image": null,
       "created_at": "2026-11-21T15:59:30.326Z"
-    },
-    {
-      "id": "19df03ba2106",
-      "category": "release",
-      "tldr": "Toby Fox says Deltarune chapter 6 is structurally complete and chapter 7 development has begun.",
-      "why_it_matters": "Players wanting Deltarune's next instalment can expect progress, but no release date or details are given yet, so there is nothing to wishlist or pre-order.",
-      "relevance": 3,
-      "confidence": "high",
-      "game_name": "Deltarune",
-      "source": {
-        "outlet": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/rpg/deltarune-chapter-6-is-structurally-complete-while-development-has-begun-on-chapter-7-according-to-toby-fox/",
-        "published_at": "2026-11-21T13:09:55.000Z"
-      },
-      "also_on": [],
-      "image": {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1671210/7ccda5b1631d2e60cc756a3271e845dbb9168821/header.jpg?t=1782314340",
-        "steam_appid": 1671210,
-        "steam_url": "https://store.steampowered.com/app/1671210/"
-      },
-      "created_at": "2026-11-21T13:15:59.594Z"
-    },
-    {
-      "id": "d1dc6f43e5e2",
-      "category": "release",
-      "tldr": "Maniac is a top-down roguelite shooter blending Vampire Survivors-style action with Grand Theft Auto 2 chaos.",
-      "why_it_matters": "A PC and console shooter fan may enjoy this overlooked game. Its quality is praised, though this article gives no new release or price details.",
-      "relevance": 4,
-      "confidence": "high",
-      "game_name": "Maniac",
-      "source": {
-        "outlet": "Eurogamer",
-        "url": "https://www.eurogamer.net/grand-theft-auto-6-vampire-survivors-maniac-interview",
-        "published_at": "2026-11-21T10:00:00.000Z"
-      },
-      "also_on": [],
-      "image": {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1482380/header.jpg?t=1773224707",
-        "steam_appid": 1482380,
-        "steam_url": "https://store.steampowered.com/app/1482380/"
-      },
-      "created_at": "2026-11-21T10:02:32.246Z"
-    },
-    {
-      "id": "f570f1758eb2",
-      "category": "release",
-      "tldr": "Article covers what is known so far about a possible PC version of Grand Theft Auto 6.",
-      "why_it_matters": "No confirmed PC release date or platform details are given, so the PC version is still unknown. Wait for official announcements before planning a purchase.",
-      "relevance": 4,
-      "confidence": "low",
-      "game_name": "Grand Theft Auto 6",
-      "source": {
-        "outlet": "VGC",
-        "url": "https://www.videogameschronicle.com/guide/gta-6-pc-version/",
-        "published_at": "2026-11-20T22:27:36.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-21T01:30:14.811Z"
-    },
-    {
-      "id": "2c50fa5bb233",
-      "category": "release",
-      "tldr": "Rockstar has confirmed the full voice cast for Grand Theft Auto 6, with every actor now listed.",
-      "why_it_matters": "Players wanting to know who voices the characters can now check the official list. The input gives no release date or platforms, so those remain unknown.",
-      "relevance": 4,
-      "confidence": "low",
-      "game_name": "Grand Theft Auto 6",
-      "source": {
-        "outlet": "VGC",
-        "url": "https://www.videogameschronicle.com/guide/gta-6-full-cast-confirmed-every-actor-in-grand-theft-auto-6/",
-        "published_at": "2026-11-20T21:24:43.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-20T22:03:41.616Z"
-    },
-    {
-      "id": "459d3197000d",
-      "category": "release",
-      "tldr": "BrokenLore: MIKI-CHAN is getting a Switch 2 version alongside its earlier platforms.",
-      "why_it_matters": "A first-person psychological horror fan on Switch 2 now has a dedicated way to play it. Exact launch timing and other details are still unknown from this report.",
-      "relevance": 3,
-      "confidence": "low",
-      "game_name": "BrokenLore: MIKI-CHAN",
-      "source": {
-        "outlet": "Gematsu",
-        "url": "https://www.gematsu.com/2026/11/brokenlore-miki-chan-adds-switch-2-version",
-        "published_at": "2026-11-20T21:01:33.000Z"
-      },
-      "also_on": [],
-      "image": {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3975870/ac480c5d947974d2a9027539ab601722c17f794a/header.jpg?t=1795061584",
-        "steam_appid": 3975870,
-        "steam_url": "https://store.steampowered.com/app/3975870/"
-      },
-      "created_at": "2026-11-20T22:03:46.025Z"
     }
   ]
 }
