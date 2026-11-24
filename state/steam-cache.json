@@ -782,5 +782,36 @@
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687540/ce4d0d62bcc4d558977f34685bb52e65f788a3f0/header.jpg?t=1795464697",
       "url": "https://store.steampowered.com/app/1687540/"
     }
+  },
+  "white knuckle": {
+    "at": "2026-11-24T19:18:26.898Z",
+    "match": {
+      "appid": 3195790,
+      "name": "White Knuckle",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3195790/header.jpg?t=1795461736",
+      "url": "https://store.steampowered.com/app/3195790/"
+    }
+  },
+  "lords of the fallen 2": {
+    "at": "2026-11-24T19:18:30.163Z",
+    "match": {
+      "appid": 4767480,
+      "name": "Lords of the Fallen II",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4767480/a34e3c4d4088e71c7d2cdc5445dc950abd2521db/header.jpg?t=1794917531",
+      "url": "https://store.steampowered.com/app/4767480/"
+    }
+  },
+  "witcher 4": {
+    "at": "2026-11-24T19:18:31.555Z",
+    "match": null
+  },
+  "demon tides": {
+    "at": "2026-11-24T19:18:34.568Z",
+    "match": {
+      "appid": 2585890,
+      "name": "Demon Tides",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2585890/3a852b4d723bb9ef49f38a65dec253d89bf9d030/header.jpg?t=1778259906",
+      "url": "https://store.steampowered.com/app/2585890/"
+    }
   }
 }

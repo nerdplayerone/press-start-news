@@ -1,7 +1,129 @@
 {
-  "generated_at": "2026-11-24T16:28:33.595Z",
+  "generated_at": "2026-11-24T19:18:34.572Z",
   "version": 1,
   "cards": [
+    {
+      "id": "7860e177d790",
+      "category": "release",
+      "tldr": "White Knuckle, a bare-fist megastructure climbing roguelike, has added a new region called The Core via an early access update.",
+      "why_it_matters": "A new hostile region is now live in this early access roguelike, so fans of challenging climbing can jump back in. Expect tough deaths in the sterile reactor sector.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "White Knuckle",
+      "source": {
+        "outlet": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/bare-fist-megastructure-climbing-roguelike-white-knuckle-gets-its-penultimate-region-in-the-core-a-sterile-hostile-reactor-sector-that-youll-probably-die-in",
+        "published_at": "2026-11-24T19:10:40.000Z"
+      },
+      "also_on": [],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3195790/header.jpg?t=1795461736",
+        "steam_appid": 3195790,
+        "steam_url": "https://store.steampowered.com/app/3195790/"
+      },
+      "created_at": "2026-11-24T19:17:47.045Z"
+    },
+    {
+      "id": "de99d1837fbe",
+      "category": "release",
+      "tldr": "Lords of the Fallen II has been dated for an April 2027 launch.",
+      "why_it_matters": "A soulslike action RPG with a firm date, so action fans can add it to their wishlist. Full platform details and price are not in the summary yet.",
+      "relevance": 4,
+      "confidence": "low",
+      "game_name": "Lords of the Fallen II",
+      "source": {
+        "outlet": "Gematsu",
+        "url": "https://www.gematsu.com/2026/11/lords-of-the-fallen-ii-launches-in-april-2027",
+        "published_at": "2026-11-24T19:01:50.000Z"
+      },
+      "also_on": [],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4767480/a34e3c4d4088e71c7d2cdc5445dc950abd2521db/header.jpg?t=1794917531",
+        "steam_appid": 4767480,
+        "steam_url": "https://store.steampowered.com/app/4767480/"
+      },
+      "created_at": "2026-11-24T19:17:49.049Z"
+    },
+    {
+      "id": "9c555d821830",
+      "category": "release",
+      "tldr": "Nioh 3 is coming to Xbox in 2027, marking the series' first appearance on the platform.",
+      "why_it_matters": "Xbox players who enjoy demanding action games can now wishlist Nioh 3 for 2027. Details on editions and features are still unknown.",
+      "relevance": 4,
+      "confidence": "high",
+      "game_name": "Nioh 3",
+      "source": {
+        "outlet": "Xbox Wire",
+        "url": "https://news.xbox.com/en-us/2026/11/24/nioh-3-xbox-series-debut/",
+        "published_at": "2026-11-24T19:00:00.000Z"
+      },
+      "also_on": [],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3681010/a21264e9fd476dcb2901c2432b598107d024c5a8/header.jpg?t=1772090941",
+        "steam_appid": 3681010,
+        "steam_url": "https://store.steampowered.com/app/3681010/"
+      },
+      "created_at": "2026-11-24T19:17:50.238Z"
+    },
+    {
+      "id": "1f239cbb0702",
+      "category": "industry",
+      "tldr": "Report: CD Projekt Red has signed a marketing agreement with Sony for The Witcher 4.",
+      "why_it_matters": "A Sony marketing deal suggests the game may get PlayStation promotion, but platforms and release timing are still unknown, so wishlist it and wait for official details.",
+      "relevance": 3,
+      "confidence": "low",
+      "game_name": "The Witcher 4",
+      "source": {
+        "outlet": "VGC",
+        "url": "https://www.videogameschronicle.com/news/cdpr-has-entered-a-marketing-agreement-with-sony-for-the-witcher-4/",
+        "published_at": "2026-11-24T18:38:48.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-24T19:17:53.045Z"
+    },
+    {
+      "id": "de9dca79731e",
+      "category": "release",
+      "tldr": "Demon Tides, an open-world 3D platformer, gets a release date of January 21, 2027 on PS5, Switch 2 and Switch.",
+      "why_it_matters": "Platformer fans can add it to their wishlist now. Details beyond the release date and platforms are still unknown, so wait for more information before buying.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "Demon Tides",
+      "source": {
+        "outlet": "Gematsu",
+        "url": "https://www.gematsu.com/2026/11/demon-tides-coming-to-ps5-switch-2-and-switch-on-january-21-2027",
+        "published_at": "2026-11-24T17:04:42.000Z"
+      },
+      "also_on": [],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2585890/3a852b4d723bb9ef49f38a65dec253d89bf9d030/header.jpg?t=1778259906",
+        "steam_appid": 2585890,
+        "steam_url": "https://store.steampowered.com/app/2585890/"
+      },
+      "created_at": "2026-11-24T19:18:08.234Z"
+    },
+    {
+      "id": "128975588e00",
+      "category": "release",
+      "tldr": "Art the Clown from Terrifier joins Dead by Daylight as the game's latest Killer.",
+      "why_it_matters": "A new asymmetrical multiplayer Killer for an established horror game, with no price or release date given here. Worth checking the store page if you already play Dead by Daylight.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "Dead by Daylight",
+      "source": {
+        "outlet": "Xbox Wire",
+        "url": "https://news.xbox.com/en-us/2026/11/24/dead-by-daylight-terrifiers-new-killer-is-no-laughing-matter/",
+        "published_at": "2026-11-24T17:00:00.000Z"
+      },
+      "also_on": [],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/header.jpg?t=1793724618",
+        "steam_appid": 381210,
+        "steam_url": "https://store.steampowered.com/app/381210/"
+      },
+      "created_at": "2026-11-24T19:18:09.429Z"
+    },
     {
       "id": "53c16a430722",
       "category": "release",
@@ -18,6 +140,23 @@
       "also_on": [],
       "image": null,
       "created_at": "2026-11-24T16:27:48.777Z"
+    },
+    {
+      "id": "629d6e1c294a",
+      "category": "industry",
+      "tldr": "PC Gamer argues GTA 6 may play best on PC but is best played with a controller.",
+      "why_it_matters": "For a PC player, this suggests the controller is worth using even if you favour keyboard and mouse. Details on platforms and dates are still unknown from this piece.",
+      "relevance": 3,
+      "confidence": "low",
+      "game_name": "GTA 6",
+      "source": {
+        "outlet": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-might-play-best-when-it-hits-pc-but-itll-be-best-played-with-a-controller/",
+        "published_at": "2026-11-24T15:52:10.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-24T19:18:20.906Z"
     },
     {
       "id": "c954d901472f",
@@ -989,141 +1128,6 @@
         "steam_url": "https://store.steampowered.com/app/3975870/"
       },
       "created_at": "2026-11-20T22:03:46.025Z"
-    },
-    {
-      "id": "474da6a69c72",
-      "category": "release",
-      "tldr": "PSYCHO DEAD, a third-person survival horror game, has a launch date of April 15, 2027.",
-      "why_it_matters": "Horror fans can add it to their wishlist now. The summary cuts off before the full platform list, so check the store page for PC and console details.",
-      "relevance": 3,
-      "confidence": "low",
-      "game_name": "PSYCHO DEAD",
-      "source": {
-        "outlet": "Gematsu",
-        "url": "https://www.gematsu.com/2026/11/psycho-dead-launches-april-15-2027",
-        "published_at": "2026-11-20T20:36:46.000Z"
-      },
-      "also_on": [],
-      "image": {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3018390/4b11250ffea36ed6ca8a99bec99bd6dc3a3ec617/header.jpg?t=1795207613",
-        "steam_appid": 3018390,
-        "steam_url": "https://store.steampowered.com/app/3018390/"
-      },
-      "created_at": "2026-11-20T22:03:48.133Z"
-    },
-    {
-      "id": "1860541504a1",
-      "category": "industry",
-      "tldr": "GTA 6 reportedly earned $3.79 billion in one day, a record for any entertainment launch.",
-      "why_it_matters": "Strong sales signal a big, widely played game, but this is a business milestone rather than news about gameplay. Nothing here affects what to buy or wait for.",
-      "relevance": 3,
-      "confidence": "high",
-      "game_name": "GTA 6",
-      "source": {
-        "outlet": "VGC",
-        "url": "https://www.videogameschronicle.com/news/gta-6-earns-3-79-billion-in-one-day-as-the-biggest-entertainment-launch-in-history/",
-        "published_at": "2026-11-20T19:41:21.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-20T22:03:52.515Z"
-    },
-    {
-      "id": "4b3f595fab30",
-      "category": "industry",
-      "tldr": "Rockstar says GTA VI earned $3.79 billion on its first day of sales and sold 32.5 million pre-orders.",
-      "why_it_matters": "The game is already out, so the practical question is whether to buy now. The report gives no details on platforms, price or performance, which remain unknown.",
-      "relevance": 3,
-      "confidence": "high",
-      "game_name": "Grand Theft Auto VI",
-      "source": {
-        "outlet": "The Verge",
-        "url": "https://www.theverge.com/games/1036279/gta-vi-sales",
-        "published_at": "2026-11-20T19:35:06.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-20T22:03:54.964Z"
-    },
-    {
-      "id": "ba5d475eda3b",
-      "category": "industry",
-      "tldr": "Atlus says future Persona games will be made faster than Persona 6 and Persona 5 were.",
-      "why_it_matters": "Persona 6 is still in development, so no release date is set. Players wanting new Persona games sooner can expect shorter gaps, but no specific timing has been given yet.",
-      "relevance": 3,
-      "confidence": "high",
-      "game_name": "Persona 6",
-      "source": {
-        "outlet": "Eurogamer",
-        "url": "https://www.eurogamer.net/persona-6-games-come-quicker-atlus",
-        "published_at": "2026-11-20T19:23:00.000Z"
-      },
-      "also_on": [],
-      "image": {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2649560/96402e10ba89cccb7906eecd235d7d812f8f9eb0/header.jpg?t=1781799583",
-        "steam_appid": 2649560,
-        "steam_url": "https://store.steampowered.com/app/2649560/"
-      },
-      "created_at": "2026-11-21T10:02:37.254Z"
-    },
-    {
-      "id": "5945b2ca6b61",
-      "category": "release",
-      "tldr": "Baptiste, a psychological horror game, has been delayed to March 25, 2027.",
-      "why_it_matters": "Players waiting for Baptiste should note the new March 2027 date. The summary gives no details on platforms or reasons for the delay, which remain unknown.",
-      "relevance": 3,
-      "confidence": "low",
-      "game_name": "Baptiste",
-      "source": {
-        "outlet": "Gematsu",
-        "url": "https://www.gematsu.com/2026/11/baptiste-delayed-to-march-25-2027",
-        "published_at": "2026-11-20T19:09:11.000Z"
-      },
-      "also_on": [],
-      "image": {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2922250/dbced3c7630d648df0b2d41501bdff4a7509196b/header.jpg?t=1794327638",
-        "steam_appid": 2922250,
-        "steam_url": "https://store.steampowered.com/app/2922250/"
-      },
-      "created_at": "2026-11-20T22:03:58.058Z"
-    },
-    {
-      "id": "0d8d32a131be",
-      "category": "release",
-      "tldr": "A demo for the ghost photography survival horror game echograph is now available on PC.",
-      "why_it_matters": "Players who like survival horror can try the game before buying. Details beyond the demo, such as full release timing and price, are not covered here.",
-      "relevance": 3,
-      "confidence": "low",
-      "game_name": "echograph",
-      "source": {
-        "outlet": "Gematsu",
-        "url": "https://www.gematsu.com/2026/11/echograph-demo-now-available",
-        "published_at": "2026-11-20T19:00:17.000Z"
-      },
-      "also_on": [],
-      "image": {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3460960/54dacbc86ef3307c1260e9ecd11bfbdf76bcc8ff/header.jpg?t=1795200336",
-        "steam_appid": 3460960,
-        "steam_url": "https://store.steampowered.com/app/3460960/"
-      },
-      "created_at": "2026-11-20T19:18:54.152Z"
-    },
-    {
-      "id": "2fbf22dd7519",
-      "category": "release",
-      "tldr": "A GTA 6 feature lets players wear a mask to stay anonymous during robberies.",
-      "why_it_matters": "Players who enjoy stealthy or criminal playstyles may find the mask useful. Details on how it works and where to get it are still unknown.",
-      "relevance": 3,
-      "confidence": "low",
-      "game_name": "Grand Theft Auto 6",
-      "source": {
-        "outlet": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-mask-location/",
-        "published_at": "2026-11-20T16:22:53.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-20T19:19:07.453Z"
     }
   ]
 }
