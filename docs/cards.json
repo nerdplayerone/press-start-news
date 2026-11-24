@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T10:24:45.899Z",
+  "generated_at": "2026-11-24T13:35:09.921Z",
   "version": 1,
   "cards": [
     {
@@ -35,6 +35,27 @@
       "also_on": [],
       "image": null,
       "created_at": "2026-11-24T10:24:36.894Z"
+    },
+    {
+      "id": "b0ca590170da",
+      "category": "release",
+      "tldr": "Koei Tecmo and Team NINJA released a 30th anniversary trailer for the Dead or Alive series.",
+      "why_it_matters": "A free update for Dead or Alive 6 Last Round is also now available, so fighting game fans can check it out. Details beyond the headline are still unknown.",
+      "relevance": 3,
+      "confidence": "low",
+      "game_name": "DEAD OR ALIVE 6 Last Round",
+      "source": {
+        "outlet": "Gematsu",
+        "url": "https://www.gematsu.com/2026/11/dead-or-alive-series-30th-anniversary-trailer-dead-or-alive-6-last-round-free-update-now-available",
+        "published_at": "2026-11-24T07:00:52.000Z"
+      },
+      "also_on": [],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4144680/e94fe79e24de4c1488f1967f13144c6df66b5b51/header.jpg?t=1795050351",
+        "steam_appid": 4144680,
+        "steam_url": "https://store.steampowered.com/app/4144680/"
+      },
+      "created_at": "2026-11-24T13:35:00.035Z"
     },
     {
       "id": "12b8e3419147",
@@ -239,6 +260,27 @@
         "steam_url": "https://store.steampowered.com/app/4834810/"
       },
       "created_at": "2026-11-23T19:18:19.494Z"
+    },
+    {
+      "id": "53c746a4dd30",
+      "category": "industry",
+      "tldr": "Deborah Ann Woll, who voices Faye in God of War games, is joining Amazon's live-action God of War series.",
+      "why_it_matters": "Shows a link between the game and the Prime Video series. Players wanting the same character in both should watch for the series' release details, which are not yet announced.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "God of War",
+      "source": {
+        "outlet": "Eurogamer",
+        "url": "https://www.eurogamer.net/god-of-war-laufey-faye-amazon-series",
+        "published_at": "2026-11-23T18:09:50.000Z"
+      },
+      "also_on": [],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593500/header.jpg?t=1763059412",
+        "steam_appid": 1593500,
+        "steam_url": "https://store.steampowered.com/app/1593500/"
+      },
+      "created_at": "2026-11-24T13:35:02.628Z"
     },
     {
       "id": "6e408a0fee0e",
@@ -1068,44 +1110,6 @@
       "also_on": [],
       "image": null,
       "created_at": "2026-11-20T13:30:12.242Z"
-    },
-    {
-      "id": "fc31bfa44930",
-      "category": "release",
-      "tldr": "The actress who plays Mandy in GTA 6 has publicly revealed herself and invited players to look for her.",
-      "why_it_matters": "A cast reveal for a major open-world game, but no release date or gameplay detail is given here, so there is nothing to act on yet.",
-      "relevance": 3,
-      "confidence": "low",
-      "game_name": "GTA 6",
-      "source": {
-        "outlet": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/grand-theft-auto/the-actress-who-plays-mandy-in-gta-6-has-revealed-herself-if-you-play-the-game-let-me-know-if-you-find-me/",
-        "published_at": "2026-11-20T12:26:52.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-20T13:30:16.835Z"
-    },
-    {
-      "id": "6ca7087720cd",
-      "category": "release",
-      "tldr": "Total War: Warhammer 40,000 will split its campaign into mini-campaigns, one for each star system you visit.",
-      "why_it_matters": "Each star system gets its own stories and objectives, so the campaign may feel more varied. Still unknown is how long each mini-campaign runs and when the game will release.",
-      "relevance": 4,
-      "confidence": "high",
-      "game_name": "Total War: Warhammer 40,000",
-      "source": {
-        "outlet": "Eurogamer",
-        "url": "https://www.eurogamer.net/total-war-warhammer-40000-campaign-space-marines",
-        "published_at": "2026-11-20T12:12:10.000Z"
-      },
-      "also_on": [],
-      "image": {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4199910/fcb5b083b8f42f5dde4480aefa0294420ddf6b19/header.jpg?t=1784712557",
-        "steam_appid": 4199910,
-        "steam_url": "https://store.steampowered.com/app/4199910/"
-      },
-      "created_at": "2026-11-20T13:30:18.041Z"
     }
   ]
 }
