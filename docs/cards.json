@@ -1,7 +1,110 @@
 {
-  "generated_at": "2026-11-24T13:35:09.921Z",
+  "generated_at": "2026-11-24T16:28:33.595Z",
   "version": 1,
   "cards": [
+    {
+      "id": "53c16a430722",
+      "category": "release",
+      "tldr": "Mundfish has released a teaser trailer for Atomic Heart: The CUBE, titled Archive File #1.",
+      "why_it_matters": "The summary gives no release date or platforms yet. Players who follow the series can note the trailer, but the game's launch details are still unknown.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "Atomic Heart: The CUBE",
+      "source": {
+        "outlet": "Gematsu",
+        "url": "https://www.gematsu.com/2026/11/atomic-heart-the-cube-teaser-trailer-archive-file-1",
+        "published_at": "2026-11-24T16:19:34.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-24T16:27:48.777Z"
+    },
+    {
+      "id": "c954d901472f",
+      "category": "industry",
+      "tldr": "Remedy's CEO has praised Rockstar's support for the Max Payne 1 and 2 remake in development.",
+      "why_it_matters": "Rockstar owns the Max Payne IP and funds the remake, which Remedy is building, so players can watch for an announcement. No release date or platforms are yet known.",
+      "relevance": 4,
+      "confidence": "high",
+      "game_name": "Max Payne 1 & 2 Remake",
+      "source": {
+        "outlet": "Eurogamer",
+        "url": "https://www.eurogamer.net/remedy-max-payne-1-2-remake-rockstar-relationship",
+        "published_at": "2026-11-24T15:09:20.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-24T16:28:05.535Z"
+    },
+    {
+      "id": "2d9a2b8d557e",
+      "category": "release",
+      "tldr": "Dancing Dragons Games and Hooded Horse have announced Symphony of War II: Dominion, a sequel to Symphony of War.",
+      "why_it_matters": "A turn-based tactics sequel that adds naval combat, so fans of the 2022 original have a new strategy game to watch. No release date or platforms are given yet.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "Symphony of War II: Dominion",
+      "source": {
+        "outlet": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/hooded-horses-latest-tactics-rpg-is-a-sequel-to-symphony-of-war-one-of-2022s-undersung-favourites",
+        "published_at": "2026-11-24T14:20:40.000Z"
+      },
+      "also_on": [],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2710210/5448fcc6076ee6357fb3249563da3af6232fd5cb/header.jpg?t=1795530024",
+        "steam_appid": 2710210,
+        "steam_url": "https://store.steampowered.com/app/2710210/"
+      },
+      "created_at": "2026-11-24T16:28:13.066Z"
+    },
+    {
+      "id": "a8b52e4d96f4",
+      "category": "release",
+      "tldr": "Showa American Story has been delayed to October 28, 2027, according to its Steam page and publisher.",
+      "why_it_matters": "The action RPG was previously set for late 2026, so players wanting it should expect a longer wait. No reason for the delay has been given yet.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "Showa American Story",
+      "source": {
+        "outlet": "Gematsu",
+        "url": "https://www.gematsu.com/2026/11/showa-american-story-delayed-to-october-28-2027",
+        "published_at": "2026-11-24T14:04:53.000Z"
+      },
+      "also_on": [
+        {
+          "outlet": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/action-rpg-showa-american-story-seemingly-delayed-into-2027-with-no-comment-on-why-from-developer-nekcom"
+        }
+      ],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687540/ce4d0d62bcc4d558977f34685bb52e65f788a3f0/header.jpg?t=1795464697",
+        "steam_appid": 1687540,
+        "steam_url": "https://store.steampowered.com/app/1687540/"
+      },
+      "created_at": "2026-11-24T16:28:17.631Z"
+    },
+    {
+      "id": "3d2dafb48c1b",
+      "category": "industry",
+      "tldr": "Sony says GTA 6 had the biggest launch in PlayStation history and record concurrent players.",
+      "why_it_matters": "Confirms the game's huge reach on PlayStation, but the summary gives no figures for new console sales, so the wider picture is still unknown.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "GTA 6",
+      "source": {
+        "outlet": "GamesIndustry.biz",
+        "url": "https://www.gamesindustry.biz/gta-6-was-the-biggest-launch-in-playstation-history-with-the-highest-number-of-concurrent-players-ever",
+        "published_at": "2026-11-24T11:44:10.000Z"
+      },
+      "also_on": [
+        {
+          "outlet": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/sony-gta-6-set-record-for-highest-number-of-concurrent-players-for-any-game-on-playstation-ever/"
+        }
+      ],
+      "image": null,
+      "created_at": "2026-11-24T16:28:23.631Z"
+    },
     {
       "id": "73635f50ed86",
       "category": "hardware",
@@ -111,23 +214,6 @@
         "steam_url": "https://store.steampowered.com/app/3681010/"
       },
       "created_at": "2026-11-24T04:17:46.406Z"
-    },
-    {
-      "id": "40af085444a5",
-      "category": "industry",
-      "tldr": "Sony says GTA 6 set a record for the most concurrent players on PlayStation.",
-      "why_it_matters": "Shows the game drew a huge simultaneous audience on PlayStation, but the summary gives no detail on how the figure was measured or what it means for other releases.",
-      "relevance": 3,
-      "confidence": "high",
-      "game_name": "GTA 6",
-      "source": {
-        "outlet": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/grand-theft-auto/sony-gta-6-set-record-for-highest-number-of-concurrent-players-for-any-game-on-playstation-ever/",
-        "published_at": "2026-11-24T00:14:36.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-24T01:31:58.153Z"
     },
     {
       "id": "5d7d5d93a441",
@@ -1038,78 +1124,6 @@
       "also_on": [],
       "image": null,
       "created_at": "2026-11-20T19:19:07.453Z"
-    },
-    {
-      "id": "9b9df8216280",
-      "category": "hardware",
-      "tldr": "Report: Nvidia's latest GeForce driver, 621.24, appears to write unnecessary data to PC SSDs.",
-      "why_it_matters": "Players with SSDs may want to watch for a fix or consider reverting to an earlier driver until Nvidia responds. The scale of the issue is still unknown.",
-      "relevance": 3,
-      "confidence": "high",
-      "game_name": null,
-      "source": {
-        "outlet": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/nvidias-latest-graphics-card-driver-appears-to-be-unnecessarily-writing-to-pc-ssds-something-thats-dumb-annoying-and-definitely-warrants-reverting",
-        "published_at": "2026-11-20T16:04:10.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-20T16:12:55.884Z"
-    },
-    {
-      "id": "f54418d5d572",
-      "category": "release",
-      "tldr": "Players are already performing high-flying stunts in GTA 6, days after its release.",
-      "why_it_matters": "Stunt footage is a sign of what the open world allows, though the summary gives no details on mechanics or how players are achieving the tricks.",
-      "relevance": 3,
-      "confidence": "high",
-      "game_name": "Grand Theft Auto 6",
-      "source": {
-        "outlet": "Eurogamer",
-        "url": "https://www.eurogamer.net/gta-6-plane-vehicle-stunts-impressive",
-        "published_at": "2026-11-20T15:59:00.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-20T16:12:57.022Z"
-    },
-    {
-      "id": "f56463c7bc33",
-      "category": "release",
-      "tldr": "Temtem: Swarm is set to launch on Switch on January 21, 2027.",
-      "why_it_matters": "Players with a Switch can now note the date and decide whether to add this roguelike action game to their list. Further details beyond the launch date are still unknown.",
-      "relevance": 3,
-      "confidence": "high",
-      "game_name": "Temtem: Swarm",
-      "source": {
-        "outlet": "Gematsu",
-        "url": "https://www.gematsu.com/2026/11/temtem-swarm-for-switch-launches-january-21-2027",
-        "published_at": "2026-11-20T13:00:17.000Z"
-      },
-      "also_on": [],
-      "image": {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2510960/9eed19ba2e454b3a0a00dde88966dcd2e5decc04/header.jpg?t=1793694699",
-        "steam_appid": 2510960,
-        "steam_url": "https://store.steampowered.com/app/2510960/"
-      },
-      "created_at": "2026-11-20T16:13:19.225Z"
-    },
-    {
-      "id": "9dc6197f66f1",
-      "category": "hardware",
-      "tldr": "OpenAI says it redesigned an AMD GPU, and AMD plans to use some of those changes in future products.",
-      "why_it_matters": "Possible performance gains for future AMD graphics cards, but no products, dates or figures are confirmed yet. Worth watching, not yet worth acting on.",
-      "relevance": 3,
-      "confidence": "low",
-      "game_name": null,
-      "source": {
-        "outlet": "PC Gamer",
-        "url": "https://www.pcgamer.com/hardware/openai-says-it-redesigned-an-amd-gpu-and-amd-is-using-some-of-those-tweaks-for-use-in-future-products/",
-        "published_at": "2026-11-20T12:40:28.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-20T13:30:12.242Z"
     }
   ]
 }
