@@ -1,7 +1,62 @@
 {
-  "generated_at": "2026-11-24T01:32:15.224Z",
+  "generated_at": "2026-11-24T04:17:57.809Z",
   "version": 1,
   "cards": [
+    {
+      "id": "12b8e3419147",
+      "category": "release",
+      "tldr": "Kendo Rage 1 and 2 have been announced as a two-game collection for PS5, Switch and PC.",
+      "why_it_matters": "A side-scrolling action collection is worth adding to your wishlist if you enjoy action games. Release date and pricing details are still unknown.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "Kendo Rage 1&2",
+      "source": {
+        "outlet": "Gematsu",
+        "url": "https://www.gematsu.com/2026/11/kendo-rage-1-2-announced-for-ps5-switch-and-pc",
+        "published_at": "2026-11-24T01:59:18.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-24T04:17:42.677Z"
+    },
+    {
+      "id": "2dc8f7be7061",
+      "category": "release",
+      "tldr": "Koei Tecmo and Omega Force have released an eight-minute gameplay video for Attack on Titan 3.",
+      "why_it_matters": "The video shows exploration within the walls, so players can get a clearer look at how the game plays. Release date and platforms are still unknown from this summary.",
+      "relevance": 3,
+      "confidence": "low",
+      "game_name": "Attack on Titan 3",
+      "source": {
+        "outlet": "Gematsu",
+        "url": "https://www.gematsu.com/2026/11/attack-on-titan-3-exploration-within-the-walls-gameplay",
+        "published_at": "2026-11-24T01:46:16.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-24T04:17:44.096Z"
+    },
+    {
+      "id": "2f7a42c11630",
+      "category": "release",
+      "tldr": "Nioh 3 DLC Bloody Insurrection launches December 17, with a Complete Edition due January 28, 2027.",
+      "why_it_matters": "Action fans get a new Nioh 3 expansion in December, and a Complete Edition with an Xbox Series version follows in January 2027. Details beyond these dates are still unknown.",
+      "relevance": 4,
+      "confidence": "high",
+      "game_name": "Nioh 3",
+      "source": {
+        "outlet": "Gematsu",
+        "url": "https://www.gematsu.com/2026/11/nioh-3-dlc-bloody-insurrection-launches-december-17-complete-edition-launches-january-28-2027-alongside-xbox-series-version",
+        "published_at": "2026-11-24T01:41:52.000Z"
+      },
+      "also_on": [],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3681010/a21264e9fd476dcb2901c2432b598107d024c5a8/header.jpg?t=1772090941",
+        "steam_appid": 3681010,
+        "steam_url": "https://store.steampowered.com/app/3681010/"
+      },
+      "created_at": "2026-11-24T04:17:46.406Z"
+    },
     {
       "id": "40af085444a5",
       "category": "industry",
@@ -1046,57 +1101,6 @@
       "also_on": [],
       "image": null,
       "created_at": "2026-11-20T16:13:27.427Z"
-    },
-    {
-      "id": "26136a99ae78",
-      "category": "hardware",
-      "tldr": "Report: PC gamers say recent Nvidia drivers cause tens of gigabytes per hour of unnecessary SSD writes.",
-      "why_it_matters": "Players with SSDs may want to revert to driver 621.01 until a fix is confirmed. A registry workaround exists, but the affected driver package is still available to download.",
-      "relevance": 3,
-      "confidence": "low",
-      "game_name": null,
-      "source": {
-        "outlet": "PC Gamer",
-        "url": "https://www.pcgamer.com/hardware/graphics-cards/pc-gamers-notice-nvidias-drivers-hammering-their-ssds-with-tens-of-gb-hr-of-unnecessary-writes-revert-to-621-01-asap/",
-        "published_at": "2026-11-20T11:05:10.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-20T13:30:33.059Z"
-    },
-    {
-      "id": "ec5b622bd574",
-      "category": "hardware",
-      "tldr": "Valve has paused new orders for the 2TB Steam Machine due to supply constraints.",
-      "why_it_matters": "Players who already reserved a 2TB model will still get purchase invites, but new buyers cannot order it until further notice. The 512GB model is no longer on a waitlist.",
-      "relevance": 4,
-      "confidence": "high",
-      "game_name": null,
-      "source": {
-        "outlet": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/valve-are-pausing-steam-machine-2tb-orders-over-supply-constraints-though-the-512gb-model-is-free-of-its-waitlist",
-        "published_at": "2026-11-20T10:05:00.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-20T16:13:28.404Z"
-    },
-    {
-      "id": "949692c6801d",
-      "category": "industry",
-      "tldr": "Report: GTA 6 reportedly sold around 25 million copies and earned $2.36 billion on its first day.",
-      "why_it_matters": "Sales estimates only, so the figures are unconfirmed. For players it signals huge demand, but it does not change when or where you can buy the game.",
-      "relevance": 3,
-      "confidence": "low",
-      "game_name": "GTA 6",
-      "source": {
-        "outlet": "VGC",
-        "url": "https://www.videogameschronicle.com/news/gta-6-sold-around-25-million-copies-and-made-2-36-billion-in-its-first-day-estimates-suggest/",
-        "published_at": "2026-11-20T09:42:03.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-20T10:22:26.522Z"
     }
   ]
 }
