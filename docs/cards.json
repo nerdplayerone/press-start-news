@@ -1,7 +1,45 @@
 {
-  "generated_at": "2026-11-24T22:13:15.896Z",
+  "generated_at": "2026-11-25T01:37:26.512Z",
   "version": 1,
   "cards": [
+    {
+      "id": "0779c4c5f615",
+      "category": "release",
+      "tldr": "Astario, a blocky spaceship and space station building factory sim, has launched into early access.",
+      "why_it_matters": "A Factorio-style builder for fans of automation and complex logistics. The summary mentions no platforms or price, so check the store page before wishlisting.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "Astario",
+      "source": {
+        "outlet": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/im-not-smart-enough-for-the-blocky-factorio-esque-spaceship-and-station-building-sim-astario-but-now-that-its-out-in-early-access-maybe-you-could-be",
+        "published_at": "2026-11-24T22:51:40.000Z"
+      },
+      "also_on": [],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1520340/e0588c720ba836536385886450628eb89f8e1917/header.jpg?t=1795539771",
+        "steam_appid": 1520340,
+        "steam_url": "https://store.steampowered.com/app/1520340/"
+      },
+      "created_at": "2026-11-25T01:37:12.509Z"
+    },
+    {
+      "id": "32775e3f1755",
+      "category": "industry",
+      "tldr": "CD Projekt says Cyberpunk 2 has almost 200 developers, with the team set to grow further next year.",
+      "why_it_matters": "A larger team points to ongoing work on Cyberpunk 2, but no release date or platforms are confirmed yet, so there is nothing to pre-order or plan around.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "Cyberpunk 2",
+      "source": {
+        "outlet": "VGC",
+        "url": "https://www.videogameschronicle.com/news/cyberpunk-2s-development-team-has-grown-with-plans-to-get-even-bigger-next-year/",
+        "published_at": "2026-11-24T22:14:04.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-25T01:37:16.432Z"
+    },
     {
       "id": "dfb6bf49812b",
       "category": "hardware",
@@ -94,6 +132,28 @@
         "steam_url": "https://store.steampowered.com/app/4767480/"
       },
       "created_at": "2026-11-24T22:13:01.333Z"
+    },
+    {
+      "id": "54cca7b36858",
+      "category": "industry",
+      "tldr": "CD Projekt says The Witcher 4's leap over The Witcher 3 is comparable to GTA 6's leap over GTA 5.",
+      "why_it_matters": "A practical gap is still unknown: no release date, platforms or price were given, so there is nothing new to wishlist or plan around yet.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "The Witcher 4",
+      "source": {
+        "outlet": "VGC",
+        "url": "https://www.videogameschronicle.com/news/cdpr-claims-leap-to-witcher-4-is-comparable-to-leap-from-gta-5-to-gta-6/",
+        "published_at": "2026-11-24T20:01:10.000Z"
+      },
+      "also_on": [
+        {
+          "outlet": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/the-witcher/the-difference-between-the-witcher-3-and-witcher-4-will-be-comparable-to-that-of-gta-5-and-gta-6-cd-projekt-boss-says-i-mean-its-been-11-years/"
+        }
+      ],
+      "image": null,
+      "created_at": "2026-11-25T01:37:17.663Z"
     },
     {
       "id": "7860e177d790",
@@ -1065,65 +1125,6 @@
         "steam_url": "https://store.steampowered.com/app/3681010/"
       },
       "created_at": "2026-11-21T19:04:50.204Z"
-    },
-    {
-      "id": "b0b9c615c151",
-      "category": "release",
-      "tldr": "Darkest Dungeon 2 is getting its next DLC, a short combat-focused gauntlet, shown in a new trailer.",
-      "why_it_matters": "Fans of tough tactical combat can look out for it, though its release date and platforms are not yet clear from this report.",
-      "relevance": 3,
-      "confidence": "high",
-      "game_name": "Darkest Dungeon 2",
-      "source": {
-        "outlet": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/darkest-dungeon-2s-next-bit-of-dlc-is-a-short-run-combat-focused-gauntlet-where-you-must-do-everything-in-your-power-to-please-the-audience",
-        "published_at": "2026-11-21T16:53:00.000Z"
-      },
-      "also_on": [],
-      "image": {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1940340/header.jpg?t=1759351183",
-        "steam_appid": 1940340,
-        "steam_url": "https://store.steampowered.com/app/1940340/"
-      },
-      "created_at": "2026-11-21T19:04:55.373Z"
-    },
-    {
-      "id": "5f4037c695c2",
-      "category": "release",
-      "tldr": "Phasmophobia's Resonance update arrives on 24th November with a new ghost-hunting tool and more voice commands.",
-      "why_it_matters": "Expect a new piece of kit and extra voice commands, plus a move to the Unity 6 engine. Worth a look if you play co-op ghost hunts.",
-      "relevance": 3,
-      "confidence": "high",
-      "game_name": "Phasmophobia",
-      "source": {
-        "outlet": "Eurogamer",
-        "url": "https://www.eurogamer.net/phasmophobia-resonance-update-release-date-dowsing-rods-unity-6",
-        "published_at": "2026-11-21T15:56:10.000Z"
-      },
-      "also_on": [],
-      "image": {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/c227a2855aba60f3657bc0c3a46515b8c41fb2b6/header.jpg?t=1794312564",
-        "steam_appid": 739630,
-        "steam_url": "https://store.steampowered.com/app/739630/"
-      },
-      "created_at": "2026-11-21T15:59:22.486Z"
-    },
-    {
-      "id": "f57d84b1215b",
-      "category": "industry",
-      "tldr": "Grand Theft Auto 6 has a 99 critic Metascore, while its Metacritic user score is being hit by review bombing.",
-      "why_it_matters": "Critics rate it very highly, but the user score is being dragged down by review bombing, so judge the game yourself rather than by the aggregate.",
-      "relevance": 3,
-      "confidence": "high",
-      "game_name": "Grand Theft Auto 6",
-      "source": {
-        "outlet": "Eurogamer",
-        "url": "https://www.eurogamer.net/gta-6-review-bombed-metacritic-user-score",
-        "published_at": "2026-11-21T14:19:40.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-21T15:59:30.326Z"
     }
   ]
 }
