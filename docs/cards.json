@@ -1,7 +1,87 @@
 {
-  "generated_at": "2026-11-25T13:40:56.818Z",
+  "generated_at": "2026-11-25T16:27:00.214Z",
   "version": 1,
   "cards": [
+    {
+      "id": "24abf2d3032c",
+      "category": "release",
+      "tldr": "Fable is now set for February 23, 2027, after being pushed back from autumn 2026.",
+      "why_it_matters": "A firm release date means players can plan around it, though the article gives no platform or pricing details yet. Worth wishlisting if you follow Playground's work.",
+      "relevance": 4,
+      "confidence": "high",
+      "game_name": "Fable",
+      "source": {
+        "outlet": "GamesIndustry.biz",
+        "url": "https://www.gamesindustry.biz/youd-be-nuts-to-take-on-all-of-that-in-the-first-project-and-yet-here-we-are-how-playground-is-finally-making-good-on-an-all-new-fable",
+        "published_at": "2026-11-25T15:48:30.000Z"
+      },
+      "also_on": [],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2769570/d2ffd7e15a91f3e5485601d3d876988ba3a859d7/header.jpg?t=1788984944",
+        "steam_appid": 2769570,
+        "steam_url": "https://store.steampowered.com/app/2769570/"
+      },
+      "created_at": "2026-11-25T16:26:27.986Z"
+    },
+    {
+      "id": "e01f58d34a25",
+      "category": "release",
+      "tldr": "Team Cherry will hold a livestream on 27 November with more details on Silksong's Sea of Sorrow DLC.",
+      "why_it_matters": "The free nautical-themed update is set to add new bosses and areas, so watch the stream if you want details. Most specifics are still unknown until the presentation.",
+      "relevance": 4,
+      "confidence": "high",
+      "game_name": "Hollow Knight: Silksong",
+      "source": {
+        "outlet": "Eurogamer",
+        "url": "https://www.eurogamer.net/hollow-knight-silksong-dlc-livestream-sea-of-sorrows-update",
+        "published_at": "2026-11-25T15:32:40.000Z"
+      },
+      "also_on": [],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030300/7983574d464e6559ac7e24275727f73a8bcca1f3/header.jpg?t=1776125736",
+        "steam_appid": 1030300,
+        "steam_url": "https://store.steampowered.com/app/1030300/"
+      },
+      "created_at": "2026-11-25T16:26:30.669Z"
+    },
+    {
+      "id": "f2fa439af157",
+      "category": "release",
+      "tldr": "Team Cherry will host a Cherry Time! broadcast on November 27 with announcements and a Silksong expansion.",
+      "why_it_matters": "Hollow Knight: Silksong fans should watch the broadcast, as the free Sea of Sorrow expansion is set to be featured. Details of the announcements are still unknown.",
+      "relevance": 4,
+      "confidence": "low",
+      "game_name": "Hollow Knight: Silksong",
+      "source": {
+        "outlet": "Gematsu",
+        "url": "https://www.gematsu.com/2026/11/cherry-time-broadcast-set-for-november-27-featuring-exciting-announcements-and-hollow-knight-silksong-free-expansion-sea-of-sorrow",
+        "published_at": "2026-11-25T15:15:11.000Z"
+      },
+      "also_on": [],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030300/7983574d464e6559ac7e24275727f73a8bcca1f3/header.jpg?t=1776125736",
+        "steam_appid": 1030300,
+        "steam_url": "https://store.steampowered.com/app/1030300/"
+      },
+      "created_at": "2026-11-25T16:26:36.009Z"
+    },
+    {
+      "id": "2c05b3ba6009",
+      "category": "release",
+      "tldr": "A Eurogamer writer says disabling GTA 6's Criminal Profile pings improved their experience.",
+      "why_it_matters": "Players bothered by intrusive notifications can turn them off, and the writer found the game more enjoyable without them. Nothing in this story announces a release date or platform.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "GTA 6",
+      "source": {
+        "outlet": "Eurogamer",
+        "url": "https://www.eurogamer.net/im-having-a-much-better-time-in-gta-6-now-ive-disabled-its-pesky-criminal-profile-pings",
+        "published_at": "2026-11-25T14:06:00.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-25T16:26:47.445Z"
+    },
     {
       "id": "299bf5c1fa45",
       "category": "industry",
@@ -1066,78 +1146,6 @@
       "also_on": [],
       "image": null,
       "created_at": "2026-11-23T13:39:45.405Z"
-    },
-    {
-      "id": "002a986d600a",
-      "category": "release",
-      "tldr": "Rockstar has not included darts in GTA 6, a game that previous GTA entries featured.",
-      "why_it_matters": "Players who enjoyed darts in earlier GTA games should not expect it in GTA 6, though the reasons given are still unclear from this report.",
-      "relevance": 3,
-      "confidence": "high",
-      "game_name": "GTA 6",
-      "source": {
-        "outlet": "Eurogamer",
-        "url": "https://www.eurogamer.net/grand-theft-auto-6-no-darts-didnt-have-resources",
-        "published_at": "2026-11-23T09:50:30.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-23T13:39:55.960Z"
-    },
-    {
-      "id": "94b6b51722ef",
-      "category": "release",
-      "tldr": "Acts of Blood for PC has been delayed to spring 2027.",
-      "why_it_matters": "Players wanting this action game should adjust their expectations and wishlist it, as the launch has slipped to a later date.",
-      "relevance": 4,
-      "confidence": "low",
-      "game_name": "Acts of Blood",
-      "source": {
-        "outlet": "Gematsu",
-        "url": "https://www.gematsu.com/2026/11/acts-of-blood-for-pc-delayed-to-spring-2027",
-        "published_at": "2026-11-23T09:00:12.000Z"
-      },
-      "also_on": [],
-      "image": {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3031890/a029b6e6662f5d541831f39316d66d1b174bb36a/header.jpg?t=1795338530",
-        "steam_appid": 3031890,
-        "steam_url": "https://store.steampowered.com/app/3031890/"
-      },
-      "created_at": "2026-11-23T13:40:00.549Z"
-    },
-    {
-      "id": "043272ed72f9",
-      "category": "hardware",
-      "tldr": "Nvidia has released a driver hotfix for a bug that was hammering SSDs, but it reportedly fails to fix it.",
-      "why_it_matters": "Players with Nvidia GPUs may still see excess SSD wear from the driver bug. Hold off on the update and watch for a verified fix before relying on it.",
-      "relevance": 3,
-      "confidence": "low",
-      "game_name": null,
-      "source": {
-        "outlet": "PC Gamer",
-        "url": "https://www.pcgamer.com/hardware/graphics-cards/nvidia-released-a-hotfix-for-its-driver-hammering-your-ssd-but-it-doesnt-actually-work/",
-        "published_at": "2026-11-22T22:31:50.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-23T01:32:47.441Z"
-    },
-    {
-      "id": "265c68ec3a4c",
-      "category": "industry",
-      "tldr": "Report: The Binding of Isaac: Repentance Plus has removed AI-generated music after players found it in one section.",
-      "why_it_matters": "Players who bought Repentance Plus should expect the AI-made tracks to be gone from the game. Steam review bombing followed, so check current reviews before buying.",
-      "relevance": 3,
-      "confidence": "high",
-      "game_name": "The Binding of Isaac: Repentance Plus",
-      "source": {
-        "outlet": "The Verge",
-        "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
-        "published_at": "2026-11-22T17:25:20.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-22T19:06:40.627Z"
     }
   ]
 }
