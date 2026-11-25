@@ -1,7 +1,109 @@
 {
-  "generated_at": "2026-11-25T07:42:19.274Z",
+  "generated_at": "2026-11-25T10:25:25.547Z",
   "version": 1,
   "cards": [
+    {
+      "id": "a4c251202699",
+      "category": "release",
+      "tldr": "Mario Kart World receives a free update adding eight new tracks and saving players' most recent replays.",
+      "why_it_matters": "Players who already own the game get eight new tracks at no extra cost, so it is worth checking for Version 1.9.0 and trying the new courses.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "Mario Kart World",
+      "source": {
+        "outlet": "VGC",
+        "url": "https://www.videogameschronicle.com/news/mario-kart-world-gets-a-new-free-update-adding-eight-new-tracks-and-other-features/",
+        "published_at": "2026-11-25T10:23:39.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-25T10:25:03.852Z"
+    },
+    {
+      "id": "21b92a81ea4b",
+      "category": "release",
+      "tldr": "Showa American Story, an action-RPG, has been delayed to 28th October 2027.",
+      "why_it_matters": "Players wanting this action-RPG should now expect a wait into late 2027, with the developer aiming for a more polished launch.",
+      "relevance": 4,
+      "confidence": "high",
+      "game_name": "Showa American Story",
+      "source": {
+        "outlet": "Eurogamer",
+        "url": "https://www.eurogamer.net/showa-american-story-delay-2027",
+        "published_at": "2026-11-25T10:11:20.000Z"
+      },
+      "also_on": [],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687540/ce4d0d62bcc4d558977f34685bb52e65f788a3f0/header.jpg?t=1795464697",
+        "steam_appid": 1687540,
+        "steam_url": "https://store.steampowered.com/app/1687540/"
+      },
+      "created_at": "2026-11-25T10:25:05.344Z"
+    },
+    {
+      "id": "24ee98b1fdab",
+      "category": "industry",
+      "tldr": "Capcom's online dinosaur shooter Exoprimal will shut down next year, becoming unplayable once its servers are turned off.",
+      "why_it_matters": "Players who own Exoprimal will lose access to it entirely, even if already downloaded, so play it before the servers close. Exact closure date is not yet announced.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "Exoprimal",
+      "source": {
+        "outlet": "VGC",
+        "url": "https://www.videogameschronicle.com/news/capcoms-online-dinosaur-shooter-exoprimal-is-officially-shutting-down-next-year/",
+        "published_at": "2026-11-25T09:41:13.000Z"
+      },
+      "also_on": [
+        {
+          "outlet": "Eurogamer",
+          "url": "https://www.eurogamer.net/exo-primal-shutting-down-2027"
+        }
+      ],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286320/header.jpg?t=1795568630",
+        "steam_appid": 1286320,
+        "steam_url": "https://store.steampowered.com/app/1286320/"
+      },
+      "created_at": "2026-11-25T10:25:08.081Z"
+    },
+    {
+      "id": "9ecd2e4749a5",
+      "category": "release",
+      "tldr": "Performance analysis reports Grand Theft Auto 6 holds its frame-rate more steadily on Xbox Series X than on PlayStation 5.",
+      "why_it_matters": "If you plan to play GTA 6 on a base console, the Xbox Series X may give smoother 30fps performance, though the PS5 Pro is not covered by this analysis.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "Grand Theft Auto 6",
+      "source": {
+        "outlet": "Eurogamer",
+        "url": "https://www.eurogamer.net/grand-theft-auto-6-frame-rate-xbox-series-x-ps5",
+        "published_at": "2026-11-25T09:15:10.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-25T10:25:11.220Z"
+    },
+    {
+      "id": "19f2fe71deb7",
+      "category": "release",
+      "tldr": "Dinghai: The Ocean Pillar, a roguelike action RPG, launches on December 3.",
+      "why_it_matters": "A dated launch for an action roguelike, so worth a wishlist check if you enjoy mythic settings. The summary is cut short, so platforms and price are still unknown.",
+      "relevance": 3,
+      "confidence": "low",
+      "game_name": "Dinghai: The Ocean Pillar",
+      "source": {
+        "outlet": "Gematsu",
+        "url": "https://www.gematsu.com/2026/11/dinghai-the-ocean-pillar-launches-december-3",
+        "published_at": "2026-11-25T02:38:45.000Z"
+      },
+      "also_on": [],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4542740/c2104ff0ffa50786d50e03c4344db53fcff7bbd7/header.jpg?t=1795584197",
+        "steam_appid": 4542740,
+        "steam_url": "https://store.steampowered.com/app/4542740/"
+      },
+      "created_at": "2026-11-25T10:25:15.351Z"
+    },
     {
       "id": "0779c4c5f615",
       "category": "release",
@@ -1028,103 +1130,6 @@
       "also_on": [],
       "image": null,
       "created_at": "2026-11-22T13:14:49.155Z"
-    },
-    {
-      "id": "633111901b34",
-      "category": "release",
-      "tldr": "A list of confirmed DJs and podcast hosts for GTA 6's in-game radio has been published.",
-      "why_it_matters": "Fans wanting to know who voices GTA 6's radio stations can check the confirmed lineup. The summary gives no further details on stations or release timing.",
-      "relevance": 3,
-      "confidence": "low",
-      "game_name": "GTA 6",
-      "source": {
-        "outlet": "VGC",
-        "url": "https://www.videogameschronicle.com/guide/gta-6-radio-djs-and-podcast-hosts-every-famous-voice-on-gta-6s-radio/",
-        "published_at": "2026-11-21T22:17:19.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-22T01:27:25.268Z"
-    },
-    {
-      "id": "c2e4064fa963",
-      "category": "release",
-      "tldr": "NIGHT EYE TV revives public-access television as a digital, interactive channel filled with art game curios.",
-      "why_it_matters": "A curious player might enjoy this offbeat collection of experimental art games. Details on platforms, price and release timing are still unknown, so no action is needed yet.",
-      "relevance": 3,
-      "confidence": "low",
-      "game_name": "NIGHT EYE TV",
-      "source": {
-        "outlet": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/public-access-television-is-born-anew-in-night-eye-tv-a-digital-goggle-box-filled-with-art-game-curios",
-        "published_at": "2026-11-21T21:27:20.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-22T01:27:26.524Z"
-    },
-    {
-      "id": "8440636f8b65",
-      "category": "release",
-      "tldr": "Eldritch Empathy is a puzzle roguelite where you diagnose cosmic horror creatures and purify their emotions.",
-      "why_it_matters": "It is a Papers Please-style game with a cosmic horror twist, worth wishlisting if you enjoy puzzle roguelites. Release details are not yet clear from this coverage.",
-      "relevance": 3,
-      "confidence": "high",
-      "game_name": "Eldritch Empathy",
-      "source": {
-        "outlet": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/eldritch-empathy-is-a-papers-please-esque-roguelite-about-diagnosing-cosmic-horror-creatures-and-trying-not-to-lose-your-marbles-as-you-do",
-        "published_at": "2026-11-21T18:57:00.000Z"
-      },
-      "also_on": [],
-      "image": {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073150/1a593548911d029371665423acbd636bd3bb9c08/header.jpg?t=1795210029",
-        "steam_appid": 2073150,
-        "steam_url": "https://store.steampowered.com/app/2073150/"
-      },
-      "created_at": "2026-11-21T19:04:43.841Z"
-    },
-    {
-      "id": "344122f1a48b",
-      "category": "release",
-      "tldr": "Toby Fox is keeping Deltarune's ending from his own development team until enough of the game is built.",
-      "why_it_matters": "Players can expect Deltarune's story to stay under wraps, so the finale is still unknown and worth watching for rather than spoiled by leaks.",
-      "relevance": 3,
-      "confidence": "high",
-      "game_name": "Deltarune",
-      "source": {
-        "outlet": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/everyone-agrees-its-more-fun-this-way-toby-fox-wont-tell-his-team-how-deltarune-ends-until-theyve-built-enough-of-it",
-        "published_at": "2026-11-21T17:54:00.000Z"
-      },
-      "also_on": [],
-      "image": {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1671210/7ccda5b1631d2e60cc756a3271e845dbb9168821/header.jpg?t=1782314340",
-        "steam_appid": 1671210,
-        "steam_url": "https://store.steampowered.com/app/1671210/"
-      },
-      "created_at": "2026-11-21T19:04:46.937Z"
-    },
-    {
-      "id": "9fe385eae61d",
-      "category": "release",
-      "tldr": "Report: An unannounced Nioh 3 Complete Edition has received a rating from Korea's GRAC.",
-      "why_it_matters": "A rating suggests a Complete Edition release is being prepared, but no platforms, dates or contents are confirmed yet. Worth watching if you plan to pick up Nioh 3.",
-      "relevance": 3,
-      "confidence": "low",
-      "game_name": "Nioh 3",
-      "source": {
-        "outlet": "Eurogamer",
-        "url": "https://www.eurogamer.net/nioh-3-complete-edition-rated-korea",
-        "published_at": "2026-11-21T17:19:50.000Z"
-      },
-      "also_on": [],
-      "image": {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3681010/a21264e9fd476dcb2901c2432b598107d024c5a8/header.jpg?t=1772090941",
-        "steam_appid": 3681010,
-        "steam_url": "https://store.steampowered.com/app/3681010/"
-      },
-      "created_at": "2026-11-21T19:04:50.204Z"
     }
   ]
 }
