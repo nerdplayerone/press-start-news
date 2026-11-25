@@ -1,7 +1,173 @@
 {
-  "generated_at": "2026-11-25T16:27:00.214Z",
+  "generated_at": "2026-11-25T19:13:23.156Z",
   "version": 1,
   "cards": [
+    {
+      "id": "309f1af7545c",
+      "category": "industry",
+      "tldr": "Hideki Kamiya says he would like to make a new Castlevania game with Konami.",
+      "why_it_matters": "Nothing is announced yet, so there is no release date or platform to plan around. Keep an eye out, as Kamiya's action games have a strong following.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": null,
+      "source": {
+        "outlet": "Eurogamer",
+        "url": "https://www.eurogamer.net/hideki-kamiya-konami-truly-insane-castlevania",
+        "published_at": "2026-11-25T18:55:20.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-25T19:12:40.166Z"
+    },
+    {
+      "id": "84260ab465fa",
+      "category": "hardware",
+      "tldr": "Nvidia has released driver 621.40, reportedly to fix an SSD write bug in its previous driver.",
+      "why_it_matters": "Players with Nvidia graphics cards should update to 621.40, as the earlier hotfix reportedly left the excessive SSD writes partly unresolved. Whether 621.40 fully fixes the problem is still unknown.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": null,
+      "source": {
+        "outlet": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/nvidia-release-new-graphics-card-driver-hopefully-finally-fixing-that-ssd-hammering-unnecessary-write-bug-the-previous-hotfix-couldnt-seem-to-sort",
+        "published_at": "2026-11-25T17:24:30.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-25T19:12:47.274Z"
+    },
+    {
+      "id": "5b1be06edfb2",
+      "category": "industry",
+      "tldr": "Capcom will shut down Exoprimal's online servers on 29 September 2027.",
+      "why_it_matters": "Players who enjoy the dinosaur shooter should play it before servers close in September 2027. Its online play will no longer be available after that date.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "Exoprimal",
+      "source": {
+        "outlet": "GamesIndustry.biz",
+        "url": "https://www.gamesindustry.biz/capcom-will-shut-down-exoprimal-servers-in-september-2027",
+        "published_at": "2026-11-25T17:19:20.000Z"
+      },
+      "also_on": [],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286320/header.jpg?t=1795568630",
+        "steam_appid": 1286320,
+        "steam_url": "https://store.steampowered.com/app/1286320/"
+      },
+      "created_at": "2026-11-25T19:12:49.623Z"
+    },
+    {
+      "id": "1b6eec7fc164",
+      "category": "release",
+      "tldr": "Yooka-Laylee and the Impossible Lair is getting a Definitive Edition, with a Switch 2 version offering better visuals and 120FPS.",
+      "why_it_matters": "Players who missed this platformer can look out for the enhanced re-release. Release dates and pricing are still unknown, so wishlisting is worth considering for now.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "Yooka-Laylee and the Impossible Lair",
+      "source": {
+        "outlet": "VGC",
+        "url": "https://www.videogameschronicle.com/news/yooka-laylee-and-the-impossible-lair-is-getting-a-switch-2-definitive-edition/",
+        "published_at": "2026-11-25T17:09:21.000Z"
+      },
+      "also_on": [
+        {
+          "outlet": "Gematsu",
+          "url": "https://www.gematsu.com/2026/11/yooka-laylee-and-the-impossible-lair-definitive-edition-announced-for-ps5-switch-2-and-pc"
+        }
+      ],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/846870/header.jpg?t=1777472370",
+        "steam_appid": 846870,
+        "steam_url": "https://store.steampowered.com/app/846870/"
+      },
+      "created_at": "2026-11-25T19:12:52.283Z"
+    },
+    {
+      "id": "2216e6e40ba7",
+      "category": "release",
+      "tldr": "Ubisoft has released a story trailer for Rayman Legends Retold.",
+      "why_it_matters": "Players who enjoy action platformers can get a first look at the story. The rest of the details are still unknown from this summary alone.",
+      "relevance": 3,
+      "confidence": "low",
+      "game_name": "Rayman Legends Retold",
+      "source": {
+        "outlet": "Gematsu",
+        "url": "https://www.gematsu.com/2026/11/rayman-legends-retold-story-trailer",
+        "published_at": "2026-11-25T17:05:05.000Z"
+      },
+      "also_on": [],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4084710/4fc23980ce04f33d7dc91bf38d74591ec00015cb/header.jpg?t=1795183629",
+        "steam_appid": 4084710,
+        "steam_url": "https://store.steampowered.com/app/4084710/"
+      },
+      "created_at": "2026-11-25T19:12:53.514Z"
+    },
+    {
+      "id": "97494126191d",
+      "category": "release",
+      "tldr": "Rockstar's head of development Rob Nelson explains why empathy became a key mechanic in GTA 6.",
+      "why_it_matters": "Players wanting to know how GTA 6's Criminal Profile system works can expect more detail. Still unknown from this piece is how much the system affects gameplay.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "Grand Theft Auto 6",
+      "source": {
+        "outlet": "Eurogamer",
+        "url": "https://www.eurogamer.net/gta-6-empathy-criminal-profile-why-rockstar-added-it-rob-nelson",
+        "published_at": "2026-11-25T16:42:30.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-25T19:12:57.930Z"
+    },
+    {
+      "id": "4b23c8779327",
+      "category": "release",
+      "tldr": "Paradox's post-apocalyptic grand strategy Afterworld will let players build a tribe from assorted wasteland bands.",
+      "why_it_matters": "Players won't run one unified civilisation, but gather bands by befriending, conquering or absorbing them. Worth watching if you enjoy grand strategy with an unusual twist. Release details remain unknown.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "Afterworld",
+      "source": {
+        "outlet": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/paradox-grand-strategy-afterworld-has-a-wasteland-band-mechanic-that-sounds-worryingly-like-a-continent-sized-game-of-the-sims",
+        "published_at": "2026-11-25T16:42:00.000Z"
+      },
+      "also_on": [],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4920230/c64e5771b07cfb2d18f962ff42170bc8ead84453/header.jpg?t=1793200812",
+        "steam_appid": 4920230,
+        "steam_url": "https://store.steampowered.com/app/4920230/"
+      },
+      "created_at": "2026-11-25T19:13:00.254Z"
+    },
+    {
+      "id": "1c9c14fa1e1f",
+      "category": "release",
+      "tldr": "PlayStation Plus Monthly Games for December include Tony Hawk's Pro Skater 3+4, Dragon Ball Xenoverse 2 and Amnesia: The Bunker.",
+      "why_it_matters": "Subscribers get all three free from 1 December to 4 January, so there's no need to buy them. Worth a look if you want skating, fighting or horror.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": null,
+      "source": {
+        "outlet": "PlayStation Blog",
+        "url": "https://blog.playstation.com/2026/11/25/playstation-plus-monthly-games-for-december-tony-hawks-pro-skater-34-dragon-ball-xenoverse-2-amnesia-the-bunker/",
+        "published_at": "2026-11-25T16:30:15.000Z"
+      },
+      "also_on": [
+        {
+          "outlet": "Gematsu",
+          "url": "https://www.gematsu.com/2026/11/playstation-plus-monthly-games-lineup-for-december-2026-announced"
+        },
+        {
+          "outlet": "Eurogamer",
+          "url": "https://www.eurogamer.net/playstation-plus-monthly-games-december-2026"
+        }
+      ],
+      "image": null,
+      "created_at": "2026-11-25T19:13:01.653Z"
+    },
     {
       "id": "24abf2d3032c",
       "category": "release",
@@ -57,13 +223,39 @@
         "url": "https://www.gematsu.com/2026/11/cherry-time-broadcast-set-for-november-27-featuring-exciting-announcements-and-hollow-knight-silksong-free-expansion-sea-of-sorrow",
         "published_at": "2026-11-25T15:15:11.000Z"
       },
-      "also_on": [],
+      "also_on": [
+        {
+          "outlet": "VGC",
+          "url": "https://www.videogameschronicle.com/news/team-cherry-will-share-an-update-on-silksongs-dlc-on-november-27/"
+        }
+      ],
       "image": {
         "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030300/7983574d464e6559ac7e24275727f73a8bcca1f3/header.jpg?t=1776125736",
         "steam_appid": 1030300,
         "steam_url": "https://store.steampowered.com/app/1030300/"
       },
       "created_at": "2026-11-25T16:26:36.009Z"
+    },
+    {
+      "id": "eda4466bac51",
+      "category": "release",
+      "tldr": "Rumour: EA Sports FC 27 will feature John Motson's commentary, recreated with generative AI after his 2023 death.",
+      "why_it_matters": "Players who want authentic commentary may find this appealing, but it is still unknown how the AI voice will sound or how it will be used in the game.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "EA Sports FC 27",
+      "source": {
+        "outlet": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/ea-sports-fc-27-to-resurrect-john-motson-with-help-from-generative-ai-because-apparently-football-games-need-someone-yelling-about-goals-from-beyond-the-grave",
+        "published_at": "2026-11-25T15:12:40.000Z"
+      },
+      "also_on": [],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4080220/ff6a3779f1ca83aae8ad3878454f6c11008ea24d/header.jpg?t=1793610006",
+        "steam_appid": 4080220,
+        "steam_url": "https://store.steampowered.com/app/4080220/"
+      },
+      "created_at": "2026-11-25T19:13:03.593Z"
     },
     {
       "id": "2c05b3ba6009",
@@ -989,163 +1181,6 @@
       "also_on": [],
       "image": null,
       "created_at": "2026-11-23T19:18:34.001Z"
-    },
-    {
-      "id": "f818d2bd1e18",
-      "category": "release",
-      "tldr": "Former Valorant and Sky developers are reportedly making a Peak-style platformer about throwing a cat through spacetime.",
-      "why_it_matters": "Still unknown whether it is announced, dated or platforms are set. Worth a wishlist check once a store page or trailer appears.",
-      "relevance": 3,
-      "confidence": "low",
-      "game_name": null,
-      "source": {
-        "outlet": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/finally-some-former-valorant-and-sky-devs-have-answered-the-call-for-a-peak-style-platformer-about-throwing-a-cat-through-a-hole-in-spacetime",
-        "published_at": "2026-11-23T16:10:00.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-23T16:22:03.419Z"
-    },
-    {
-      "id": "40c4cd20ddc0",
-      "category": "release",
-      "tldr": "Rockstar has released a patch for GTA 6 on PS5 and Xbox Series X/S fixing progression issues.",
-      "why_it_matters": "If you are playing GTA 6 on PS5 or Xbox Series X/S and hit progression problems, this update should help. Check for it before continuing your playthrough.",
-      "relevance": 3,
-      "confidence": "high",
-      "game_name": "GTA 6",
-      "source": {
-        "outlet": "Eurogamer",
-        "url": "https://www.eurogamer.net/gta-6-xbox-playstation-patch-autosave-vignette",
-        "published_at": "2026-11-23T15:22:30.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-23T16:22:14.785Z"
-    },
-    {
-      "id": "22fd472f8259",
-      "category": "release",
-      "tldr": "INDIE Live Expo will air on December 1, 2026, featuring more than 100 independent games.",
-      "why_it_matters": "Players who enjoy indie action and shooters can watch for new reveals and note titles to wishlist. The summary gives no further details on specific games yet.",
-      "relevance": 3,
-      "confidence": "low",
-      "game_name": null,
-      "source": {
-        "outlet": "Gematsu",
-        "url": "https://www.gematsu.com/2026/11/indie-live-expo-december-1-2026-to-feature-more-than-100-games",
-        "published_at": "2026-11-23T15:00:31.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-23T16:22:25.510Z"
-    },
-    {
-      "id": "03d0f964bcb2",
-      "category": "release",
-      "tldr": "Rumour: Grand Theft Auto 6 has received a new update that fixes autosaving and other bugs.",
-      "why_it_matters": "Not yet clear which platforms the patch covers or how large it is. Players may want to check for the update, as it also fixes losing Wanted Levels.",
-      "relevance": 3,
-      "confidence": "low",
-      "game_name": "Grand Theft Auto 6",
-      "source": {
-        "outlet": "VGC",
-        "url": "https://www.videogameschronicle.com/news/grand-theft-auto-6-has-received-a-new-patch-which-fixes-autosaving/",
-        "published_at": "2026-11-23T14:44:32.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-23T16:22:31.344Z"
-    },
-    {
-      "id": "e8df055e7ed4",
-      "category": "release",
-      "tldr": "Nightdive's Thief remaster will make the notorious Thieves Guild mission less frustrating through clearer environmental textures and other adjustments.",
-      "why_it_matters": "If you bounced off the Thieves Guild level in Thief Gold, the remaster may be worth a second try. Details of the changes are still limited.",
-      "relevance": 4,
-      "confidence": "high",
-      "game_name": "Thief: The Dark Project Remastered",
-      "source": {
-        "outlet": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/nightdives-thief-remaster-will-make-the-most-infamous-thief-gold-level-a-little-less-maddening-by-just-kind-of-pointing-the-player-in-the-right-direction",
-        "published_at": "2026-11-23T13:30:00.000Z"
-      },
-      "also_on": [],
-      "image": {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4200960/20321014a4a5a0b71c8c70648eb37eef249466b1/header.jpg?t=1794581617",
-        "steam_appid": 4200960,
-        "steam_url": "https://store.steampowered.com/app/4200960/"
-      },
-      "created_at": "2026-11-23T13:39:27.106Z"
-    },
-    {
-      "id": "025483ef981e",
-      "category": "industry",
-      "tldr": "Developers of Sega's cult classic Rez look back on its 25th anniversary and its story.",
-      "why_it_matters": "The retrospective also reveals why a sequel was cancelled, so fans should not expect a follow-up. Details on the cancellation are not included in this summary.",
-      "relevance": 3,
-      "confidence": "high",
-      "game_name": "Rez",
-      "source": {
-        "outlet": "VGC",
-        "url": "https://www.videogameschronicle.com/features/the-story-of-rez-25-years-on/",
-        "published_at": "2026-11-23T13:04:33.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-23T13:39:32.322Z"
-    },
-    {
-      "id": "4fd3f8713799",
-      "category": "hardware",
-      "tldr": "Samsung's Odyssey G6 G60H, a 27-inch monitor with a 1,100Hz refresh rate, launches next month at $899.99.",
-      "why_it_matters": "Only reaches 1,100Hz at 1080p; 1440p drops to 600Hz. Real-world benefit at these rates is debated, so check reviews before buying.",
-      "relevance": 3,
-      "confidence": "high",
-      "game_name": null,
-      "source": {
-        "outlet": "The Verge",
-        "url": "https://www.theverge.com/games/1039838/samsungs-odyssey-g6-1100hz-gaming-monitor",
-        "published_at": "2026-11-23T13:00:00.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-23T13:39:33.590Z"
-    },
-    {
-      "id": "614556e16df9",
-      "category": "hardware",
-      "tldr": "Nvidia has released a hotfix for a GeForce driver that caused excessive SSD writes.",
-      "why_it_matters": "If your SSD is writing heavily after driver updates, rolling back to driver 621.01 may still be safer than the hotfix. Check your drive's write activity before deciding.",
-      "relevance": 3,
-      "confidence": "high",
-      "game_name": null,
-      "source": {
-        "outlet": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/nvidia-release-hotfix-for-latest-graphics-card-driver-battering-ssds-with-excessive-writes-but-it-looks-like-reverting-may-still-be-the-better-option",
-        "published_at": "2026-11-23T12:59:50.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-23T13:39:35.707Z"
-    },
-    {
-      "id": "762af648b467",
-      "category": "release",
-      "tldr": "Nicalis removed AI-generated music from a Binding of Isaac Repentance+ update after players criticised it.",
-      "why_it_matters": "If you play Repentance+, the free GTA-parody daily run no longer has the disputed soundtrack. Nothing else in the story suggests a further change to watch for.",
-      "relevance": 3,
-      "confidence": "high",
-      "game_name": "The Binding of Isaac: Repentance+",
-      "source": {
-        "outlet": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/undisclosed-ai-generated-music-pulled-from-the-binding-of-isaac-repentance-update-as-attempt-to-get-satirical-on-gta-6-launch-day-goes-awry",
-        "published_at": "2026-11-23T11:45:10.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-23T13:39:45.405Z"
     }
   ]
 }
