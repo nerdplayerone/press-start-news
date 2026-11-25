@@ -1,7 +1,100 @@
 {
-  "generated_at": "2026-11-25T10:25:25.547Z",
+  "generated_at": "2026-11-25T13:40:56.818Z",
   "version": 1,
   "cards": [
+    {
+      "id": "299bf5c1fa45",
+      "category": "industry",
+      "tldr": "Analyst says console makers are unlikely to cut hardware prices until at least 2028.",
+      "why_it_matters": "Players hoping for cheaper consoles should not expect relief soon, since new DRAM capacity is not expected until then. Hardware buyers may need to plan budgets accordingly.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": null,
+      "source": {
+        "outlet": "GamesIndustry.biz",
+        "url": "https://www.gamesindustry.biz/analyst-dont-expect-hardware-price-cuts-until-at-least-2028",
+        "published_at": "2026-11-25T13:09:40.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-25T13:40:20.850Z"
+    },
+    {
+      "id": "b43bd61a6e37",
+      "category": "release",
+      "tldr": "Capcom's dinosaur shooter Exoprimal will lose its online services in late September 2027.",
+      "why_it_matters": "The game will become unplayable once servers close, and it will be delisted from stores in March. Players who want it should buy or play before those dates.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "Exoprimal",
+      "source": {
+        "outlet": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/capcom-dinosaur-shooter-exoprimals-servers-will-go-extinct-next-year-as-shutdown-meteor-looms",
+        "published_at": "2026-11-25T12:30:00.000Z"
+      },
+      "also_on": [],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286320/header.jpg?t=1795568630",
+        "steam_appid": 1286320,
+        "steam_url": "https://store.steampowered.com/app/1286320/"
+      },
+      "created_at": "2026-11-25T13:40:29.623Z"
+    },
+    {
+      "id": "00bd3dbaadea",
+      "category": "release",
+      "tldr": "Total War: Medieval 3 will expand diplomacy, building on the backstabbing of Total War: Three Kingdoms.",
+      "why_it_matters": "Strategy fans wanting deeper political scheming should note this promised diplomacy overhaul. Details on how it works are still unknown, so wait for more information.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "Total War: Medieval 3",
+      "source": {
+        "outlet": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/more-than-just-war-and-peace-total-war-medieval-3s-diplomacy-system-will-build-on-three-kingdoms-backstabbing-with-rulers-who-arent-just-focused-on-you",
+        "published_at": "2026-11-25T12:08:50.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-25T13:40:32.173Z"
+    },
+    {
+      "id": "836b14a29aad",
+      "category": "release",
+      "tldr": "Dirt Dash, Namco's arcade racer, is getting its first ever home release via Arcade Archives.",
+      "why_it_matters": "Fans of arcade racing can add this to their wishlist. Platforms, price and release date are still unknown from this report.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "Dirt Dash",
+      "source": {
+        "outlet": "VGC",
+        "url": "https://www.videogameschronicle.com/news/dirt-dash-namcos-arcade-rival-to-sega-rally-is-getting-a-home-release-for-the-first-time-ever/",
+        "published_at": "2026-11-25T11:13:59.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-25T13:40:39.191Z"
+    },
+    {
+      "id": "9dd3ef2d4631",
+      "category": "release",
+      "tldr": "S&box, Facepunch's Garry's Mod spiritual successor, has a revamped sandbox mode and a return of workshop addons.",
+      "why_it_matters": "Sandbox fans wanting a modern Garry's Mod alternative may find it worth a fresh look. Its free-to-play shift and pricing details are still unknown.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "S&box",
+      "source": {
+        "outlet": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/delivering-a-more-modern-garrys-mod-is-the-goal-of-spiritual-successor-sboxs-revamped-sandbox-mode-as-classic-gmods-workshop-addon-system-returns",
+        "published_at": "2026-11-25T11:10:00.000Z"
+      },
+      "also_on": [],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/590830/0f64b7e4f9628fdcff7e1f86696d08b9d280de5e/header.jpg?t=1791282405",
+        "steam_appid": 590830,
+        "steam_url": "https://store.steampowered.com/app/590830/"
+      },
+      "created_at": "2026-11-25T13:40:40.249Z"
+    },
     {
       "id": "a4c251202699",
       "category": "release",
@@ -39,6 +132,23 @@
         "steam_url": "https://store.steampowered.com/app/1687540/"
       },
       "created_at": "2026-11-25T10:25:05.344Z"
+    },
+    {
+      "id": "79645bf4d7f1",
+      "category": "release",
+      "tldr": "Console Archives Mezase!! SENKYU-OH launches on PlayStation 5 and Switch 2 on November 26.",
+      "why_it_matters": "A retro-style release arriving the day after its announcement window, so players can buy it now. Check the full summary for pricing and details before deciding.",
+      "relevance": 3,
+      "confidence": "low",
+      "game_name": "Console Archives Mezase!! SENKYU-OH",
+      "source": {
+        "outlet": "Gematsu",
+        "url": "https://www.gematsu.com/2026/11/console-archives-mezase-senkyu-oh-launches-november-26",
+        "published_at": "2026-11-25T10:10:31.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-25T13:40:42.774Z"
     },
     {
       "id": "24ee98b1fdab",
@@ -1028,108 +1138,6 @@
       "also_on": [],
       "image": null,
       "created_at": "2026-11-22T19:06:40.627Z"
-    },
-    {
-      "id": "e85de3d0f62f",
-      "category": "industry",
-      "tldr": "A former Rockstar environment artist praises GTA 6's visuals but says Red Dead 2 had better rivers.",
-      "why_it_matters": "This is one artist's personal opinion, not news about release dates or features. Players wanting GTA 6 details can skip it, though it hints at strong world art.",
-      "relevance": 3,
-      "confidence": "high",
-      "game_name": "Grand Theft Auto 6",
-      "source": {
-        "outlet": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/grand-theft-auto/former-rockstar-environment-artist-breaks-silence-gta-6-is-generally-stunning-but-red-dead-2-might-have-had-better-rivers/",
-        "published_at": "2026-11-22T16:55:10.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-22T19:06:47.165Z"
-    },
-    {
-      "id": "5163dce1e2da",
-      "category": "release",
-      "tldr": "A '90s-inspired horror game is praised for its post-apocalyptic world, which can be explored from a campervan.",
-      "why_it_matters": "Fans of retro-styled horror may want to look into it. The summary gives no release date or platforms, so those details are still unknown.",
-      "relevance": 3,
-      "confidence": "low",
-      "game_name": null,
-      "source": {
-        "outlet": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/horror/this-90s-inspired-horror-game-has-one-of-the-coolest-post-apocalyptic-worlds-ive-ever-seen/",
-        "published_at": "2026-11-22T16:00:00.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-22T19:06:51.683Z"
-    },
-    {
-      "id": "4782459313af",
-      "category": "hardware",
-      "tldr": "Nintendo cuts $50 off one Switch 2 bundle for Black Friday, running from 22 November to 5 December.",
-      "why_it_matters": "The Mario Kart World bundle drops to $499.99 at major retailers, reversing part of September's price rise. A worthwhile saving for anyone planning to buy a Switch 2 this season.",
-      "relevance": 3,
-      "confidence": "high",
-      "game_name": null,
-      "source": {
-        "outlet": "The Verge",
-        "url": "https://www.theverge.com/gadgets/1038181/nintendo-switch-2-black-friday-deal-mario-kart-world-bundle-2026-sale",
-        "published_at": "2026-11-22T14:00:00.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-22T15:59:07.833Z"
-    },
-    {
-      "id": "d4fbbedc86b7",
-      "category": "release",
-      "tldr": "Rockstar says GTA 6 includes a complex drug network tracking drugs from source to street-level buyers.",
-      "why_it_matters": "It signals a deeper systemic world for the game, though no release details or mechanics are confirmed yet, so there is little to act on beyond watching for more.",
-      "relevance": 3,
-      "confidence": "high",
-      "game_name": "Grand Theft Auto 6",
-      "source": {
-        "outlet": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-has-a-complex-drug-network-that-tracks-everything-from-where-drugs-come-from-to-how-they-eventually-reach-the-street-level-buyer/",
-        "published_at": "2026-11-22T13:25:42.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-22T15:59:09.601Z"
-    },
-    {
-      "id": "9a572ea83323",
-      "category": "industry",
-      "tldr": "Nicalis has removed AI-generated music from The Binding of Isaac: Repentance+ after players spotted it.",
-      "why_it_matters": "Players unhappy with the AI music prompted negative Steam reviews, so the removal may matter to anyone deciding whether to buy or keep the game.",
-      "relevance": 3,
-      "confidence": "high",
-      "game_name": "The Binding of Isaac: Repentance+",
-      "source": {
-        "outlet": "Eurogamer",
-        "url": "https://www.eurogamer.net/binding-of-isaac-repentance-plus-ai-music-removed",
-        "published_at": "2026-11-22T13:19:20.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-22T15:59:11.366Z"
-    },
-    {
-      "id": "0523320b3c70",
-      "category": "release",
-      "tldr": "Rockstar says GTA 6 protagonist Jason was shaped by Steve McQueen and research into Army veterans.",
-      "why_it_matters": "Little gameplay detail is given here, so the story mainly shows Rockstar aims for grounded characters. Nothing yet changes what to wishlist or wait for.",
-      "relevance": 3,
-      "confidence": "high",
-      "game_name": "Grand Theft Auto 6",
-      "source": {
-        "outlet": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/grand-theft-auto/jasons-stoic-character-in-grand-theft-auto-6-was-inspired-by-steve-mcqueen-and-research-into-army-veterans-these-guys-typically-arent-running-their-mouths/",
-        "published_at": "2026-11-22T10:54:09.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-22T13:14:49.155Z"
     }
   ]
 }
