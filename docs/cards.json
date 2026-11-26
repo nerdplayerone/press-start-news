@@ -1,7 +1,24 @@
 {
-  "generated_at": "2026-11-25T22:13:03.717Z",
+  "generated_at": "2026-11-26T01:37:52.659Z",
   "version": 1,
   "cards": [
+    {
+      "id": "4271e6207dc9",
+      "category": "release",
+      "tldr": "Nintendo has released an overview trailer for the Nintendo Switch 2 Edition of Xenoblade Chronicles 3.",
+      "why_it_matters": "Players wanting a feel for the Switch 2 version can watch the three-minute overview. The summary gives no details on new features or price, so those remain unknown.",
+      "relevance": 3,
+      "confidence": "low",
+      "game_name": "Xenoblade Chronicles 3",
+      "source": {
+        "outlet": "Gematsu",
+        "url": "https://www.gematsu.com/2026/11/xenoblade-chronicles-3-nintendo-switch-2-edition-overview-trailer",
+        "published_at": "2026-11-26T01:08:30.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-26T01:37:45.543Z"
+    },
     {
       "id": "b500d070c3a3",
       "category": "industry",
@@ -1160,27 +1177,6 @@
       "also_on": [],
       "image": null,
       "created_at": "2026-11-23T22:07:07.486Z"
-    },
-    {
-      "id": "9c7207371e91",
-      "category": "release",
-      "tldr": "SNEG has released a new version of Soldiers at War, a 28-year-old WW2 turn-based tactics game.",
-      "why_it_matters": "Fans of XCOM-style tactics can now run the old game on modern PCs. Players wanting a retro strategy title should consider it, though pricing and platform details are still unknown.",
-      "relevance": 3,
-      "confidence": "high",
-      "game_name": "Soldiers at War",
-      "source": {
-        "outlet": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/28-years-later-grizzled-xcom-style-ww2-tactics-game-soldiers-at-war-gets-a-fresh-tour-of-duty-on-modern-pcs",
-        "published_at": "2026-11-23T18:10:20.000Z"
-      },
-      "also_on": [],
-      "image": {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4834810/fc415a44a3c01a19d318bd5dfe24c0d0f2d5d31a/header.jpg?t=1795182902",
-        "steam_appid": 4834810,
-        "steam_url": "https://store.steampowered.com/app/4834810/"
-      },
-      "created_at": "2026-11-23T19:18:19.494Z"
     }
   ]
 }
