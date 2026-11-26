@@ -1,7 +1,117 @@
 {
-  "generated_at": "2026-11-26T16:22:46.503Z",
+  "generated_at": "2026-11-26T19:19:16.972Z",
   "version": 1,
   "cards": [
+    {
+      "id": "a57b466f3ec0",
+      "category": "release",
+      "tldr": "HARK THE GHOUL is a Victorian gothic action RPG dungeon crawler with a rat-selling trench-coat character.",
+      "why_it_matters": "It blends free exploration with dungeon crawling in a gothic city, so it suits players who like action RPGs. Release date and platforms are not yet clear from this coverage.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "HARK THE GHOUL",
+      "source": {
+        "outlet": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/hark-the-ghoul-is-a-victorian-gothic-dungeon-crawler-rpg-that-features-a-trench-coat-wearing-rat-man-who-wants-to-sell-you-rats-a-la-counterfeit-watches",
+        "published_at": "2026-11-26T18:53:30.000Z"
+      },
+      "also_on": [],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3058660/header.jpg?t=1795708876",
+        "steam_appid": 3058660,
+        "steam_url": "https://store.steampowered.com/app/3058660/"
+      },
+      "created_at": "2026-11-26T19:18:40.857Z"
+    },
+    {
+      "id": "287cdc3a4bb1",
+      "category": "release",
+      "tldr": "Space Marine 2 gets a Decimation update adding a new Weekly Clash PvP mode with constricting modifiers.",
+      "why_it_matters": "Players who enjoy Space Marine 2's multiplayer can expect a new weekly PvP mode with rule changes. Details beyond the mode's modifiers are still unknown.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "Warhammer 40,000: Space Marine 2",
+      "source": {
+        "outlet": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/warhammer-40000-space-marine-2s-latest-updates-introduces-a-weekly-clash-mode-that-shakes-up-pvp-with-some-constricting-modifiers",
+        "published_at": "2026-11-26T17:58:30.000Z"
+      },
+      "also_on": [],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2183900/8ae6d86d7fdb845009a21559eecbed3369fc5140/header_alt_assets_15.jpg?t=1795711428",
+        "steam_appid": 2183900,
+        "steam_url": "https://store.steampowered.com/app/2183900/"
+      },
+      "created_at": "2026-11-26T19:18:50.532Z"
+    },
+    {
+      "id": "dfefcdb8ffdb",
+      "category": "release",
+      "tldr": "The Witcher 3 Remastered has received a new patch with balance changes and technical fixes.",
+      "why_it_matters": "Players of the remaster can expect smoother play and fixes for several bugs. The Songs of the Past expansion is due next year, so more updates may follow.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "The Witcher 3 Remastered",
+      "source": {
+        "outlet": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/the-witcher-3-remastereds-latest-patch-takes-aim-at-mods-nicking-all-of-geralts-possessions-disappearing-buildings-and-an-outbreak-of-overly-bright-red-npc-leg-areas",
+        "published_at": "2026-11-26T17:00:00.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-26T19:18:55.433Z"
+    },
+    {
+      "id": "c5b4124f8a24",
+      "category": "industry",
+      "tldr": "GTA 6 reportedly sold 32.5 million copies and earned $3.79 billion on its first day.",
+      "why_it_matters": "Analysts say a PC release, which is not yet confirmed, is the main route to bigger sales. Watch for an official PC announcement before expecting it.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "Grand Theft Auto VI",
+      "source": {
+        "outlet": "GamesIndustry.biz",
+        "url": "https://www.gamesindustry.biz/this-was-unlike-anything-else-weve-ever-seen-before-but-gta-6s-success-is-limited-by-the-console-install-base-and-its-future-rests-on-pc",
+        "published_at": "2026-11-26T16:53:20.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-26T19:18:56.397Z"
+    },
+    {
+      "id": "e0d9b6b9fe63",
+      "category": "release",
+      "tldr": "Analysis suggests GTA 6 can run on Xbox One, handling streaming for the Series S port.",
+      "why_it_matters": "A cross-generation release would widen access for older console owners, but the input gives no release date or confirmed plans, so treat it as unconfirmed for now.",
+      "relevance": 3,
+      "confidence": "low",
+      "game_name": "GTA 6",
+      "source": {
+        "outlet": "VGC",
+        "url": "https://www.videogameschronicle.com/news/gta-6-on-xbox-one-is-a-remarkable-feat-according-to-analysis/",
+        "published_at": "2026-11-26T16:34:00.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-26T19:19:00.951Z"
+    },
+    {
+      "id": "9601466040fe",
+      "category": "release",
+      "tldr": "GTA 6 reportedly draws some design ideas from Red Dead Redemption 2's honour system.",
+      "why_it_matters": "Suggests GTA 6 may lean into player choice and consequences, a useful thing to note when deciding what to watch for. Details of how the system works are still unknown.",
+      "relevance": 3,
+      "confidence": "low",
+      "game_name": "Grand Theft Auto 6",
+      "source": {
+        "outlet": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/aspects-of-gta-6-are-inspired-by-red-dead-redemption-2s-honor-system-because-its-player-agency-was-a-hard-thing-to-ignore-and-walk-away-from/",
+        "published_at": "2026-11-26T16:28:37.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-26T19:19:02.003Z"
+    },
     {
       "id": "963b96fb6b75",
       "category": "release",
@@ -22,6 +132,23 @@
         "steam_url": "https://store.steampowered.com/app/3058660/"
       },
       "created_at": "2026-11-26T16:21:52.281Z"
+    },
+    {
+      "id": "0a0783cb3faf",
+      "category": "industry",
+      "tldr": "Report: GTA 6 reportedly drew more livestream viewers in its first week than several major games combined.",
+      "why_it_matters": "Strong streaming numbers suggest wide interest in Rockstar's open-world crime game, but the report gives no details on sales or release timing. Keep an eye on official announcements.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "Grand Theft Auto 6",
+      "source": {
+        "outlet": "Eurogamer",
+        "url": "https://www.eurogamer.net/grand-theft-auto-6-first-week-hours-watched-record",
+        "published_at": "2026-11-26T15:32:20.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-26T19:19:04.733Z"
     },
     {
       "id": "719fecde25d5",
@@ -1048,138 +1175,6 @@
         "steam_url": "https://store.steampowered.com/app/1687540/"
       },
       "created_at": "2026-11-24T16:28:17.631Z"
-    },
-    {
-      "id": "3d2dafb48c1b",
-      "category": "industry",
-      "tldr": "Sony says GTA 6 had the biggest launch in PlayStation history and record concurrent players.",
-      "why_it_matters": "Confirms the game's huge reach on PlayStation, but the summary gives no figures for new console sales, so the wider picture is still unknown.",
-      "relevance": 3,
-      "confidence": "high",
-      "game_name": "GTA 6",
-      "source": {
-        "outlet": "GamesIndustry.biz",
-        "url": "https://www.gamesindustry.biz/gta-6-was-the-biggest-launch-in-playstation-history-with-the-highest-number-of-concurrent-players-ever",
-        "published_at": "2026-11-24T11:44:10.000Z"
-      },
-      "also_on": [
-        {
-          "outlet": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/sony-gta-6-set-record-for-highest-number-of-concurrent-players-for-any-game-on-playstation-ever/"
-        }
-      ],
-      "image": null,
-      "created_at": "2026-11-24T16:28:23.631Z"
-    },
-    {
-      "id": "73635f50ed86",
-      "category": "hardware",
-      "tldr": "Report: Microsoft reportedly explored dropping the paid online multiplayer requirement for its next-gen Xbox Helix consoles.",
-      "why_it_matters": "Players may eventually be able to play online without Xbox Live, but the plan reportedly changed during production, so nothing is confirmed. Worth watching, not planning around.",
-      "relevance": 3,
-      "confidence": "high",
-      "game_name": null,
-      "source": {
-        "outlet": "Eurogamer",
-        "url": "https://www.eurogamer.net/xbox-live-helix-killing-paid-membership",
-        "published_at": "2026-11-24T10:02:10.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-24T10:24:35.640Z"
-    },
-    {
-      "id": "ff6fa0c0f031",
-      "category": "release",
-      "tldr": "Wave Race: Blue Storm has been added to Nintendo Switch Online's GameCube library, the 12th title there.",
-      "why_it_matters": "It is the first re-release of this racing sequel in 25 years, so fans of the original GameCube game can now play it on Switch Online again.",
-      "relevance": 3,
-      "confidence": "high",
-      "game_name": "Wave Race: Blue Storm",
-      "source": {
-        "outlet": "VGC",
-        "url": "https://www.videogameschronicle.com/news/wave-race-blue-storm-is-the-12th-gamecube-game-to-be-added-to-switch-onlines-library/",
-        "published_at": "2026-11-24T09:31:36.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-24T10:24:36.894Z"
-    },
-    {
-      "id": "b0ca590170da",
-      "category": "release",
-      "tldr": "Koei Tecmo and Team NINJA released a 30th anniversary trailer for the Dead or Alive series.",
-      "why_it_matters": "A free update for Dead or Alive 6 Last Round is also now available, so fighting game fans can check it out. Details beyond the headline are still unknown.",
-      "relevance": 3,
-      "confidence": "low",
-      "game_name": "DEAD OR ALIVE 6 Last Round",
-      "source": {
-        "outlet": "Gematsu",
-        "url": "https://www.gematsu.com/2026/11/dead-or-alive-series-30th-anniversary-trailer-dead-or-alive-6-last-round-free-update-now-available",
-        "published_at": "2026-11-24T07:00:52.000Z"
-      },
-      "also_on": [],
-      "image": {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4144680/e94fe79e24de4c1488f1967f13144c6df66b5b51/header.jpg?t=1795050351",
-        "steam_appid": 4144680,
-        "steam_url": "https://store.steampowered.com/app/4144680/"
-      },
-      "created_at": "2026-11-24T13:35:00.035Z"
-    },
-    {
-      "id": "12b8e3419147",
-      "category": "release",
-      "tldr": "Kendo Rage 1 and 2 have been announced as a two-game collection for PS5, Switch and PC.",
-      "why_it_matters": "A side-scrolling action collection is worth adding to your wishlist if you enjoy action games. Release date and pricing details are still unknown.",
-      "relevance": 3,
-      "confidence": "high",
-      "game_name": "Kendo Rage 1&2",
-      "source": {
-        "outlet": "Gematsu",
-        "url": "https://www.gematsu.com/2026/11/kendo-rage-1-2-announced-for-ps5-switch-and-pc",
-        "published_at": "2026-11-24T01:59:18.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-24T04:17:42.677Z"
-    },
-    {
-      "id": "2dc8f7be7061",
-      "category": "release",
-      "tldr": "Koei Tecmo and Omega Force have released an eight-minute gameplay video for Attack on Titan 3.",
-      "why_it_matters": "The video shows exploration within the walls, so players can get a clearer look at how the game plays. Release date and platforms are still unknown from this summary.",
-      "relevance": 3,
-      "confidence": "low",
-      "game_name": "Attack on Titan 3",
-      "source": {
-        "outlet": "Gematsu",
-        "url": "https://www.gematsu.com/2026/11/attack-on-titan-3-exploration-within-the-walls-gameplay",
-        "published_at": "2026-11-24T01:46:16.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-24T04:17:44.096Z"
-    },
-    {
-      "id": "2f7a42c11630",
-      "category": "release",
-      "tldr": "Nioh 3 DLC Bloody Insurrection launches December 17, with a Complete Edition due January 28, 2027.",
-      "why_it_matters": "Action fans get a new Nioh 3 expansion in December, and a Complete Edition with an Xbox Series version follows in January 2027. Details beyond these dates are still unknown.",
-      "relevance": 4,
-      "confidence": "high",
-      "game_name": "Nioh 3",
-      "source": {
-        "outlet": "Gematsu",
-        "url": "https://www.gematsu.com/2026/11/nioh-3-dlc-bloody-insurrection-launches-december-17-complete-edition-launches-january-28-2027-alongside-xbox-series-version",
-        "published_at": "2026-11-24T01:41:52.000Z"
-      },
-      "also_on": [],
-      "image": {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3681010/a21264e9fd476dcb2901c2432b598107d024c5a8/header.jpg?t=1772090941",
-        "steam_appid": 3681010,
-        "steam_url": "https://store.steampowered.com/app/3681010/"
-      },
-      "created_at": "2026-11-24T04:17:46.406Z"
     }
   ]
 }

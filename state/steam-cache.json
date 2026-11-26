@@ -940,5 +940,18 @@
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4174310/4af96a9c29c40a0c99d0d2d5ab7fa06c23f90246/header.jpg?t=1795675145",
       "url": "https://store.steampowered.com/app/4174310/"
     }
+  },
+  "warhammer 40 000 space marine 2": {
+    "at": "2026-11-26T19:19:15.478Z",
+    "match": {
+      "appid": 2183900,
+      "name": "Warhammer 40,000: Space Marine 2",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2183900/8ae6d86d7fdb845009a21559eecbed3369fc5140/header_alt_assets_15.jpg?t=1795711428",
+      "url": "https://store.steampowered.com/app/2183900/"
+    }
+  },
+  "witcher 3 remastered": {
+    "at": "2026-11-26T19:19:16.967Z",
+    "match": null
   }
 }
