@@ -1,7 +1,83 @@
 {
-  "generated_at": "2026-11-26T19:19:16.972Z",
+  "generated_at": "2026-11-26T22:12:56.903Z",
   "version": 1,
   "cards": [
+    {
+      "id": "ce6e818be9f2",
+      "category": "industry",
+      "tldr": "Rare co-founder has shared footage of Conker 64, a cancelled game that later became Conker's Bad Fur Day.",
+      "why_it_matters": "Players interested in Rare's history can watch the early footage, but the input gives no release, platform or availability details for the cancelled game.",
+      "relevance": 3,
+      "confidence": "low",
+      "game_name": "Conker 64",
+      "source": {
+        "outlet": "VGC",
+        "url": "https://www.videogameschronicle.com/news/rare-co-founder-reveals-footage-of-cancelled-conker-64/",
+        "published_at": "2026-11-26T22:09:56.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-26T22:12:32.052Z"
+    },
+    {
+      "id": "037c081018eb",
+      "category": "release",
+      "tldr": "Appulse, a sci-fi pinball roguelite top-down shooter, has launched, with the ball acting as your ship's defence system.",
+      "why_it_matters": "A shooter-leaning roguelite with a pinball twist, now out, so worth a look if you enjoy quirky top-down action. The summary gives no platform or price details.",
+      "relevance": 4,
+      "confidence": "high",
+      "game_name": "Appulse",
+      "source": {
+        "outlet": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/your-mothership-is-a-giant-pinball-machine-and-your-ball-is-its-defence-system-in-appulse-a-top-down-roguelite-shooter-thats-out-now",
+        "published_at": "2026-11-26T21:31:10.000Z"
+      },
+      "also_on": [],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3498700/5551d6ea2d075752c744830204eb47a5376817ed/header.jpg?t=1795703351",
+        "steam_appid": 3498700,
+        "steam_url": "https://store.steampowered.com/app/3498700/"
+      },
+      "created_at": "2026-11-26T22:12:38.563Z"
+    },
+    {
+      "id": "ef287005641c",
+      "category": "release",
+      "tldr": "Actress Manni L. Perez says she worked on GTA 6 for almost a decade, playing Lucia.",
+      "why_it_matters": "Confirms the Lucia casting and suggests a long development history, but no release date is given here. Players can keep an eye out for official announcements about the game.",
+      "relevance": 4,
+      "confidence": "low",
+      "game_name": "GTA 6",
+      "source": {
+        "outlet": "VGC",
+        "url": "https://www.videogameschronicle.com/news/lucia-actress-manni-l-perez-claims-she-worked-on-gta-6-for-almost-a-decade/",
+        "published_at": "2026-11-26T20:52:29.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-26T22:12:40.291Z"
+    },
+    {
+      "id": "ada7084186df",
+      "category": "industry",
+      "tldr": "EA is dropping seasonal updates for Skate and trimming some live service features.",
+      "why_it_matters": "Skate players should expect more frequent content updates instead of waiting for seasons. Still unknown is which specific features are being removed.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "Skate",
+      "source": {
+        "outlet": "Eurogamer",
+        "url": "https://www.eurogamer.net/ea-removes-live-service-skate-seasons",
+        "published_at": "2026-11-26T20:35:20.000Z"
+      },
+      "also_on": [],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3354750/79c5a87b61a396cc6e6b69e3a083727f175dea83/header.jpg?t=1788891347",
+        "steam_appid": 3354750,
+        "steam_url": "https://store.steampowered.com/app/3354750/"
+      },
+      "created_at": "2026-11-26T22:12:41.275Z"
+    },
     {
       "id": "a57b466f3ec0",
       "category": "release",
@@ -1094,87 +1170,6 @@
       "also_on": [],
       "image": null,
       "created_at": "2026-11-24T16:27:48.777Z"
-    },
-    {
-      "id": "629d6e1c294a",
-      "category": "industry",
-      "tldr": "PC Gamer argues GTA 6 may play best on PC but is best played with a controller.",
-      "why_it_matters": "For a PC player, this suggests the controller is worth using even if you favour keyboard and mouse. Details on platforms and dates are still unknown from this piece.",
-      "relevance": 3,
-      "confidence": "low",
-      "game_name": "GTA 6",
-      "source": {
-        "outlet": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-might-play-best-when-it-hits-pc-but-itll-be-best-played-with-a-controller/",
-        "published_at": "2026-11-24T15:52:10.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-24T19:18:20.906Z"
-    },
-    {
-      "id": "c954d901472f",
-      "category": "industry",
-      "tldr": "Remedy's CEO has praised Rockstar's support for the Max Payne 1 and 2 remake in development.",
-      "why_it_matters": "Rockstar owns the Max Payne IP and funds the remake, which Remedy is building, so players can watch for an announcement. No release date or platforms are yet known.",
-      "relevance": 4,
-      "confidence": "high",
-      "game_name": "Max Payne 1 & 2 Remake",
-      "source": {
-        "outlet": "Eurogamer",
-        "url": "https://www.eurogamer.net/remedy-max-payne-1-2-remake-rockstar-relationship",
-        "published_at": "2026-11-24T15:09:20.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-24T16:28:05.535Z"
-    },
-    {
-      "id": "2d9a2b8d557e",
-      "category": "release",
-      "tldr": "Dancing Dragons Games and Hooded Horse have announced Symphony of War II: Dominion, a sequel to Symphony of War.",
-      "why_it_matters": "A turn-based tactics sequel that adds naval combat, so fans of the 2022 original have a new strategy game to watch. No release date or platforms are given yet.",
-      "relevance": 3,
-      "confidence": "high",
-      "game_name": "Symphony of War II: Dominion",
-      "source": {
-        "outlet": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/hooded-horses-latest-tactics-rpg-is-a-sequel-to-symphony-of-war-one-of-2022s-undersung-favourites",
-        "published_at": "2026-11-24T14:20:40.000Z"
-      },
-      "also_on": [],
-      "image": {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2710210/5448fcc6076ee6357fb3249563da3af6232fd5cb/header.jpg?t=1795530024",
-        "steam_appid": 2710210,
-        "steam_url": "https://store.steampowered.com/app/2710210/"
-      },
-      "created_at": "2026-11-24T16:28:13.066Z"
-    },
-    {
-      "id": "a8b52e4d96f4",
-      "category": "release",
-      "tldr": "Showa American Story has been delayed to October 28, 2027, according to its Steam page and publisher.",
-      "why_it_matters": "The action RPG was previously set for late 2026, so players wanting it should expect a longer wait. No reason for the delay has been given yet.",
-      "relevance": 3,
-      "confidence": "high",
-      "game_name": "Showa American Story",
-      "source": {
-        "outlet": "Gematsu",
-        "url": "https://www.gematsu.com/2026/11/showa-american-story-delayed-to-october-28-2027",
-        "published_at": "2026-11-24T14:04:53.000Z"
-      },
-      "also_on": [
-        {
-          "outlet": "Rock Paper Shotgun",
-          "url": "https://www.rockpapershotgun.com/action-rpg-showa-american-story-seemingly-delayed-into-2027-with-no-comment-on-why-from-developer-nekcom"
-        }
-      ],
-      "image": {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687540/ce4d0d62bcc4d558977f34685bb52e65f788a3f0/header.jpg?t=1795464697",
-        "steam_appid": 1687540,
-        "steam_url": "https://store.steampowered.com/app/1687540/"
-      },
-      "created_at": "2026-11-24T16:28:17.631Z"
     }
   ]
 }
