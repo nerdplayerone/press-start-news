@@ -1,7 +1,100 @@
 {
-  "generated_at": "2026-11-26T13:39:29.595Z",
+  "generated_at": "2026-11-26T16:22:46.503Z",
   "version": 1,
   "cards": [
+    {
+      "id": "963b96fb6b75",
+      "category": "release",
+      "tldr": "HARK THE GHOUL has a set launch date of January 21, 2027, across five platforms including PC.",
+      "why_it_matters": "A dungeon crawler now has a firm date and multiple platforms, so wishlist it if you like dungeon crawlers. Full details beyond the summary are still unknown.",
+      "relevance": 3,
+      "confidence": "low",
+      "game_name": "HARK THE GHOUL",
+      "source": {
+        "outlet": "Gematsu",
+        "url": "https://www.gematsu.com/2026/11/hark-the-ghoul-launches-january-21-2027-for-ps5-xbox-series-switch-2-switch-and-pc",
+        "published_at": "2026-11-26T15:50:27.000Z"
+      },
+      "also_on": [],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3058660/header.jpg?t=1795708876",
+        "steam_appid": 3058660,
+        "steam_url": "https://store.steampowered.com/app/3058660/"
+      },
+      "created_at": "2026-11-26T16:21:52.281Z"
+    },
+    {
+      "id": "719fecde25d5",
+      "category": "release",
+      "tldr": "Rockstar's GTA VI features a fictional Florida that feels more lifelike than any previous setting in the series.",
+      "why_it_matters": "Players who value open worlds should expect dense city life, enterable buildings and wildlife areas beyond Vice City. Worth tracking for any release details.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "Grand Theft Auto VI",
+      "source": {
+        "outlet": "The Verge",
+        "url": "https://www.theverge.com/entertainment/1042629/gta-6-city-design",
+        "published_at": "2026-11-26T15:00:00.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-26T16:22:03.861Z"
+    },
+    {
+      "id": "6a6329ff44e3",
+      "category": "industry",
+      "tldr": "GTA 6 has reportedly had one of the most successful physical launches of all time across Europe.",
+      "why_it_matters": "Strong physical sales signal a big, mainstream launch, but the source gives no sales figures. Nothing here changes what to buy or when to buy it.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "GTA 6",
+      "source": {
+        "outlet": "VGC",
+        "url": "https://www.videogameschronicle.com/news/despite-being-a-code-in-a-box-gta-6s-physical-release-broke-sales-records/",
+        "published_at": "2026-11-26T14:49:17.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-26T16:22:09.270Z"
+    },
+    {
+      "id": "4f63fd399d43",
+      "category": "release",
+      "tldr": "Retail Hell, a simulation horror game, is coming to PS5, Xbox Series and Switch.",
+      "why_it_matters": "Players who enjoy horror and simulation games can add it to their wishlist. The release date and price are not yet confirmed in the available details.",
+      "relevance": 3,
+      "confidence": "low",
+      "game_name": "Retail Hell",
+      "source": {
+        "outlet": "Gematsu",
+        "url": "https://www.gematsu.com/2026/11/retail-hell-coming-to-ps5-xbox-series-and-switch",
+        "published_at": "2026-11-26T14:46:52.000Z"
+      },
+      "also_on": [],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4174310/4af96a9c29c40a0c99d0d2d5ab7fa06c23f90246/header.jpg?t=1795675145",
+        "steam_appid": 4174310,
+        "steam_url": "https://store.steampowered.com/app/4174310/"
+      },
+      "created_at": "2026-11-26T16:22:11.991Z"
+    },
+    {
+      "id": "f845b97842a0",
+      "category": "release",
+      "tldr": "Rockstar's Rob Nelson discusses GTA 6 in a spoiler-heavy interview, covering a Chapter 1 twist and cut content.",
+      "why_it_matters": "Players wanting to avoid spoilers should hold off reading this. The summary gives no details of the twist or cut content, so specifics remain unknown until read in full.",
+      "relevance": 3,
+      "confidence": "low",
+      "game_name": "Grand Theft Auto VI",
+      "source": {
+        "outlet": "VGC",
+        "url": "https://www.videogameschronicle.com/features/the-gta-6-spoiler-interview/",
+        "published_at": "2026-11-26T13:40:03.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-26T16:22:33.516Z"
+    },
     {
       "id": "511ba0b2c862",
       "category": "release",
@@ -1087,100 +1180,6 @@
         "steam_url": "https://store.steampowered.com/app/3681010/"
       },
       "created_at": "2026-11-24T04:17:46.406Z"
-    },
-    {
-      "id": "5d7d5d93a441",
-      "category": "industry",
-      "tldr": "Grand Theft Auto VI has reached more than 39 million unique players on PlayStation 5.",
-      "why_it_matters": "Strong player numbers suggest the game is a major hit, so expect continued updates and content. Nothing in this story changes what you need to buy or do yet.",
-      "relevance": 3,
-      "confidence": "low",
-      "game_name": "Grand Theft Auto VI",
-      "source": {
-        "outlet": "Gematsu",
-        "url": "https://www.gematsu.com/2026/11/grand-theft-auto-vi-for-ps5-tops-39-million-players",
-        "published_at": "2026-11-23T23:45:54.000Z"
-      },
-      "also_on": [
-        {
-          "outlet": "Eurogamer",
-          "url": "https://www.eurogamer.net/more-than-39-million-people-have-played-gta-6-on-playstation-alone-sony-says-as-the-game-breaks-all-time-player-numbers-on-the-platform"
-        }
-      ],
-      "image": null,
-      "created_at": "2026-11-24T01:32:03.107Z"
-    },
-    {
-      "id": "d39a426cbfd9",
-      "category": "industry",
-      "tldr": "PlayStation thanks players for Grand Theft Auto VI, which it calls the biggest launch in PlayStation history.",
-      "why_it_matters": "The game has already launched, so players can jump in now. The post gives no sales figures or new details, so the claim is unverified beyond Sony's own framing.",
-      "relevance": 3,
-      "confidence": "high",
-      "game_name": "Grand Theft Auto VI",
-      "source": {
-        "outlet": "PlayStation Blog",
-        "url": "https://blog.playstation.com/2026/11/23/thank-you-for-making-grand-theft-auto-vi-the-biggest-launch-in-playstation-history/",
-        "published_at": "2026-11-23T23:30:13.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-24T01:32:04.173Z"
-    },
-    {
-      "id": "633686dd04b4",
-      "category": "industry",
-      "tldr": "Nicalis has removed AI-generated music from The Binding of Isaac: Repentance+ after players objected.",
-      "why_it_matters": "Players who bought Repentance+ may find the soundtrack changed again. Those wary of AI-made content can check the latest update before deciding whether to buy or keep playing.",
-      "relevance": 3,
-      "confidence": "high",
-      "game_name": "The Binding of Isaac: Repentance+",
-      "source": {
-        "outlet": "GamesIndustry.biz",
-        "url": "https://www.gamesindustry.biz/nicalis-removes-ai-generated-music-from-the-binding-of-isaac-repentance-after-player-backlash",
-        "published_at": "2026-11-23T20:56:00.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-23T22:06:51.644Z"
-    },
-    {
-      "id": "8963c168b194",
-      "category": "release",
-      "tldr": "Toby Fox says Deltarune Chapter 6 is playable from start to finish, while the final part has only just begun.",
-      "why_it_matters": "Chapter 6 is close to complete, so players can expect progress soon. Chapter 7 is still early in development, so no release timing is clear yet.",
-      "relevance": 3,
-      "confidence": "high",
-      "game_name": "Deltarune",
-      "source": {
-        "outlet": "Eurogamer",
-        "url": "https://www.eurogamer.net/deltarune-chapter-6-playable-toby-fox",
-        "published_at": "2026-11-23T20:04:50.000Z"
-      },
-      "also_on": [],
-      "image": {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1671210/7ccda5b1631d2e60cc756a3271e845dbb9168821/header.jpg?t=1782314340",
-        "steam_appid": 1671210,
-        "steam_url": "https://store.steampowered.com/app/1671210/"
-      },
-      "created_at": "2026-11-23T22:06:59.258Z"
-    },
-    {
-      "id": "6ca667ea05df",
-      "category": "release",
-      "tldr": "Rockstar has patched GTA 6's weather system after players reported it was broken.",
-      "why_it_matters": "Players who noticed odd weather in GTA 6 can expect the fix to be in the latest patch. Details of what changed are still unknown.",
-      "relevance": 3,
-      "confidence": "low",
-      "game_name": "GTA 6",
-      "source": {
-        "outlet": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-players-swore-the-weather-system-was-broken-and-the-latest-patch-has-confirmed-those-suspicions/",
-        "published_at": "2026-11-23T19:54:16.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-23T22:07:00.487Z"
     }
   ]
 }
