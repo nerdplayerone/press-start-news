@@ -1,7 +1,28 @@
 {
-  "generated_at": "2026-11-27T07:39:49.753Z",
+  "generated_at": "2026-11-27T10:23:44.537Z",
   "version": 1,
   "cards": [
+    {
+      "id": "7387e628eab7",
+      "category": "industry",
+      "tldr": "Call of Duty: Modern Warfare 4 launch pushed Call of Duty HQ to first place on Newzoo's PC revenue chart.",
+      "why_it_matters": "A strong launch for Modern Warfare 4 shows how well the shooter is selling on PC and console. Shooter fans may want to check its current state before buying.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "Call of Duty: Modern Warfare 4",
+      "source": {
+        "outlet": "GamesIndustry.biz",
+        "url": "https://www.gamesindustry.biz/modern-warfare-4-launch-boosts-call-of-duty-hq-to-top-of-newzoos-pc-charts",
+        "published_at": "2026-11-27T09:24:20.000Z"
+      },
+      "also_on": [],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4435490/0c492be3204835d71e8b454b6eb1817f8ff68c0d/header.jpg?t=1794873974",
+        "steam_appid": 4435490,
+        "steam_url": "https://store.steampowered.com/app/4435490/"
+      },
+      "created_at": "2026-11-27T10:23:39.279Z"
+    },
     {
       "id": "dc3da25347bf",
       "category": "release",
@@ -1149,23 +1170,6 @@
         "steam_url": "https://store.steampowered.com/app/3681010/"
       },
       "created_at": "2026-11-24T19:17:50.238Z"
-    },
-    {
-      "id": "1f239cbb0702",
-      "category": "industry",
-      "tldr": "Report: CD Projekt Red has signed a marketing agreement with Sony for The Witcher 4.",
-      "why_it_matters": "A Sony marketing deal suggests the game may get PlayStation promotion, but platforms and release timing are still unknown, so wishlist it and wait for official details.",
-      "relevance": 3,
-      "confidence": "low",
-      "game_name": "The Witcher 4",
-      "source": {
-        "outlet": "VGC",
-        "url": "https://www.videogameschronicle.com/news/cdpr-has-entered-a-marketing-agreement-with-sony-for-the-witcher-4/",
-        "published_at": "2026-11-24T18:38:48.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-24T19:17:53.045Z"
     }
   ]
 }
