@@ -1,7 +1,45 @@
 {
-  "generated_at": "2026-11-27T19:15:51.691Z",
+  "generated_at": "2026-11-27T22:12:46.058Z",
   "version": 1,
   "cards": [
+    {
+      "id": "4efffa2eb800",
+      "category": "release",
+      "tldr": "Report: EA Motive's Iron Man game may appear at The Game Awards, based on a website update.",
+      "why_it_matters": "A first official look could arrive soon, but it is not confirmed. Shooter and action fans can keep it on their radar until the event shows what it is.",
+      "relevance": 4,
+      "confidence": "low",
+      "game_name": "Marvel's Iron Man",
+      "source": {
+        "outlet": "Eurogamer",
+        "url": "https://www.eurogamer.net/iron-man-game-awards-ea-motive",
+        "published_at": "2026-11-27T20:27:30.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-27T22:12:33.802Z"
+    },
+    {
+      "id": "71ca0ee7448c",
+      "category": "release",
+      "tldr": "Yooka-Laylee and the Impossible Lair: Definitive Edition will not launch on Xbox Series X/S consoles.",
+      "why_it_matters": "Xbox Series X/S owners cannot get this version. The studio cites technical challenges and costs, so Xbox players should look at other platforms if they want to play.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "Yooka-Laylee and the Impossible Lair: Definitive Edition",
+      "source": {
+        "outlet": "Eurogamer",
+        "url": "https://www.eurogamer.net/yooka-laylee-skipping-xbox-costs",
+        "published_at": "2026-11-27T19:08:10.000Z"
+      },
+      "also_on": [],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/846870/header.jpg?t=1777472370",
+        "steam_appid": 846870,
+        "steam_url": "https://store.steampowered.com/app/846870/"
+      },
+      "created_at": "2026-11-27T22:12:44.861Z"
+    },
     {
       "id": "aca29c33d93c",
       "category": "release",
@@ -1147,49 +1185,6 @@
         "steam_url": "https://store.steampowered.com/app/1687540/"
       },
       "created_at": "2026-11-25T10:25:05.344Z"
-    },
-    {
-      "id": "79645bf4d7f1",
-      "category": "release",
-      "tldr": "Console Archives Mezase!! SENKYU-OH launches on PlayStation 5 and Switch 2 on November 26.",
-      "why_it_matters": "A retro-style release arriving the day after its announcement window, so players can buy it now. Check the full summary for pricing and details before deciding.",
-      "relevance": 3,
-      "confidence": "low",
-      "game_name": "Console Archives Mezase!! SENKYU-OH",
-      "source": {
-        "outlet": "Gematsu",
-        "url": "https://www.gematsu.com/2026/11/console-archives-mezase-senkyu-oh-launches-november-26",
-        "published_at": "2026-11-25T10:10:31.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-25T13:40:42.774Z"
-    },
-    {
-      "id": "24ee98b1fdab",
-      "category": "industry",
-      "tldr": "Capcom's online dinosaur shooter Exoprimal will shut down next year, becoming unplayable once its servers are turned off.",
-      "why_it_matters": "Players who own Exoprimal will lose access to it entirely, even if already downloaded, so play it before the servers close. Exact closure date is not yet announced.",
-      "relevance": 3,
-      "confidence": "high",
-      "game_name": "Exoprimal",
-      "source": {
-        "outlet": "VGC",
-        "url": "https://www.videogameschronicle.com/news/capcoms-online-dinosaur-shooter-exoprimal-is-officially-shutting-down-next-year/",
-        "published_at": "2026-11-25T09:41:13.000Z"
-      },
-      "also_on": [
-        {
-          "outlet": "Eurogamer",
-          "url": "https://www.eurogamer.net/exo-primal-shutting-down-2027"
-        }
-      ],
-      "image": {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286320/header.jpg?t=1795568630",
-        "steam_appid": 1286320,
-        "steam_url": "https://store.steampowered.com/app/1286320/"
-      },
-      "created_at": "2026-11-25T10:25:08.081Z"
     }
   ]
 }
