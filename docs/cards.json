@@ -1,7 +1,121 @@
 {
-  "generated_at": "2026-11-27T13:35:34.857Z",
+  "generated_at": "2026-11-27T16:22:29.844Z",
   "version": 1,
   "cards": [
+    {
+      "id": "4aeb3e776c09",
+      "category": "release",
+      "tldr": "Glagstone, an eerie 1-bit city-builder first made for Playdate, is heading to Steam.",
+      "why_it_matters": "Fans of atmospheric, story-driven management games can add it to their wishlist. No release date or platforms beyond Steam are given yet, so watch for those details.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "Glagstone",
+      "source": {
+        "outlet": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/keep-the-lighthouse-on-and-the-villagers-obedient-in-glagstone-an-eerie-island-city-builder-with-macintosh-style-graphics",
+        "published_at": "2026-11-27T15:22:50.000Z"
+      },
+      "also_on": [],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4198840/ba1bdd69ce933cad96add3a4ad5c12b96ccee285/header.jpg?t=1792420251",
+        "steam_appid": 4198840,
+        "steam_url": "https://store.steampowered.com/app/4198840/"
+      },
+      "created_at": "2026-11-27T16:21:24.646Z"
+    },
+    {
+      "id": "1b79c91f5669",
+      "category": "release",
+      "tldr": "Hollow Knight: Silksong's free expansion Sea of Sorrow launches on December 11, adding new areas and bosses.",
+      "why_it_matters": "Silksong players get new areas and bosses at no cost on December 11. Sources also hint at a fishing minigame, though this is not yet confirmed.",
+      "relevance": 4,
+      "confidence": "high",
+      "game_name": "Hollow Knight: Silksong",
+      "source": {
+        "outlet": "Gematsu",
+        "url": "https://www.gematsu.com/2026/11/hollow-knight-silksong-free-expansion-sea-of-sorrow-launches-december-11",
+        "published_at": "2026-11-27T15:11:41.000Z"
+      },
+      "also_on": [
+        {
+          "outlet": "Eurogamer",
+          "url": "https://www.eurogamer.net/hollow-knight-silksongs-first-big-expansion-sea-of-sorrows-comes-out-in-two-weeks-and-seems-to-include-a-fishing-minigame"
+        },
+        {
+          "outlet": "VGC",
+          "url": "https://www.videogameschronicle.com/news/hollow-knight-silksongs-first-expansion-sea-of-sorrow-is-officially-out-next-month/"
+        },
+        {
+          "outlet": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/go-fishing-and-fire-hornet-out-of-a-cannon-in-silksongs-december-bound-sea-of-sorrow-expansion-which-team-cherry-say-is-unlike-anything-weve-done-before"
+        }
+      ],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030300/7983574d464e6559ac7e24275727f73a8bcca1f3/header.jpg?t=1776125736",
+        "steam_appid": 1030300,
+        "steam_url": "https://store.steampowered.com/app/1030300/"
+      },
+      "created_at": "2026-11-27T16:21:26.308Z"
+    },
+    {
+      "id": "c8aa4b504432",
+      "category": "release",
+      "tldr": "Team Cherry Presents and Makoto Koji announced The Botanist and the Translator, a plant mystery adventure for PC.",
+      "why_it_matters": "A PC release from a new Team Cherry publishing label, so watch for a release date and platform details. Summary is brief, so further specifics are still unknown.",
+      "relevance": 3,
+      "confidence": "low",
+      "game_name": "The Botanist and the Translator",
+      "source": {
+        "outlet": "Gematsu",
+        "url": "https://www.gematsu.com/2026/11/team-cherry-presents-and-makoto-koji-announce-plant-mystery-adventure-game-the-botanist-and-the-translator-for-pc",
+        "published_at": "2026-11-27T15:10:07.000Z"
+      },
+      "also_on": [],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5571450/2886770f53477d13623e31461cc511967e1ebf27/header.jpg?t=1795792163",
+        "steam_appid": 5571450,
+        "steam_url": "https://store.steampowered.com/app/5571450/"
+      },
+      "created_at": "2026-11-27T16:21:27.999Z"
+    },
+    {
+      "id": "97faffc4a458",
+      "category": "release",
+      "tldr": "Report: Radio Rain, a moody platform adventure from Studio Stobie, has been announced for PC.",
+      "why_it_matters": "Fans of Hollow Knight may want to note this new title from Team Cherry Presents, its new publishing label. Release date and further details are still unknown.",
+      "relevance": 3,
+      "confidence": "low",
+      "game_name": "Radio Rain",
+      "source": {
+        "outlet": "Gematsu",
+        "url": "https://www.gematsu.com/2026/11/team-cherry-presents-and-studio-stobie-announce-moody-platform-adventure-game-radio-rain-for-pc",
+        "published_at": "2026-11-27T15:08:06.000Z"
+      },
+      "also_on": [],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4960150/13c7eb0307b7d3e5ffcd8310e62328f35fbcd4ab/header.jpg?t=1795792131",
+        "steam_appid": 4960150,
+        "steam_url": "https://store.steampowered.com/app/4960150/"
+      },
+      "created_at": "2026-11-27T16:21:29.773Z"
+    },
+    {
+      "id": "20af18524fac",
+      "category": "hardware",
+      "tldr": "Keychron's G6 HE gaming mouse uses magnetic Hall effect switches, offering a cheaper rival to Logitech's Superstrike.",
+      "why_it_matters": "Players wanting adjustable click depth may find this a budget option, but the review flags a significant flaw, so check it before buying. Relevant for mouse shoppers.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": null,
+      "source": {
+        "outlet": "The Verge",
+        "url": "https://www.theverge.com/games/1043028/keychron-g6-he-hall-effect-magoptic-gaming-mouse-impressions",
+        "published_at": "2026-11-27T14:00:00.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-27T16:21:46.819Z"
+    },
     {
       "id": "7ec8b61cf2d0",
       "category": "release",
@@ -41,6 +155,27 @@
       "created_at": "2026-11-27T13:35:10.621Z"
     },
     {
+      "id": "b13683e199e8",
+      "category": "release",
+      "tldr": "Cyber Knights: Flashpoint is adding a Drone Pilot class, a pet system and promised assassin cats.",
+      "why_it_matters": "Stealth fans who like tactical planning get a new class and companions to try. Details of release timing and platforms are still unknown, so watch for a date.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "Cyber Knights: Flashpoint",
+      "source": {
+        "outlet": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/drone-pilots-have-come-to-cyber-knights-flashpoint-the-stealth-tactics-games-most-complex-class-yet-alongside-a-pet-system-and-the-promise-of-assassin-cats",
+        "published_at": "2026-11-27T12:00:00.000Z"
+      },
+      "also_on": [],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1021210/0dd5a4075eb492ad6c90dff80669a0fcdcad64b4/header.jpg?t=1793810259",
+        "steam_appid": 1021210,
+        "steam_url": "https://store.steampowered.com/app/1021210/"
+      },
+      "created_at": "2026-11-27T16:21:57.508Z"
+    },
+    {
       "id": "7387e628eab7",
       "category": "industry",
       "tldr": "Call of Duty: Modern Warfare 4 launch pushed Call of Duty HQ to first place on Newzoo's PC revenue chart.",
@@ -77,6 +212,27 @@
       "also_on": [],
       "image": null,
       "created_at": "2026-11-27T07:39:44.402Z"
+    },
+    {
+      "id": "006357569dca",
+      "category": "release",
+      "tldr": "Publisher KRAFTON and developer 5minlab released a new trailer and set a closed alpha test for December 16 to 22.",
+      "why_it_matters": "WPCA is a co-op supernatural anomaly containment game, so shooter fans may want to watch for alpha access. Details beyond the trailer and alpha dates are still unknown.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "WPCA: World Phasebound Control Authority",
+      "source": {
+        "outlet": "Gematsu",
+        "url": "https://www.gematsu.com/2026/11/wpca-world-phasebound-control-authority-world-trailer-closed-alpha-test-set-for-december-16-to-22",
+        "published_at": "2026-11-27T00:05:17.000Z"
+      },
+      "also_on": [],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4455810/74aeb4aa8fd0f2beafc6af00ee70975e6e2f7dc6/header.jpg?t=1795749418",
+        "steam_appid": 4455810,
+        "steam_url": "https://store.steampowered.com/app/4455810/"
+      },
+      "created_at": "2026-11-27T16:22:04.261Z"
     },
     {
       "id": "2849aa9b4be4",
@@ -301,6 +457,27 @@
       "also_on": [],
       "image": null,
       "created_at": "2026-11-26T19:19:02.003Z"
+    },
+    {
+      "id": "ebfc8b7d3b0f",
+      "category": "release",
+      "tldr": "Xbox Free Play Days offers Warhammer 40,000: Mechanicus and Little Rocket Lab to members this weekend.",
+      "why_it_matters": "Game Pass members can try both games free from Thursday to Sunday, so it is a no-cost chance to test Mechanicus before committing to it.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "Warhammer 40,000: Mechanicus",
+      "source": {
+        "outlet": "Xbox Wire",
+        "url": "https://news.xbox.com/en-us/2026/11/26/free-play-days-11-26-2026/",
+        "published_at": "2026-11-26T16:00:00.000Z"
+      },
+      "also_on": [],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/673880/header.jpg?t=1747933345",
+        "steam_appid": 673880,
+        "steam_url": "https://store.steampowered.com/app/673880/"
+      },
+      "created_at": "2026-11-27T16:22:07.970Z"
     },
     {
       "id": "963b96fb6b75",
@@ -1009,159 +1186,6 @@
         "steam_url": "https://store.steampowered.com/app/4542740/"
       },
       "created_at": "2026-11-25T10:25:15.351Z"
-    },
-    {
-      "id": "0779c4c5f615",
-      "category": "release",
-      "tldr": "Astario, a blocky spaceship and space station building factory sim, has launched into early access.",
-      "why_it_matters": "A Factorio-style builder for fans of automation and complex logistics. The summary mentions no platforms or price, so check the store page before wishlisting.",
-      "relevance": 3,
-      "confidence": "high",
-      "game_name": "Astario",
-      "source": {
-        "outlet": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/im-not-smart-enough-for-the-blocky-factorio-esque-spaceship-and-station-building-sim-astario-but-now-that-its-out-in-early-access-maybe-you-could-be",
-        "published_at": "2026-11-24T22:51:40.000Z"
-      },
-      "also_on": [],
-      "image": {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1520340/e0588c720ba836536385886450628eb89f8e1917/header.jpg?t=1795539771",
-        "steam_appid": 1520340,
-        "steam_url": "https://store.steampowered.com/app/1520340/"
-      },
-      "created_at": "2026-11-25T01:37:12.509Z"
-    },
-    {
-      "id": "32775e3f1755",
-      "category": "industry",
-      "tldr": "CD Projekt says Cyberpunk 2 has almost 200 developers, with the team set to grow further next year.",
-      "why_it_matters": "A larger team points to ongoing work on Cyberpunk 2, but no release date or platforms are confirmed yet, so there is nothing to pre-order or plan around.",
-      "relevance": 3,
-      "confidence": "high",
-      "game_name": "Cyberpunk 2",
-      "source": {
-        "outlet": "VGC",
-        "url": "https://www.videogameschronicle.com/news/cyberpunk-2s-development-team-has-grown-with-plans-to-get-even-bigger-next-year/",
-        "published_at": "2026-11-24T22:14:04.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-25T01:37:16.432Z"
-    },
-    {
-      "id": "dfb6bf49812b",
-      "category": "hardware",
-      "tldr": "Nvidia has released a patch that fixes an SSD-hammering bug that its previous hotfix failed to resolve.",
-      "why_it_matters": "Players with Nvidia hardware who saw heavy SSD write activity should install the new patch. The input does not say which systems or drivers are affected.",
-      "relevance": 3,
-      "confidence": "low",
-      "game_name": null,
-      "source": {
-        "outlet": "PC Gamer",
-        "url": "https://www.pcgamer.com/hardware/graphics-cards/nvidia-patch-finally-eradicates-the-ssd-hammering-bug-its-last-hotfix-didnt-actually-fix/",
-        "published_at": "2026-11-24T22:04:28.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-24T22:12:44.754Z"
-    },
-    {
-      "id": "87c10c7c9a54",
-      "category": "industry",
-      "tldr": "Analysis suggests GTA 6 drops frames more often on PS5 than on Xbox Series X.",
-      "why_it_matters": "PS5 players may see more framerate dips than Xbox Series X owners, so compare performance footage before choosing a platform. Official performance details are still unknown.",
-      "relevance": 3,
-      "confidence": "low",
-      "game_name": "GTA 6",
-      "source": {
-        "outlet": "VGC",
-        "url": "https://www.videogameschronicle.com/news/gta-6-has-more-framerate-drops-on-ps5-than-xbox-series-x-according-to-analysis/",
-        "published_at": "2026-11-24T21:51:37.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-24T22:12:47.744Z"
-    },
-    {
-      "id": "625682549845",
-      "category": "release",
-      "tldr": "Fans have released OpenZ, an open source 3D remake of the 1996 Bitmap Brothers RTS game Z.",
-      "why_it_matters": "Players who loved the original robotic strategy game can try a free, fan-made 3D version. It is unofficial and not a commercial release.",
-      "relevance": 3,
-      "confidence": "high",
-      "game_name": "Z",
-      "source": {
-        "outlet": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/bitmap-brothers-iconic-robotic-rts-game-z-is-unofficially-back-thanks-to-an-open-source-3d-remake",
-        "published_at": "2026-11-24T21:34:40.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-24T22:12:55.703Z"
-    },
-    {
-      "id": "981ebfe52d2d",
-      "category": "release",
-      "tldr": "Marathon has a new runner shell, a jet-propelled robot samurai, according to PC Gamer.",
-      "why_it_matters": "The shell is a new playable character option for Marathon, a shooter, though the input gives no release date, price or other details, so more is still unknown.",
-      "relevance": 3,
-      "confidence": "low",
-      "game_name": "Marathon",
-      "source": {
-        "outlet": "PC Gamer",
-        "url": "https://www.pcgamer.com/games/fps/marathons-new-runner-shell-is-a-jet-propelled-robot-samurai-who-wants-to-hurt-you/",
-        "published_at": "2026-11-24T21:26:03.000Z"
-      },
-      "also_on": [],
-      "image": {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3065800/c3093fec19fed6eb0750a87261c53743a5757827/header.jpg?t=1795213517",
-        "steam_appid": 3065800,
-        "steam_url": "https://store.steampowered.com/app/3065800/"
-      },
-      "created_at": "2026-11-24T22:12:58.119Z"
-    },
-    {
-      "id": "d02cab844ee1",
-      "category": "release",
-      "tldr": "Lords of the Fallen 2 has been delayed to April 2027, with an exact release date due next month.",
-      "why_it_matters": "Action fans wanting this sequel will need to wait until April 2027, so keep an eye out next month for the precise launch date.",
-      "relevance": 4,
-      "confidence": "high",
-      "game_name": "Lords of the Fallen 2",
-      "source": {
-        "outlet": "Eurogamer",
-        "url": "https://www.eurogamer.net/lords-of-the-fallen-2-delayed-april-2027",
-        "published_at": "2026-11-24T20:30:00.000Z"
-      },
-      "also_on": [],
-      "image": {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4767480/a34e3c4d4088e71c7d2cdc5445dc950abd2521db/header.jpg?t=1794917531",
-        "steam_appid": 4767480,
-        "steam_url": "https://store.steampowered.com/app/4767480/"
-      },
-      "created_at": "2026-11-24T22:13:01.333Z"
-    },
-    {
-      "id": "54cca7b36858",
-      "category": "industry",
-      "tldr": "CD Projekt says The Witcher 4's leap over The Witcher 3 is comparable to GTA 6's leap over GTA 5.",
-      "why_it_matters": "A practical gap is still unknown: no release date, platforms or price were given, so there is nothing new to wishlist or plan around yet.",
-      "relevance": 3,
-      "confidence": "high",
-      "game_name": "The Witcher 4",
-      "source": {
-        "outlet": "VGC",
-        "url": "https://www.videogameschronicle.com/news/cdpr-claims-leap-to-witcher-4-is-comparable-to-leap-from-gta-5-to-gta-6/",
-        "published_at": "2026-11-24T20:01:10.000Z"
-      },
-      "also_on": [
-        {
-          "outlet": "PC Gamer",
-          "url": "https://www.pcgamer.com/games/the-witcher/the-difference-between-the-witcher-3-and-witcher-4-will-be-comparable-to-that-of-gta-5-and-gta-6-cd-projekt-boss-says-i-mean-its-been-11-years/"
-        }
-      ],
-      "image": null,
-      "created_at": "2026-11-25T01:37:17.663Z"
     }
   ]
 }

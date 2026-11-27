@@ -997,5 +997,59 @@
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552500/header.jpg?t=1764008361",
       "url": "https://store.steampowered.com/app/552500/"
     }
+  },
+  "glagstone": {
+    "at": "2026-11-27T16:22:14.832Z",
+    "match": {
+      "appid": 4198840,
+      "name": "GlagStone",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4198840/ba1bdd69ce933cad96add3a4ad5c12b96ccee285/header.jpg?t=1792420251",
+      "url": "https://store.steampowered.com/app/4198840/"
+    }
+  },
+  "botanist and the translator": {
+    "at": "2026-11-27T16:22:17.811Z",
+    "match": {
+      "appid": 5571450,
+      "name": "The Botanist and the Translator",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5571450/2886770f53477d13623e31461cc511967e1ebf27/header.jpg?t=1795792163",
+      "url": "https://store.steampowered.com/app/5571450/"
+    }
+  },
+  "radio rain": {
+    "at": "2026-11-27T16:22:20.821Z",
+    "match": {
+      "appid": 4960150,
+      "name": "Radio Rain",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4960150/13c7eb0307b7d3e5ffcd8310e62328f35fbcd4ab/header.jpg?t=1795792131",
+      "url": "https://store.steampowered.com/app/4960150/"
+    }
+  },
+  "cyber knights flashpoint": {
+    "at": "2026-11-27T16:22:23.842Z",
+    "match": {
+      "appid": 1021210,
+      "name": "Cyber Knights: Flashpoint",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1021210/0dd5a4075eb492ad6c90dff80669a0fcdcad64b4/header.jpg?t=1793810259",
+      "url": "https://store.steampowered.com/app/1021210/"
+    }
+  },
+  "wpca world phasebound control authority": {
+    "at": "2026-11-27T16:22:26.822Z",
+    "match": {
+      "appid": 4455810,
+      "name": "WPCA: World Phasebound Control Authority",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4455810/74aeb4aa8fd0f2beafc6af00ee70975e6e2f7dc6/header.jpg?t=1795749418",
+      "url": "https://store.steampowered.com/app/4455810/"
+    }
+  },
+  "warhammer 40 000 mechanicus": {
+    "at": "2026-11-27T16:22:29.836Z",
+    "match": {
+      "appid": 673880,
+      "name": "Warhammer 40,000: Mechanicus",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/673880/header.jpg?t=1747933345",
+      "url": "https://store.steampowered.com/app/673880/"
+    }
   }
 }
