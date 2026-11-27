@@ -1,7 +1,45 @@
 {
-  "generated_at": "2026-11-27T10:23:44.537Z",
+  "generated_at": "2026-11-27T13:35:34.857Z",
   "version": 1,
   "cards": [
+    {
+      "id": "7ec8b61cf2d0",
+      "category": "release",
+      "tldr": "Grand Theft Auto VI's story ends differently from earlier GTA games, without leaving the open world free to explore afterwards.",
+      "why_it_matters": "Players used to finishing GTA and roaming on will find a more closed ending here. Not yet announced whether post-credits play is included in any form.",
+      "relevance": 4,
+      "confidence": "high",
+      "game_name": "Grand Theft Auto VI",
+      "source": {
+        "outlet": "The Verge",
+        "url": "https://www.theverge.com/entertainment/1043362/grand-theft-auto-6-ending",
+        "published_at": "2026-11-27T13:00:00.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-27T13:34:59.723Z"
+    },
+    {
+      "id": "aae19d0e8159",
+      "category": "release",
+      "tldr": "Fatshark has released new public modding tools for Warhammer: Vermintide 2, for custom levels, models and animations.",
+      "why_it_matters": "Vermintide 2 players can expect more user-made content, since the tools match the ones Fatshark uses for official levels and characters. Worth checking out if you enjoy co-op action.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "Warhammer: Vermintide 2",
+      "source": {
+        "outlet": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/a-new-era-for-vermintide-2-modding-dawneth-as-fatshark-release-powerful-new-tools-for-custom-levels-models-and-animations",
+        "published_at": "2026-11-27T12:52:30.000Z"
+      },
+      "also_on": [],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552500/header.jpg?t=1764008361",
+        "steam_appid": 552500,
+        "steam_url": "https://store.steampowered.com/app/552500/"
+      },
+      "created_at": "2026-11-27T13:35:10.621Z"
+    },
     {
       "id": "7387e628eab7",
       "category": "industry",
@@ -394,6 +432,23 @@
         "steam_url": "https://store.steampowered.com/app/2769570/"
       },
       "created_at": "2026-11-26T13:39:09.962Z"
+    },
+    {
+      "id": "bf070608b97f",
+      "category": "hardware",
+      "tldr": "PlayStation 5 and Xbox Series S/X sales rose in the US ahead of GTA 6's launch, despite higher console prices.",
+      "why_it_matters": "Players weighing a console purchase may find current prices steep, though the surge suggests GTA 6 is a major draw. Price-conscious buyers may want to wait for deals before upgrading.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "Grand Theft Auto 6",
+      "source": {
+        "outlet": "Eurogamer",
+        "url": "https://www.eurogamer.net/playstation-5-xbox-series-s-x-console-hardware-sales-gta-6",
+        "published_at": "2026-11-26T09:40:10.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-27T13:35:31.424Z"
     },
     {
       "id": "4271e6207dc9",
@@ -1107,69 +1162,6 @@
       ],
       "image": null,
       "created_at": "2026-11-25T01:37:17.663Z"
-    },
-    {
-      "id": "7860e177d790",
-      "category": "release",
-      "tldr": "White Knuckle, a bare-fist megastructure climbing roguelike, has added a new region called The Core via an early access update.",
-      "why_it_matters": "A new hostile region is now live in this early access roguelike, so fans of challenging climbing can jump back in. Expect tough deaths in the sterile reactor sector.",
-      "relevance": 3,
-      "confidence": "high",
-      "game_name": "White Knuckle",
-      "source": {
-        "outlet": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/bare-fist-megastructure-climbing-roguelike-white-knuckle-gets-its-penultimate-region-in-the-core-a-sterile-hostile-reactor-sector-that-youll-probably-die-in",
-        "published_at": "2026-11-24T19:10:40.000Z"
-      },
-      "also_on": [],
-      "image": {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3195790/header.jpg?t=1795461736",
-        "steam_appid": 3195790,
-        "steam_url": "https://store.steampowered.com/app/3195790/"
-      },
-      "created_at": "2026-11-24T19:17:47.045Z"
-    },
-    {
-      "id": "de99d1837fbe",
-      "category": "release",
-      "tldr": "Lords of the Fallen II has been dated for an April 2027 launch.",
-      "why_it_matters": "A soulslike action RPG with a firm date, so action fans can add it to their wishlist. Full platform details and price are not in the summary yet.",
-      "relevance": 4,
-      "confidence": "low",
-      "game_name": "Lords of the Fallen II",
-      "source": {
-        "outlet": "Gematsu",
-        "url": "https://www.gematsu.com/2026/11/lords-of-the-fallen-ii-launches-in-april-2027",
-        "published_at": "2026-11-24T19:01:50.000Z"
-      },
-      "also_on": [],
-      "image": {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4767480/a34e3c4d4088e71c7d2cdc5445dc950abd2521db/header.jpg?t=1794917531",
-        "steam_appid": 4767480,
-        "steam_url": "https://store.steampowered.com/app/4767480/"
-      },
-      "created_at": "2026-11-24T19:17:49.049Z"
-    },
-    {
-      "id": "9c555d821830",
-      "category": "release",
-      "tldr": "Nioh 3 is coming to Xbox in 2027, marking the series' first appearance on the platform.",
-      "why_it_matters": "Xbox players who enjoy demanding action games can now wishlist Nioh 3 for 2027. Details on editions and features are still unknown.",
-      "relevance": 4,
-      "confidence": "high",
-      "game_name": "Nioh 3",
-      "source": {
-        "outlet": "Xbox Wire",
-        "url": "https://news.xbox.com/en-us/2026/11/24/nioh-3-xbox-series-debut/",
-        "published_at": "2026-11-24T19:00:00.000Z"
-      },
-      "also_on": [],
-      "image": {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3681010/a21264e9fd476dcb2901c2432b598107d024c5a8/header.jpg?t=1772090941",
-        "steam_appid": 3681010,
-        "steam_url": "https://store.steampowered.com/app/3681010/"
-      },
-      "created_at": "2026-11-24T19:17:50.238Z"
     }
   ]
 }
