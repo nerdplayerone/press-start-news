@@ -1,7 +1,45 @@
 {
-  "generated_at": "2026-11-26T22:12:56.903Z",
+  "generated_at": "2026-11-27T01:39:43.576Z",
   "version": 1,
   "cards": [
+    {
+      "id": "2849aa9b4be4",
+      "category": "release",
+      "tldr": "Dungoku is a dark fantasy dungeon crawler that blends sudoku puzzles into its gameplay.",
+      "why_it_matters": "Puzzle and dungeon fans with a retro dark fantasy taste may want to wishlist it. Release date and platforms are not stated in this piece.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "Dungoku",
+      "source": {
+        "outlet": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/dark-fantasy-and-sudoku-fuse-together-in-unholy-matrimony-in-dungoku-a-dungeon-crawling-twist-on-the-classic-puzzle-game",
+        "published_at": "2026-11-26T22:50:40.000Z"
+      },
+      "also_on": [],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5554930/d20581292d3464672eb3009e5de007776537ed99/header.jpg?t=1795696901",
+        "steam_appid": 5554930,
+        "steam_url": "https://store.steampowered.com/app/5554930/"
+      },
+      "created_at": "2026-11-27T01:39:38.916Z"
+    },
+    {
+      "id": "f592c85bdfd4",
+      "category": "release",
+      "tldr": "Dawn of War 4's campaign will branch depending on which character players pick and the decisions they make.",
+      "why_it_matters": "Players who enjoy replaying strategy campaigns may want to wishlist it, as each run offers a different take on an overlapping story. Release details are still unknown.",
+      "relevance": 4,
+      "confidence": "high",
+      "game_name": "Dawn of War 4",
+      "source": {
+        "outlet": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/rts/dawn-of-war-4s-campaigns-differ-based-on-your-choices-which-character-you-choose-and-what-decisions-you-make-with-them-lead-down-different-experiences-of-an-overlapping-story/",
+        "published_at": "2026-11-26T22:30:59.000Z"
+      },
+      "also_on": [],
+      "image": null,
+      "created_at": "2026-11-27T01:39:39.842Z"
+    },
     {
       "id": "ce6e818be9f2",
       "category": "industry",
@@ -1132,44 +1170,6 @@
         "steam_url": "https://store.steampowered.com/app/2585890/"
       },
       "created_at": "2026-11-24T19:18:08.234Z"
-    },
-    {
-      "id": "128975588e00",
-      "category": "release",
-      "tldr": "Art the Clown from Terrifier joins Dead by Daylight as the game's latest Killer.",
-      "why_it_matters": "A new asymmetrical multiplayer Killer for an established horror game, with no price or release date given here. Worth checking the store page if you already play Dead by Daylight.",
-      "relevance": 3,
-      "confidence": "high",
-      "game_name": "Dead by Daylight",
-      "source": {
-        "outlet": "Xbox Wire",
-        "url": "https://news.xbox.com/en-us/2026/11/24/dead-by-daylight-terrifiers-new-killer-is-no-laughing-matter/",
-        "published_at": "2026-11-24T17:00:00.000Z"
-      },
-      "also_on": [],
-      "image": {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/header.jpg?t=1793724618",
-        "steam_appid": 381210,
-        "steam_url": "https://store.steampowered.com/app/381210/"
-      },
-      "created_at": "2026-11-24T19:18:09.429Z"
-    },
-    {
-      "id": "53c16a430722",
-      "category": "release",
-      "tldr": "Mundfish has released a teaser trailer for Atomic Heart: The CUBE, titled Archive File #1.",
-      "why_it_matters": "The summary gives no release date or platforms yet. Players who follow the series can note the trailer, but the game's launch details are still unknown.",
-      "relevance": 3,
-      "confidence": "high",
-      "game_name": "Atomic Heart: The CUBE",
-      "source": {
-        "outlet": "Gematsu",
-        "url": "https://www.gematsu.com/2026/11/atomic-heart-the-cube-teaser-trailer-archive-file-1",
-        "published_at": "2026-11-24T16:19:34.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-24T16:27:48.777Z"
     }
   ]
 }
