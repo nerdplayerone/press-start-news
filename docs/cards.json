@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T07:33:32.280Z",
+  "generated_at": "2026-11-28T10:07:09.723Z",
   "version": 1,
   "cards": [
     {
@@ -60,6 +60,27 @@
       "also_on": [],
       "image": null,
       "created_at": "2026-11-27T22:12:33.802Z"
+    },
+    {
+      "id": "330e786c048a",
+      "category": "release",
+      "tldr": "Warframe's December update adds a new Tau solar system, a two-hour quest and explorable areas, arriving 9th December.",
+      "why_it_matters": "Warframe players get a large expansion on 9th December, with a long new quest and new areas to explore. Shooter fans may want to check it out.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "Warframe",
+      "source": {
+        "outlet": "Eurogamer",
+        "url": "https://www.eurogamer.net/warframe-tau-dev-stream-december-9th",
+        "published_at": "2026-11-27T20:00:00.000Z"
+      },
+      "also_on": [],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230410/1a3e7c2a05ce4e5cad5ac4c7e858cf5b0934704e/header.jpg?t=1794847104",
+        "steam_appid": 230410,
+        "steam_url": "https://store.steampowered.com/app/230410/"
+      },
+      "created_at": "2026-11-28T10:07:04.536Z"
     },
     {
       "id": "71ca0ee7448c",
@@ -1172,23 +1193,6 @@
       "also_on": [],
       "image": null,
       "created_at": "2026-11-25T13:40:32.173Z"
-    },
-    {
-      "id": "836b14a29aad",
-      "category": "release",
-      "tldr": "Dirt Dash, Namco's arcade racer, is getting its first ever home release via Arcade Archives.",
-      "why_it_matters": "Fans of arcade racing can add this to their wishlist. Platforms, price and release date are still unknown from this report.",
-      "relevance": 3,
-      "confidence": "high",
-      "game_name": "Dirt Dash",
-      "source": {
-        "outlet": "VGC",
-        "url": "https://www.videogameschronicle.com/news/dirt-dash-namcos-arcade-rival-to-sega-rally-is-getting-a-home-release-for-the-first-time-ever/",
-        "published_at": "2026-11-25T11:13:59.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-25T13:40:39.191Z"
     }
   ]
 }

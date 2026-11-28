@@ -1073,5 +1073,14 @@
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4078190/3494aeccdf81b2336c5ce5d592890d7c5afc15c8/header.jpg?t=1795781459",
       "url": "https://store.steampowered.com/app/4078190/"
     }
+  },
+  "warframe": {
+    "at": "2026-11-28T10:07:09.717Z",
+    "match": {
+      "appid": 230410,
+      "name": "Warframe",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230410/1a3e7c2a05ce4e5cad5ac4c7e858cf5b0934704e/header.jpg?t=1794847104",
+      "url": "https://store.steampowered.com/app/230410/"
+    }
   }
 }
