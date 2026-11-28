@@ -1,7 +1,49 @@
 {
-  "generated_at": "2026-11-27T22:12:46.058Z",
+  "generated_at": "2026-11-28T01:34:30.746Z",
   "version": 1,
   "cards": [
+    {
+      "id": "59992b622cec",
+      "category": "release",
+      "tldr": "Yooka-Laylee and the Impossible Lair: Definitive Edition arrives as a free update on December 15th, skipping Xbox.",
+      "why_it_matters": "Owners on PlayStation 5, Switch 2 and PC can get the upgrade for free. Xbox players have no timeline, as the developer cannot commit to more platforms.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "Yooka-Laylee and the Impossible Lair",
+      "source": {
+        "outlet": "The Verge",
+        "url": "https://www.theverge.com/games/1044715/yooka-laylees-free-upgrade-is-skipping-xbox",
+        "published_at": "2026-11-27T23:30:32.000Z"
+      },
+      "also_on": [],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/846870/header.jpg?t=1777472370",
+        "steam_appid": 846870,
+        "steam_url": "https://store.steampowered.com/app/846870/"
+      },
+      "created_at": "2026-11-28T01:34:22.937Z"
+    },
+    {
+      "id": "c5cd2db88365",
+      "category": "industry",
+      "tldr": "Skate will end its season pass system, with its fifth season being the last under that model.",
+      "why_it_matters": "Players who buy or follow Skate's seasons should expect a change to regular, smaller content updates instead. Details on pricing and timing are still unknown.",
+      "relevance": 3,
+      "confidence": "high",
+      "game_name": "Skate",
+      "source": {
+        "outlet": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/sports/skate-is-dropping-seasons-and-season-passes-in-favor-of-regular-agile-content-updates/",
+        "published_at": "2026-11-27T22:13:12.000Z"
+      },
+      "also_on": [],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3354750/79c5a87b61a396cc6e6b69e3a083727f175dea83/header.jpg?t=1788891347",
+        "steam_appid": 3354750,
+        "steam_url": "https://store.steampowered.com/app/3354750/"
+      },
+      "created_at": "2026-11-28T01:34:29.240Z"
+    },
     {
       "id": "4efffa2eb800",
       "category": "release",
@@ -1147,44 +1189,6 @@
         "steam_url": "https://store.steampowered.com/app/590830/"
       },
       "created_at": "2026-11-25T13:40:40.249Z"
-    },
-    {
-      "id": "a4c251202699",
-      "category": "release",
-      "tldr": "Mario Kart World receives a free update adding eight new tracks and saving players' most recent replays.",
-      "why_it_matters": "Players who already own the game get eight new tracks at no extra cost, so it is worth checking for Version 1.9.0 and trying the new courses.",
-      "relevance": 3,
-      "confidence": "high",
-      "game_name": "Mario Kart World",
-      "source": {
-        "outlet": "VGC",
-        "url": "https://www.videogameschronicle.com/news/mario-kart-world-gets-a-new-free-update-adding-eight-new-tracks-and-other-features/",
-        "published_at": "2026-11-25T10:23:39.000Z"
-      },
-      "also_on": [],
-      "image": null,
-      "created_at": "2026-11-25T10:25:03.852Z"
-    },
-    {
-      "id": "21b92a81ea4b",
-      "category": "release",
-      "tldr": "Showa American Story, an action-RPG, has been delayed to 28th October 2027.",
-      "why_it_matters": "Players wanting this action-RPG should now expect a wait into late 2027, with the developer aiming for a more polished launch.",
-      "relevance": 4,
-      "confidence": "high",
-      "game_name": "Showa American Story",
-      "source": {
-        "outlet": "Eurogamer",
-        "url": "https://www.eurogamer.net/showa-american-story-delay-2027",
-        "published_at": "2026-11-25T10:11:20.000Z"
-      },
-      "also_on": [],
-      "image": {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687540/ce4d0d62bcc4d558977f34685bb52e65f788a3f0/header.jpg?t=1795464697",
-        "steam_appid": 1687540,
-        "steam_url": "https://store.steampowered.com/app/1687540/"
-      },
-      "created_at": "2026-11-25T10:25:05.344Z"
     }
   ]
 }
