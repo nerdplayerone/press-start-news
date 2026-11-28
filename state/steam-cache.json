@@ -1086,5 +1086,14 @@
   "doom 4": {
     "at": "2026-11-28T13:19:28.530Z",
     "match": null
+  },
+  "last flag": {
+    "at": "2026-11-28T16:02:13.697Z",
+    "match": {
+      "appid": 2721340,
+      "name": "Last Flag",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2721340/781fa029773e4e21dd851bfcb2088745212db4d6/header.jpg?t=1783701237",
+      "url": "https://store.steampowered.com/app/2721340/"
+    }
   }
 }

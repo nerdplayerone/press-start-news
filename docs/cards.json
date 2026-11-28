@@ -1,7 +1,28 @@
 {
-  "generated_at": "2026-11-28T13:19:28.535Z",
+  "generated_at": "2026-11-28T16:02:13.703Z",
   "version": 1,
   "cards": [
+    {
+      "id": "529376f77f5a",
+      "category": "release",
+      "tldr": "PC Gamer argues that Last Flag, a team-based capture-the-flag shooter, is one of 2026's most innovative shooters.",
+      "why_it_matters": "Players who enjoy team shooters may want to check Last Flag out, though the article calls it imperfect and gives no detail on its mechanics here.",
+      "relevance": 3,
+      "confidence": "low",
+      "game_name": "Last Flag",
+      "source": {
+        "outlet": "PC Gamer",
+        "url": "https://www.pcgamer.com/games/third-person-shooter/the-imagine-dragons-capture-the-flag-game-last-flag-is-one-of-the-most-innovative-shooters-of-2026-and-deserved-better/",
+        "published_at": "2026-11-28T15:00:00.000Z"
+      },
+      "also_on": [],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2721340/781fa029773e4e21dd851bfcb2088745212db4d6/header.jpg?t=1783701237",
+        "steam_appid": 2721340,
+        "steam_url": "https://store.steampowered.com/app/2721340/"
+      },
+      "created_at": "2026-11-28T16:02:02.977Z"
+    },
     {
       "id": "8a0dfe1cb676",
       "category": "industry",
@@ -1172,27 +1193,6 @@
       "also_on": [],
       "image": null,
       "created_at": "2026-11-25T13:40:20.850Z"
-    },
-    {
-      "id": "b43bd61a6e37",
-      "category": "release",
-      "tldr": "Capcom's dinosaur shooter Exoprimal will lose its online services in late September 2027.",
-      "why_it_matters": "The game will become unplayable once servers close, and it will be delisted from stores in March. Players who want it should buy or play before those dates.",
-      "relevance": 3,
-      "confidence": "high",
-      "game_name": "Exoprimal",
-      "source": {
-        "outlet": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/capcom-dinosaur-shooter-exoprimals-servers-will-go-extinct-next-year-as-shutdown-meteor-looms",
-        "published_at": "2026-11-25T12:30:00.000Z"
-      },
-      "also_on": [],
-      "image": {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286320/header.jpg?t=1795568630",
-        "steam_appid": 1286320,
-        "steam_url": "https://store.steampowered.com/app/1286320/"
-      },
-      "created_at": "2026-11-25T13:40:29.623Z"
     }
   ]
 }
