@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T01:34:30.746Z",
+  "generated_at": "2026-11-28T04:15:34.146Z",
   "version": 1,
   "cards": [
     {
@@ -275,6 +275,27 @@
         "steam_url": "https://store.steampowered.com/app/552500/"
       },
       "created_at": "2026-11-27T13:35:10.621Z"
+    },
+    {
+      "id": "162325a40f4c",
+      "category": "release",
+      "tldr": "The Streamer's Alt Account Labyrinth launches on PC on January 29, 2027, with a Switch version coming later.",
+      "why_it_matters": "A dungeon RPG and visual novel hybrid with a set PC date, so PC players can plan around January 2027. No Switch date is given yet.",
+      "relevance": 3,
+      "confidence": "low",
+      "game_name": "The Streamer's Alt Account Labyrinth",
+      "source": {
+        "outlet": "Gematsu",
+        "url": "https://www.gematsu.com/2026/11/the-streamers-alt-account-labyrinth-launches-january-29-2027-for-pc-later-for-switch",
+        "published_at": "2026-11-27T12:15:42.000Z"
+      },
+      "also_on": [],
+      "image": {
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4078190/3494aeccdf81b2336c5ce5d592890d7c5afc15c8/header.jpg?t=1795781459",
+        "steam_appid": 4078190,
+        "steam_url": "https://store.steampowered.com/app/4078190/"
+      },
+      "created_at": "2026-11-28T04:15:29.979Z"
     },
     {
       "id": "b13683e199e8",
@@ -1168,27 +1189,6 @@
       "also_on": [],
       "image": null,
       "created_at": "2026-11-25T13:40:39.191Z"
-    },
-    {
-      "id": "9dd3ef2d4631",
-      "category": "release",
-      "tldr": "S&box, Facepunch's Garry's Mod spiritual successor, has a revamped sandbox mode and a return of workshop addons.",
-      "why_it_matters": "Sandbox fans wanting a modern Garry's Mod alternative may find it worth a fresh look. Its free-to-play shift and pricing details are still unknown.",
-      "relevance": 3,
-      "confidence": "high",
-      "game_name": "S&box",
-      "source": {
-        "outlet": "Rock Paper Shotgun",
-        "url": "https://www.rockpapershotgun.com/delivering-a-more-modern-garrys-mod-is-the-goal-of-spiritual-successor-sboxs-revamped-sandbox-mode-as-classic-gmods-workshop-addon-system-returns",
-        "published_at": "2026-11-25T11:10:00.000Z"
-      },
-      "also_on": [],
-      "image": {
-        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/590830/0f64b7e4f9628fdcff7e1f86696d08b9d280de5e/header.jpg?t=1791282405",
-        "steam_appid": 590830,
-        "steam_url": "https://store.steampowered.com/app/590830/"
-      },
-      "created_at": "2026-11-25T13:40:40.249Z"
     }
   ]
 }
